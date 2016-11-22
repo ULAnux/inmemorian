@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<cesHeader type="oral" date="2012">
+<fileDesc>
+<fileGrp ID="Telares y Tejido">
+<file ID="AT12MX01027" MIMETYPE="audio/wav" SIZE="23372844" CREATED="2013-09-29" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:12:10 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="06">
+<name type="entrevistador" id="E1"> entrevistador no identificado </name>
+<name type="entrevistador" id="E2"> entrevistador no identificado </name>
+<name type="entrevistador" id="E3"> entrevistador no identificado </name>
+<name type="entrevistador" id="E4"> entrevistador no identificado </name>
+<name type="informante" id="I1"> Catalina Aldana de Parra </name>
+<name type="informante" id="I2"> informante no identificado </name>
+</group> 
+</cesHeader>
+
+
+<u valor="E1" > ¿Cuál es su nombre?</u>
+
+<u valor="I1" > Catalina Aldana de Parra</u>
+
+<u valor="E1" > Ok. Y, ¿en qué fecha nació? </u>
+
+<u valor="I1" > Nací el, el veinticuatro de noviembre en el año cuarenta y dos</u> 
+<u valor="E1" > Ok. ¿Aquí en Mixteque o dónde? </u>
+
+<u valor="I1" > En San Rafael?</u> <u valor="E1" > En San Rafael de Muccuchíes. Y ¿Qué edad tiene?</u>
+
+<u valor="I1" > Este <b>orita</b> tengo sesenta y nueve. Los cumplí <b>oritica</b> </u>
+
+<u valor="E1" > Ok Y ¿a qué edad usted empezó a tejer?</u>
+<u valor="I1" > Ay, yo empecé a tejer como de, aprender pues, tendría yo como quince años </u>
+
+<u valor="E1" > Ok. Y ¿quién la enseñó?</u>
+
+<u valor="I1" > Mi suegra, la mamá del esposo mío </u>
+<u valor="E1" > Y ¿Cuál era el interés por ejemplo en su familia? Por qué quería usted aprender </u>
+
+<u valor="I1" > Porque, a mi me gustaba, y hasta ahorita pues, como ya no puedo hacer más nada, no puedo andar <b>poallá</b> como andaba, pues ahorita me ha puesto a tejer, bufandas, y eso </u>
+
+<u valor="E2" > ¿<b>Orita</b> está tejiendo más que antes, o antes también tejía bastante? </u>
+
+<u valor="I1" > No, antes tejía más porque teníamos, podía yo hacer todas las cosas. Yo podía, yo podía criar la oveja, yo podía, este, <b>tusala</b>, eh lavar la lana, <b>escarmenla, hilala y tejela</b> hacía todo. <overlap valor="E1" > ¿Y ahora?</overlap> <b>Ora</b> no, ahora no hago eso y entonce yo compro lana, compro lanilla de esa, me pongo a tejer </u>
+
+<u valor="E1" > Y ¿dónde compra?</u>
+
+<u valor="I1" > En el pueblo, ahí. Ajá, porque yo no me ha puesto en contacto por ahí quién arregla la lana, ha echo la deligencia pero no, nadie me dice </u>
+
+<u valor="E2" > A pero, ¿utiliza nada más lanilla de esa acrílica, de esa sintética ? <overlap valor="I1" > Lanilla sí </overlap> <overlap valor="E1" > ¿Y se compra el rollo? </overlap> <overlap valor="I1" > Sí</overlap> </u>
+
+<u valor="E1" > Ok. Y por ejemplo, usted teje a mano, dijo que bufandas y qué otra cosa?</u> 
+<u valor="I1" > Tejo guantes, tejo, este, suéteres, este, tejo gorros de aquellas que tienen <inintel>...</inintel> ajá, y medias, eso </u>
+
+<u valor="E1" > Y ¿cobijas nunca hizo? <overlap valor="I1" > No</overlap> Ni cuando estaba joven <overlap valor="I1" > No</overlap> <overlap valor="E2" > Y ¿tapeticos, cosas así? </overlap> <overlap valor="I1" > Tampo, también </overlap> ¿Y la trenza, la sabe hacer? <overlap valor="I1" > No</overlap> Ok <overlap valor="I1" > La trenza que le ponen a las cobijas </overlap> Ajá, y usted teje a mano ¿no? <overlap valor="I1" > A mano. No le digo que no he conocí, no he <b>conocío pue</b> los telarres </overlap> </u> 
+
+<u valor="E2" > ¿Usted aprendió eh, con una aguja, con dos agujas o con ambas?</u> 
+
+<u valor="I1" > Aprendí con una sola aguja y aprendí con cinco que se tejen las medias pero yo uso cuatro, y aprendí a tejer con dos agujas</u>  
+
+<u valor="E2" > Ok, pero primero empezó con ¿cuál? </u> 
+
+<u valor="I1" > Con las cinco <comentario valor="Se dirige a tercero"> Habla con una tercer persona</comentario> Este, aprendí con las cinco pero yo uso, no pude con las cinco sino que usé siempre las cuatro <overlap valor="E1" >  Ok. Eso es <b>pa</b> las medias</overlap> para las medias, para los guantes es igual. Ahora <b>pa</b> los suéteres si es, son dos, dos agujas, y, y <b>pa</b> las bifandas pues con dos agujas y con una sola </u>
+
+<u valor="E1" > Ajá, y usted pues hilaba y dijo que antes sí hacía todo</u> 
+
+<u valor="I1" > Sí, hacía todo eso, lavaba la la, pue, criaba la oveja, <b>chiquirritica</b>  <overlap valor="E2" > y esa la, la conseguían...</overlap> Ah, en la, en <b>láguila</b> que, que había un muchacho hijo mío que trabajaba allá y como allá siempre, tenía siempre un montón de ovejas, parió una oveja y se murió la oveja, y él la agarró la <b>chirriquitica chirriquitica</b> y él le metió tetero y después me la trajo <b>pa</b> acá como de unos cinco días, me la trajo y yo la crié, huy, se formó una <b>bichotota</b>, la ordeñaba cuando parió y hacía quesos <overlap valor="E1" > ¿También hacía quesos?</overlap> Mjum, de la, de la leche de la oveja. Ajá la <b> tusaba</b> , le lavaba la lana, ¡la lavada sí es macha también! lo mismo que la, eh, todo eso es fuerte  <overlap valor="E1" > ¿Con agua caliente?</overlap> Ajá, todo eso es fuerte, ya la, ya la, la tejer no porque se pone uno a tejer y listo, pero eso de la <b>lava </b> la lana, <b>tusala</b> tenía uno que <b>fajala poallí</b> en una, tenía una <b>partecita</b> done la ponía <b>pa</b> tusalas </u> 
+
+<u valor="E1" > Y ¿nunca les sacó crías a esas </u>
+
+<u valor="I1" > Sí, pues no le digo que ella parió y se le, el <b>ubrote</b> era grande y, ajá, y crié unas poquitas, no me gustaba tener muchas tampoco porque no, hasta las últimas no hace mucho que las</u>   
+
+<u valor="E2" > Ok. Pero, ¿antes que le dieran esa chivita, ya también criaba o no?</u> 
+
+<u valor="I1" > Sí, cuando yo tenía como unos séis, siete años, yo me crié arriba en el páramo,  de aquellos chinitos que <b>dicían regáleme medio, regáleme medio</b> en la carretera, ajá, ajunté cinco bolívares y compré una <b>chivita</b>, a un tío mío, al mamá, al papá de la muchacha que vive conmigo, me compré una <b>chivita</b>, cinco bolívares, estaba yo en, me acuerdo yo que estaba yo, me mandaban a clase, y muy resabiada la <b>chivita</b> se ponía a bramar cuando yo me iba, y yo llegaba y me la agarraba y me la iba <b>poallá</b> a dale que comiera, por la carretera siempre, siempre por la carretera, yo me crié en la carretera, ajá, pidiendo plata. Me regalaban ropa, me regalaban comida, me regalaban plata y, todo así. Ajá y entonce un día bajaba yo de arriba, ya estaba cansada con la oveja, ya estaba grande, eso no valía nada antes, me dieron diez bolívares, eso un carro me dio diez bolívares por la chiva, yo los <b>recebí</b> y de ahí si no supe qué hice los diez bolívares <comentario valor="risas"> [risas] </comentario> Ajá</u>
+
+<u valor="E1" > Ok. Y usted nunca tiñó la lana, no la pintó nunca?</u>
+
+<u valor="I1" > Ah, ah, eso sí no lo hice</u>
+
+<u valor="E2" > Pero, usted aprendió a, a <b>tusar</b>, a preparar la lana mucho antes de aprender a tejer</u>    
+<u valor="I1" > No, yo primero aprendí a tejer con mi suegra, yo, como yo me casé de quince años, y me puse a vivir con ell, aquí, <b>poaquí</b> en una casa de esas viejas que hay ahí,ahí me estuve yo y la señora la, mi suegra, ella cosía, ella hacía todas esas cosas. lo que no la vi <b>jue</b> yo, lo que no la vi <b>jue</b>, este, <b>tusando</b> la oveja pero lavando la lana sí, este, arreglándola sí, tejiéndola. Ella cosía de día y de noche arreglaba la lana así y la otra noche se ponía a tejer. Era que era <b>apretao, muy apretao</b> antes. y ella comía <b>chimó</b>, dígame, <b>pa</b> comprar la <b>bobotico e chimó</b> ella tenía que hacer esas cositas, ajá de vaina no aprendí yo a comer <b>chimó</b> eso sí no </u>  
+
+<u valor="E1" > Entonce, a ver, el, cuando usted dice que antes la cosa era apretada, osea usted tejía como <b>pa</b> tener un ingreso de dinero <overlap valor="I1" > Ajá. Yo el primer par de medias, aprendiéndola a hacer, me dieron tres bolívares</overlap> Osea que era así como, como un trabajo pues <overlap valor="I1" > Eso, eso. Uno hacía aquellas cosas <b>pa</b> comprar las <b>cositas</b> que uno necesitaba ¿ve? </overlap> Y ¿usted nunca hizo ningún estudio? fue así, usted aprendió con su suegra y ya <overlap valor="I1" > ¡Claro! Y yo no tengo, porque yo tengo una hermana ¿no? Y yo veo que ella agarra un, una, y ella no sabe leer es lo más, y yo me, pero tiene, tiene la idea ¿ve? Ella ve un, cómo le digo, un tejido así, y ¡ella lo saca de ahí!, Yo no puedo. Yo aprendo porque, si quiero hacer algún punto yo le digo a otra. <b>Orita, orita</b> se fue una mujer de aquí, hermana de Vicenta, que la llamé pa que me enseñara un punto que yo lo quiero hacer, en la bufanda, me lo enseño pero no lo ha <b>practicao</b> porque estaba haciendo otra cosa</overlap> Ok. Entonce usted todavía sigue aprendiendo puntos nuevos <overlap valor="I1" > ¡Claro! Sí, yo me, me, me, me nace todavía </overlap> Se actualiza <overlap valor="I1" > Ajá</overlap> Entonces, y, estaría interesada en participar en la exposición <overlap valor="I1" > Pero yo a ir no, casi no me gusta. Yo le puedo dar a Vicenta lo que yo tengo ahí <b>pa</b> que lo exhiba allá, las bufandas que yo tengo ahí, porque tengo puras bufandas, no les garantizo más nada, porque ya a la edad mía, ya no, ya me da pereza, me paro y voy y me acuesto. Pero yo <b>jui</b> una mujer de las que <paraverb valor="alarg"><b>ala</b></paraverb>, tenía, llegué a tener hasta, nueve vacas, y las <b>lidiaba poquí</b> por la carretera pero <b>orita</b> se puso muy <b>apretao</b> eso, me dejaron con dos</overlap> Y todavía, ¿quién las atiende?</u>
+
+<u valor="I1" > La ordeña un, un nieto. Porque conmigo vive el muchacho ese que la mandó a pasar con la señora y tres hijos. Una hija y dos hijos. Uno de los hijos agarró a trabajar en el, a arar y a eso. Ese es el que le gusta venir a ordeñar, y ordeña, se levanta y ordeña y  después nos queda a nosotros ya lo de ir a buscar las vacas y <b>dales</b> comida y <b>quitales</b> los becerros. Pero tampoco soy capaz de <b>bajame</b> de aquí de la carretera <b>pa</b> abajo, no, porque de golpe me caigo. Y entonje, ella, ella es la que vive aqui conmigo y ella es la que <overlap valor="E1" >  Que le ayuda</overlap> Ella. Yo ya no sirvo casi <b>pa</b> nada, <b>pa</b> dar guerra le digo yo</u>  
+
+<u valor="E2" > Una pregunta. Este y, y siente que, que hay,  tiene alguna dificultad adicional en cuanto al tejido, de, de aprender o <overlap valor="I1" > ¿Como por ejemplo? </overlap> Este, por lo, eh, por lo menos eso que usted decía que a veces, este, acude a otras personas <b>pa</b> que le enseñen un punto </u>  
+
+<u valor="I1" > Sí, porque, porque yo algunos puntos no los sé, entonce yo le pido el favor a ella que ya lo hizo. Y yo al mirarla hacer eso yo aprendo. No es como la hermana mía que, ella ve los tejidos, o ve un tejido así, lo, lo, lo, lo mira así y se pone a tejer lo hace. Yo no </u> 
+
+<u valor="E1" > Y ¿usted todo lo que hace lo vende?</u>
+
+<u valor="I1" > No. No todo. No todo. Pero sí vendo algo <overlap valor="E2" > Eso ¿es por encargo? que hace, eso que hace ¿es por encargo? </overlap> ¿Los tejidos? No esos los hago por, por no estarme ociosa entiende,  un por diversión mía. Después si alguien llega  y me compra una, una <b>cosita</b> de las que yo hago se la vendo</u>
+
+<u valor="E2" > Y ¿cómo cree que podría también mejorar este, eh, esas, esos productos tejidos pues que usted hace, por ejemplo, lo que usted me decía de que, eh, que no consigue lana, lana pues</u>    
+
+<u valor="I1" > Ajá, porque, como yo tengo lana, que no sé a cómo estará porque hace tiempo que tengo un <b>cuartico</b> aquí, una <b>ramaita</b>, así como ver allá, <b>entonje</b> yo, yo metía los sacos de lana allá, ahí deben de haber sacos de lana, sucia, ¿ve?</u>  
+
+<u valor="E1" > Y ¿a usted le gustaría, cambiar, de hilo a tejer otra vez con lana?<overlap valor="I1" > ¡Claro! Tengo por ahí un rollo e lana pero no me gusta porque es lana que yo tengo, hilada ya que el esposo mío la <b>viera mandao</b> a hilar que por cierto la hiló la mamá de ella, la mamá de la <b>muchachita</b>, la hiló, pero es una lana de hacer cobijas que no es igual a la lana de, a la de uno tejer así a mano. Esa lana es más gruesa. Y por cierto, me puse a hacer unas medias y como que no me gustaron, ¿se la muestro? </overlap> Bueno, <overlap valor="I1" > la tengo <b>poquí</b> a la mano </overlap> </u> 
+
+<versiones>
+Nombre Archivo	Usuario	Fecha	        Acción	  Comentario
+AT12MX01027	Yurmari	2013-09-29	Marcado	  Completo y revisado con editor XML
+</versiones>
+
+</doc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

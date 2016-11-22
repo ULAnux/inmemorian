@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LP02035" MIMETYPE="audio/wav" SIZE="737610 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:01:32 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Elda Rosa Santiago. Señora de 56 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" > ¿Qué animales puede encontrarse uno en este lugar?  <overlap valor="I1" > ¿Ahorita? </overlap> Mjum </u>
+<u valor="I1" > Gallinas, más nada </u>
+<u valor="E" > ¿Y antes?  </u>
+<u valor="I1" > Antes sí <b>habían</b> vacas, cabros, burros,caballos </u>
+<u valor="E" > Y ya no se ven hoy día </u>
+<u valor="I1" > No </u>
+<u valor="E" > Okey. Y ¿qué animales usan para trabajar o usaban ? </u>
+<u valor="I1" > Los bueyes. la yunta de bueyes  </u>
+<def typ="1"> <u valor="E" > Los bueyes. la yunta, ¿qué es la <defdum>yunta</defdum>? </u>
+<u valor="I1" > <defcopvb lemma ="Ser" pos ="VAIP3P0">Son</defcopvb> <rdefiniens file="yunta_bueyes.jpg" source="http://fotografiaslevidemilio.blogspot.com/">dos bueyes, hacen la yunta y aran la tierra</rdefiniens>  </u></def>
+<u valor="E" > Mjum. ¿Y qué tipo de planta se puede conseguir uno aquí? </u>
+<u valor="I1" > Lechuga, zanahoria, repollo </u>
+<u valor="E" > Y ¿cuáles se usan como medicina? </u>
+<u valor="I1" > <paraverb valor="inhal"> este</paraverb> la hierba buena, la verbena, toronjil, y eneldo, manzanilla  </u>
+<u valor="E" > ¿ Y la mayoría de ellas se utilizan para qué tipo de enfermedades ? </u>
+<u valor="I1" > <b>Pa</b> la gripe, <b>pa</b> resfriado y...</u>
+<def typ="1"> <u valor="E" > Y hay alguna <ldefiniens file="barbasco.jpg" source="https://es.wikipedia.org/wiki/Archivo:Barbasco_04.JPG">planta venenosa</ldefiniens> acá? </u>
+<u valor="I1" > El <defdum><b>barbasco</b></defdum> </u>
+<u valor="E" > ¿El? </u>
+<u valor="I1" > <b>Barbasco</b> </u>
+<u valor="E" > El <b>barbasco</b> Okey. Y ¿qué efectos produce? </u>
+<u valor="I1" > <b> Quesque</b> <defop valor="dos puntos">:</defop> <rdefiniens file="barbasco.jpg" source="https://es.wikipedia.org/wiki/Archivo:Barbasco_04.JPG"> causa una intoxicación, envenenamiento </rdefiniens> </u>
+<u valor="I1" > Mjum. ¿Y ha habido algún caso?, ¿se ha dado algún caso? </u>
+<u valor="I1" > hace mucho tiempo atrás, ya hace varios años atrás  </u></def>
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LP02035- yurmari-	2014-04-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

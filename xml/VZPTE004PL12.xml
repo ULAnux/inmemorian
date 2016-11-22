@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE004PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="680843264 " CREATED="2015-08-21" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:12:58 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:12:58 </extNote>
+<extNote id="NumeroInterlocutores">06</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="06">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Nomberra </name>
+<name type="Informante" id="I2"> Edgar Santiago </name>
+<name type="Informante" id="I3"> Zedny Barrios </name>
+<name type="Informante" id="I4"> Rosa Elvira Contreras </name>
+<name type="Informante" id="I5"> José Eduardo Zerpa </name>
+<name type="Informante" id="I6"> Estela  </name>
+
+
+</group>
+</cesHeader>
+
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Eh Nomberra, me apodan Nomberra. Ajá, <def typ = "1">  <b>chiriz</b> <defop valor= "dos puntos">: </defop> <rdefiniens>entiendo yo mujer <b>chirizona</b> que ya que el pelo <b>esmechao</b> y que andaba como un <b>chiriz</b> decían </rdefiniens></def>.</u> 
+<u valor="I2" > Bueno mi nombre es Edgar Santiago para el programa Déjame Pensarlo y la palabra <b>chiriz</b> .no tengo idea, no sé qué es, no sé, no me pasa nada por la mente.. </u>  
+<u valor="I3" > Hola buenas tardes este para este mi nombre es Zedny Barrios ... </u>  
+<u valor="I4" > Y el mío Rosa Elvira Contreras... </u>  
+<u valor="I3" > .Y hoy para el programa .Déjame Pensarlo hoy vamos a saber la palabra qué es <b>chiriz</b>.¿qué es <b>chiriz</b>?  </u>  
+<u valor="I4" > No, no sé... </u>  
+<u valor="I3" > Bueno, ahora en el programa a las siete en punto de la noche vamos a ver que vamos a saber qué es la palabra <b>chiriz</b>... </u>  
+<u valor="I4" > En el Canal 3 </u>  
+<u valor="I5" > Buenas tardes a la comunidad de Pueblo Llano, mi nombre es José Eduardo Zerpa de la Brigada de Seguridad Ciudadana. Estoy aquí con, me están entrevistando Déjame Pensarlo y lo estoy pensando <comentario valor="risas" > [risas] </comentario> La palabra <def typ = "1">   <b>chiriz</b>.yo creo que por lo como suena creo que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <redfiniens>una persona cuando tiene los pelos <b>paraos</b> </redfiniens></def> </u>  
+<u valor="I1" > .<def typ = "1"> <b>le mudaron el ovejo </b> Bueno eso ya <defcopvb lemma="ser" pos="VAII3S0"> era </defcopvb> <rdefiniens> eh cambiar la mujer de novio o que buscara otro, entendíanos en ese tiempo pue.</rdefiniens> </def>. </u>  
+<u valor="I2" > Este la otra palabra<def typ = "1"> <b>me mudaron el ovejo </b> creo yo que puede <defcopvb lemma="ser" pos="VAN0000"> ser </defcopvb> <rdefiniens> este que una persona cuando esté comprometida le <b>haigan montao</b> los cachos con otro pue eso es lo que creo yo que es</rdefiniens> </def> </u>  
+<u valor="I3" > .Ahora vamos con la segunda palabra <b>le mudaron el ovejo </b>.¿tu sabes qué es el ovejo?. </u>  
+<u valor="I4" > Nada ... </u>  
+<u valor="I3" > Ah bueno ahora vamos a saber cuál es la segunda palabra. </u>  
+<u valor="I5" >Yo creo que la palabra .<b>le mudaron el ovejo </b> es cuando la mujer va pa la peluquería creo, digo yo no sé.. </u>  
+<u valor="I1" > <def typ = "1"> <b>Garretes</b> <defop valor= "dos puntos">: </defop> <rdefiniens> decíamos la mujer que era seca de las <b>corvas</b>.eso no tenía piernas pa nada chamo </rdefiniens></def>.<comentario valor="risas" > [risas] </comentario> </u>  
+<u valor="I2" > Y la otra palabra es <b>garretes</b>.esa tampoco tengo idea qué significa esa palabra, no sé no me suena a nada. Debe ser algo del cuerpo humano no sé, algo así.  </u>  
+<u valor="I3" > Bueno vamos por la tercera palabra que es <b>garretes </b>.No sé qué es garretes. Bueno ahora también vamos a saber cuál es el significado de las tres palabras. .. </u>  
+<u valor="I4" > <def typ = "1">  La palabra <b>garretes</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <redfiniens> cuando la señora o la abuelita en aquellos tiempos que decía  <kinesic valor="se toca las piernas"> .¡ay me duelen los garretes! </kinesic> .</redfiniens></def>.. </u>  
+<u valor="I3" > Bueno nosotros somos los estudiantes del Liceo Dr. Mariano Picón Salas y lo invitamos a ver Pueblo Llano T.V por el Canal 3.  </u>  
+<u valor="E" > Bueno esta fue la entrega, la séptima entrega de Se Habla Pueblo Llanero. ¿Cómo te parece esta oportunidad Estela de que las personas manifiestan esas palabras que utilizábanos anteriormente?, ya nos vas a responder lo que son estas palabras, la primera de ellas es <b>chiriz</b> pero ¿qué te parece a tí este segmento de este programa? donde todo el mundo tiene la oprtunidad de decir por ejemplo esta <b>chiriz</b> , ¿qué es para ti <b>chiriz</b> ?.. </u>  
+<u valor="I6" > Bueno para mi <def typ = "1">  <b>chiriz</b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <redfiniens>  <b>mechuda, chirizona, </b> </redfiniens></def> y hay una muchacha que tiene una discapacidad que se llama Zenaida del Fraile que cuando ella me ve por la calle, ¡<b>chirizona! </b> ! entonce eso es como <b>mechuda</b>. </u>  
+<u valor="E" > Bue ese es el origen esa es la tendencia de lo que es este segmento que es que esas palabras que ya no estamos usando que sin embargo para muchos nosotros ya de una edad pue  significan alo, lo que no queremos es que ya las personas olviden esas palabras y las tengamos ahí latentes en nuestr vocabulario.La otra palabra, <b>se mudaron el ovejo</b> .<b>le mudaron el ovejo </b> .¿Qué es para tí eso?. </u>  
+<u valor="I6" > Este bueno, para mi eso sería como este las personas que cambian a la esposa por otra  o al esposo por otro porque le cambiaron el ovejo debe ser eso no </u>  
+<u valor="E" ><b>le mudaron el ovejo </b> Y la última es <b>garretes</b> <b>garretes </b>.¿Qué es para tí?.. </u>  
+<u valor="I6" > <def typ = "1"> Eh <b>garretes </b> <defop valor= "dos puntos">: </defop> <rdefiniens> me acuerdo mucho de eh una vecina que yo tenía por ahí por la Calle Miranda eh se llamaba la señora Agueda, ella se sentaba a limpiar unas <b>papitas chiquiticas</b> y cuando se paraba ¡ay me dulen los <b>garretes</b>! </rdefiniens></def>.</u>  
+<u valor="E" > Bueno ahí sí coincidieron con tantos de los amigos que participaron hoy en el programa. También Estela no sé si tienes alguna otra anécdota que contar, ya estamos en la recta final de lo que es nuestro programa y bueno ¿cómo te has sentido en el programa, cómo te ha parecido? </u>  
+<u valor="I6" > Este bueno .una de las anécdotas me acuerdo que nojtros estábamos empezando que los hijos de nojotros ya estaban creciendo y éranos lo que los bastines de nojotros en aquella época cuando teníamos doce trece catorce años, yo le digo a Coromoto Salcedo, Coromoto están dictando un curso de orientación y movilidad en Barinas en losPzonoes, entonces dice ella <invcomm> pero cómo hacemos pa ir </invcomm>, entonce yo le dije no hombre vamos vamos amo pa la plaza y la niña de ella que tenía como seis años, Lorexi, vamos y nos dice cuántos pasos hay de aquí a la esquina pa nosotros contalos en la mañana cuando nos íbamos a ir en el bus,y llegamos y contamos los pasos ueno del día que íbamos a ir a las séis de la mañana, cuando me dicen, ontamos los pasos desde la esquina hasta llega hasta donde el señor Chui Quintero, pero quién iba a imaginar que a las diez once de la noche donde el señor Chui Quintro había descargado un camión de arena, cuando íbamos de aquí pa abajo yo no me imaginaba, entonce me dice Coromoto, y sin bastón y sin nada prorque no teníamos conocimieto de orientación y movilidad y que gracias a Noraima, pues fue una de las personas activas aquí en el municipio que nos llevó a este conocimiento de orientación y movilidad, entonces legamos a la plaza sin bastón, íbamos por ahí y entonc dijo <invcomm>  Estela cómo vamos  </invcomm> y le dije yo ¡calidad chama ya vamos a llegar a la plaza!  Cuando termino de decile así  nos subimos al montón de arena, cuando dijo ella <invcomm> Estela ¿qué pasó aquí? </invcomm>  Yo le dije, pues qué se sabe, y nos fuimos <b>abajando </b>.poco a poco de la arena  y ahí salimos a la parte de abajo y estaba la profesora Eleid abajo y dijo <invcomm> ¿Qué les pasó? Cuando Chui se pare y vea es revolcadero de arena, quién sería.  </invcomm>Cómo se iba a imaginar que éramos nosotros que bajamos a barinas a hacer el curso para tener conocimiento de orientación y movilidad. Eso llegamos llenitas de arena al autobus, caundo fue Coromoto a sacar la plata pa pagar el autobus eso no enontraba porque la cartera se le había llenao de arena    .. </u>  
+<u valor="E" > Pues claro, no tenían ese montón de arena la noche anterior, la tarde anterior ... </u>  
+<u valor="I6" > La noche anterior a las siete no había arena, entonc a las seis de la  mañana estaba uncamión de arena ahí, entonce eso es una anécdota que de verdad . </u>  
+<u valor="E" > Que ya con esta orientación que tienen de movilidad como tu dices no tendrían ese problema... </u>  
+<u valor="I6" > .No porque el bastón a medida que el bastón va picando el piso uno se va dando cuenta que por eso es que y les digo que .la parte sónica pa nosotros los discapaitados .es un problema grande Dios mío porque si uno va pisando y uno va escuchando el bastón, entonce si encontró una piedra el sonido no es igual del piso a la piedra, el sonido no es igual del piso a una concha de cambur verdad,  entoncs esos obstáculos uno los va esquivando con el bastón. </u>  
+<u valor="E" > Por supuesto porque tienen ya, ya están con el oido a tono paa estar ahí con toda esta circunstancia. Bueno estamos llegando ya al final, ¿cómo te ha parecido estar en el programa, cuál es tu experiencia ? ... </u>  
+<u valor="I6" > Bueno, este al principio con un poquito de nervios porque no es fácil, primera vez enfrentase a una cámara en donde uno pues .ree que nadie lo está viendo, como yo no veo pues nadie me ve, <comentario valor="risas" > [risas] </comentario>, pero de verdad no es fácil, este enfrentar y pue esta emisora  televisora es de gran importancia y es una base pal municipio y la gente que tiene la gran oportunidad de tener su vista buena pues puede ver en cuerpo imagen directamente a las persnas que aquí están eh relalizando algnuna actividad en beneficio de nuestro municipio Pueblo Llano.   .. </u>  
+<u valor="E" > .Si bueno Estela yo también quisiera eh ponerte a la órden lo que es la televisora, nosotros tenemos un sistemita que para hacer notificaciones rápidas al pie de lo que es el televisor van a aparecr unos textos allí para invitara a las reuniones a esa reuniones que tu haces ah que estás al frente ahí en la Alcaldía de la oficina técnica de ayudas algo así es que se llama </u>  
+<u valor="I6" > Esa se llama el banco de ayudas ténicas, allí pues es una oficina donde las personas con cualquier tipo de discapacidad este lleva su necesidad y como estamos conformando los comités comunitarios de personas con discapacidad  de difrents Consejos Comunales, este allí es más bonito porque se llega  directamente a las personas con discapacidad y es más fácil porque se va a solucionar en grupo en equipo, no solo, sino que gracias a nuestro gobierno del Comandante Hugo Rafael Chávez Frías, los Consejos Comunales son unos de los centros donde  el dinero o los beneficios van a llegar directamente al Consejo Comunal .y la idea es que todos los Consjos Comunales estén conformados con su comité para que así las personas con discapacidad sean tomadas en cuenta. En los diferents comités hay personas en sillas de rueda con necesidad de pañales, con necsidad de tratamiento, con necesidad de exámenes, entonces es la idea que de estar conformados el Consejo Comunal  tiene que darles un apoyo en cuanto a estas necesiddes que estos tengan, no hacer que las persons llegue a la Alcaldía sino diretamente van a hacr a los Consejos Comunales. </u>  
+<u valor="E" > .Así es entonces esa es la invitación a todas las personas de aquí de Pueblo Llano .en qu reflexionemos y tratemos de apoyar a todas estas personas de alguna manera. Bueno y entonces esto fue hoy la entrega de nuestro séptimo programa, gracias Estela por estar </u>  
+<u valor="I6" > Bueno lo felicito y adelante, mucho ánimo. ... </u>  
+<u valor="E" > ..Bueno, hasta aquí llegó el programa, les debemos la cantaita con Estela. Hasta luego, cuídense mucho </u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE004PL12- yurmari-	2015-08-21	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>
+
+
+
+
+
+
+

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2014">
+<fileDesc>
+<fileGrp ID="Telares y Tejidos">
+<file ID="AT14MS01063" MIMETYPE="audio/wav" SIZE="7213106 " CREATED="2015-01-28" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:29:20 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mucuchíes municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señora Margarita Mora de 79 años </name>
+</group>
+</cesHeader>
+
+
+
+<u valor="E" >Bueno, vamos a  empezar.  Hoy es 27 de noviembre, estamos en Moconoque, en la Escuela de Labores de  Moconoque con la Señora Margarita Mora. Señora margarita, ¿qué edad tiene usted? </u>  
+<u valor=" I1" > Yo tengo setenta y nueve cumplidos, ahora en febrero en febrero que viene cumplo los ochenta.  </u>  
+<u valor="E" > Ya. Y ¿usted es de  aquí de? </u>  
+<u valor="I1" >  Sí, yo soy de Mucuchíes, nativa de Mucuchíes, no nací eh la eh nacida no, nacida y criada en un campo que se llama Mitibigó que pertenece  a Mucuchíes  <overlap valor="E" > ¿Mitibigó? </overlap> Sí, después de Llano del Hato. </u>  
+<u valor="E" > Ah okey, es lejos </u>  
+<u valor="I1" >  Sí, y ya tengo ya tengo como treinta años de habeme venío pa Mucuchíes pero yo era de allá del campo. Allá fue onde yo conocí todos mis clientes de los tejidos, a Denis, a Doña Bárbara, a este Giné; yo les trabajé mucho a  ellos. Giné tiene una gran casarona allá en Mitibigó y yo le hice muebles, eh los tapices  de los muebles,  tejidos con lana y en el telar </u>  
+<u valor="E" > Ya. Usted es artesana, trabaja la lana </u>  
+<u valor="I1" > Sí </u>  
+<u valor="E" > ¿Todo? </u>  
+<u valor="I1" > Todo lo que es se puede decir de artesanía yo lo sé; trabajo la lana desde criar la oveja hasta vender la pieza, hago tra.. trabajo la yesca hago cosas para para los pesebres ovejitas, muñecos, lo que quiero hacer de la yesca; trabajo, no, trabajaba, ya ahora ya no lo hago pero lo hice, este la arcilla también la estuve trabajando, yo de arcilla conozco también. De costura, la misma cosa, todo eso yo lo sabía hacer. Eh de panadería, de eso todavía lo hago. Yo de artesanía sé de todo, menos la carpintería porque eso si no, a eso no me apliqué a la carpintería, pero yo de lo demás hecho a mano, yo lo sé </u>  
+<u valor="E" > Okey. Y con respecto al tejido, comienza,  eh ¿con qué comienza? En el caso del trabajo de la lana </u>  
+<u valor="I1" > Con, con con eh <def typ = "2"> con,<b>el trabajo de la lana</b> <defmetalvb lemma="comenzar" pos="VMIP1S0"> comienzo.. </defmetalvb> <rdefiniens>  con quitásela a la oveja, lavala con jabón y agua caliente, secala, este escarmenala, hilala hacer el hilo pa tejela, hacer lo que pueda quiera hacer: guantes, medias, gorros, suéteres y ruanas. tapices. Todo eso lo hago yo de la lana de ovejo  </rdefiniens>.</def> Por lo menos los las ruanas las hago en los telares. Aquel el telar grande es el mío el de tejer las  ruanas, el tapiz,   </u>  
+<u valor="E" > Ah okey, ya. Señora Margarita ¿qué es el <b>escarmenar</b>?  </u>  
+<u valor="I1" > <def typ = "1"> <b>Descarmenar </b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb>  <rdefiniens> cuando la lana está en así que se le quita al ovejo y se lava está en cadejo, está así <comentario valor="busca una muestra de cadejo"> se levanta y busca una muestra de cadejo</comentario> que está así mire, como la está haciendo la muchacha allá que la está lavando y  la está dejando  así. Entonces se, esto se llama el escarmenar, así (hace demostración con sus manos) así, esto es descarmenar, así, esto se llama descarmenar, que quede ella finita así, aquí le quité la basura así pa limpiala, mjum, así se descarmena. </rdefiniens>.. </def>.  Aquí se hila, se hace así </u>  
+<u valor="E" > ¿Cómo se llama eso? </u>  
+<u valor="I1" > El huso. Y se de aquí <def typ = "1"> esto lo llamamos lo <defmetalvb lemma="llamar" pos="VMII3P0"> llamaban </defmetalvb>  <rdefiniens> antes <b>burro</b> pa poner el copo, esto se llama copo. Aquí se le metía la lana a la a la burrita, esto se llama burrita porque como tiene paticas así lo llamaban ellos burra,</rdefiniens> y se sacan así (va demostrando cómo se hila con el huso) </def> </u>
+<u valor="E" > Ahí está hilando </u>
+<u valor="I1" > Sí, haciendo el hilo. </u>  
+<def typ = "1"><u valor="E" >  ¿Cómo diría usted que es <b>el huso</b>?¿Cómo lo describiría? ¿Cómo es la forma que tiene? </u> 
+<u valor="I1" > <rdefiniens>  Ah, la forma que tiene ah <defop valor = "pues"> pues </defop> un rodete así redonda, se le tiene un huequito por el centro y se le mete el palito ¿ve?  Se le mete el palito y entonces mire, él está así ¿ve? Esta rueda la hicieron, la hizo el carpintero, le abrió el huequito aquí y hizo el palito y lo metió, y entonce eso es lo que se llama huso. Y es así, se utiliza así, usted lo puede poner así pa que le salga ¿ve?</rdefiniens> </u>  ... </def>
+<u valor="E" > El copo es </u>  
+<u valor="I1" > Este. El copo de la lana. Antonce se saca el pa metelo se  mete así en la burrita onde va entonce yo  le aplico aquí  la lana ¿ve? La meto aquí. Se mete así es porque pa que se esté pa poder halar la lana aquí porque se está halando si no se mete ahí no se puede hilar porque ¿cómo?, hay que métela ahí pa poder hilala, y si no, hay que ponela en una silla en un banco y poner prensala con una pierna pa que se esté porque de otra manera no se puede. Así, ya después de que está así ya se pone uno a hacer la pieza que quiere hacer </u>
+<u valor="E" > Ya. ¿Y si le quiere dar color a la lana? </u>
+<u valor="I1" > <def typ = "1"> Si se le quiere <b>dar color a  la lana</b> <defop valor = "pues">pues ... </defop> <rdefiniens> se se mete al agua caliente con la pintura así como están en el costal y después de que se hila se hacen madejas y se mete a la pintura a con el agua hirviendo y se pone a hervir hasta que agarra la la pintura. Si es con papeleta, cuando agarra la pintura algo se le pone vinagre se le pone eso pa que  pa que el  color quede firme. Y si es  con ramas pues la misma cosa, con ramas se pone a hervir la lana ahí con con las ramas hasta que agarre el color, se le pone sal y también vinagre pa que agarre pa que la pintura quede firme. Yo  pinto con, pintaba primero con raicita pero eso no hubo más quien la trajera de Mucumpíz que era onde la había. Antonce pinto con, con barba e piedra, con mijí, con amorciaco, eucalipto, concha e cebolla, la cebolla blanca se le quita la concha y la concha esa que bota la cebolla esa, esa se ajunta y con eso se pinta, y también con con esta sábila se pinta, con con con la con la cala, con la hoja de cala se pinta, con todo eso se pinta, se pone a hervir la lana con las ramas y agarran el color que uno quiere. </rdefiniens> </def> </u>
+<u valor="E" > ¿Ya. Y no se le quita el color? </u>  
+<u valor="I1" > No se no se le quita. La que ahí está, (señala) ésta esta  lana es con con ese eucalipto, eucalipto; esta esta sí tiene papeleta, esta sí es con papeleta, aquella es también con eucalipto, Mmm y aquella con con varias ramas y así, la mayoría se le ponen varias ramas y da ese  color. Ah por también se tiñe con añil, y ojito se tiñe la lana verde.   </u>    
+<def typ = "1"><u valor="E" > ¿Y qué es <b>el ojito</b>? </u>   
+<u valor="I1" > Eso lo hay en el eso se consigue en la lo cálido en Tabay hay,<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb>  <rdefiniens> una mata que tiene la hoja como la hoja de naranjo </rdefiniens> </u></def>
+<u valor="E" >Mmm ¿y la otra que me dijo? </u>   
+<u valor="I1" > <def typ = "1"> <b>El añil, el añil</b> si no le conozco la rama lo conozco en pasta, no lo conozco en rama, en la mata no lo conozco, pero <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una rama y la hacen pasta</rdefiniens> , eso se compraba, la hacían porque ahora no la hacen. Es que hay, ese <b>añil es</b> que lo hay en La  Pedregosa por allá onde uno que teje también que se llama Eduardo un amigo mío pero muy orgulloso, ese no quiere dicir no se lo quiere vender a uno, el tiene la mata pero yo no he ido pa allá pa conocelo </def>.</u> 
+<u valor="E" > Claro, claro. ¿Usted decía que la burra es cuál? </u> 
+<u valor="I1" > Esa el palo ese </u>
+<u valor="E" > ¿Y lo que está encima se llama? </u>  
+<u valor="I1" > Copo, copo de lana </u>
+<u valor="E" > El copo de lana. Y esta que está aquí es lana también </u>
+<u valor="I1" > No eso es hilo </u>
+<def typ = "4"> <u valor="E" > Ah okey ya, eso es otra cosa.  El proceso de la lana como tal entonce es ¿Cómo se dice  cuando uno le quita la lana al ovejo? </u> 
+<u valor="I1" > <b>Tusar, tusar</b>, nosotros <mkr>decimos</mkr> así aquí, <b>tusar</b>, otro por allá una gente lo <defmetalvb lemma="llamar" pos="VMIP3S0"> llama </defmetalvb> <rdefiniens> <b>esquilar</b>, pero yo por lo menos aprendí a decir así, <b>tusar</b> </rdefiniens> </u>   </def>
+<u valor="E" > Mjum, claro. ¿Y usted hacía eso desde cuándo? Desde cuándo, ¿Desde qué edad hace usted eso? </u>
+<u valor="I1" > De siete años en adelante, no ve que ya me ponía mamá  a escarmenar, ya me aplicaba a hilar y eso. </u>  
+<u valor="E" > Usted puede hacer otra vez, un momentico nada más, lo de escarmenar para grabarla <comentario valor="silencio"> [las interlocutoras mantienen silencio] </comentario> eso es</u>
+<u valor="I1" >  Así es escarmenar </u>  
+<u valor="" > Okey, okey, perfecto. Y ahí va el copo y el copo se hila, ya. ¿Y esto que usted está haciendo aquí? </u>
+<u valor="I1" > Esos son medias </u>  
+<u valor="E" > Ah es una media </u>  
+<u valor="I1" > Sí, esa una media. ¿Ve? La estoy haciendo, aquí ya le hice el talón, es este, y aquí ya va la planta. </u> 
+<u valor="E" > Ah, okey. Y está tejiendo ¿Cómo se llama ese tejido? </u>  
+<u valor="I1" > El tejido, el tejido tejido normal de dos agujas </u> 
+<u valor="E" > ¿Ese es el tejido a dos agujas? </u>  
+<u valor="I1" > El tejido con el que tejen las medias  </u>
+<u valor="E" > ¿Y cómo le llaman a eso, al proceso que usted está haciendo?, este, eh ¿Son puntos o cómo? </u>  
+<u valor="I1" > Pues eh, no no le sé decir. El punto que le puse a la media son veinte puntos, con veinte puntos estoy tejiendo la media, eso me sale de aquí hasta el final. Lo único que hay tiene que irle mermando pa que, por lo menos yo a la planta tengo que irle mermando los puntos. Tenía veinte puntos y va a quedar con una sola gaza, un solo. Cuando la, ya pa terminala la tenía tenía como unos doce.   </u>
+<def typ = "1"> <u valor="E" >  Ya. ¿Y <b> los telares</b>? ¿Todos esos <b> telares</b>son nuevos? </u>  
+<u valor="I1" > Sí <defop valor = "dos puntos">:</defop>  <rdefiniens> ahí hay de cuatro de tres pedales, de cuatro de seis pedales, de cuatro pedales, de dos pedales</rdefiniens> </u>  </def>
+<u valor="E" > ¿Usted me los puede mostrar? ¿Cuáles son los de? Por favor </u>
+<u valor="I1" > <kinesic valor=" mueve manos">  demuestra con las manos los telares y el uso de ellos </kinesic> Este es de seis pedales, este, este trabaja así: uno es este, uno, no déjeme subir el otro. Uno, dos, ese es el principio, cuatro uno, este tres cuatro, este dos tres, </u>  
+<u valor="E" > Ah ok. Esos son los procesos que se siguen para. </u>
+<u valor="I1" > Para, sí pa tejer, pa que salga esta tela.  </u>  
+<u valor="E" > ¿Y el hilo se mete dónde? </u>
+<u valor="I1" > El hilo se mete aquí mire, por aquí, el hilo je mete por aquí. Como este lo está haciendo otro voy y le daño ahí </u>  
+<u valor="E" > Sí, está bien, no hay problema </u> 
+<u valor="I1" > El hilo se mete así </u>  
+<u valor="E" > Mmm okey. ¿Y el orden en el que tienen los números es que cuál se sube primero y, cuál se baja, dónde se? </u> 
+<u valor="I1" > Pere, se me enredó. Así se mete el hilo, pa allá. Y de ahí con el otro, con este se mete de allá pa acá así  </u>  
+<u valor="E" > Ajá, exacto, entiendo. ¿Este es el de seis? Entiendo </u> 
+<u valor="I1" > Ahora este, este es de de cuatro. Este si ni le puedo decir porque no tiene esto no tiene la no está amarrao aquí, ese si lo piso entonce se safa </u>  
+<u valor="E" > ¿Cómo se llama esto que está aquí abajo? </u>  
+<u valor="I1" > Ah ese se llama eh pedal, esos son los pedales. Este se llaman lises, </u> 
+<u valor="E" > ¿Eso se usa para qué? </u>  
+<u valor="I1" > Son cuatro lises que, los que trabajan pa arriba y pa abajo. Ahora le digo, déjeme poneme aquí pa podele decir. Mire, los lises son estos, este subió, antonce, cuando piso este, baja, baja ¿ve? Cuando piso este sube este, cuando piso este baja también. Estos son los pedales ¿ve? Ese no  porque está malo. Aquí, aquí sí le puedo decir, este es el de dos pedales. Aquí piso aquí, piso aquí este, vió, ajá, subió el liso, meto el hilo, aquí tramo ve, este se llama peine, estos son lisos y este peine, con este tramo. Ahora aquí ve, no se quita el pie hasta que no se mete la lana. Ahora cambio ve, cambio, sube este y baja este, baja este y sube este y con este se trama </u>  
+<u valor="E" > Siempre el de adelante es el peine y ese se trama. ¿Trama es? </u>  
+<u valor="I1" >  Pegar aquí, se ajusta la lana. Porque aquí, aquí va la lana, esto si es admirable porque aquí va la lana por medio de los hilos mire, mire así, y va por dentro. ¿Por qué será que esto queda, yendo pa dentro, por qué queda pa afuera? Por el cambio, por el cambio, porque ahorita está así. Si yo no cambio no me sirve, tengo que cambiar aquí pa que trame, pa que prense aquí, cuando prense aquí, antonce sí se ajusta aquí y queda a ajuera. </u>  
+<u valor="E" > Ya, bien. ¡Qué bonito! Qué inteligente la persona que hizo eso. Y este es igual de dos pedales. </u>  
+<u valor="I1" > Ese es igualito a ese. </u>  
+<u valor="E" > Pero este sí es lana, ¿este es hilo, verdad? Esta es lana </u>  
+<u valor="I1" > Lana, lanilla, es eso. Este sí es lana de ovejo pero ese no le puedo decir ¿sabe por qué? Porque ya no está enrollao y entonce no puedo metelo a </u>  
+<u valor="E" > Si entiendo, no se preocupe, está muy bien.  </u>  
+<u valor="I1" > Esa, la misma cosa, ese es hilo así mire, pero no está enrollao  </u>  
+<u valor="E" > Tranquila, mjum, muy bien Y este sí es viejito, este es de los </u>  
+<u valor="I1" > Este es el mío. Este es el mismo mire, este es el mismo este</u>  
+<u valor="E" > Ajá, el de dos.  </u>  
+<u valor="I1" > Este sí, quizá sí le puedo decir. Mjum, este estoy pisando, este viene pa acá. Antonce, si piso este ya, ya prensa la lana, mire mire. Aquí meto yo <comentario valor="sonidos"> [sonidos del telar]   </comentario> meto la lana aquí y cambio </u>  
+<u valor="E" > Para que ajuste, y trama. Mmm muy bien, ¡qué interesante! </u>  
+<u valor="I1" > Hay que dale así, a la lana, pa que no se venga, éste se venga, así, pa que no se venga, y así a la lana, y se ajusta. Este es el mismo, así mismo se trabaja en este  </u>  
+<u valor="E" > Igual con los dos pedales pero me imagino que este era el de antes, el más </u>  
+<u valor="I1" > Ese telar lo conocí yo cuando tenía cinco años, y la señora que   </u>  
+<u valor="E" > ¡Es el mismo desde que usted tiene cinco años! </u>  
+<u valor="I1" > Me recuerdo yo mucho que le dije yo a la señora, yo tengo que aprender a tejer porque eso sí  es bonito tejer, ¡porque ver tejer es muy bonito! </u>  
+<u valor="E" > Entonce ella, me acuerdo yo me alcanzo a acordar que la viejita me dijo, mmm Dígale a su papá que me lo compre, que yo lo vendo. Y así jue, tenía yo veinte años cuando la viejita, iba yo pa San Rafael, era la los Micuyes, Patricia se llamaba, era de los Micuyes, iba yo pa San Rafael y me dijo me va a comprar el telar, lo estoy vendiendo, yo ya no tejo, ya estaba viejita. Y juí y le dije a mi papá y jué mi papá y lo compró por cien bolívares el telar con todo y tela, y le, y en eso jué que yo conocí a Denni y me compró la tela en cien bolívares, me quedó el telar regalao. ¡Esa es la luz de mis ojos el telar éste! ¡En este telar he pasao mi vida! </u>  
+<u valor="E" > ¿Y qué ha hecho usted en ese telar? ¿Qué ha hecho usted con ese telar? </u>  
+<u valor="I1" > Ruanas, ruanas, pa vender, le hice a Denni, le hice un italiano, yo le tejí muchas ruanas cuando tenía una heladería en Caracas. Cuando lo conocí a él fue que me compró la tela que había en el telar, le estaba yo enseñando una cobija a mi esposo y se llevó la tela y se llevó la cobija también. Y me trajo lana pa tejer, me llevó lana pa que le tejiera y yo le tejí muchas ruanas.   </u>  
+<def typ = "1"><u valor="E" > Y ¿cómo se llaman todos estos hilitos? </u>  
+<u valor="I1" > Eso <defmetalvb lemma="llamar" pos="VMIP3S0"> se llama </defmetalvb><b>hurdiembre</b> <rdefiniens> porque ahí es donde eso es esto esto onde va la lana, onde vamos tejiendo </rdefiniens></u>  
+<u valor="E" > ¿Cómo se llama? </u>  
+<u valor="I1" > Se llama <b>hurdiembre</b> . <rdefiniens> Con ese hilo se hurde aquí la la  el telar pa que, en este es onde va la lana, en este y este. Este hilo hay que metelo hebra por hebra, una hebra en este y la otra hebra en este. Ahora aquí van todas las todos los huequitos, </rdefiniens> </u> </def> 
+<def typ = "4"> ...<u valor="E" > Ese es <b>el peine</b> </u>  
+<u valor="I1" > Mjum </u>  
+<u valor="E" > ¿que <defmetalvb lemma="usar" pos="VMIP3S0">se usa </defmetalvb> para?  </u>  
+<u valor="I1" > <rdefiniens>Pa tramar, pa ajustar la lana </rdefiniens> </u>  </def> 
+<u valor="E" > ¿Y los otros se llaman? </u>  
+<u valor="I1" > <b>Lisos </b></u>  
+<u valor="E" > <def typ = "1"> <b>Lisos </b>. Que <defcopvb lemma="ser" pos="VAIP3P0"> son </defcopvb> <rdefiniens>los que suben y bajan cuando uno usa el pedal </rdefiniens> </def></u>  
+<u valor="I1" > Y esto es antiguo todo, desnde quién sabe cuándo. Esto es de Boroquera, de una caña que se llama Boroquera, eso no es metal, eso es madrea, una caña que se llama Boroquera, la llamaban Boroquera </u>  
+<u valor="E" > Y esto, ¿usted se lo ha reemplazado o no? </u>  
+<u valor="I1" > Curricán </u>  
+<u valor="E" > ¿Cómo? </u>  
+<u valor="I1" > Curricán </u>  
+<u valor="E" > Curricán ¿qué es eso? </u>  
+<u valor="I1" > Una una una un hilo que hay  </u>  
+<u valor="E" >¿Y de dónde lo sacan? </u>  
+<u valor="I1" > No sé, no sé porque </u>  
+<u valor="E" > No sabe. ¿Pero esto sí se lo han vuelto a hacer, o es el original?</u>  
+<u valor="I1" > Es el original. Eso tiene años años, años tendrá. Ahora, este aquí que se reventaron muchas y se las hice yo, estas. Esto sí es esa cabuya, de nylon  </u>  
+<u valor="E" > Ay señora Margarita, ¡qué bonito! De verdad, muchísimas gracias por mostrarme todo esto. Es un tesoro en realidad y mucha gente no lo conoce. Y a usted le gusta tejer </u>  
+<u valor="I1" > A mí me gusta mucho. Con eso yo he vivido, es que crie a mis hijas, todo eso. Y yo he vivío puro de eso, de trabajar la lana  </u>  
+<u valor="E" > ¿Y a sus hijas las enseño? </u>  
+<u valor="I1" > Sí, ellas saben, pero no les gusta bien. Hacen otras cosas, una hace se dedicó a madera, y la otra teje a mano. </u>  
+<u valor="E" > Pero artesanas </u>
+<u valor="I1" > El telar no le gusta, ellas tejen a mano, el tejido a mano, el telar no le gusta mucho, hilar tampoco le gusta mucho porque le duele la espalda. Ahí ella el trabajo con lana no, ella trabaja con lanilla, pero la lana no les gusta bien  </u>  
+<u valor="E" > Claro, claro. ¿Y usted tiene ovejas hoy en día? </u>  
+<u valor="I1" > No, orita no tengo porque como vivo en Mucuchíes no tengo ovejas. Tengo que estar comprando la lana a los que la tienen   </u>  
+<u valor="E" > Claro. Bueno señora Margarita, pues muchísimas gracias, en verdad que sí </u>  
+ <u valor="I1" > De nada.  </u>  
+<u valor="E" > Mmm </u>  
+<u valor="I1" > Yo gracias a Dios por ese trabajo, por ese arte, me dieron la beca, me dio Chavez la beca </u>  
+<u valor="E" > ¿Le dio el Presidente una beca? </u>  
+<u valor="I1" > Mjum </u>  
+<u valor="E" > Usted no lo conoció al Presidente </u>  
+<u valor="I1" > Juí a una a una exposición, me llamaron a una exposición y a dar un taller en el Museo Jorge Boll, y allá salí y me dieron un premio de cinco bolívares fuertes y una placa y diploma, todo eso, en el Teresa Carreño, allá en el, cómo es que je llama, ajá en el teatro Teresa Carreño, y después volví a ir y allá me tomaron los datos y cuando acordé me llamaron y me llegó la beca  </u>  
+<u valor="E" >Que bueno, que bueno, gracias a Dios </u>  
+<u valor="I1" > Mjum, sí </u>  
+<u valor="E" > Qué bueno. Señora Margarita, esta casa me estaba contando que es </u>  
+<u valor="I1" > Sí, aonde llegó Simón Bolívar, cuando la Campaña Admirable. El llegó con la tropa aquí a dale, le dio agua al caballo allá afuera en una piedra que hay y le salió el perro muy bravo. Yo tengo la historia pero la tango allá en el negocio abajo. Y no le cuento bien la historia porque no la sé bien y le voy a decir mentiras  </u>  
+<u valor="E" > No pero sí me dijo un dato importante </u>
+<u valor="I1" > Sé que aquí fue onde llegó Simón Bolívar y se le salió el perro bravo a querelo morder y le gustó el perro más bien. La, uno de los coroneles que andaba con el lo iba a matar y el lo vio y salió el dueño y aplacó el perro y habló con el dueño y que fue y le preguntó si no le podía conseguir un perro de esa raza. Y se fue pa Mucuchíes y estando en Mucuchíes le llegó el muchacho con el hijo el señor, lo mandó con el cachorrito y se lo se lo entregó en Mucuchíes. Y eso fue una pena grande pa Simón Bolívar cuando se lo mataron.   </u>  
+<u valor="E" > Claro, al perro Nevado, claro que sí. Entiendo. Bueno señora Margarita, usted ya está cansadita. Muchísimas gracias por su apoyo y su ayuda. De verdad que sí </u>  
+  <u valor="I1" > De nada, de nada.  </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AT14MS01063- yurmari-	2015-01-28	 transcripción parcial.
+AT14MS01063- yurmari-	2015-02-20	transcripción completa.
+AT14MS01063- yurmari-	2015-03-04	Marcado+ Etiquetado	 transcripción completa.
+</versiones>
+
+</doc> 

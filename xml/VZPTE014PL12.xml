@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE014PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="245850112" CREATED="2015-07-07" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:04:49 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:04:49 </extNote>
+<extNote id="NumeroInterlocutores">05</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="05">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Yolanda La Cruz </name>
+<name type="Informante" id="I2"> Anny Hernández </name>
+<name type="Informante" id="I3"> Zaida Gonzáles </name>
+<name type="Informante" id="I4"> Lina Rosa Maldonado de Paredes  </name>
+<name type="Informante" id="I5">No se identifica  </name>
+<name type="Informante" id="I6">No se identifica  </name>
+<name type="Informante" id="I7">No se identifica  </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+
+<u valor="I1" > Eh buenos días, mi nombre es Yolanda La Cruz, soy auxiliar de nutrición, para el programa "Déjame Pensarlo", la plabra <def typ = "1"> <b>zorocho</b>. para mi <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>algo que no está a término .algo que está precocido que en sí no se ha terminado </rdefiniens>.</def> </u>  
+
+<u valor="I2" > Buenos días mi nombre es Anny Hernández soy la nutricionasita del Hospital Carlos Edmundo Salas de acá de Pueblo Lllano,  y me están preguntando qué significa la palabra <def typ = "1"> <b>zorocho</b>..<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando algo no está a término, que no se ha cocinado bien.</rdefiniens> </def> </u>  
+
+<u valor="I3" > Bueno yo soy Zaida Gonzáles, trabajo como Coordinadora de enfermería, y para responder a la palabra de <b>zorocho</b>  es primera vez que la escucho no la había escuchado en dieciocho años que tengo de vida en Pueblo llano, vamos a ver qué quiere decir y aprendemos un poquito  </u>  
+
+<u valor="I4" > Lina Rosa Maldonado de Paredes estamos aquí en el hosptal. <def typ = "1"> <b>Zorocho</b><defop valor = "coma">,</defop>.<rdefiniens>  algo regular </rdefiniens></def>  </u>  
+
+<u valor="I5" > Bueno, desde aquí del hospital de Pueblo Llano estamos grabando, algo interactivo para que las personas vean qué más o menos es el argot popular que utilizamos en Pueblo Llano.¿Qué es para usted <b>zorocho</b>? </u>  
+
+<u valor="I6" > Para mi  <def typ = "1"> <b>zorocho</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo que no está bueno</rdefiniens></def>... </u>  
+
+<u valor="I5" > <b>Zorocho </b>.para mi es algo que está en descomposición que no ya está en desuso. Eh agarrando también a la gente de odontología que tienen un trabajo árduo,  ¿qué es para usted <b>zorocho</b>?. </u>  
+
+<u valor="I7" > no aparece ni en internet, eso no no sé de verdad no lo había <b>escuchao</b>  </u>  
+
+<u valor="I1" > Eh la palabra.<b>mangaluceto</b> la verdad esa no se el significado este la veré en el programa qué cuál es su significado </u>  
+
+<u valor="I2" > .<b>Mangaluceto</b>.es una persona como desaliñado una persona con bajo autoestima una persona es como para minorizar a una persona </u>  
+
+<u valor="I3" > .<def typ = "1"> <b>Mangaluceto</b> bueno  <defmetalvb lemma="identificar" pos="VMIP3S0"> se identifica  </defmetalvb> <rdefiniens> con una persona que está entre entre que no sabe hacer las cosas que está muy lenta que la hace mal </rdefiniens> </def>, .eso creo yo. </u>  
+
+<u valor="I4" > <b>Mangaluceto</b> .<comentario valor="risas" > [risas] </comentario>.. </u>  
+
+<u valor="I5" > .Bueno, continuando con las palabras que se utilizaban mucho antes aquí en Pueblo Llano y que los papás de uno <invcomm> usted es un <b>mangaluceto</b></invcomm>  .¿qué es para usted un <b>mangaluceto</b> . </u>  
+
+<u valor="I6" >  Es una persona que no puede entender las cosas bien ... </u>   
+
+<u valor="I5" > Bueno .<def typ = "1"> <b>mangaluceto</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que uno lo mandaba rápido a hacer las cosas y no las hacía en el momento </rdefiniens></def> .para mí </u>  
+
+<u valor="I7" > .<def typ = "4"> <b>Mangaluceto</b>.<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como decir la palabra <b>mangas miadas</b>, no sirve pa nada </rdefiniens> </def> </u>  
+
+<u valor="I1" > Para mi el nombre de <def typ = "1"> <b>pira</b>.<defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>..este como algo que es bueno como una sopa que uno le coloca varias verduras varias cosas y a la final de como una sopa espesa  bueno para mi significa eso </rdefiniens> </def> </u>  
+
+<u valor="I2" > .<def typ = "1"> La ..<b>pira</b> la <b>pira</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> la sopa la sopa que comemos todos los días una sopa </rdefiniens> </def> </u>  
+
+<u valor="I3" > .<def typ = "1"> La ..<b>pira</b> Nestor <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  algo así como que se relaciona con las sopitas así bien hechas por la abuela, sopita de grano, comidita así .de medio día más o menos.</rdefiniens> </def> </u>  
+
+<u valor="I5" > .Otra de las palabras que se utilizaba mucho en Pueblo Llano y de hecho había un personaje aquí en Pueblo Llano que lo llamábamos nosotos <b>la pira </b>..era de la familia Santiago como que era. ¿Para qué es usted la <b>pira</b> Lina? </u>  
+
+<u valor="I4" > .No, esa era la sopa, <b>la pira</b> .. </u>  
+
+<u valor="I6" > .La comida.. </u>  
+
+<u valor="I5" > <def typ = "1"> .Bueno para mi en ese tiempo cuando hablaban de la <b>pira</b>. <defcopvb lemma="ser" pos="VAII3S0"> era </defcopvb> <rdefiniens>  como ir a buscar el desayuno o el almuerzo o la cena. <invcomm> vamos a buscar la <b>pira</b> </invcomm> decía uno </rdefiniens></def>. Bueno gracias al Canal 3 por venir a a interactuar un poquito con nosotros y lo que es de las anécdotas que pasan aquí en el hospital y preguntarle mucho a las personas de que realmente hay muchas anécdotas que contar y que nosotros estamos prestos a trabajar y que  es un personal que labora las venticuatro horas para la salud de Pueblo Llano y que realmente pus nosotrs estamos a la vanguardia de todo lo que pueda suceder  </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE014PL12- yurmari-	2015-07-07	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LP02023" MIMETYPE="audio/wav" SIZE=" 12747850" CREATED="2014-07-15" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:26:33 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señor Jesús Gonzáles </name>
+</group>
+</cesHeader>
+
+
+<u valor="E" > Bien, hoy es ventinueve de diciembre de 2013, estamos en Las Piedras y vamos a conversar con el señor Jesús Gonzáles. Mi nombre es Yurmari Mesa y nosotros vamos a conversar sobre distintas eh, distintas áreas eh aquí en Las piedras. Señor Jesús, en primer lugar, hábleme un poco del trabajo aquí en Las Piedras </u>
+<u valor="I1" > Mire, el primer, la primer broma que yo le digo, mi papá, tenía un abasto, no un negocito, ese compraba metras, compraba trompos, compraba anzuelos y <b>no dejaba morir a nadie</b> </u>
+<u valor="E" > ¿Cómo así que <b>no dejaba morir a nadie</b>? </u>
+<u valor="I1" > De, de hambre. Todos los <b>carajitos</b> que iban pa la escuela les fiaba pan y fresco, verdad. Y el <b>aguelo</b> mío, el <b>aguelo</b> Felipe, que vive aquí en La Cruz, él vendía <b>guarapo</b> y la gente con un <b>guarapo</b> que se tomaba, un <b>guarapo fuerte</b>, se rascaba y se quedaban dormíos ahí mismo.   </u>
+<def typ="1"><u valor="E" > ¿Cómo era el <b>guarapo</b>? ¿De qué era?</u>
+<u valor="I1" > <defcopvb lemma ="ser" pos ="VAII1S0">Era</defcopvb> <rdefiniens>de caña, de caña y yo no sé qué le echaban, panela; y lo dejaba enfuertar en una <b>pita</b></rdefiniens>  </u> </def>
+<def typ="1"><u valor="E" > ¿Una <b>pita</b>? ¿Qué es eso una <b>pita</b>? </u>
+<u valor="I1" > Una <b>pita</b>, eso <defcopvb lemma ="ser" pos ="VAII1S0">era </defcopvb> <rdefiniens>de madera verdad, la <b>pita</b> </rdefiniens> </u>
+<u valor="E" > Pero ¿qué es la <b>pita</b>, un? </u>
+<u valor="I1" > <rdefiniens>Un <b>barrilito</b></rdefiniens>, y el lo dejaba enfuertar, a los tres días quedaba peor que el <b>miche</b>, entonce el que se tomaba un vaso de una vez tenía que irse a dormir ahí mismo, se rascaba  </u></def>
+
+<u valor="E" > Y usted ¿en qué trabajaba? </u>
+<u valor="I1" > Nada, yo lo que hacía era alquilar una bicicleta que a las <b>juerzas</b> compré. Yo trabajaba la agricultura; trabajaba y me ganaba cinco bolívares diarios, y la primer <b>bicicletica</b> que compré me costó treinta bolívares y <def typ="4">yo lo que hacía era irme pa la escuela y alquilar la bicicleta, la alquilaban <b>los chinos</b> cuando llegaban en la tarde; <b>los chinos</b> <defcopvb lemma ="ser" pos ="VAIP3P0">son</defcopvb> <rdefiniens><b>carajitos</b></rdefiniens></def> y yo la alquilaba y entonces ganaba más con la bicicleta que yendo a trabajar  </u>
+<u valor="E" > ¡Qué interesante! ¡Qué interesante!</u>
+
+<u valor="I1" >Claro, con la <b>bicicletica</b>. Pero aquí había un señor que se llamaba Beto Bastidas,él vendía <b>miche</b>, yo he tomao <b>miche</b> desde <b>carajito</b>, entonce mi papá me daba un bolívar</u>
+<u valor="E" > ¿Y qué edad tiene usted? </u>
+<u valor="I1" > Cincuenta y un años, voy pa cincuenta y dos. Y entonce mi papá me daba un bolívar y yo me iba pa onde Beto a comprar medio cuarto e miche, medio cuarto e miche por un real y una caja de ALA se llamaba en ese tiempo muchos tipos de cigarro, no como ahorita que hay Cónsul, Belmont; en Mérida es que hay Biserlo barato, tengo ganas de ir a comprar, que es el que fuman las maestras. Y yo compraba una media cajita de ALA, eso llevé mucha broma yo en la escuela </u>
+<u valor="E" > ¿ALA qué era? </u>
+<u valor="I1" > <def typ="1">Ajá <defcopvb lemma ="ser" pos ="VAII1S0">era</defcopvb> <rdefiniens>un cigarro, se llamaba ALA, costaba un real</rdefiniens> </def> y nos encerrábamos en la escuela, en el baño y le trancábamos y no dejábamos entrar a Juan Pedro, no dejábamos entrar a Juan Pedro pa fumar cigarro en el baño pero no, siempre teníamos que <b>abríle</b> y cuando le abríamos, echar los chicotes y bajar las pocetas </u>
+
+
+<u valor="E" > Claro. Y en en el caso de la comida, usted dice que su papá tenía un negocito, ¿qué vendía su papá?  </u>
+<u valor="I1" > Fresco FANTA me acurdo yo y pancito. Ese no dejaba, como le digo yo, ese no dejaba morir a nadie. Y allá ese tenía de todo, allá todos los ciclistas llegaban, présteme una llave, présteme esto, présteme esto, parecía una agencia de carros eso, y de carros también llegaban. Y mas bien pagaba mi papá pa pa que fueran a a buscále lo que el prestaba. Y después llegaba la gente, mucha gente, ese tenía un montón de lapiceros; ese fiaba cigarros, fiaba sardinas, ese no dejaba morir a nadie de hambre.     </u>
+<u valor="E" > Pero sí le pagaban </u>
+<u valor="I1" > No pues, ya después de último los que debían, una sardina costaba un real. Había una señora aquí, que valía un huevo tres reales tres lochas y subió a real, y fue la Tila, y cuando subió a real dijo la Tila <invcomm>ahora sí se puso la vaina arrecha, a real el huevo </invcomm>. Ahorita sí vale la pena tener unas cinco gallinas  </u>
+<u valor="E" > Ajá. Mire, y de los animales, aquí en en en Las Piedras ¿qué animales abunda?</u>
+<u valor="I1" > Aquí lo que se cría <b>to lo más</b> es cochino  </u>
+<u valor="E" > ¿Con qué fin? ¿Para qué lo usan? </u>
+<u valor="I1" > Bueno, pa hacer chicharrones pues y pa hacer las hallacas </u>
+<u valor="E" > Hay gente que cría, osea, hay gente que vive de eso pue </u>
+<u valor="I1" > Sí, claro, el señor cría cochinos </u>
+<u valor="E" > Y en los campo así, aquí en Las Piedras hay campos ¿no?</u>
+<u valor="I1" > Sí, orita </u>
+<u valor="E" > ¿Y qué animales se ven? </u>
+<u valor="I1" >No, orita eso se acabó en el campo mire, en el campo se acabó. Antes venían a cambiar, papá cambiaba que mi papá tenía un negocito,y traían huevos del campo, ahora no, ahora mas bien vienen a comprar. No ve que yo estaba hablando con un muchacho allá en la casa y en Las Quintas lo que hay es una sola vaca y antes todos tenían vacas, antes antes en Semana Santa eh <b>quesque</b> era malo vender la leche, tenían que regalala y nos ibamos to esa cuerda e <b>chinos</b> a, bueno de <b>carajitos</b> a a que nos regalaran leche, pero yo como yo llegué a onde un señor Olegario, que a ese lo mataron, y yo me quedaba de último pero era la última casa e Las Quintas pa que me dieran <b>tungo</b>, y yo me desayunaba con <b>tungo</b> y me daba la leche y me venía, a tomar. Ah yo vendía empanadas, sí mi mamá hacía empanadas. Eso fue en el año setenta y uno y yo lo ví,yo estaba carajito yo tenía nueve años, y yo lo ví y yo lo tengo grabao. Y yo cuando ya vendía empanadas, eran a locha las empanadas y me daba, en un plato vendía yo las empanadas, pero     cuando ya me quedaba la última cohada, osea la última, yo no la vendía pa que me diera en la mañana pa que me la calentara porque la hacían de harina e trigo y esa queda muy <b>guena</b> refrita, refrita pal otro día, yo no la vendía cuando me quedaba la última </u>
+
+
+<u valor="E" > Ya, ya </u>
+<u valor="I1" > Y había un carajo, ese lo mataron por allá en Caja Seca, malo muy malo, el le había robao una cabra allí a Don Salas. Tonce tenía un hueco por allá,una, cómo te digo yo, un hueco onde el dormía,y y entonce un día iba yo a buscar leña, porque había que buscar leña porque era con fogón, no había<def typ="4"> <b>gasplan</b> <overlap valor="E" > <b>Gasplan</b>, ¿qué es eso?</overlap> Bueno <defop valor="dos puntos">:</defop> <rdefiniens>gas</rdefiniens> </def>, no había cocina, <it>kerosene</it> era lo que se usaba, el que tenía una cocina de <it>kerosene</it> taba rico. Pues mi mamá tenía cocina e <b>kerosene</b> pero también tenía fogón, tonce en la mañanita a las séis tenía tenía yo que parame a buscar leña, todos, pa gananos el desayuno; y me encontré yo a ese Joaquín, a Joaquín al finao Joaquín, ese era muy malo. Es se había robao una cabra onde el tío y estaba por allá huyendo en una cueva, una cueva y me lo encontre. Me dijo, cónchale me dijo, Chucho, a mí me decían Chucho porque soy Jesús, Chucho me dijo, vaya y me trae comía y yo le busco la leña, y llegué onde mi mamá y llegué onde mi mamá y le dije que me diera una arepa rellena con <b>mantequillita</b> porque no y café en un <b>frasquito</b> le llevé. Cuando yo llegué me tenía pero me dijo <invcomm> cuidao y me acusa que yo estoy aquí</invcomm> me dijo, yo tenía como nueve años mas o menos. Y llegué y ah pues tenía yo la ceba, ceba osea ya tenía el vicio yo llegaba a puro llegar a buscar la leña pero tenía que llevále el desayuno y a medio día el almuerzo porque mi mamá se acostumbró, porque yo le dije a mi mamá, le dije, cónchale el Joaquín ta huyendo, ta en una cueva por allá </u>
+<u valor="E" >  Y estaba huyendo porque había matado a alguién </u>
+<u valor="I1" > No,se había robao una chiva. No, ese era muy malo, lo mataron por eso, un policía fue el que lo mató, un policía <b>pichache</b> </u>
+<u valor="E" > ¿Qué es <b>pichache</b>? </u>
+<u valor="I1" > <def typ="1"><b>Pichache</b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>tonto</rdefiniens></def> y llegó y lo mató un policía, un policía, tomándose un fresco en caja seca, porque era muy malo. Ese llegaba a apagar la luz y desnudaba a toda la gente que estaba, los desnudaba <b>pa robalos</b>. Los dejaba trancaos y de aquí a que esa gente se vestía y como siempre cargaba una <b>pinga</b> moto</u>
+<u valor="E" > Y <b>pinga</b> </u>
+<u valor="I1" > Una <b>pinga</b> moto. Y y tenía un compadre ahí que se llama Atilio, pero ese <b>era más pilas</b>  </u>
+<def typ="1"><u valor="E" > ¿cómo así, qué es <b>ser pilas</b>? </u>
+<u valor="I1" > Bueno<defop valor="dos puntos">:</defop> <rdefiniens>mosca pue,activo pue</rdefiniens> </u></def>
+<u valor="E" > Ajá </u>
+<u valor="I1" > Entonce llegó el coño e verga y le quitó la moto al compadre Atilio y le quitó la moto decía el finao Atilio <invcomm>Y cómo le iba a negar la moto al compadre sería pa que me metiera un tiro </invcomm>. Pero el finao Catire vino y puso el denuncio que se la habían robao y vinieron a buscálo por los papeles, vinieron a buscálo, ah pero se la entregaron pero qué, ya había puesto el denuncio que se la había robao, si no queda cómplice </u>
+<u valor="E" > Ya. Y cuando usted era <b>niñito</b> ¿cuál era la comida que más le gustaba? </u>
+<u valor="I1" > Ay  la comida que me daban, pan y fresco que fue lo que me crié yo </u>
+<u valor="E" > ¿La gente era muy pobre o qué? </u>
+<u valor="I1" > No si no que de que mi mamá se dejó de mi papá y entonce yo quedé solo pero yo no me gustó Santo Domingo por lo frío, muy frío y no me gustó y me vine y me decía mi papá, me decía mi papá<invcomm>vaya y dígale a su mamá que se venga</invcomm> </u>
+<u valor="E" > ¿Y por qué se dejaron? </u> 
+<u valor="I1" > Porque se <b>jué</b> con otro hombre. Yo me pongo yo a pensar digo yo cuántos hijos tuviera yo, yo viví siete años con una mujer y le hice tres hijos, y mi papá duraría cuánto con mi mamá ya tenía siete. Manuel Cabro le hizo trece, ah y tengo una tía todos todos los hijos es por E, Elbecio, Efrenia, Elisaul, Erenia, todas por E. Ella es profesora, ella crió muchos, ella fue mucho profesora en Maracay,crió, ya está <b>viejita</b> vive en los Sauzales en Mérida. Y a un tío mío, pues hermano de ella lo mataron, cónchale, se mandó a operar de la garganta, salió bien de la operación, pero mandó a cobrar, el tenía un negocio muy grande, tenía como tres cavas, Camacho, y siguiero al yerno de el pa robalo. Coño por qué no lo raban al coñomadre pa allá, vinieron a robar en la puerta del negocio, entonce mi tío como el había sido Sargento e la poicía sacó un arma, pero eso ese nunca la usaba y no le disparó, lo mataron. Y estaba joven todavía mi tío y lo vinieron a matar, no murió de la operación y lo mataron de en la puerta e la casa </u>
+
+<u valor="E" > ¿Y qué costumbres tiene la gente aquí en Las Piedras? </u>
+<u valor="I1" > Jugar trompo se acabó, jugar metra se ha acabao, bicicleta se ha acabado. Ahorita es puras motos haciendo caballito esos hijo e putas </u>
+<u valor="E" > ¿Cómo así caballitos? </u>
+<u valor="I1" > Pues en una sola rueda que andan,  ¡ay no no! mas bien no ha pasao nada aquí. No sí, sí, a un <b>chamito</b> le quitaron una pierna, los que están <b>aporriaos</b> eso es moto, otro al Gato Orlando ese está con las muletas es por eso </u>
+<u valor="" > Sí, mire, y y eso cómo antes jugaban las las las metras </u>
+<u valor="I1" > <def typ="1"><b>Las metras</b> <defcopvb lemma ="ser" pos ="VAII1S0">era</defcopvb> <rdefiniens> <b>tote y tumbe</b> decía uno o o o cuarta </rdefiniens> </def>  </u>
+<u valor="E" > Mjum </u>
+<u valor="I1" > <def typ="1">Y los trompos eran <b>las troyas</b>. Las troyas <defcopvb lemma ="ser" pos ="VAII1S0">era</defcopvb> <rdefiniens>bailando el trompo y empujándolo con el otro trompo.</rdefiniens></def> Y allá frente el llano de onde yo vivo, orita hay puras casas, antes allá lo que hacían era jugar beisbol, pero allá el que bateaba nos estábamos hasta tres días buscando una pinga e pelota pa vendésela a mi papá por un real y en el Hoyo Caliente jugaban ajilei  </u>
+<u valor="E" > ¿Qué es eso? </u>
+<u valor="I1" > <def typ="4"><b>Ajilei</b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> baraja, naipes Y entonce se ponían a jugar y la policía onde lo agarraba a uno, preso lo llevaba, era delito </def> </u>
+
+<u valor="E" > ¿Y cómo era el <b>ajilei</b>? </u>
+<u valor="I1" > Bueno pues se llegaba uno a apostar. Orita no. Aquí cerraron aquí aquí cerraron una mesa e daos, pero lo que pasó    que mataron a un chamo cerraron aquí, pero ahora la pusieron allá arriba. </u>
+<u valor="E" > Pa que maten a otro chamo </u>
+<u valor="I1" > No no, eso fue una equivocación que tuvo.  </u>
+<u valor="E" > Ay lo mataron por equivocación </u>
+<u valor="I1" > Sí por equivocación, y el chamo nunca se metía con nadie. Y en estos día, leímos el Pico Bolivar, trece trece años le metieron verdad. Ahorita estábamos hablando sobre eso. A lo mejor no ha ido cinco personas. Yo paso con el camión por allá siempre  </u>
+<u valor="E" > ¿Usted maneja? </u>
+<u valor="I1" > Sí. Lo que pasa es que se me jodió el camión pero </u>
+<u valor="E" > ¿Y qué hace usted con ese camión? </u>
+<u valor="I1" > Yo trabajo en Valencia en Tinaquillo</u>
+<u valor="E" > ¿Trabaja? ¿Allá? ¿Qué hace? </u>
+<u valor="I1" > Con acero laminao. Ahí venden de todo tipo de ferretería. Ahí cargamos como ochenta. Ahí al memos ya tengo trabajo como pal diez de enero porque ya se arregló otro camión.   </u>
+<u valor="E" > ¿Usted se va en camión para allá y viene? </u>
+<u valor="I1" > Sí, pa onde me manden. El otro día fui pa donde Simón Díaz nació pero no me acuerdo cómo es que se llama. Y Simón Díaz ahora quesque está tan viejo que lo que hace es que se pone a decir la vaca mariposa, esa fue la primera canción que el sacó chamo. El esta muy viejo y enfermo </u>
+<u valor="E" > Y la música, hablando de eso de la música.  </u>
+<u valor="I1" > Aquí están los Valero. Aquí y al lado de mi casa </u>
+<u valor="E" > Dónde viven los Valero </u>
+<u valor="I1" > En las rurales. Ese se murió de un infarto y estaba, el día antes llegó a La Mitisús a echar gasolina y quesque dijo, yo me comparo nojoda con cualquier carajito pero como dijo este, uno está vivo pero <b>jiede</b> a muerto   </u>
+<def typ="4"><u valor="E" > ¿Qué es <b>jied</b>e? </u>
+<u valor="I1" > Bueno<defop valor="dos puntos">:</defop><rdefiniens> que huele pue </rdefiniens> </u> al otro día apareció muerto </def>
+<u valor="E" > ¡Guao! </u>
+<u valor="I1" > Pero el hijo, en estos días me fui yo pa Valencia pa allá pa Tinaquillo y me prestó un sidi, naguevoná ese coñomadre, pero el carajo es carpintero, tiene muchas profesiones, no yo con esa música que tiene ese coño e verga a cantándole a Chavez así, porque es muy Chavista. No, ese tiene una música muy ccalidad   </u>
+<def typ="1"><u valor="E" > ¿Cómo así calidad? </u>
+<u valor="I1" > Bueno <defop valor="dos puntos">:</defop> <rdefiniens>bonita pue</rdefiniens> </u> </def>
+
+<u valor="E" > Ya ya </u>
+<u valor="I1" > Nauguará u rafelito jodiéndose con un pingo martillo. Yo me pusiera a artista mas bien a vender sidis. Pero, ese a las séis de la mañana empieza <onomat> run</onomat>. Dije yo, menos mal que el hijo mío. A mí se me mató un hijo en una moto; de veintitres años hace como cuatro años, se mató en la moto. Yo tuve muchas motos gracias a Dios, to estas marcas que tengo son de en moto pero nunca me enyesaron. Ahora aquí, el hijo mío se mató en una moto, iba a comprar unos becerros en Santa Bárbara de Barinas, unos becerritos iba a comprar. Tonce a mí me contaron quesque lo mataron, porque al parrillero no le pasó nada que era por robalo, no ese tenía la plata en el banco. <b>Tonce</b> un yerno mío que vive con una hija mía facturó la plata por internet y la mujer que vivió conmigo compró los becerros y cayó un rayo y los acabó, los mató a todos    </u>
+<u valor="E" > A los becerros ¿un rayo? </u>
+<u valor="I1" > Porque el hijo mío no la quería a ella  </u>
+<u valor="E" > Osea, después que su hijo se murió, sacaron la plata por internet compraron los becerros y cayó un rayo donde los tenían   </u>
+<u valor="I1" > Y los mató a todos. Como esos se amontonan cuando se acuestan, y cayó un rayo y los mató. Por eso es que uno, yo tuve un problema, yo estaba con la mujer, llegó un tipo y me abrió el cuarto y a mí me dio rabia, yo estaba leyendo el periódico que a mí me gusta leer mucho mucho. Yo estaba leyendo el periódico, menos mal que no estábamos haciendo nada pero me dio rabia y le clavé un golpe y lo tiré, sí le rompí, <b>tonce</b> el finao Américo, desde esa vez no cargó muertos yo </u>
+<def typ="4"><u valor="E" > ¿Qué es un <b>finao</b>?</u>
+<u valor="I1" > Un <b>finao</b> <defop valor="dos puntos">:</defop> <rdefiniens>pues un muerto pue  </rdefiniens></u></def>
+
+<u valor="E" > Ajá </u>
+<u valor="I1" > Entonce se ahogó. Entonce esa mañana, esa madrugada estaba yo en la casa y dije yo no voy a tomar café porque cuando estábamos abriendo el hueco  </u>
+<u valor="E" > Osea, ¿el señor se murió después que usted le dio el golpe? </u>
+<u valor="I1" > No, el hermano de el se ahogó. Tonce me fui yo pal cementerio a ayudar a abrir el hueco porque no tenía trabajo. Cuando estamos abriendo el hueco llega otro señor que trabajaba con el que eran mediandero, osea que trabajaban a medias y le picó una abeja, entonce me vine yo, aquí no habían carros. Al señor del frente yo le manejaba, no que no tengo suiche el suiche lo carga, el de la ambulancia no estaba   </u>
+<def typ=""><u valor="E" > ¿Qué es un <b>suiche</b>? </u>
+<u valor="I1" > <defcopvb lemma ="ser" pos ="VAIP3S0">Es</defcopvb> <rdefiniens>la llave de un carro, de prender</rdefiniens></u></def>
+<u valor="E" > Ah okey </u>
+<u valor="I1" > Entonce me fui y llegó una señora y se lo llevó pero ya iba muerto. Bueno y en la madrugada me paré yo pal velorio a tomar café, y cuando cuando ya sacamos al <b>finao</b> Américo huy eso sí me pesó, <b>demasiao</b> me pesó, hermano del que yo había <b>aporriao</b>, y si no fuera sido por un señor que al hijo, no hace mucho le mataron un hijo, no no lo podía. Y dije yo, no cargo más muertos así. Eso me pesó demasiao </u>
+<u valor="E" > Y eso qué quiere decir cuando...?  </u>
+<u valor="I1" > Eso sí no sé yo. Porque le pesa, porque mi abuela que era una gorda era bien gorda y dijeron que la lleven los nietos, y eso queda lejos de onde la velamos a Altamira y de Altamira al cementerio, y no pesó nada nadita </u>
+<u valor="E" > Osea que usted dice que es como raro pue que pese tanto </u>
+<u valor="I1" > Mjum, yo como le pegué al hermano será por la misma cosa la misma rabia que el me tenía porque yo había <b>aporriao</b> al hermano, entiende. Y hay otro que no me habla que es el Albino,  ese no me habla. Ahora Chui sí. </u>
+<u valor="E" > Y en el caso de, de. Usted dice que usted trabaja ahorita es viajando </u>
+<u valor="I1" > No, yo soy es chofer. Yo dejé de trabajar agricultura, me gusta mucho arrancar papa, pero yo mientras que, no pues sí le quito u garabato pa que descanse alguien pero un <b>ratico</b> así, porque me duele mucho la cintura y no, porque yo manejo desde catorce años y ahorita no, ahorita son asientos <b>alfombraos</b>, antes le acababan a uno las <b>camisitas</b> porque eran asientos de plástico; y yo desde las cinco e la mañana en veces hasta las nueve de la noche. Aquí casi nadie me conoce que soy camionero porque no me gusta ser <b>pantallero </b>   </u>
+<u valor="E" > ¿Como así <b>pantallero</b>?</u>
+<u valor="I1" > Pantallero, andar dando vueltas. Rallo un carro. Yo llego y lo guardo y salgo a pie, no no me pongo a <b>pantallar</b> por ahí</u>
+<u valor="E" > Ya ya. Bueno señor Jesús, pues muchas gracias. Muchas gracias por su colaboración </u> 
+
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LP02023- yurmari-	2014-07-15	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

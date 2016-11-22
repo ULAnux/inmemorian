@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<cesHeader type="oral" date="2012">
+<fileDesc>
+<fileGrp ID="Gastronomía">
+<file ID="AG12MX01040" MIMETYPE="audio/wav" SIZE="13230124" CREATED="2013-09-04" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:06:53 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="Inserte cantidad de participantes">
+<name type="Entrevistador" id="E1"> entrevistador no identificado</name>
+<name type="Entrevistador" id="E2"> entrevistador no identificado</name>
+<name type="Informante" id="I1"> María Oliva Parra </name>
+</group>
+</cesHeader>
+
+<comentario valor="ruidos de fondo">[se percibe el ruido de motos y otros vehículos que circulan por el lugar]</comentario> 
+
+<u valor="I1"> <inintel>...</inintel> <b> Pa dale de comer </b> a los <inintel>...</inintel> <overlap valor="E1" > ¿Ah sí? Y ¿como cuánto le duraba una cosecha?</overlap> Año a año <overlap valor="E1" > Ah le duraba todo el año</overlap> Todo el año <overlap valor="E1" ><b>Pa</b> comer,<b>pa</b> hacer arepa </overlap> <b>Pa</b> hacer las arepas criollas <inintel>...</inintel> <overlap valor="E1" > ¿Qué más? </overlap> <overlap valor="E2" > ¿Qué más? ¿Con qué más comían las arepas? osea ¿qué cultivaban pues en, y con qué acompañaban?</overlap> <b>compañabanos</b> <inintel>...</inintel> Se ordeñaban vacas, había quesos, <b>habían cuajadas</b> gallinas, de todo, carne <overlap valor="E1" > ¿Y hortalizas?</overlap> Casi no <overlap valor="E1" > No</overlap> <overlap valor="E2" > ¿Papas no? </overlap> Papas sí, papa era de ahí mano y eso que los <b>pimpollos</b> así<overlap valor="E1" > Mjum</overlap> <overlap valor="E2" > ¿Los <b>pimpollos</b>?</overlap> Sí, porque la papa <b>echa</b> con <b>pimpollos</b><overlap valor="E2" > Mjum </overlap> Se llama <b>pimpollos</b> y eso uno las tenía así <b>pue inconada</b> de papa <overlap valor="E2" > Y qué otra cosa</overlap> Y <b>orita</b> no se puede ni guardar nada porque se pierde <b>deso</b> <overlap valor="E1" > Se pierde, sí es que estas semillas de <b>orita nojo</b> son una trampa también </overlap> No y con lo, con lo químicos <b>queái</b> <overlap valor="E1" > También. Y bueno también depende de </overlap> Con los venenos que se echa a <b>perder la cosecha</b><comentario valor="música de fondo"> [Música de fondo] </comentario> Mjum <overlap valor="E1" > Y la Semilla </overlap> No la semilla no, los qui<prosodia valor="interrupt">...</prosodia> lo que, <b>toesos</b> venenos que existía <b>pa echale</b>  <overlap valor="E1" >Porque antes ¿qué papa sembraban? </overlap> Ajá, <b>antesn</b> se, se sembraba <b>papa negra</b> <overlap valor="E1" > Exacto. Y <b>orita</b> es otra papa </overlap> <b>orita</b> es otra papa pero eso <b>puro</b>, por todos los venenos. Eso no requiere que, que la semilla sea, sino los venenos, esos químicos de esos <overlap valor="E1" > ¿Qué otra cosa cosechaba además de la papa? </overlap> Se <paraverb valor="alarg">cosechaba</paraverb>, no se cosechaba zanahoria ni nada <b>deso, puras </b> papas y trigo <overlap valor="E2" >  <b>Puras</b> papas y trigo</overlap> <b>Puras</b> papas y trigo. Y había unas matas por ahí que salían que se llamaba nabo que serían esto que está aquí <overlap valor=" E1" > Ajá, ¿qué hacen con eso? </overlap> Eso <prosodia valor="slow"> ¡<b> pa comer mijito! </b> </prosodia> Y <b>deso</b> es lo que se saca el <inintel>...</inintel><overlap valor="E2" > Ajá, ¿del nabo? </overlap> Del nabo, se deja <b>jechar</b> y después se desgrana y se <b>porfea</b> bien <b>porfiao</b> y después se tuesta y se arregla y eso es una comida <b>pa</b> <prosodia valor="interrupt">...</prosodia> <overlap valor="E2" > Y ¿le ponen sal, no? </overlap> Un poquito <b>e</b> sal, se aliña con, con <inintel>...</inintel>  <overlap valor="E2" > Y se comía con la...</overlap> Con la arepa, con la papa, <overlap valor="E2" > la papa sancochada </overlap>. Y. y el, la hoja del nabo, eso se, se traía, se lavaba bien <b>lavao</b>, se picaba, se ponía a cocinar y eso era un <b>pasaje pa</b> uno, mjum, excelente. Usted se le ponía un plato <b>desos</b> y usted <b>je</b> lo comía tranquilamente sin <aproximd> esculco </aproximd> de nada. </u> 
+
+<u valor="I1" > Yo tenía un primo que vivía en Valencia, cada vez que venía <inintel>...</inintel> un poco <b>e</b> nabo y me ponía a <b>buscalo</b>, yo lo busco <inintel>...</inintel>   Y, y ese se llevaba un pote, llevaba una potada <b>pa llevale</b> allá a  la familia y <invcomm> esa es la comida del pobre</invcomm> <b>dicía</b>.</u> 
+
+<u valor="E2" > Y hasta qué edad usted recuerda así que cosechaban <b>papa negra</b> <overlap valor="I1" > Toda la vida, toda mi vida <b>jue</b> eso</overlap> Si, pero ya <b>orita</b> no, no cosechan <overlap valor="I1" > No, porque mis hijos son los que trabajan</overlap> ¿Y ellos siembran papa negra? <overlap valor="I5" > Papa,no, papa negra no, <inintel>...</inintel> porque esa papa negra se sembraba por allá <b>pa</b> lo alto </overlap> ¿<b>Pa</b> donde? <overlap valor="I1" > <b>Pa</b> la loma por allá</overlap> Mjum.</u>
+
+<u valor="I1" > Los muchachos siembran pero en otra clase de colina.<prosodia valor="pause">...</prosodia> Uno <b>maletiaba</b> por todo eso que <b>usté</b> ve por allá mire, andaba yo por todo eso, atrás de, con mi papa  <prosodia valor="pause">...</prosodia> Cuando tenía mi esposo andaba por allá <b>tamién</b>, trabajando,ayudando <b>poa</b> a trabajar, a mi me gustó <b>puro</b> trabajar.</u>  
+
+<u valor="E2" > Y antes de que esta<prosodia valor="interrupt">...</prosodia>, de que hubiera ese poco de parcelas, qué, ¿qué se veía ahí? ¿Qué árboles se veían ahí? <overlap valor="I1" > No, no habían árboles </overlap>¿No? <overlap valor="I1" >eso es baldío, eso era <aproximd><b>pa trigo</b>, eso es  <b>pa trigo</b></aproximd></overlap> <comentario valor="Alguien entra"> [Una joven entra e interrumpe la conversación]</comentario> Buenas <overlap valor="E2" > Buenas</overlap> <overlap valor="I1" > ¡Hola! Dios la bendiga. <b>toeso</b> era de sembrar, <b>toeso</b> que usted ve allá era de sembrar</overlap> Siempre ha sido <b>pa</b> sembrar<overlap valor="I1" > Todo era eso de sembrar</overlap> ¿Arbejas no sembraban también? <overlap valor="I1" >Sí sembraban</overlap>¿Y las habas? <overlap valor="I1" >  También Y la cebollina </overlap>  ¿Y la alcachofa?<overlap valor="I1" > No</overlap> ¿No? <prosodia valor="pause">...</prosodia> </u>
+
+<u valor="I1" > Uno no quiere que los niños <paraverb valor="alarg">sean</paraverb>, se aficionan a las cosas que deben <prosodia valor="pause">...</prosodia> como <inintel>...</inintel> en el trabajo que esos no están por ahí</u> 
+
+<u valor="E2" > Y ¿Qué le dice usted a esas personas que, que hoy dice, como usted dice, se cruzan los brazos a esperar que todo le traigan? <overlap valor="I5" > Bueno, bueno, hay que trabajar porque hay que buscar <prosodia valor="interrupt">...</prosodia> </overlap> Producir lo que uno come, vestirse con lo que uno hace <overlap valor="I1" > Claro porque de ahí tiene uno <b>pa vestise</b>, <b>pa</b> comer, salir y <b>toeso</b>, ¡tener! , ¿no es así? </overlap> Claro. Sí, <overlap valor="I5" > A uno lo acostumbraron a trabajar y a, a tener sus cosas, pues uno también tiene que <b>decile</b> a los, <b>a lo menos</b> a su familia. Porque hoy es un día y mañana es otro día. Hoy ya lo vimos ¿verdad? y mañana no sabemos. Amanecemos en lo claro o no amanecemos o  se ven luces o cosas así o cómo se va a llegar el día.</overlap> ¿Qué tal? es muy bonito este sitio ¿no? <overlap valor="I5" > Bueno aquí se vive tranquilo, gracias a Dios.</overlap> Es agradable. <overlap valor="I5" > no porque es el  partido de uno o pueblo de uno pero, aquí estamos bien. </overlap> y por lo menos agua tienen todo el tiempo<overlap valor="I5" >Sí</overlap> Hay otros sitios en los que no <overlap valor="I5" > Que falla el agua</overlap> Lo fuerte aquí también <paraverb valor="alarg">es</paraverb> el frío a veces <overlap valor="I5" > Bueno pero eso se acostumbra uno. Es como todo, uno va <b>pa</b> la tierra caliente y le pega unos días, después que, normaliza ¿verdad? Así mismo es con el frío, ya ocho días y ya está listo con el frío, después ya se tranquilizan gracias a Dios</overlap></u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	Comentario
+
+AG12MX01040	yurmari	2013-09-04	Marcado	Transcripción hasta min 000:04:45 aprox
+
+AG12MX01040	yurmari	2013-09-05	Marcado	finalizado. Falta revisión con editor XML
+
+</versiones>
+
+</doc>

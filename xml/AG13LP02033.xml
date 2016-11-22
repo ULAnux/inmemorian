@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Gastronomía">
+<file ID="AG13LP02033" MIMETYPE="audio/wav" SIZE="1404234 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:02:55 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Elda Rosa Santiago. Señora de 56 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Hoy treinta de diciembre de dos mil trece estamos en la Parroquia Las Piedras del municipio Cardenal Quintero con la Señora Elda Rosa Santiago. ¿Qué edad tiene usted señora Elda?  </u>
+<u valor="I1" > <b>Cincuentiséis</b> </u>
+<u valor="E" > Cincuenta y séis años. Y ¿ha vivido toda su vida acá en Las Piedras? </u>
+<u valor="I1" > Sí, toda la vida, en el caserío Las Quintas </u>
+<u valor="E" > En el caserío Las Quintas. Okey, señora Rosa, yo quiero que conversemos sobre la diferencia que existe entre la vida de antes con la vida de ahora. Por ejemplo, en cuanto a la alimentación, ¿qué se comía ante? </u>
+
+<u valor="I1" > Arepa de maíz, sopa de trigo, papas cocidas, yn otras cosas </u>
+
+<u valor="E" > Ajá. y hoy día ¿qué diferencias ve?   </u>
+
+<u valor="I1" > Bastantes porque los alimentos de ahora son puros enlatados, carnes, que antes no se comía casi carne </u>
+
+<u valor="E" > Ah Okey. Y en las fiestas, ¿qué se acostumbra? ¿qué se acostumbraba a comer antes en las celebraciones? </u>
+
+
+<u valor="I1" > <def typ="3">  <ldefiniens>  ¡Dulces! <examkr valor="por decir algo"> Por decir algo </examkr>  </ldefiniens> <defdum><b>curruchete</b> </defdum> </def>  </u>
+<def typ="3"> <u valor="E" >  Ajá, qué es el <defdum><b>curruchete</b></defdum> </u>  <u valor="I1">  <rdefiniens file="curruchete.png" source="http://nux.ula.ve">Ah, ese se hace de queso con panela </rdefiniens> </u> </def> 
+<u valor="E" > mjum, de queso con panela. Okey ¿Qué más? </u>
+
+<u valor="I1" > Hallacas, carne asada, bebidas </u>
+
+<u valor="E" > ¿bebidas como cuáles? </u>
+
+<def typ="4"><u valor="I1" > <examkr valor="como"> como vinos, mistela, de eso que <defmetalvb lemma ="Llamar" pos ="VMII3P0">llamaban</defmetalvb> <defdum><b>leche e burra</b></defdum> <rdefiniens file="leche_e_burra.jpeg" source="http:/nux.ula.ve"> que ahora se conoce como <b>ponche e crema</b></rdefiniens></examkr> </u>
+<u valor="E" > Ajá y ¿cómo se prepara eso? </u>
+<u valor="I1" > Antes se preparaba con huevos y y y y lecha condensada y miche </u> </def>
+
+<u valor="E" > Okey. Y ¿qué era lo que más le gustaba comer a usted cuando era niña?  </u>
+<u valor="I1" > <b>Curruchete</b> </u>
+<u valor="E" >  <b>Curruchete</b>. Preparaba mucho su mamá el curruchete. Y para qué fecha específicamente se prepara el <b>curruchete</b> aquí? </u>
+<u valor="I1" > <b>Pal</b> veinticuatro de junio o el treinta de agosto, día de San Juan y de Santa Rosa y el veintinueve de junio, fiesta San Pedro y San Pablo </u>
+<u valor="E" > Y en Semana Santa ¿qué se prepara aquí?  <overlap valor="I1" > ¿Ahora? </overlap> Antes, antes </u>
+<u valor="I1" > Antes, arroz con leche, pan se hacía pan, sopa de con <b>pescao</b> de <b>alverja</b> y pastas y otros </u>
+<u valor="E" > jum. Y hoy día  ¿igual? </u>
+<u valor="I1" > Casi igual pero ahora es, se prepara dulce de de higo, de de de lechoza y otros </u>
+
+<def typ="1"><u valor="E" > Mmm. Y ¿qué es el higo? </u>
+<u valor="I1" > <defdum>El higo </defdum>eso <defcopvb lemma ="Ser" pos ="VAIP3S0"> es </defcopvb> <rdefiniens file="higo.jpeg" source="http://nux.ula.ve">de una mata que que echa unos frutos y se rajan y se preparan</rdefiniens> </u> </def>
+<u valor="E" > Okey. Y ahorita esta época decembrina, ¿qué preparan?  </u>
+<u valor="I1" > Hallacas y bebidas  </u>
+<u valor="E" > ¿bebidas como cuáles?   </u>
+<u valor="I1" > <examkr valor="como"> como ponche y y vino</examkr> </u>
+<u valor="E" > Vino. ¿Los vinos los preparan aquí mismo?  </u>
+<u valor="I1" > No, no  </u>
+<u valor="E" > No, Okey  </u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AG13LP02033 - yurmari-	2014-04-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

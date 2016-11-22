@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="video" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID=" VZPTE015PL13" MIMETYPE="video/movie clip (.mpg)" SIZE=" 202459136 " CREATED="2014-10-14" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:04:03</extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="08">
+<name type="entrevistador" id="E"> Nestor Bravo </name>
+<name type="Informante" id="I1">Karen Andreina Santiago </name>
+<name type="Informante" id="I2"> Antonio Álvarez   </name>
+<name type="Informante" id="I3">María Edelmira Perdomo de Álvarez</name>
+<name type="Informante" id="I4"> Carmen Perdomo de Bravo </name>
+<name type="Informante" id="I5"> Petra Santiago de Perdomo </name>
+<name type="Informante" id="I6"> José María Briceño </name>
+<name type="Informante" id="I7"> Mary Perdomo </name>
+
+
+
+
+</group>
+</cesHeader>
+
+
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+
+
+
+
+<u valor="I1" > Buenas tardes, mi nombre es Karen Andreina Santiago. <def typ="1"> Me están preguntando la palabra <b> me topé </b> que <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> me tropecé </rdefiniens>  </def>  </u>
+
+<u valor="I2" > Yo me llamo Antonio Álvarez.¿ <def typ="1"> Qué significa la palabra <b> me topé </b>?. <b> Me topé </b>para mí <defcopvb lemma ="ser" pos ="VAIP3S0">  es </defcopvb> <rdefiniens> una, algo <examkr valor="como">como</examkr> encontrarse con una persona </rdefiniens> </def>  </u>
+
+<u valor="I3" > Bueno mi nombre es María Edelmira Perdomo de Álvarez y <def typ="1"> la pregunta que me están haciendo es <b> me topé </b>.  <b> Me topé </b> <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb>  <rdefiniens> <b> Me topé </b> con algo, <b> Me topé </b> con un toro o <b> Me topé </b> con un amigo </rdefiniens> </def>  </u>
+
+<u valor="I4" > Mi nombre es Carmen Perdomo de Bravo y <def typ="1"> acá me están entrevistando, me preguntan ¿qué significa la palabra ? <b> topé </b> en el lenguaje pueblo llanero pero yo creo que <b> topé </b> <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb>  <rdefiniens> me encontré algo porque si uno se pone a ver lo que es el tope ya es otra cosa, pero el <b> topé </b> acentuado significa me encontré algo   </rdefiniens> </def>  </u>
+
+
+<u valor="I5" > Mi nombre es Petra Santiago de Perdomo. <def typ="1"> <b> Me topé </b> <mkr> bueno cuando </mkr> <rdefiniens> se encuentra con una persona </rdefiniens> </def>  </u>
+
+
+
+<u valor="I6" > Buenas tardes, mi nombre es José María Briceño.Me hacen una pregunta sobre la palabra <b> Me topé </b>  <def typ="1"> <b> Me topé </b>  y <b> me topé </b>para mí <defcopvb lemma ="ser" pos ="VAIP3S0">  es </defcopvb> <rdefiniens> encontrarme con alguien o haber chocado con alguien con una amistad vieja </rdefiniens> </def>  </u>
+
+
+<u valor="I7" > Hola buenas tardes, mi nombre es Mary Perdomo, me hacen una pregunta de qué significa la palabra <b> Me topé </b>. Para mí  <def typ="1"> <b> me topé </b>  <defcopvb lemma ="ser" pos ="VAIP3S0">  es </defcopvb> <rdefiniens> me encontré algo </rdefiniens> </def>  </u>
+
+
+
+<u valor="I1" > <def typ="1"> <b> Derecho </b> <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> que como uno se encuentra algo, se gana ¡Ah sí es derecho! </rdefiniens> </def> </u>
+
+
+<u valor="I2" > <def typ="1"> La palabra <b> Derecho </b> para mí  <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> de cuando uno tiene mucha suerte  </rdefiniens> </def> Eso significa  <b> derecho </b> para mì </u>
+
+<u valor="I3" > <def typ="1">  <b>Derecho </b> <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> aquì en Pueblo Llano se le dice <b>derecho </b> cuando a mì me va muy bien en algo que estoy haciendo </rdefiniens> </def> </u>
+
+<u valor="I4" > <def typ="1">  Ah tambièn me preguntan què significa la palabra <b>derecho </b>. Eh tiene distintas acepciones. Eh en este caso en el lenguaje pueblo llanero  <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> que tiene mucha suerte  </rdefiniens> </def> </u>
+
+
+<u valor="I5" > <def typ="1"> <ldefiniens>Bueno cuando a uno le va bien en una cosa</ldefiniens> dice que <defcopvb lemma ="ser" pos ="VAIP3S0">  es </defcopvb> <b>derecho </b>, ¡ Ay sì es <b>derecho </b> fulano! </def>   </u>
+
+<u valor="I6" > <def typ="1"> La palabra <b>derecho </b>, que le digan a alguien: este sí es <b>derecho </b> <defcopvb lemma ="ser" pos ="VAIP3S0">  es </defcopvb> <rdefiniens>que ha nacido enmantillado, con muchísima suerte</rdefiniens>  </def>   </u>
+
+
+<u valor="I7" > <def typ="1"> <b> Derecho </b> <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> que como uno se encuentra algo, se gana ¡Ah sí es derecho! </rdefiniens> </def> </u>
+
+
+
+<u valor="I8" > La otra es <def typ="1"> <b> sí es derecho </b>. Para mì eso  <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> ¡sì es suertudo! Una persona con suerte </rdefiniens> </def> </u>
+
+<u valor="I1" > <def typ="1"> Y <b> fachoso </b> <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> cuando uno es muy pero muy <b> fachoso </b>, que se pinta y todo eso </rdefiniens> </def> </u>
+
+<u valor="I2" > <def typ="1"> Bueno la palabra <b> fachoso </b> <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> ser vanidoso, sí </rdefiniens> </def> </u>
+
+
+<u valor="I3" > <def typ="1"> Bueno <b> fachoso </b> aquì al estilo de Pueblo Llano  <defmetalvb lemma ="significar" pos ="VMIP3S0"> significa</defmetalvb> <rdefiniens> una persona vanidosa, pretenciosa </rdefiniens> </def> </u>
+
+
+<u valor="I4" > <def typ="1"> Ah en cuanto a la palabra <b> fachoso </b> eso <mkr> se refiere </mkr><rdefiniens> a una persona pretenciosa, vanidosa </rdefiniens> </def> </u>
+
+<u valor="I5" > <def typ="1"> <b> fachoso </b> que <defcopvb lemma="ser" pos="VAIP3S0"> Es </defcopvb> <rdefiniens> pretencioso </rdefiniens> </def> </u>
+
+
+<u valor="I6" > <def typ="1"> Y la otra palabra que es la palabra <b> fachoso </b> pues <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que es más creída que los demás y muy mentiroso  </rdefiniens> </def> </u>
+
+
+
+<u valor="I7" > <def typ="1"> La otra pregunta es <b> fachoso </b> La palabra <b> fachoso </b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que es creída  </rdefiniens> </def> </u>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+VZPTE015PL13	 yurmari-	2014-10-14	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

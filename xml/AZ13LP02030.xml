@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LP02030" MIMETYPE="audio/wav" SIZE="1639370 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:03:24 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora Bárbara Gonzalez Vergara de 84 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Señora Bárbara y ¿de qué religión es usted?</u>
+
+<u valor="I1" > ¿De qué religión? Ay, eso si no me acuerdo. Católica, ah no, eso sí es verdad, católica que bueno <b>pue</b>. Ahora la llevo <b>pa</b> mi cuarto que allá sí tengo santos yo   </u>
+<u valor="E" > Mjum. Y ¿usted acostumbra a ir a la iglesia?</u>
+
+<u valor="I1" > También voy. pero ahora no he vuelto a ir porque no puedo caminar</u>
+
+<u valor="E" > No puede caminar</u>
+
+<u valor="I1" > No, me duelen mucho lo pies, más nada</u>
+
+<u valor="E" >  Mjum. Y ¿qué actividades?, cuando usted asistía a la iglesia, ¿qué actividades realizaban allí? </u>
+
+<u valor="I1" > Muchas cosas  </u>
+
+<u valor="E" > muchas cosas, ¿como cuáles?</u>
+
+<u valor="I1" > Yo ya se me olvidó <comentario valor="risas"> [risas] </comentario> </u>
+
+<u valor="E" > Bueno, ¿en en en honor a qué santo le hacen fiestas aquí en Las Piedras? señora Bárbara? </u>
+
+<u valor="I1" > La virgen de Coromoto, la Virgen del Rosario,   </u>
+
+<u valor="E" > ¿A cuál otra? Y ¿cómo se hacían esas celebraciones? ¿Cómo se hacen? </u>
+
+<u valor="I1" > Yo se me ha <b>olvidao</b> ya </u>
+
+<u valor="E" > Mmm, Okey. Y aquí hay alguna leyenda sobre algúan espanto, alguna aparición, ¿se sabe alguno?  </u>
+
+<u valor="I1" > No, eso sí no <comentario valor="risas"> [risas] </comentario>  </u>
+<u valor="E" > ¿No, nada? No ha oído algún cuento sobre alguna aparición? ¿nada, nada, nada? </u>
+<u valor="I1" >No</u>
+<def typ="2"><u valor="" > Y aquí ¿qué se acostumbra a hacer cuando nace un bebé? </u> 
+<u valor="I1" > Tomar mistela </u> 
+<u valor="E" > <defdum>¿Mistela? </defdum>  </u> 
+<u valor="I1" > Ah bueno, <prosodia valor="up">eso es lo que se toma</prosodia> </u> 
+<u valor="E" > Y ¿qué <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> la mistela?  </u> 
+<u valor="I1" > <rdefiniens file="mistela.jpg" source="http://canelitayazafran.blogspot.com/2015/10/mistela-andina.html">Con miche,<comentario valor="risas"> [risas] </comentario>  Miche y panela. Yo no tomo de eso, yo no tomaba de eso</rdefiniens> </u> </def>
+<u valor="E" > No tomaba, y cuando daba a luz ¿tampoco?</u>
+<u valor="I1" > No, la otra gente sí pero yo no</u>
+<u valor="E" > Y ¿por qué se acostumbra la mistela? que...</u>
+<u valor="I1" > <prosodia valor="up">Yo que sé</prosodia> </u>
+<u valor="E" > No sabe </u>
+<u valor="I1" > Cosas de la gente, que acostumbra la gente. Yo si no tomé de eso, nunca </u>
+<u valor="E" > Mjum, bueno. Y aquí, en la actividad de la agricultura qué animales utilizan? señora Bárbara </u>
+<u valor="I1" > Las gallinas, esas así me gustan las gallinas, yo gatos porque, este porque es muy consentido</u>
+<u valor="E" > Mjum, Okey. Y en la actividad de la agricultura, la actividad de la agricultura, cómo la ve usted hoy día? ¿Es igual a la de antes? </u>
+<u valor="I1" > No </u>
+<u valor="E" > ¿No? ¿Cómo era antes? </u>
+<u valor="I1" > Antes era demasiao serio, ahora no, aora es una cosa linda</u>
+<u valor="E" > Y ¿Qué animales? ¿Antes había los mismos animales que ahora? </u>
+<u valor="I1" > Mmm, cabros, vacas, más nada</u>
+<u valor="E" > Mjum. Y ¿Qué ramas utiliza usted para curarse alguna enfermedad? </u>
+<u valor="I1" > La, la vaina esa, cómo es que se llama, eneldo, manzanilla, hinojo, el orégano </u>
+<u valor="E" > Mjum. Y ¿hay alguna planta venenosa por aquí? </u>
+<u valor="E" > No, no </u>
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LP02030 - yurmari-	2014-04-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+
+</doc>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2014">
+<fileDesc>
+<fileGrp ID="Salud">
+<file ID="AS14SD01059" MIMETYPE="audio/wav" SIZE="7583690 " CREATED="2015-05-05" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:15:47 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Santo Domingo Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Zoraida Hernández  </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Bien, hoy es veinte de noviembre del año 2014. Estamos en Santo Domingo con la señora Zoraida Hernández. Ella es hija del llamado <b>sobandero de la cordillera</b>  :  el señor José Domingo Hernández.   La señora Zoraida tiene un conocimiento bastante importante aquí en la zona y es el de curar a las personas que tienen dolores y otras cosas <overlap valor="I1" > luxaciones, y en los huesos </overlap> a través del método del sobo, ¿lo llaman así el sobo o la soba? </u>  
+<u valor="I1" > <b>Sobar </b>,  imponer las manos y <b>Sobar </b> </u>  
+<u valor="E" > ¿De dónde tiene usted ese conocimiento señora Zoraida? </u>  
+<u valor="I1" > De mi padre, ajá </u>  
+<u valor="E" > Okey. ¿Cómo era su papá?... </u>  
+<u valor="I1" > O sea, yo aprendí de él cuando yo era niña, yo era la persona que le ayudaba a el, el me decía <invcomm> venga ayúdeme aquí, eh venga usted acomode aquí, aprenda porque cuando yo me muera  </invcomm>.. y entonce ve, así. ¡Eso es un don!</u>  
+<u valor="E" > .Sí. Y ¿en qué consiste la soba el <b>Sobar </b>?.. </u>  
+<u valor="I1" >  Bueno, <def typ = "1"> ..el <defdum><b>Sobar </b></defdum>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens file="sobar.jpg" source="http://nux.ula.ve">como dar un tipo de masaje, se coloca una cremita, es dar unt ipo de masaje en el lugar o en la coyontura que </rdefiniens></def>.<def typ = "1"> ..el <defdum><b>coyontura </b></defdum>  decimos aquí, o sea <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens file="coyontura.png" source="http://nux.ula.ve"> se llama articulaciones pero el léxico de acá es <b>coyontura</b>  </rdefiniens></def>. </u>  
+<u valor="E" > Genial. ..Y la crema tiene que ser especial. </u>  
+<u valor="I1" > No, no, .pero sí, hay una crema que se llama Victoria  que es la que yo uso para dar los masajes, esa se conoce a nivel nacional  y hasta mundial si le digo porque  hay un señor que está en Canadá que el viene y entonce me dice que él usa eso también allá porque el también da masajes así .. </u>  
+<u valor="E" > Ah, qué interesante.qué interesante ¿Y de su papá  qué recuerda?... </u>  
+<u valor="I1" > De mi papá, bueno, todo, todo porque la verdad que el hace, qué le digo, veintitrés años murió,  pero yo lo recuerdo como, igualito, o sea cuando llegaba muchísima gente a sobarse, eh bueno y a toda la gente el curaba.  </u>  
+<u valor="E" > ¿Solamente con <b>sobas</b> o les hacía otra cosa?... </u>
+<u valor="I1" > No, el imponía sus manos y, solamente, no ahí no vamos a meter que ique secretos que nada de eso, no.</u>
+ <u valor="E" > ¿Y qué tipo de enfermedades o de lesiones traía la gente?... </u>
+<u valor="I1" > -Eh: Fracturas, eh esguinces, meniscos de la rodillas corridos, columnas con hernias, columnas con desgastes. Este ... </u> 
+<u valor="E" > ¡Guao!..¿Y para todo eso existe una? Un tipo de <b>soba</b> </u>
+<u valor="I1" > Un tipo de <b>soba</b>, ajá.  </u>
+<def typ = "1"> <u valor="E" > ¿Cuántos <defdum>tipos de <b>soba</b></defdum> existen? </u>
+<u valor="I1" > Bueno <defop valor = "dos puntos">:</defop> <rdefiniens file="sobar.jpg" source="http://nux.ula.ve"> las hay de la columna, hay del hombro cuando se sale el <b>manguito rotador</b>, lo eh la parte esta cuando hay  la cuestión esta del tunel carpiano que a veces uno cree que es de <b>soba </b> y no es de <b>soba</b> porque cuando es aquí es nervio ya y <b>entonje</b> hay que operar </rdefiniens>  </u>    </def> 
+<u valor="E" > Ah. hay una cosa que le sale a uno... </u>
+<def typ = "1"><u valor="I1" >  Ah esos <defcopvb lemma="ser" pos="VAIP3P0">son </defcopvb>eh, aquí les decimos <defdum><b>gomas </b></defdum>, aquí eso se le dice <b>gomas </b> pero <rdefiniens file="goma.jpg" source="http://nux.ula.ve">eso para poderlo, o sea, eso según antes. Mi padre decía que eso con con con la saliba de una mujer primeriza en embarazo se curaba</rdefiniens>. No sé qué hay de cierto en eso </u>
+<u valor="E" > <b>Sobao</b> con eso... </u> </def>
+<u valor="I1" > Igual mi padre hacía otra cosa, mi padre curaba eh la mal llamada  este <b>culebrilla.</b>.y yo la curo también. </u>
+<u valor="E" > Y ¿cómo es eso la <b>culebrilla.</b> ? </u>
+<def typ = "1"><u valor="I1"> La <defdum><b>culebrilla</b></defdum><defcopvb lemma="ser" pos="VAIP3S0">es </defcopvb> <rdefiniens file="culebrilla.png" source="https://es.wikipedia.org/wiki/Archivo:Herpes_zoster_chest.png">como una erupción en la piel  y sale en la espalda y se hace se va formando como como una culebra, y si esas dos cabezas se unen, la gente se muere se moría, decía mi padre, no sé. Pero esa se cura, se cura con mire, se cura con yodo, se cura con una mata que hay aquí que se llama <b>hierba mora</b> que son unas pepitas, uno la tritura con eso y busca una pluma de una gallina negra y escribe: <b> culebrilla, culebrilla, culebrilla</b> y eso se quita</rdefiniens>  </u>
+<u valor="E" > ¿Pero cómo se escribe?  <b>culebrilla</b> así </u>
+<u valor="I1" > Ajá, <b>culebrilla.</b> sobre la, con la pluma, usted mete dentro del <b>aguita </b>..esa y va escribiendo <b>culebrilla, culebrilla</b>.Eso con ningún sentido de brujerías, nada. Eso es natural   </u> </def>
+<u valor="E" > Ancestral, conocimiento ancestral. ¡Qué interesante!   </u>
+<u valor="I1" > ¡Eso se cura!</u>
+<u valor="E" > ¿Y esa yerba mora es qué ?... </u>
+<u valor="I1" >  Eso es muy bueno, <def typ = "1"> <defdum><b>yerba mora</b></defdum> <defcopvb lemma="ser" pos="VAIP3S0">es </defcopvb> <rdefiniens file="hierbamora_yves_jacquelin.png" source="http://hera.ugr.es/tesisugr/20081200.pdf"> una mata que se da en el monte aquí,  pero eso es eso para bañar los niños cuando los niños les salen erupciones en la piel, buenísimo, para bañarlos cuando tiene sarampión, cuando, buen´simo. hay que triturarlo, machacarlo, la <b>aguita </b>se se exprime, y el <b>aguita </b>es la que sirve para curar  todo ese tipo de enfermedades en la piel, erupciones y eso</rdefiniens>.</def>.. </u>
+<u valor="E" > Mmm, interesante, interesante. Y en el caso de la de las <b>sobas</b> porque, mi abuelo tambi[en era <b>sobandero</b> pero hace los siglos de Matusalén </u>
+<u valor="I1" > Ajá, bueno yo porque porque heredé eso de mi padre porque tengo dos hermanos más .y ellos no lo hacen ese tipo de no lo hacen, o sea, de repente ella pero no no </u>
+<u valor="E" > ¿Y usted tiene hijos?... </u>
+<u valor="I1" > Y una de mis hijas le gusta, ajá..es la qu lo hace, lo hace cuando yo no estoy creca, ella lo hace. </u>
+<u valor="E" >Para que eso se mantenga, es importante </u>
+<u valor="I1" > Para que eso se mantenga sí. Sí, y eso mire eso me llega mucha gente, aquí y en<b>tos laos </b> Pero miro, yo todo lo miro con rayo X o con resonancia, yo no miento porque no miento, o sea, porque solo Dios es el que sabe. mas Dios pone su don sobre uno, sobre cada ser humano, a cada ser humano Dios le da su su su don. Todos tenemos un don </u>
+<u valor="E" > Claro, eso es así... </u>
+<u valor="I1" > Que el mío es este ,pues lo desarrollé, también mi trabajo porque yo estudié y .la cosa, pero éste es.. </u>
+<u valor="E" > ¿Usted estudió esto, Hotelería?... </u>
+<u valor="I1" > .Yo estudié Administración.. </u>
+<u valor="E" > Ah okey, ¿en la ULA?... </u>
+<u valor="I1" > No, yo estudié Administración, yo soy TSU cuando el IUTE, ajá, hace, sí ... </u>
+<u valor="E" > Bien. Y señora Zoraida, este, ¿qué otras plantas se pueden utilizar en el caso de <b>sobar</b> y esas cosas? </u>
+<u valor="I1" > En el caso de <b>sobar</b> se pueden utilizar .este que yo para desinflamar cuando la parte está cuando la luxación es muy fuerte, por lo menos la parte de la rodilla  se coloca eh la raíz del perejil, pero se calienta, se coloca en forma de compresa o cataplasma también, se coloca también el el , ay, no recuerdo ahorita, ah, el mango, <def typ ="1"> <defdum><b>cogollos de mango</b> </defdum>> tiernitos, que esté, <b> cogollos</b> <defcopvb lemma="ser" pos="VAIP3P0">son </defcopvb> <rdefiniens file="Cogollo_de_mango_Vida_a_lo_verde.jpg" source="http://mplantasyvida.blogspot.com/2013/06/cogollos-de-mango-para-aliviar-el-dolor.html"> así <b>chiquiticos</b> , o sea, la semillita pue, empezando a hacerse mango, pero aquí se le dice cogollo pue </rdefiniens> </def>, </u>
+<u valor="E" > Sí, eso lo están recomendando ahorita tomado para la Chikunguya.</u>
+<u valor="I1" > Ah fíjese, entonce no le estoy diciendo mentiras. Eso yo lo recomiendo para colocarlo en dos litros de agua, eso va a hervir con <b> jabón azul</b>,  un cuarto de <b> jabón azul</b> obviamente limpio, recién compardo, se deja mermar.a un litro, se mete dentro de una botella debidamente ya esterilizada, y se va a colocar en la pierna, o sea, pongamos la pierna, se va a dar masaje .. </u>
+<u valor="E" > Con eso, con esa botella caliente... </u>
+<u valor="I1" > Caliente a lo que se aguante, ajá... </u>
+<u valor="E" > ¿Y qué efecto tiene el <b> jabón azul</b>en ese caso? ... </u>
+<u valor="I1" > ¡Para que usted vea! Porque <def typ = "1"> el <defdum><b> jabón azul</b>  </defdum>><defcopvb lemma="ser" pos="VAIP3S0">es </defcopvb> <rdefiniens file="jabonazul.jpeg" source="http://nux.ula.ve"> un antiséptico A número uno. El de las LLaves más que todo.Imagínese, de repente a una persona cuando uno tiene una cuestión, una herida fuerte, ¿qué dicen? Lavalo con jabón azul ¿verdad?.Cuando las mujeres paren y eso, lávalas con jabón azul.</rdefiniens> </def>. </u>
+<u valor="E" > Sí, es verdad. Y en el caso de las mujeres embarazadas, ¿usted las trata a ellas también? ... </u>
+<u valor="I1" > No, cuando ellas están de repente hace personas que cuando el embarazo la columna se hace escoliosis, <def typ = "4"> <defdum><b>escoliosis</b> </defdum>> <defcopvb lemma="ser" pos="VAIP3S0">es </defcopvb> <rdefiniens file="escoliosis.jpg" source="http://nux.ula.ve"> torcía </rdefiniens></def>, yo me sé to esos términos,  y ellas Ay me duele porque el peso, y yo les digo, pero es que para sobarla así no puedo, pero deme un pequeño masaje, bueno se le da,  ... </u>
+<u valor="E" > Pero en el caso de los embarazos como antes hacían las abuelitas que .si el muchacho venía atravesado.. </u>
+<u valor="I1" > ¡Ah de eso sí no sé yo! Eso no, yo solamente lo que son articulaciones, o sea, huesos. Y en ese caso la cuestión de la <b>culebrilla </b>, eso porque yo veía a  mi padre haciendo eso, y aprendí pue </u>
+<u valor="E" > ¿Y se le ha quitado a la gente que usted ha tratado </u>
+<u valor="I1" > Ajá, inclusive turistas que  cuando yo estaba en La Sierra, me mandaron uno del Hotel la Trucha Azul, una señora que estaba malísima, y quedó muy bien </u>
+<u valor="E" > ¿En cuánto tiempo se cura eso. </u>
+<u valor="Ï1" > Como en tres días, haciéndole la cura los tres días. .Mjum.. </u>
+<u valor="E" > ¡Imagínese! .Y en el caso que por ejemplo, una persona que tnga, que se doble un tobillo como le dicen.. </u>
+<u valor="I1" > .Ah eso es una luxación, pero doblar, eso es luxación, o que pasa es que en los términos nuestros de acá del páramo pues es doblar. </u>
+<u valor="E" > Mjum. ¿Y usted utiliza vendajes?.... </u>
+<u valor="I1" > Sí. Hay, hay. Por lo menos yo tengo mi anécdota. Yo me fracturé la tibia, yo me la fracturé. Iba caminando, no sé cómo pisé, cargaba un <b>taconcito</b> más o menos como así, y di aquí y regresé el cuerpo verdad, se me partió la tibia, yo ni cuenta me dí, pero el dolor eh fue tremendo. ¿Qué hice? Llegué  a mi casa, busqué la muchacha que yo le digo que le gusta sobar, yo le dije venga ayúdeme, me dijo ¿qué paso?, yo creo que me fracturé esta pierna le dije, me dijo sí, pero no se le ve, no, dejamos quieto, yo esa noche no pude dormir. Al otro día eso me dieron ganas de hacer pipí, pupú, vómitos, todo al momento, si le digo que estaría a una cuadra de mi casa donde me pasó y tardé como una hora para llegar a mi casa porque no aguantaba el dolor. Bueno, yo continué caminando normal, porque, la tibia se partió, <onomat > ¡pah!. </onomat>completica, yo andaba y caminaba así, pero ¡el pie era así mire! Bueno, yo trabajé así, ya por último como ya no aguantaba y como ese Hotel La Sierra es puras escaleras, subir y bajar, subir y bajar, claro a medida que yo fui, la fractura era poquita, se partió, pero a medida que yo fui caminando, duré casi un mes caminando la fractura se abrió completo, el hueso se partió completo. Me tuvieron que llevar al médico. El médico, llega y le dice la Directora del hospital , Uy pero Zoraida cómo es posible que usted no alla venido, mire ese médico me dijo no pero es que de todas maneras  <comentario valor="ruido"> [ruido de teléfono interrumpe a interlocutoras]... </comentario> .     </u>
+<u valor="E" > Ajá,, me estaba diciendo .sobre su luxa... sobre que usted llegó al médico y le dijo que cómo era posible... </u>
+<u valor="I1" > Ah, me dijo que había que operar, yo le dije ¡no!  ¡Sí! ah bueno. Entonce la Directora del hospital mire, yo le digo la verdad, le dijo ella a el, pero ella no se va a  dejar  que la operen poprque esa es la <b>sobandera</b> del pueblo. Como, y sí, me quité el yeso, me puse una tablilla y me mejoré de mi pie, fui y me hice placa y , Sí </u>
+<u valor="E" > ¡Gracias a Dios!..Y ¿cómo se puso la <b>tablilla</b>?. ¿Qué es una <b>tablilla</b>? </u>
+<u valor="1!" > <def typ = "1"> <defdum><b>tablilla</b></defdum>  <defcopvb lemma="ser" pos="VAIP3S0">es </defcopvb> <rdefiniens file="tablilla.png" source="https://pixabay.com/es/mano-el-brazo-mu%C3%B1eca-tablilla-117210/g"> como, o sea, de madera. O sea, uno se la coloca con algodón o guata.  </rdefiniens>  </def>  <def typ = "1"> <defdum><b>Guata </b></defdum>  <defcopvb lemma="ser" pos="VAIP3S0">es </defcopvb> <rdefiniens file="guata.gif" source="http://nux.ula.ve"> como  un algodón pero más <b>finito</b>.  </rdefiniens>  </def>  Uno la coloca y ahí está prensada con la venda y queda entablillao como si fuera un yeso. </u>
+<u valor="E" > Ah okey, y eso lo que ayuda es a qué, a ... </u>
+<u valor="I1" > Ayuda pa que el hue. uno soba, acomoda el hueso  y ayuda pa que el hueso se quede allí, mjum </u>
+<def typ = "1"> <u valor="E" > Y una pregunta, mi abuelo, cuando el, yo recuerdo, ..que el usaba <ldefiniens file="ventosas.jpg" source="http://nux.ula.ve">un  vaso, una vela y una moneda</ldefiniens>. . </u>
+<u valor="I1" > Ah, <ldefiniens file="ventosas.jpg" source="http://nux.ula.ve">eso es pa sacar gas, el el aire .de la espalda</ldefiniens>.. </u>
+<u valor="E" > .¿Cómo se llama eso?. </u>
+<u valor="I1" > Ah eso <defcopvb lemma="ser" pos="VAIP3P0">son </defcopvb> <defdum><b>ventosas</b></defdum>, creo yo que se llaman <b>ventosas</b>, pero eso  sí no lo hago yo </u> 
+<u valor="E" > ¿Para qué se usan?... </u>
+<u valor="I1" > Para sacar aire de los pulmones, .de los oidos, como gases, cuando uno está muy lleno de gases, .. </u> </def>
+<u valor="E" > Ya, eso sí no lo hace usted. ... </u>
+<u valor="I1" >No, eso sí no lo hago yo.</u>
+<u valor="E" > Ya. y en el caso de una persona, por ejemplo, que tenga problemas de cervical.</u>
+<u valor="I1" > .Me trae la resonancia o placa, y yo reviso y sobo. Mjum.. </u>
+<u valor="E" > .Mmm ya. Y usted siempre tiene que trabajar es con .ya diagnóstico médico, antes de . </u>
+<u valor="I1" > Pues cuando es muy fuerte la cuestión que no van al médico lo hago, sí lo hago, qué más. Después mando a hacerse su plaquita pa ver yo si es muy fuerte, si es leve. </u>
+<u valor="E" > Lo que pasa es que por ejemplo mi mamá, a ella se le está infla, ella tiene cincuenta y séis años, y a ella a veces le amanece inflamado como el codo, como el codo y ella dice que le duele muchísimo</u>
+<u valor="I1" > Ah pero eso sí hay que hacer placa porque no se sabe si es músculo o es hueso. . </u>
+<u valor="E" > Y a ella, hablando de hueso, se le brotó un huesito aquí. </u>
+<u valor="I1" > Ese es el <b>manguito rotador</b>, se salió. Hay algo que está pasando que, ahí está falta de calcio o tiene mucho calcio, también pasa eso. Yo he aprendido mucho lo que es la parte médica . </u>
+<u valor="E" > El <b>manguito rotador</b>..¿como tal qué es eso?... </u>
+<u valor="I1" > .El <b>manguito rotador</b>.yo lo tengo aquí, el es el que hace estos movimientos. Cuando el El <b>manguito rotador</b>.se pela o se sale, pasa esto, y entonces no hay fuerza para levantar  el brazo que llegue hasta arriba .. </u>
+<u valor="E" >Mmm, okey, ya, entiendo.  ... </u>
+<u valor="I1" > Se llama así, eso sí se llama así en medicina, no es que </u>
+<u valor="E" > Ya entiendo. Y por ejemplo cuando la persona tiene, hay ocasiones en las que a la personan la mandan a hacer como ejercicios con una botella ... </u>
+<u valor="I1" > Es lo que le estoy diciendo, es lo que le estoy diciendo, eso se hace aquí, o se hace por, se coloca una toalla  con la misma aguita que yo le digo y se hace. Eso es para cuando hay fractura vuelva a su a su lugar.Con una pelota, también se hace esto </u>
+<u valor="E" > .Ya, entiendo. Eh, qué otra cosa le iba a preguntar.. </u>
+<u valor="I1" > De coyonturas, pero en el léxico médico o en el es articulaciones, que son todos lo que son huesitos, esto, todo lo que se trate de hueso, eso lo hago yo. . </u>
+<u valor="E" > Y una persona  que tenga problemas de artritis y esas cosas... </u>
+<u valor="I1" > No, eso no se puede sobar porque usted sabe que la artritis va dañanado la la la parte osea y se puede fracturar.   ... </u>
+<u valor="E" > Ah, la va debiilitando. Y ¿aquí hay muchos casos de ese tipo? </u>
+<u valor="I1" > Sí, aquí hay muchos por el frío, y entoncesla gente se entumece. Tiene que que ir a la tierra caliente a vivir a la tierra caliente  para que   </u>
+<u valor="E" > ¿Qué otras qué otras así por el frío aquí a las personas, qué otras enfermedades así les dan ?... </u>
+<u valor="I1" > No, por el frío no, eso nada más, la artritis o artrosis, nada más. ... </u>
+<u valor="E" > Okey. ¿Cuál es la diferencia entre ellas?... </u>
+<u valor="I1" > Artritis porque los huesos se deforman, y la artrosis porque  agarra de una vez con el músculo, es peor que la artritis. </u>
+<u valor="E" > Ah, ¡imagínese! Ya </u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+AS14SD01059- yurmari-	2015-05-05	Marcado+ Etiquetado	 transcripción incompleta.
+AS14SD01059- yurmari-	2015-06-05	Marcado+ Etiquetado	 transcripción incompleta.
+</versiones>
+</doc>

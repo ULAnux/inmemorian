@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Gastronomía">
+<file ID="AG13PL02008" MIMETYPE="audio/wav" SIZE="4845300" CREATED="2014-02-15" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:19:42 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señor Estanislao Paredes Paredes. Persona de 90 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" >Bueno, hoy es 16 de diciembre y estamos en Pueblo Llano, Mi nombre es Yurmari Mesa, eh estamos en Pueblo Llano y yo estoy en compañía del Señor Etanislao. ¿Me dice su nombre completo?</u>
+<u valor="I1" > Estanislao Paredes Paredes</u>
+<u valor="E" > Estanislao Paredes Paredes. Señor Estanislao ¿usted vivió aquí toda su vida? ¿Qué edad tiene?</u>
+<u valor="I1" > Yo tengo, empecé noventa años el trece de noviembre</u>
+<u valor="E" > Cumple el trece de noviembre, ¡noventa años! <overlap valor="I1" >Cumplió, cumplí, noven, noventa años </overlap> guao, ¡eso es bastante tiempo! <overlap valor="I1" > Unos días </overlap> Sí señor </u>
+<u valor="I1" > Y trabajé mucho. ya no puedo volver a trabajar por, no sé, por la edad será</u> 
+<u valor="E" > Pero, ¿se cansa mucho?</u>
+<u valor="" >Siempre, estando en... Ayer estuve en Mérida haciéndome unos exámenes, tenía cita, iba ir a un matrimonio pero no pude ir porque, el matrimonio de un nieto que se casó con una muchacha del Vigía, pero no pude, no pude ir </u>
+<u valor="E" > Ya. Señor Estanislao yo quiero hablar con usted de varias cosas,<overlap valor="I1" > Ajá </overlap> De aquí del pueblo ¿sí?. Eh, vamos a empezar por la comida antes que llegue la hora de almuerzo pa que no nos dé mucha hambre <comentario valor="risas"> [risas]</comentario>. Este, ¿Qué comidas hay hoy en día que,no hay hoy en día que usted se acuerde que había antes?</u> 
+
+<u valor="I1" > ¿Antes? Antes la comida mejor que había <b>pa pa</b> criar una familia porque así la crié yo: el maíz, <b>Máiz Blanco</b>, pero no <b>Yucatán</b>, sino <b>Máíz Criollo Blanco</b>,el <b>Máiz Amarillo</b>, <b>Máiz Negro</b>; <b>Alverjas Criollas</b> y se hacían unas siembras de <b>Trigo Grande</b>, eh, <def typ="1"> había de dos clases de trigo<defop valor="dos puntos">:</defop> <rdefiniens><b>Trigo Grande</b> y <b>Trigo Pequeño</b></rdefiniens></def>, y y <b>deái</b> lo mandaba uno a moler a un molino que habían dos molinos aquí en Pueblo Llano, aquí habían dos en el pueblo, uno en Miyoy, otro en La Capellanía y otro en Las Agujas.</u>
+
+<u valor="E" > Ajá. Usted dijo <b>Maíz Yucatán</b>, ¿Qué es eso de Maíz Yucatán?</u> 
+<u valor="I1" > <def typ="1">El <b>Maíz Yucatán</b> <defop valor="dos puntos">:</defop> <rdefiniens> lo sembraban era en la tierra caliente</rdefiniens> </def>, aquí no, aquí se sembraba <b>Máiz</b> Criollo <overlap valor="E" >Mmm. Mjum </overlap> Maíz Blanco Criollo, y se sembraba <b>Papa Arbolona Negra</b>, y se sembraba <def typ="1"> <b>Papa Gaezuda</b> que <defcopvb lemma ="Ser" pos ="VAII3S0">era</defcopvb> <rdefiniens><b>Papa Negra también</b></rdefiniens></def>, y <def typ="1">se sembraba <b>Papa Pígua</b> que habían de dos clases <defop valor="dos puntos">:</defop> <rdefiniens> una <b>Papa Azul</b> que era azul y otra <b>Blanca</b></rdefiniens></def>, y se sembraba apios</u> 
+<u valor="E" > Mjum. Eran bastantes tipos de papa ¿no?</u> 
+<u valor="I1" > Sí, sí sí, antes, antes cuando yo me crié <overlap valor="E" > Sí, cuando usted se crió</overlap>  <def typ="1"> se sembraba Ocumo, había de tres clases de Ocumo<defop valor="dos puntos">: </defop> <rdefiniens><b>Ocumo Blanco, Ocumo Amarillo y Ocumo Azul</b> </rdefiniens> </def> </u>
+
+<u valor="E" > Y ese, y esas papa, ¿<b>Papa Arbolona</b>? </u>
+<u valor="I1" > <def typ="1"> <b>Arbolona</b>. Había de dos clases<defop valor="dos puntos">: </defop> <rdefiniens>  <b>Arbolona Blanca</b> y <b>Arbolona Negra</b></rdefiniens></def>, <def typ="1"><overlap valor="E" > Y ¿Cómo era esa papa?</overlap> Esa <defcopvb lemma ="Ser" pos ="VAII3S0">era</defcopvb> <rdefiniens>grande, grande, redonda</rdefiniens></def>. Y, <def typ="1"> y la papa que le digo, la <b>Papa Negra</b>, esa era igualito, esa <defmetalvb lemma ="Llamar" pos ="VMII3S0">se llamaba</defmetalvb> <rdefiniens><b>Raizuda</b> <overlap valor="E" > Raizuda, ¿Por qué? ¿tenía mucha raiz o qué?</overlap> Pues la llamaban así, eso es</rdefiniens></def> </u> 
+
+<u valor="E" > Ya. Y el trigo, el maíz, ese lo sembraban aquí, usted se acuerda quién, quién lo empezó a sembrar, cómo, quién lo trajo </u>
+
+<u valor="I1" > Bueno, ese lo sembraban desde que, me acuerdo yo que eso hace mucho tiempo que lo sembraban. Con eso de crió la gente antes, la gente, los antiguos, sembraban mucho <b>máiz</b>, y aquí, aquí no se <b>vía</b> hambre</u>
+
+<u valor="E" > se alimentaban bien y por eso era que duraban así como usted dura no, noventa años</u> 
+
+<u valor="I1" > Sí, eso era un alimento muy bueno. Eso se sembraba trigo como le digo,de dos clases de trigo: <b>Trigo Grande</b> y <b>Trigo Pequeño</b>, y se y <def typ="1">se <b>trillaba</b> en una máquina de <b>trillar</b> trigo. La máquina tenía <b> pa trillar</b>, se se trillaba así<defop valor="do puntos">:</defop> <rdefiniens>por un <b>lao</b> tenía una rueda y por otro el mango, entre dos se jalaban y y dos metían el trigo y otros iban sacando la basura del trigo pa que quedara limpio <overlap valor="E" > Ajá, y ¿era grande esa máquina? como un molino grandote</overlap> Sí, sí era grande. Ahora no porque ahora pues aquí en Tuñame siembran trigo y tienen la misma máquina esa pero, pero es, la <b>lidean</b> con un motor. Ahora en ese tiempo que yo me crié se jalaba la máquina eran dos que jalaban, dos que metían trigo a la a la máquina y dos que sacaban la basura y después si se ventiaba y quedaba el trigo limpio</rdefiniens> </def> <def typ=""> <overlap valor="E" > ¿Qué es ventiar?</overlap> ¿Ah? <overlap valor="" >¿cómo así?, ¿qué es ventiar?</overlap> Ventiar <defcopvb lemma ="Ser" pos ="VAII3S0">era</defcopvb> <rdefiniens>que con una pala se, e se iba alzando a, se zumbaba así pal aire el trigo pa que se fuera con el viento se iba el <overlap valor="E" > ¿La concha?</overlap> la concha y quedaba limpio el trigo <overlap valor="E" > Ah, ¡Qué interesante! </overlap></rdefiniens></def>. <def typ="1"> Y así mismo era la Alverja, esa se trillaba<defop valor="dos puntos">:</defop> <rdefiniens>se trillaban con bestias también, se metían unas dos o tres bestias  a to el día en una <b>Era</b> y astonce cuando <b>deái</b> sí se sacaba el <b>Tamo</b> y quedaba la Alverja limpia</rdefiniens> </def> </u>
+
+<def typ="1"> <u valor="E" > Mjum. Y ¿qué es una <b>Era</b> ? </u>
+<u valor="I1" > Una <b>Era</b> <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb>, era, <rdefiniens>una <b>Era</b> es un, un asunto lleno, que por las orillas es de piedra así y y en el centro una <b>Era</b> grande en el centro es, es es es plano, como un piso, como el piso de, de una casa. Eso es.</rdefiniens> </u></def>
+<u valor="E" > Mmm. Y ¿el <b>Tamo</b>? <overlap valor="I1" > ¿Ah</overlap> ¿el <b>Tamo</b>? </u>
+<def typ="1"> <u valor="I1" > El <b>Tamo</b> se sacaba pa fuera, ese <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>un <b>Tamo amarillo</b></rdefiniens>, se sacaba pa fuera</u> </def>
+<def typ="1"> <u valor="E" > Pero ¿Qué es el <b>Tamo</b>? </u> <u valor="I1" >El <b>Tamo</b> <defcopvb lemma ="Ser" pos ="VAIP3S0"> es </defcopvb> <rdefiniens>la basura</rdefiniens></u> <u valor="E" > Ah, el <b>Tamo</b> era la basura <overlap valor="I1" > La basura, la basura sí</overlap> </u> </def>
+   
+<u valor="E" > Ya. Y ¿con qué se comían las papas? <overlap valor="" >¿Ah?</overlap> ¿con qué se comían las papas?</u>
+<u valor="I1" > Los, los, las papas se comían con queso, o con <b>Ají</b></u> 
+<u valor="E" > ¿Cómo se hace el <b>Ají</b>? ¿Qué es el<b>Ají</b>?</u>
+<u valor="I1"> <def typ="4">¿El <b>Ají</b>?. El <b>Ají</b> ese, se siembra una mata de <b>Ají</b>, un <b>Ají amarillo</b>, un <b>Ají azul</b>. Eso es. Se une en una olla, <defcopvb lemma ="Ser" pos ="VAIP3S0">es </defcopvb> <rdefiniens>como, un picante mejor dicho</rdefiniens>  </def> <overlap valor="E" > Ajá. y ¿cómo?, ¿qué tiene eso?, ¿qué ingredientes tiene ese <b>Ají</b>? </overlap> No, puros <b>mongos</b>, de esos <b>mongos</b> que siempre llevan <b>pal mercao pa vendelos</b>. Sí.</u>
+<u valor="E" >Mmm. Y, y el ¿el trigo lo trajeron de dónde? ¿Siempre se sembró aquí?</u>
+
+<u valor="I1" > Siempre se sembraba aquí el trigo. Ahora no, ahora se trae el trigo de, el que quiera com, comprar trigo lo compra en Tuñame, o lo, o aquí en Apartaderos todavía siembran áhi trigo. </u> 
+<u valor="E" > Tuñame queda ¿dónde? ¿Aquí en Pueblo Llano?</u>
+<u valor="I1" > No. Eso queda aquí pa, pal lao de Mérida, pa Apartaderos</u> 
+<u valor="E" > Ya </u>
+<u valor="I1" > Si, a en Mucuchíes. Eso es</u> 
+<u valor="E" > Ya. Y ¿cuál era la comida que a usted más le gustaba? </u>
+<u valor="I1" > La comida, la mejor era la arpa de maíz, de maíz criollo <overlap valor="E" > ¿Pura?</overlap>Pura. Bueno, con queso o con, o con lo que fuera</u>  
+<u valor="E" > Y y y ¿qué otra cosa comían? ¿Qué otra cosa?</u>
+<u valor="I1" > Y cómo le digo, ocumo, apio</u>
+<u valor="E" > Mjum. Y con la arveja ¿Qué hacían?</u>
+<u valor="I1" > Se hacía sopa, sopa, sopa </u>
+<u valor="E" > Mjum. Y ¿qué le echaban a eso? ¿No se acuerda?</u>
+<u valor="I1" > Eso, eso, eso sele, se le, se le echaban papas a la, la la, a la sopa. Y había también otra comida que llamaban caraota grande. <overlap valor="E" > Ajá </overlap> La caraota grande, su, su abuelo sembraba mucho también, su abuelo Pedro Meza <overlap valor="E" > Ajá, en el Fraile</overlap>  En el Fraile Sí <overlap valor="E" > Si yo me acuerdo </overlap> Caraota grande y caraota  chiquita también se sembraba. Ahora dejaron de sembrar eso y por eso es que, que, que dicen el gobierno que no ayuda y que tal, fue que se dejó de sembrar esas matas,ahora está uno <b>abasao</b> a que traigan de otra parte y ahorita no, orita está uno <b>abasao</b> a que traigan de otra parte. Antes no. Antes se sembraba y no se necesitaba de, de ningún gobierno pa que trajera comida. Que era descaso sí, la plata, porque no había plata, no se ganaba, un obrero no ganaba sino un bolivar, un bolivar, en todo el día de seis a seis. Y eso se le ayudaba, se le ayudaba a un rico, a un rico. Por eso es. por eso es que que yo me ha gustao este gobierno mejor dicho, porque dice la verdad, que los ricos no tienen compasión con <b>naiden</b>. Se le ayudaban unas dos o tres semanas a un rico y le iba pagando a los tres o a los cuatro meses, entones...</u>    
+<u valor="E" > Mmm. ¿Y no le daban la comida cuando trabajaba pa ellos?</u>
+<u valor="E" > ¿Ah? Le daban la comida sí. Sí le daban la comida pero, pero el pago, le pagaban a uno a los tres a los cuatro meses era que venían a pagale unas dos semana que no le ayudaba a un rico <overlap valor="E" > ¡Qué maldad!</overlap>  Eso era bravo aquí en Pueblo Llano <overlap valor="E" > Como un esclavo </overlap> Antes, claro. Antes, eso era brvo aquí en Pueblo Llano mire, era una <b>descasez</b> de plata que... Y hoy hay una juventud  que gana bien, que ganan bien, y si el si el amo le paga a en la tarde, el que quieran que le paguen de una vez, le pagan de una vez le pagan en la tarde. Ahora antes no, antes. Antes, lo mismo que pa ponese uno una ropa, pa pa vestise uno en estas fiestas de año nuevo tenía que ise pa una hacienda, bien pa pa Barinitas, pa Altamira o pa San Cristobal de Torondoy y Santa Polonia. <def typ="1"> Yo anduve por todo eso, <b>jornaliando</b>.  <overlap valor="E" > <b>jornaliando</b>. ¿Qué significa eso?</overlap> ¿<b>jornaliando</b>? <b>Jornalear</b> <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>trabajar,el jornal es ayudale uno a otro. Que llegue uno a una hacienda a buscar trabajo y aquel amo de la hacienda le da trabajo como, como sea de bastante el trabajo le da pa un mes pa unos dos meses</rdefiniens></def> y esa era la hora que uno se iba viniendo de San Cristobal de Torondoy a a ya pero ya traía la ropita pa las fiestas. Pero eso era muy bravo antes, porque aquí no se le como le digo, era a bolivar que se ganaba. Yo la última vez que fui a jornaliar fue a Santa Polonia. </u>  
+
+<u valor="E" > ¿Cómo se dice, fornalear o jornalear?</u>
+<u valor="I1" > o trabajar. Bueno trabajar</u>
+<u valor="E" > No no no, pero ¿es fornalear o jornalear? </u>
+<u valor="I1" > Fornalear <overlap valor="E" > Fornalear, con F for, </overlap> Eso es, fornalear. </u>
+
+<u valor="E" > Y <paraverb valor="Carrasp"> Y hablando </paraverb> de eso de las fiestas, ¿qué comían en las fiestas así de diciembre? ¿Siempre hacían fiestas, diciembre, Semana Santa? toda esas cosas</u> 
+
+<u valor="I1" > En la noche buena, se comían hallacas. Eso sí, la carne era barata. Eso es. Y también mire, y también  uno no tenía que en cual ir a vender queso, mantequilla y huevos. No, antes no, antes no se compraba eso porque cada quien tenía su <b>vaquita</b>, el que menos tenía unas dos o tres, o cuatro vacas. Antes, eso si se criaban animales pa que no fallara el <b>pasaje</b> pa, pa pa comer la arepa.</u>     
+
+<u valor="E" > Perdone que le pregunte tanto. ¿Qué es el <b>pasaje</b>? <overlap valor="I1" > El <b>pasaje</b> el queso </overlap> Ajá, como queso y <overlap valor="I1" > Queso y mantequilla, eso es </overlap> Ajá, ajá.</u>
+
+<u valor="I1" > Y tampoco venían a vender huevos, eso se criaba se criaba bastantes gallinas, cada quien tenían un encierro de gallinas, no se necesitaba de estar comprando huevos.</u>  
+ 
+
+<u valor="E" > ¿Un encierro de gallinas?</u>
+<u valor="I1" >Eso es </u>
+<u valor="E" >¿Qué significa eso?</u>
+<u valor="I1" > <def typ="1"><b>Un encierro e gallinas</b> <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>unas pocas e gallinas encerradas en en una cerca</rdefiniens></def> Eso es</u>
+<u valor="E" > Ah, Okey. y, en Semana Santa, cuáles, ¿cuáles son los dulces típicos o qué come la gente?</u>
+<u valor="I1" > Aquí, en la Semana Santa era el dulce de higo, el dulce de zapallo. </u>
+<u valor="E" > Yo me acuerdo que mi abuela hacía una cosa que se llamaba dulce de Churí. ¿Qué es el Churí?</u>
+<u valor="I1" > Ah, ese se llamaba Atol de Churí. Eso era un Churí que es grande así como zapallo, pero y era muy bueno el atol, todavía se siembra, eso sí se siembra todavía. </u> 
+<def typ="1"><u valor="E" > ¿Cómo es el Churí</u>
+<u valor="I1" > Ese <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>grandote así, un un un, ver un zapallo pero amarillo</rdefiniens></u></def>
+<u valor="E" > Ah ya. ¿Y la Bebida? ¿Qué toman? o ¿Qué tomaban? </u>
+
+<u valor="I1" > <def typ="1"> La bebida,antes, Antes el que quería tomar <b>miche</b> <overlap valor="E" > Ajá, <b>miche claro</b> </overlap> que había un <b>miche</b> muy gueno, no como el que sale ahorita. Ese era <b>hinojao</b> <defop valor="dos puntos">:</defop> <rdefiniens> que le echaban Hinojo, ve pero era cocío</rdefiniens></def>, ahora no, no es cocio, ahora lo que le echan es Úrea, por eso es que la gente se pone gorda, se pone barrigona, y por eso es que, que un muchacho, por eso es que viene la la la, la e Cirrosis, porque beben mucho, toman mucho, y ahí es onde viene la Cirrosis y y se mueren , eso es, porque antes se bebían un trago y se le abría la gana de comer bastante, eso es. Ahora no, ahora se bebe uno un trago y le dan mas ganas de beber hasta que cae</u>  
+
+<u valor="E" > Ah ya, ¡qué cosa no! Y ¿con qué bebida acompañaban que si la arepita, la papita? aparte de licor pues. Como pa pasar la arepa que decían pues </u>
+<u valor="I1" >  con queso o con huevo</u>
+<u valor="E" > Y ¿qué tomaban? </u>
+<u valor="I1" > Se tomaba café. El café o <b>guarapo de panela</b></u> 
+<u valor="E" > El café. ¿<b>Guarapo de panela</b> hacían aquí?</u>
+<u valor="I1" > Claro. <overlap valor="E" >Y ¿había caña aquí, sembrabran caña? </overlap> Se compraba la panela en los negocios 
+<overlap valor="E" > Ah ya </overlap> En los negocios. Eso que se compraba en los negocios era panela y café. Azúcar no no salía, pura panela </u>   
+<u valor="E" > Y ¿era cómo?, ¿grande así como la venden ahorita?</u>
+<u valor="I1" > Sí, igualito igualito. </u>
+<u valor="E" > Mujum. Pero era mejor ¿verdad? era dulce</u>
+<u valor="I1" > Sí, era mejor, más grande salía la panela. Ya le digo todo eso había aquí en pueblo llano, lo único que como le digo, eso era muy escazo pa la plata, no se ganaba sino un bolivar de seis a seis, y pa hacer uno una siembra de, pa hacer uno una siembra de trigo era, se hacía un <b>convite</b> de diez a veinte yuntas de bueyes según lo que se sembrara. Pa sembrar cuatro sacos de trigo era un convite de veinte yuntas de bueyes</u> 
+<u valor="E" > ¿Qué es <b>convite</b>? </u>
+<u valor="I1" > Un <b>convite</b> era que le ayudaba e le ayudaban a uno unas veinte personas con una yunta de bueyes </u> 
+<u valor="E" > Ah, osea cada uno llevaba una yunta </u>
+<u valor="I1" > Cada uno llevaba una yunta de bueyes, en un <b>convite</b> no le pagaba uno nada sino que en un <b>convite</b> se llevaba buen almuerzo, un buen desayuno, buen almuerzo y una buena comida en la tarde, y un trago cada rato pa que<comentario valor="risas">[risas]</comentario>, eso es. Y así se hacían las siembras de trigo. Ahora, a según fuera lo que se sembrara de bastante. Pa cuatro sacos eran veinte yuntas de bueyes, pa cuatro sacos de siembra</u>     
+<def typ = "1"><u valor="E" > Y ¿cómo era la semilla del trigo, cómo, cómo es?</u> 
+<u valor="I1" > Eso <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>un granito fino, fino, fino</rdefiniens> </u>  </def>
+<u valor="E" > Pero ¿qué se hace? ¿Se tira así y ya? o ¿ Hay que hacer almácigo o ¿no?</u>
+<u valor="I1"> No, eso no se hace almácigo. Eso se va regando el trigo así, se va regando se va regando y de áhi si va la yunta de bueyes tapando.</u> 
+<u valor="E" > Y ¿antes sembraban solamente maíz y trigo? ¿No sembraban lechuga, repollo y esas cosas?</u> 
+<u valor="I1" > No, antes no sembraban lechuga <overlap valor="E" > Y ¿usted si aprendió a sembrar eso después?</overlap> Sí, después sí </u>
+
+<u valor="E" > Porque, ¿cómo es eso del almácigo? porque yo he escuchao y tengo idea pero no sé bien cómo es </u>
+<u valor="I1" > ¿El almácigo de la lechuga?</u>
+<u valor="E" > Ajá. pa qué qui qué qué</u>
+<u valor="I1" > Eso se hacen unos camellones largos como este corredor y se va rayando así y se va regando la siembra, se hace el almácigo, y después que esa ya está creciendo se va transplantando y se va sembrando en otra parte, el trecho bastante, y así mismo era la remolacha igualito, eso es. </u>
+<u valor="E" > Ah ya. mire Señor Estanislao, y dulce preferido, ¿le gusta el dulce a usted? ¿le gustaba de los dulces así que hacían? </u>
+<u valor="I1" > Bueno, el dulce hacían de higo, dulce de higo, dulce de zapallo, también </u> 
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+	AG13PL02008	yurmari	2014-16-02	Marcado+ Etiquetado	 Transcripción hasta min 06.
+	AG13PL02008	yurmari	2014-28-02	Marcado+ Etiquetado	 finalización de transcripción.
+
+</versiones>
+
+</doc>

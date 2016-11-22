@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><doc><cesHeader type="Oral" date="2007">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ07MX01001" MIMETYPE="audio/wav" SIZE="3983688" CREATED="2013-08-21" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duracion"> 00:01:30 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque, municipio Rangel</pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="2">
+<name type="Entrevistador" id="E"> Entrevistador no identificado </name>
+<name type="Informante" id="I"> María Brígida Dávila Espinoza</name>
+</group>
+</cesHeader>
+
+<u valor="E" >  ¡Buenas tardes! <paraverb valor="alarg"> eh </paraverb> vamos a hacerle una entrevista <prosodia valor="pause">...</prosodia> <paraverb valor="alarg"> la señora </paraverb> <prosodia valor="pause">...</prosodia> Brígida <prosodia valor="pause">...</prosodia> <b>pa que</b> ella nos diga su nombre, su apellido completo, fecha de nacimiento, nombre de los <b>papás</b> y de la mamá.</u>
+<u valor="I" > Umjú</u>
+<u valor="E" > ¡Buenas tardes señora Brígida! </u>
+<u valor="I" >¡Buenas tardes!</u>
+<u valor="E" > Su nombre, por favor. </u>
+<u valor="I" > Ana Rosa <prosodia valor="interrupt">...</prosodia> </u>
+<u valor="E" > Nombre suyo </u>
+<u valor="I" > <prosodia valor="up">¿El mío? </prosodia> Ah,yo soy María Brígida <prosodia valor="pause">...</prosodia> Dávila <prosodia valor="pause">...</prosodia> Espinoza.</u> 
+<u valor="E" > Ajá.</u>
+<u valor="I" > Dávila por <prosodia valor="interrup">...</prosodia> <overlap valor="E" > <b>Usté</b> nació <prosodia valor="up">Mmm¿Qué fecha?</prosodia></overlap> Eso si no sé yo qué fecha <overlap valor="E" > siete de octubre de mil novecientos treinta </overlap> <prosodia valor="up">Mmm¿el siete? </prosodia>Mmm¡Ah, ve! </u> 
+<u valor="E" > Dígalo, dígalo.</u>
+<u valor="I" > No, yo si <prosodia valor="interrupt">...</prosodia> </u>
+<u valor="E" > Siete de octubre de mil novecientos treinta.</u>
+<u valor="I" > Y a mí me preguntan y yo no me acuerdo. </u>
+<u valor="E" > Siete de octubre de mil novecientos treinta¡Diga! </u>
+<u valor="I" > Siete de octubre de mil novecientos treinta, <overlap valor="E" > Ajá</overlap> Ajá.</u>
+<u valor="E" > Nombre de su mamá <prosodia valor="up">¿Cómo era? </prosodia> </u>
+<u valor="I" > El nombre de mi mamá era <prosodia valor="pause">...</prosodia> Ana Rosa <prosodia valor="pause">...</prosodia> Espinoza <prosodia valor="pause">...</prosodia> que <prosodia valor="interrupt">...</prosodia> </u>
+<u valor="E" > <prosodia valor="up">¿Y su papá? </prosodia> </u>
+<u valor="I" > Mi papá era Ro <prosodia valor="interrupt">...</prosodia> <paraverb valor="alarg"> era </paraverb> <prosodia valor="up">¿Cómo es que se llamaél?</prosodia> <overlap valor="E" > su papá</overlap> Román Dávila </u>
+<u valor="E" > Ajá </u>
+<comentario valor="voces de fondo">[Indican el segundo apellido del papá]</comentario> <u valor="" > Rangel </u>
+<u valor="I" > Rangel </u>
+<u valor="E" > Okey, muchas gracias señora Brígida. Estamos haciendo esta grabación hoy sábado, <paraverb valor="alarg">trece de</paraverb> octubre de mil nov <prosodia valor="interrupt">...</prosodia> de dos mil siete <prosodia valor="pause">...</prosodia> <paraverb valor="alarg"> a las </paraverb> cinco y cuarto de la tarde. </u>  
+<u valor="I" > Ajá. </u>
+<u valor="E" > Mmm¡Muchísimas gracias! </u> 
+<aproximd valor="I"> A su orden, señor </aproximd>
+<u valor="E" > <inintel>...</inintel> </u>
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ07MX01001	Guillermo 	2013	Marcado 	 Completo
+	
+</versiones>
+</doc>

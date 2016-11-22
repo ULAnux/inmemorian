@@ -1,0 +1,734 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><doc><cesHeader type="Oral" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LV02040" MIMETYPE="audio/wav" SIZE="21649354" CREATED="2013-12-19" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:45:06 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> La Venta, municipio Miranda </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="2">
+<name type="Entrevistador" id="E"> José Guillermo Gómez </name>
+<name type="Informante" id="I"> Albino José Lobo </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Jueves, diecinueve de diciembre de dos mil trece <prosodia valor="pause">... </prosodia> falta un cuarto para las seis de la tarde. Estamos en conversación con Albino Lobo Ramírez, agricultor de La Venta, en el municipio Miranda del Estado Mérida. Albino, esto que tenemos aquí en frente son cultivos de papas  ¿Cierto? </u> 
+<u valor="I" > Sí </u>   
+<u valor="E" > Eh,  ¿Cuántos meses tiene ya la cose, la siembra? </u> 
+<u valor="I" > Un mes </u> 
+<u valor="E" > Un mes </u> 
+<u valor="I" > Un mes </u>
+<u valor="E" > Eh, tu nos comentabas anteriormente que, que la razón por la que siembras papa ahorita es porque, para cuando esté lista, a a estar a un buen precio.</u>     
+<u valor="I" > Sí, sí, puede tener un buen precio por lo que no siembran en los páramos. </u>   
+<u valor="E" > Por lo que no siembran en otras partes  ¿No? </u> 
+<u valor="I" >  ¡Claro! </u>
+<u valor="E" > Eh, generalmente en otras partes  ¿Cuándo la siembran? </u> 
+<u valor="I" > En marzo.</u>  
+<u valor="E" > En marzo. Es decir, que la siembran en marzo Y la estarían cosechando como en <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="I" > Marzo, abril, mayo, junio, julio, agosto, en agosto. </u> 
+<u valor="E" > En agosto. Para agosto hay papa, entonces está a precio bajo. </u>   
+<u valor="I" >  ¡Claro! Y, precio bajo cuando hay mucha. Pero lo que pasa es lo siguiente: que como el año pasado estuvo muy barata, entonces, ahorita este año está <b>demasiao</b> cara. O sea, que la gente fue que sembró poca <prosodia valor="pause"> ... </prosodia> por lo que había <b>estao</b> muy barata, y ahorita, pues, está valiendo la papa.</u>
+<u valor="E" > Por eso este año decidiste sembrar papa.</u>   
+<u valor="I" > Sí, decidí sembrar papa. </u>     
+<u valor="E" > Tú empezaste hace un mes  ¿Cúal es el, el, el, el cuidado inicial? Antes de sembrarla  ¿Qué es lo primero que haces, eh, con la tierra? </u>     
+<u valor="I" > Este, echarle <b>quemas</b> si hay monte y echarle <b>arao</b>. </u>
+<def typ="1"> <u valor="E" >  ¿Echarle <defdum><b>quema</b></defdum> qué es? </u> 
+<u valor="I" > O sea, como, <defcopvb lemma ="ser" pos ="VAIP3S0"> es </defcopvb> <rdefiniens file="echar_quema.jpg" source="https://upload.wikimedia.org/wikipedia/commons/f/f7/Autumn_burn_2.jpg"> <b>quemá</b> la grama.</rdefiniens> </u>  </def>
+<u valor="E" >  ¿Quemar la grama?  ¿Quemar todo? </u> 
+<u valor="I" > Ajá. Quemar todo. Pero, le puedo echar, este, <b>gramonzón</b> </u>
+<u valor="E" >  ¿Qué es eso? </u>
+<def typ="1"><u valor="I" > <defdum><b>Gramonzón</b> </defdum></u> 
+<u valor="E" >  ¿Qué es eso? </u>
+<u valor="I" > Eso es <b>quema</b>. </u>
+<u valor="E" >  ¿Quema? </u>
+<u valor="I" > Claro. Que quema el monte. </u>
+<u valor="E" > Pero  ¿Es un combustible? </u>
+<u valor="I" > No, no, eso <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens file="gramoxone.jpg" source="https://www.flickr.com/photos/iita-media-library/8147291362">un, un insecticida. Un veneno. </rdefiniens> </u>  </def>
+<u valor="E" >  ¿Un insecticida que quema el monte? </u>
+<u valor="I" > Claro. </u> 
+<u valor="E" > <b>Gramonzón</b></u>
+<u valor="I" > <b>Gramonzón</b> </u>
+<u valor="E" > Entonces, así se acaba con la maleza. </u> 
+<u valor="I" > Ajá. Entonces, ahí echo <b>arao</b> y ahí <b>melgo</b> y siembro la papa. </u> 
+<u valor="E" > Echa arado,  ¿Y luego? </u>
+<u valor="I" > <b>Melgo</b>, que son las, por donde van las <inintel> ... </inintel> Y ahí se hace un, un surco y uno va metiendo la papa <overlap valor="E" > Ajá </overlap> las mete todas, le echa químicos <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="E" > Pero  ¿Qué es <b>melco</b>? </u> 
+<u valor="I" > <b>Melgo</b> </u>
+<u valor="E" > <b>Melgo</b>  ¿Qué es <b>melgo</b>? </u>
+<u valor="I" > O sea, las rayas ahí  ¿Me entiende? O sea, esas se llaman <b>melgas</b>. </u>  
+<u valor="E" > La,  ¿El surco? </u>
+<u valor="I" > Claro, el surco </u>
+<u valor="E" >  ¡Ah, okey! <def typ="1"><defdum>El surco</defdum> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens file="melga.png" source="http://nux.ula.ve"> la <b>melga</b> </rdefiniens> </def> </u>
+<u valor="I" > Claro, las <b>melgas</b> y, y uno echa la papa, toda. Depués que echa la papa le tira químico, <b>granulao</b>, y ahí sí tapa. Y depués que uno tapa, deja quince o veinte sin <b>echale</b> agua, <b>pa</b> que ella se acalore. Después sí empieza a <b>echale</b> agua y ahí empieza a nacer. </u> 
+<u valor="E" > Es decir,  ¿Al cuánto tiempo empieza a brotar? </u>  
+<u valor="I" > Como a los veinte días. <def typ="1">Cuando la <defdum>semilla está <b>venida</b></defdum>, <mkr>o sea, que</mkr> <rdefiniens file="papa_semilla.jpg" source="http://cipotato.org/wp-content/uploads/2013/08/Semilla2.jpg"> ya ella ya tiene <b>pimpollito</b>, </rdefiniens> </def>, veinte días, empieza ella a emparejar. <kinesic valor="señala con la mano"> Y ya así como está esta papa, pues, ya tiene mes y medio </kinesic> </u>     
+<u valor="E" >  ¿Mes y medio? </u>
+<u valor="I" > Ajá. Como está ella. Y <b>pa</b>, <b>pa</b> <b>cosechala</b> completa, con el favor de Dios son cinco meses. </u>  
+<u valor="E" > Cinco meses. </u>
+<u valor="I" > Ajá. </u> 
+<u valor="E" >  ¿Cuál es ... Después que empieza a brotar, cuál es el mayor cuidado que debes tener? </u>  
+<u valor="I" > O sea, <b>regale</b> veneno, en el sentido de, de golpe que haya mucho invierno y eso, <b>regale pa</b> que ella no se queme. Y en tiempo de verano <b>sabela</b> regar en el sentido de por el <b>yelo</b>. </u>     
+<u valor="E" > Ajá  ¿Cómo, cómo regarla por el hielo? ¿Qué? <prosodia valor="interrup"> ... </prosodia> </u>
+<u valor="I" > O sea, este, si yo, vamos a suponer, le pongo, o, hasta ahorita que esté regando, estoy prevenido de que mañana en la mañana, cuando pega el frío, este, le caiga <b>yelo</b>, entonces se me daña la cosecha. Porque ella, se <b>negrea</b> y se pudre. Entonces, <kinesic valor="señala con la mano las plantas"> a esa edad ella no tiene nada de papa </kinesic>  ¿Me entiende? A esa edad uno la arranca y salen son puras raíces. </u>     
+<u valor="E" >  ¿Si la arrancamos ahorita sale raíces? Ah. </u>      
+<u valor="I" > Claro, no tiene nada de papa. </u> 
+<u valor="E" >  ¿A, a partir de qué mes empieza a salir la papa? </u>  
+<u valor="I" > O sea, como, después que uno la deshierba. </u>
+<u valor="E" >  ¿Después que uno la deshierba? </u>
+<u valor="I" > A los tres meses ya uno empieza a revisar y ya lleva papita. Entonces, llega a la edad de los cinco meses en que Usted arranca una papa y ya salen papas gruesas. </u>
+<u valor="E" > A los cinco meses ya sale papa grande. </u>    
+<u valor="I" >  ¡Claro! Que la <b>roza</b> uno. </u> 
+<u valor="E" > Entonces,  ¿Hasta qué hora debes regarla? </u> 
+<u valor="I" > Hasta las dos de la tarde.</u> 
+<u valor="E" > Hasta las dos de la tarde. </u>
+<u valor="I" > Desde las ocho de la mañana a las dos de la tarde.</u> 
+<u valor="E" > Si no, le cae hielo. </u>
+<u valor="I" > Ajá, si no le cae <b>yelo</b> </u>
+<u valor="E" > De hecho, ya aquí a  esta hora hace mucho frío. </u> 
+<u valor="I" > Claro, entonces <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" > Y ya hay neblina  ¿No? </u>
+<u valor="I" > Claro, y <b>pa</b>, <b>pal</b> <b>yelo</b> tengo que <b>echale</b> melaza. </u>
+<u valor="E" >  ¿Melaza? </u>  
+<def typ="3"><u valor="I" > <defdum>Melaza</defdum>, que <defcopvb lemma ="ser" pos ="VAIP3S0"> es </defcopvb><rdefiniens file="melaza.jpg" source="https://commons.wikimedia.org/wiki/File:Blackstrapmolasses.JPG">algo <b>pa</b> que la proteja a ella, <b>pa</b> que la proteja en el sentido de que si cae <b>yelo</b>, él corre, no se pega a la mata. </rdefiniens> </u> 
+<u valor="E" > Y  ¿De qué está hecho la melaza?  ¿De qué está hecha?</u>
+<u valor="I" > De la panela.</u> 
+<u valor="E" > Ah, okey. Pero,  ¿Cómo se prepara?  ¿Sabes? </u>
+<u valor="I" > O sea, yo la compro, pero, no sé cómo se preparará. </u>  
+<u valor="E" >  ¿Es líquida?  ¿Es en polvo? </u> 
+<u valor="I" > No, es líquida, pero es gruesa, es espesa. Que, o sea, eso se puede comer, uno la puede comer, la melaza,que es, es buena <b>pa</b> la papa, <b>pa</b> toda cosecha, pero especial <b>pa</b> <prosodia valor="interrupt"> ... </prosodia> </u> </def>
+<u valor="E" > Y, y  ¿Dónde le echas la melaza?  ¿A, a las hojas? </u>  
+<u valor="I" > Las fumigo, las fumigo. Con motor  ¿Me entiende? </u> 
+<u valor="E" > Ah, le riegas con el motor de, de fumigar. </u> 
+<u valor="I" > Claro, sí. Hago todo, hago todo en un tonel y ahí sí la fumigo. </u>   
+<u valor="E" > Y  ¿Cúales son las plagas más peligrosas <b>pa</b> la, <b>pa</b> la papa? </u> 
+<u valor="I" > El gusano y la lombriz. Gusano blanco. </u>
+<u valor="E" > Gusano blanco  ¿Así se le llama aquí? </u> 
+<u valor="I" > Sí, gusano blanco. </u>
+<u valor="E" >  ¿Y la lombriz?  ¿De, de tierra? </u>
+<u valor="I" > La lombriz, la lombriz de tierra. O sea, si hay que <b>prevenila</b> con cal o con veneno. Pero, como dicen que no es recomendable acabar la lombriz en la tierra, le echa uno es cal, <b>pa</b> no echarle un insecticida que la acabe porque dicen que la tierra como que se, se enferma. </u> 
+<u valor="E" > Se empobrece  ¿Verdad? Se enferma. </u>   
+<u valor="I" > Sí, porque dicen que la lombriz tiene que estar ahí. </u>   
+<u valor="E" > Es decir, la lombriz contribuye a que se, la tierra se mantenga, se mantenga fértil. </u>  
+<u valor="I" > Claro, porque ella, ella como que es un, un humus, un humus, <overlap valor="E" > Ajá </overlap> creo yo. Entonces, no es recomendable. </u> 
+<u valor="E" > Y, este, de, de fertilizante  ¿Qué se usa? </u> 
+<u valor="I" >  ¿De fertilizante? O sea, le echa uno, si hay mucho <aproximd> Carbovit, Organpovit, Curacit</aproximd> </u>  
+<u valor="E" > Pero tú me habías hablado hace poco de uno que se llama <b>gallinazo</b></u>     
+<u valor="I" >  ¡Ah, gallinazo! Claro, ése es. </u> 
+<u valor="E" > <comentario valor="voces de fondo">[niños que juegan en el campo comienzan a gritar] </comentario>  ¿Qué es exactamente el <b>gallinazo</b>? </u>
+<u valor="I" > <def typ="1"> El <defdum><b>gallinazo</b> </defdum><defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb>, <rdefiniens file="gallinazo_abono.jpg" source="http://nux.ula.ve">o sea, un abono que ayuda a la mata, la ayuda a crecer y a que ella, este, de papa, o sea, que, que la, que la, que la cosecha crezca,  ¿Ve? Y tre, mientras ella más crezca, más papas echa. O sea, <aproximd> queda más buena</aproximd>. </rdefiniens> </def></u> 
+<u valor="E" > <comentario valor="voces de fondo"> [niños que juegan en el campo comienzan a gritar] </comentario>  ¿Cuánto, cuánto tiempo debes esperar, desde que la siembras, para echar el <b>gallinazo</b>? </u>   
+<u valor="I" > <comentario valor="voces de fondo"> [niños que juegan en el campo comienzan a gritar] </comentario> Como, o sea, se le puede echar de una vez en la <b>sembradura</b>, pero no es recomendable porque, eh, cuando se le echa así puede dar, puede salir la <b>papa sarnosa</b>, entonces, <prosodia valor="interrupt"> ... </prosodia> </u>    
+<def typ="1"><u valor="E" >  ¿Cómo es la <defdum><b>papa sarnosa</b></defdum>? </u> 
+<rdefiniens file="papa_sarnosa.png" source="https://agro-ica.blogspot.com/2012/08/enfermedades-de-la-papa.html"><u valor="I" > <mkr>O sea</mkr>, sale con sarna. </u> 
+<u valor="E" >   ¿Con sarna? </u>    
+<u valor="I" > Claro, <mkr>o sea</mkr>, con, con, con <b>piquitos</b> y eso. No sale lisa. </u> </rdefiniens></def> 
+<u valor="E" >   ¿No sale lisa? </u>
+<u valor="I" > Claro. </u>
+<u valor="E" > Ah, okey. </u>
+<u valor="I" > Entonces, se le puede echar a, al, al mes y medio, cuando se vaya a desherbar. Como ahorita se le puede echar. </u>     
+<u valor="E" > Ahorita se le puede echar. </u>
+<u valor="I" > Claro, <b>pa</b> <b>desherbala</b>. </u> 
+<u valor="E" > Para desherbarla. </u> 
+<u valor="I" > Claro. </u>
+<u valor="E" > Tienes que ir desherbándola <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="I" > No, no, se lo riego a toda y ahí sí busco obreros y la deshierbo. o sea, le echo a toda de una vez <b>pa</b>, <b>pa</b> no irle echando. Le echo a toda y <prosodia valor="interrupt"> ... </prosodia>  </u>   
+<u valor="E" > <comentario valor="voces de fondo"> [niños que juegan en el campo comienzan a gritar. El entrevistador se dirige a ellos] </comentario> Ah, muy bien, muy bien. Sigan ahí. Ah, okey, eh,  ¿Qué otra cosa, eh importante? Eh, ahorita ya sólo debes esperar para echar el <b>gallinazo</b> y empezar a <b>deshierbar</b>  ¿No? </u> 
+<u valor="I" > A desherbar ya ahí sí, y <b>echale</b> insecticida</u>  
+<u valor="E" > Y echar insecticida. Eh, <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="I" > Hasta, hasta, todo el tiempo hasta los cinco meses.</u>  
+<u valor="E" > Hasta los cinco meses. </u> 
+<u valor="I" > Quin, quince días lo menos, antes que esté la cosecha, que uno la <b>roza</b> y ahí sí arranca. </u> 
+<u valor="E" >  ¿La <b>roza</b>? </u>   
+<u valor="I" > <def typ="3"> La <defdum><b>roza</b></defdum>, <mkr>en el sentido</mkr> <rdefiniens file="rozar_terreno.jpg" source="http://nux.ula.ve">la <b>rozo</b> <b>pa</b> que ella engruese, con machete.</rdefiniens> </def></u> 
+<u valor="E" > Ah,la, ah okey.  ¿Le pasas machete? </u> 
+<u valor="I" > Y la dejo quince días, <b>pa</b> que la papa no se pele cuando uno la vaya a echar en saco. <b>Pa</b> que la concha esté dura.</u>   
+<u valor="E" > Esté dura. </u>
+<u valor="I" > Ajá. </u>
+<u valor="E" > Ajá  ¿Rozarla es? </u>
+<u valor="I" > Podarla </u> 
+<u valor="E" > <def typ="4">Podarla, <defdum>rozarla </defdum><defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens file="rozar.jpg" source="http://nux.ula.ve">podarla</rdefiniens></def>. Eh,  ¿La luna influye a la hora de rozarla?  ¿No? </u>   
+<u valor="I" > No. O sea,este, la luna, pues claro, la gente le tiene, dicen que uno no puede sembrar <overlap valor="E" > <comentario valor="comentario">[Se dirige a los niños que hablan]</comentario>  ¡Arriba! </overlap>. No puede sembrar así cuando está la luna llena porque la, las cosas como que se revientan, o, tienen todos sus procedimientos, pero, pues uno siembra así, o sea, el <b>cuido</b> de uno y <prosodia valor="interrupt"> ... </prosodia> </u>    
+<u valor="E" > Y cuando siembras ya los pimpollos,  ¿Tiene que ser de día, de noche, o no importa? </u> 
+<u valor="I" > No, o sea, de día, como uno trabaja. Claro, uno lo siembra de día y de noche la, la deja así. Y cuando no es <b>yelo</b>, le puede echar agua de noche, hasta tarde que no importa nada. </u>  
+<u valor="E" > Generalmente,  ¿En qué época sí se le puede echar agua de noche? </u>
+<u valor="I" > Desde, o sea, de marzo <b>pa, pa alante</b> </u> 
+<u valor="E" > De marzo hasta, más o menos, noviembre.</u> 
+<u valor="I" > Hasta noviembre. Ajá. Ahora de esa fecha, ya cuando empieza el verano, que cae el <b>yelo</b>, sí temprano, de ocho de la mañana a las dos de la tarde. Porque ya a esta, a, a, ahorita, yo le estoy regando, y claro, el agua no seca,  ¿Ve? Se está ahí. Entonces llega la mañana y es donde la papa se puede quemar.</u>     
+<u valor="E" > Ahí es donde se puede quemar. </u>  
+<u valor="I" > Claro. </u>  
+<u valor="E" >  ¿Y esta que están sembrando aquí es papa o es otra? </u>       
+<u valor="I" > No, aquí es <b>brocolí</b>. </u> 
+<u valor="E" >  ¿Y ese cultivo cuánto dura? </u> 
+<u valor="I" > Tres meses.</u> 
+<u valor="E" >  ¿Tres meses?  ¿Es más corto? </u> 
+<u valor="I" > Claro, es más corto. </u>
+<u valor="E" >  ¿Y requiere más cuidado? O  ¿No requiere tanto cuidado como el de la papa? </u>  
+<u valor="I" > No, pues, no es ni tanto. O sea, si la tierra no está enferma, no es tanto. Pero<def typ="1"><ldefiniens file="brocoli_hongo.jpg " source="http://nux.ula.ve">hay una, una enfermedad que le cae a la coliflor y al <b>brocolí</b> </ldefiniens>que<defmetalvb lemma = "llamarse" pos="VMII3S0">se llama </defmetalvb> <defdum><b>hongo</b></defdum>. </def> </u>
+<u valor="E" > Umjú, hongo. </u>   
+<u valor="I" > Hongo: que le cae en la patica, entonces ella no la deja crecer, muere. Y se pierde cuando la, la, el terreno está enfermo.</u> 
+<u valor="E" > Entonces, lo prin, lo primordial en el caso del brócoli es tener en cuenta que la tierra esté sana. </u>   
+<u valor="I" > Esté sana, o <b>echale</b> <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" > Y si no está sana  ¿Qué se le hace? </u> 
+<u valor="I" > Se siembra papa, que a esas cosas no le hace nada. Al porro, al cilantro, a eso no porque a eso no, no, a eso no lo enferma. Ahora, lo que es la coliflor y el <b>brocolí</b> sí. </u>  
+<u valor="E" > Le cae hongo. </u>
+<u valor="I" > Claro, en la pata. </u>  
+<u valor="E" > Ya va. En el brócoli le cae hongo.</u> 
+<u valor="I" > Claro, claro. </u>
+<u valor="E" > En la papa no. </u>
+<u valor="I" > No, en la papa no, ni en el cilantro. Esas cosechas <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="E" > Pero  ¿Cómo se sabe que la tierra está enferma?  ¿Qué, qué, qué condiciones? <prosodia valor="interrupt"> ... </prosodia>  </u>
+<u valor="I" > Porque, porque Usted, vamos a suponer, ahí la matica está, está bonita  ¿Verdad? </u>  
+<u valor="E" > Ajá </u>
+<u valor="I" > Entonces Usted viene mañana que <b>haiga</b> sol y ella está <b>dormía</b>, entonces la, ya le está empezando a caer  ¿Ve? Así no porque no hay sol  ¿Ve? La mata está alegre. Pero, vamos a suponer, mañana que <b>haiga</b> sol, le pega, y la mata se acuesta. </u>  
+<u valor="E" >  ¿Así es que se sabe? </u> 
+<u valor="I" > Claro, ahí se sabe que hay hongo. </u>
+<u valor="E" > Es decir, la mata tiene que mantenerse levantada <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="I" > <kinesic valor="señala con la mano">Si ella se ve así desde un principio</kinesic>, desde pequeña, está la tierra sana. Claro <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" > Sí se cae, está mala. </u>  
+<u valor="I" > Está mala, claro. Que hay venenos que uno le echa, pero, sin embargo, el hongo es muy, <b>pa</b> <b>controlalo</b> es muy difícil, porque, o sea, está enferma la tierra. </u> 
+<u valor="E" >  ¿Es más fácil controlar las plagas de la, de la papa? </u>   
+<u valor="I" > Claro, de la papa, o sea, porque la papa dicen que ennoblece el terreno, lo, lo abona. </u>   
+<u valor="E" > Lo abona, la papa. </u>
+<u valor="I" > Claro. Porque uno, por lo menos, aquí saca esta cosecha, y siembra coliflor y <b>brocolí</b>, le puede echar cloro, cloro de, de ropa,<overlap valor="E" > umjú </overlap> y cal. Y entonces, eso evita un pelo el hongo. Lo, lo trata de acabar. Si le cae, no le cae mucho. Y le puede echar el otro abono que se llama abono de chivo. </u>   
+<u valor="E" >  ¿Abono? </u> 
+<u valor="I" > De chivo. <kinesic valor="señala con la mano"> De ese que tiene </kinesic>. </u>     
+<u valor="E" > Y  ¿Cómo se hace ese abono? </u> 
+<u valor="I" > No, ese lo traen de Carora, de, de los chivos. </u>  
+<u valor="E" >  ¡Ah, okey! Con estiércol de chivo. </u>
+<u valor="I" > Claro. Ajá </u> 
+<u valor="E" > Y el <b>gallinazo</b> es estiércol de gallina. </u>
+<u valor="I" > De gallina. </u>
+<u valor="E" > Que, y,  ¿Esos son los dos que se emplean? De animales  ¿No? Los otros son <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="I" > Ajá, esos dos. Y el de res, pero es, muy, muy difícil, no es, no es igual a estos, o sea, no, no. Estos son los que  se echan más por estos lados, estado Mérida. Lo que es <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" >  ¿Esto, esto da mejor resultado? </u> 
+<u valor="I" > Claro, porque este, por lo menos, le echa y <b>pa</b> la otra cosecha ayuda, la otra cosecha, dura. Ahora, el <b>gallinazo</b> es <b>pa</b> una sola cosecha pero ennoblece el terreno, lo suaviza. Claro. </u>   
+<u valor="E" > Lo suaviza, quiere decir que lo hace más fértil. </u>
+<u valor="I" > Ajá, lo pone más, más suave y <b>pa</b> la otra mata está, la recibe bien. </u>   
+<u valor="E" > Entonces, la otra pregunta es:  ¿Después de esta cosecha de papa puedes olver a sembrar papa o debes cambiar a otra, a otra, a otra hortaliza? </u> 
+<u valor="I" > No, pues, este, es mejor, recomendable cambiar a otra hortaliza, porque uno siembra papa y no se da igual, por lo que la tierra ya recibió esa, esa cosecha. Y entonces, ella ya no, no va a dar igual. Ella se puede dar en el sentido de crecer y todo, pero, no va a avanzar igual las papas. En el sentido, vamos a suponer que esta cosecha dé cincuenta sacos  ¿Verdad? Entonces la otra de repente puede dar cuarenta o treinta. No va a dar igual porque ya, ya, mucha papa. Ahora, uno siembra coliflor o porro, o <b>brocolí</b> y puede sacar una cosecha muy sana y muy buena. </u>    
+<u valor="E" >  ¿Cuánto, cuánto hay en, en <overlap valor="I" >  ¿Sembradura? </overlap> en sembradura aquí? </u>  
+<u valor="I" > Quince sacos. </u> 
+<u valor="E" > Quince sacos. Pero es decir, pero en extensión de, de <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="I" >  ¿De terreno? </u>      
+<u valor="E" > Sí,  ¿Es como una hectárea, no? </u>  
+<u valor="I" > <paraverb valor="sonidos de relleno"> eh, eh </paraverb> No, como media hectárea </u> 
+<u valor="E" > Media hectárea. Media hectárea da como quince sacos  de <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="I" > No, o sea, hay quince sacos <b>sembraos</b>.</u>
+<u valor="E" > Quince sacos sembrados. </u> 
+<u valor="I" > Ajá, <b>onde</b> dicen que un saco, <b>onde</b> se da buena, puede dar el veinte, un saco. </u>
+<u valor="E" > Un saco da veinte sacos. Rinde. </u> 
+<u valor="I" > Da veinte sacos. Rinde cuando se da buena, buena. O sea, que es suerte  ¿Entiende? Y cuando no, en lo normal, que ha <b>dao</b> diez. </u>  
+<u valor="E" > Por lo menos da diez. Al menos, el saco que se siembra. </u>   
+<u valor="I" > Da diez, el saco. Ajá, si es buena. Ahora un veinte es <b>demasiao</b> buena. Es es <b>demasiao</b> </u>  
+<u valor="E" >  ¿Qué depende de que dé más o menos rendimiento? </u>
+<u valor="I" > La semilla. Si la semilla es de primera o de segunda, o el <inintel> ... </inintel> o el terreno la recibe bien, ella puede dar <prosodia valor="interrupt"> ... </prosodia> </u>     
+<u valor="E" >  ¿Qué se puede hacer para que el terreno la reciba bien? </u> 
+<u valor="I" > Este, o sea, <b>echale</b> abono, <b>echale</b> insecticida, <b>pa</b> <comentario valor="voces de fondo"> [Niños que gritan cerca del lugar de la entrevista] </comentario>que ella pueda agarrar. Porque el puro terreno pues no, no la aguanta, hoy en día menos, por la, por la contaminación que hay. </u>
+<u valor="E" > Por la contaminación que hay ella aguanta <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="I" > Hay que, hay que ayudar la mata, bastante. </u>     
+<u valor="E" > Okey, y después de esta cosecha de papas  ¿Qué planea sembrar? </u>
+<u valor="I" > O sea, coliflor o porro.</u> 
+<u valor="E" > Coliflor o porro  ¿Cuánto tiempo tarde el, el, el porro en, en salir? </u>  
+<u valor="I" > Cinco meses. </u>
+<u valor="E" > Igual que la papa. </u>
+<u valor="I" > Igual que la papa. </u>
+<u valor="E" >   ¿Y requiere igual de tanto cuidado.? </u> 
+<u valor="I" > No, no, ahí sí no requiere sino <b>sembralo</b> y <b>echale</b> la <b>quema</b> y abono; no requiere insecticida, de eso nada. </u>    
+<u valor="E" >  ¿No?  ¿Nada? </u> 
+<u valor="I" > No, nada, Porque a eso, a eso no le hace nada la plaga. </u>  
+<u valor="E" > No le hace nada la plaga. </u>
+<u valor="I" > No, no. </u>
+<u valor="E" > Y probablemente obtengas una buena cosecha, porque con la de papa ennoblece la tierra  ¿No? </u> 
+<u valor="I" > Claro, la ennonblece. La ennoblece y la suaviza, y curada. Está curada porque la papa la cura. </u>    
+<u valor="E" > Okey  ¿Cuánto es lo que crece la, la planta de papa? </u>  
+<u valor="I" > O sea, cuando crece, puede crecer como medio metro. </u> 
+<u valor="E" >  ¿Medio metro? </u> 
+<u valor="I" > Medio metro, cuando crece. </u> 
+<u valor="E" > Muy bien,  ¿Y la de, la de brócoli? </u>
+<u valor="I" > La de <b>brocolí</b> crecerá  ¿Qué? </u>
+<u valor="E" >  ¿También?  ¿Como medio metro también? </u>
+<u valor="I" > Más o menos, cuando crece. Y la de porro, igual, medio metro. </u>  
+<u valor="E" > Yo la otra vez vi una de ajoporro y sí se veía como de <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="I" > Claro, larga. De casi un metro. </u> 
+<u valor="E" > Largo. De casi un metro. </u> 
+<u valor="I" > Ese si ahí crece largo, pero, de medio metro porque uno por lo menos dice de medio metro, pero, porque uno no puede decir de un metro, es <b>demasiao</b>. </u>   
+<u valor="E" > Claro, pero como medio metro o un poquito más. </u> 
+<u valor="I" > Claro, un poquito más. </u> 
+<u valor="E" > Y  ¿Qué otra hortaliza se puede dar en estas tierras? Es decir, ya vimos que hay brócoli, coliflor, papa,zanahoria. </u>   
+<u valor="I" > Zanahoria, alcachofa, repollo. </u>   
+<u valor="E" >  ¿Lechuga, no? </u>
+<u valor="I" > Lechuga, sí, pero, o sea, <b>pa</b> esta, <b>pa</b> esta zona, casi no es lechuguera. Lo que es Timotes, sí. </u>
+<u valor="E" >  ¿Timotes sí? </u>
+<u valor="I" > Sí </u>
+<u valor="E" > Ah, un señor en Timotes me dijo que sí se sembraba por allá lechuga, uno que se llama escarola <prosodia valor="interrupt"> ... </prosodia>  </u>  
+<u valor="I" > Escarola criolla, romana, americana, radiccio. </u> 
+<u valor="E" > Ajá, radiccio también. </u>
+<u valor="I" > Y el repollo. Es es lo <inintel> ... </inintel> <b>pa</b> abajo: cilantro, este, <prosodia valor="interrupt"> ... </prosodia> </u>    
+<u valor="E" > También me habló del maíz chiquito</u>  
+<u valor="I" > El maíz chiquito. </u>
+<u valor="E" > Me mostró unas mazorcas <inintel> ... </inintel> </u>
+<u valor="I" > Grandes </u> 
+<u valor="E" > Sí, tiene los granos grandes y amarillos. </u> 
+<u valor="I" > Sí. </u> 
+<u valor="E" > Y lo otro es la alcachofa  ¿No?  ¿Esas son las tierras que están aquí sembradas de alcachofas?  </u> 
+<u valor="I" > Umjú. </u> 
+<u valor="E" >  ¿Cuánto tiempo toma ese cultivo? </u>
+<u valor="I" >  No, cuidándolo, toda la vida. </u> 
+<u valor="E" >  ¿Cómo?  ¿Toda la vida? </u>
+<u valor="I" > Claro, <inintel> ... </inintel> si Usted lo cuida. </u> 
+<u valor="E" > Es decir, una vez sembrada la mata, la mata va a estar dando fruto <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="I" > Mientras Usted la cuide a ella. Ahora, si ella le descuida, igual ella se está pero se está así, chiquita,  ¿Entiende? Chiquita, porque ella  ¿Ve cómo ella está? Porque está cuidada,  ¿Ve? Grande. Ahora, si Usted no la cuida, pues, se <b>emplaga</b>, le cae gusano abajo. </u>   
+<u valor="E" >  Pero, eh,  ¿Tiene también mucha, mucho cuidado?  ¿Necesita mucho cuidado? </u>     
+<u valor="I" > O sea, sí, si necesita sus regadas, pero no, no así tan, tanto. </u>    
+<u valor="E" >  ¿Hay alguna cosa especial que indique que la alcachafa, que la alcachofa salió buena? </u>  
+<u valor="I" > Sí, o sea, este, o sea, cómo se ve. </u>  
+<u valor="E" > Por el aspecto que tiene. </u>
+<u valor="I" > Claro, por lo que Usted ve, Usted la ve bien. No se se ve mala. </u>   
+<u valor="E" > Y  ¿Cuánto da de rendimiento, por ejemplo, la alcachofa? </u>   
+<u valor="I" > O sea, <inintel> ... </inintel>  </u>
+<u valor="E" > No, bueno, porque es de por vida,  ¿No? </u>
+<u valor="I" > Claro, de por vida da mucho. Y cuando hay cosecha pues, eso da muchísimo,  ¿Ve? Porque ahí está un poquito cargada, cuando está, está es todo eso. O sea, llenita, llenita. </u> 
+<u valor="E" > Y entonces,  ¿Cómo se hace para, para poder cosecharla sin dañar la mata? </u>
+<u valor="I" > La corta, y el palo que tiene se le corta abajo, en la pata; entonces ella vuelve a echar fruta y <aproximd> lleva el palo </aproximd></u>    
+<u valor="E" > Se corta, la fruta,  ¿No? </u>  
+<u valor="I" > Ajá, la fruta. Y el palo que queda da hijos,  ¿Ve? Como se ven. Los hijos que llevan donde van más alcachofas, más pequeñas  ¿Me entiendes? Entonces llegan, llega el momento en que a ella no da más y se <b>apoda</b>, abajo, el palo. Y se le vuelve a regar veneno y abonos, y ella vuelve a, a, <prosodia valor="interrupt"> ... </prosodia> </u>    
+<u valor="E" > A florecer. </u> 
+<u valor="I" >  A florecer pero tarda, no es, no es de una vez. tarda sus, su dos meses, o da, pero da poca. Entonces llega un, una temporada en que ella sí da completa. </u>  
+<u valor="E" >  ¿No empobrece la tierra? </u>    
+<u valor="I" >  No </u>  
+<u valor="E" >  ¿No? </u>   
+<u valor="I" > No, no la empobrece. </u>  
+<u valor="E" > Y  ¿Cómo se hace si luego se quiere sembrar otra cosa?  ¿Habría que peinar toda? </u>
+<u valor="I" > <b>Arrancala</b>, <b>arrancala</b> </u>
+<u valor="E" >  ¿Da mucho trabajo arrancarla? </u>
+<u valor="I" > Por que sí... No, con pico se arranca. Porque si Usted la, la poda, ella retoña. <inintel> ... </inintel> </u>  
+<u valor="E" > Claro, este  ¿Qué era lo otro que te iba, que te iba comentar?  ¿Zanahoria, has sembrado también?</u>
+<u valor="I" > Sí. </u> 
+<u valor="E" > Y,  ¿Cuál, cuánto tarde ese cultivo? </u> 
+<u valor="I" > Cinco meses. </u> 
+<u valor="E" > Cinco meses, igual que la papa.  ¿Y también tiene el mismo cuidado? </u>  
+<u valor="I" > Sí, o sea,pero no es tanto insecticida que se le echa. </u>  
+<u valor="E" > Menos  ¿Esta es más delicada todavía? </u>
+<u valor="I" > Claro, o sea, la papa por lo que ella tiene que salir sana. Ahora, la zanahoria hay que <b>cuidala</b> en el momento de la siembra, y de la <b>entresacada</b>, que es <b>entresacala</b>, de resto, este, o sea, no es tan, tan, tan delicada como la papa. La papa porque, por lo menos, hay que <b>regala</b>  cada diez días de insecticida, <b>pa</b> que ella se vaya avanzando y se vaya <b>sanita</b>  ¿Me entiende? Porque, o sea, la hoja se ve sana,  ¿Ve? Que en el cultivo de la hoja se ve sana  ¿Ve? Entonces, esto que se le ve aquí, aquí pegado es venenos que uno le echa, que se pegan a la mata. </u>
+<u valor="E" >  ¿El veneno se pega a la hoja, no? </u>   
+<u valor="I" > Claro, a la, a la mata, a la hoja. </u>
+<u valor="E" > Okey, y el veneno se tiene que echar con medida, supongo.</u>  
+<u valor="I" > Claro, medida. </u>
+<u valor="E" >  ¿Cómo es la medida, más o menos, del veneno? </u>   
+<u valor="I" > O sea, de un litro de insecticida es medio <b>pa</b> la pipa. </u>  
+<u valor="E" > Ve, perdón,  ¿Cómo es la cosa? </u>
+<u valor="I" > Insecticida, me, un litro. Un litro.</u> 
+<u valor="E" > Un litro.</u>
+<u valor="I" > Un litro es <b>pa</b> dos pipas. </u>  
+<u valor="E" >  ¿Dos pipas? Dos pipas <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="I" > Es un tonel de, de cien litros. </u>  
+<def typ="1"> <u valor="E" > Un tonel. Un tonel de cien litros. Okey  ¿Qué otra cosa es importante del, del cultivo de la papa, de todo lo que hemos hablado? ¿Qué variedad de papa es ésta?  </u>  
+<u valor="I" >  <ldefiniens file="moconoque.jpg" source="http://nux.ula.ve"><defdum> Unica</defdum>, única  <defmetalvb lemma = "llamarse" pos="VMII3S0"> se llama. </defmetalvb> </ldefiniens> </u> 
+<u valor="E" > Así se llama, única. </u>
+<u valor="I" >  Ajá. </u>
+<u valor="E" > Y de ...  ¿Cuál es el origen?  ¿No sabe? </u>  
+<u valor="I" > No </u> </def>
+<u valor="E" >  ¿Es la que siembran aquí desde hace mucho tiempo? </u> 
+<u valor="I" > Claro, o sea, la que, este, la que siembran de mucho tiempo y ahorita hay otra que se llama <b>amarilis</b>, y la <b>granola</b>.  </u>
+<u valor="E" > <b>Amarilis</b> y la <b>granola</b>. </u>
+<u valor="I" > Ajá. </u>
+<u valor="E" >  ¿Cuál es la diferencia fundamental? </u> 
+<u valor="I" > <def typ="2"> O sea, de, de que la <defdum> <b>amarilis</b></defdum>  es blanca,  <defcopvb lemma="ser" pos ="VAIP3S0">es </defcopvb>  <rdefiniens file="papa_amarilis.jpg" source="http://nux.ula.ve">  más blanca que la <b>única</b></rdefiniens> </def>  . Y la <def typ="2"><defdum> <b>granola</b></defdum>  pues, esa ya <defcopvb lemma="ser" pos="VAIP3S0">es </defcopvb><rdefiniens file="papagranola.jpg" source="http://nux.ula.ve"> más blanca que ellas dos que la <b>única</b> y que la <b>amarilis</b></rdefiniens> </def> . </u>  
+<u valor="E" >  ¿Y para qué serviría más esa, esa papa <b>granola</b>, por ejemplo?  </u> 
+<u valor="I" > O sea, la compran más porque es blanca, blanca  ¿Entiende? Blanca y se ve más <inintel> ... </inintel> bien. </u> 
+<u valor="E" > Ah, okey. Ya, es más, es más llamativo para la gente que la compra. </u>    
+<u valor="I" > Claro, <b>pa</b> la venta. Umjú. </u>  
+<u valor="E" > Ah, okey. Y <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="I" > Siempre le lleva un precio más <b>alantico</b> que ésta. Vamos a suponer, que si ésta está el saco a doscientos, ella, la otra, la <b>granola</b> puede estar a tres cincuenta. Siempre es más cara, cara o barata. </u> 
+<u valor="E" > Claro, siempre es un poco más. </u>   
+<u valor="I" > Claro. </u>
+<u valor="E" >  ¿Y alguna vez has cultivado esa, la <b>granola</b>? </u> 
+<u valor="I" > Sí, y la <b>amarilis</b>. </u>
+<u valor="E" > Y la <b>amarilis</b>. También, el mismo cuidado que está requiere. </u> 
+<u valor="I" > Sí, <b>igualitico</b></u>
+<u valor="E" > Okey. </u>
+<u valor="I" > Claro, que la <b>granola</b> se está cuatro meses, se está tres meses y medio. </u>   
+<u valor="E" > Tres meses y medio. No tarda tanto. </u>
+<u valor="I" > No, no se tarda cinco meses, por lo que es más rápida. </u>  
+<u valor="E" > Okey </u>
+<u valor="I" > Pero ahí sí no crece casi de rama, <kinesic valor="señala con la mano"> lo más que crecerá será así </kinesic> </u>   
+<u valor="E" > Estos son como treinta centímetros  ¿Verdad, más o menos? </u>
+<u valor="I" > Claro, la, la <b>granola</b> crecerá así. <kinesic valor="señala con la mano">Ahora ésta si crece</kinesic> más. </u> 
+<u valor="E" > Esta crece más. </u> 
+<u valor="I" > Porque apenas le eché el <b>granulao</b>  ¿No ve que se ven los surcos, lo blanquito? Entonces eso empieza eh, este, a los quince días, Usted lo riega, a los quince días empieza a ver el efecto; o sea, que la mata va creciendo, va <prosodia valor="pause"> ... </prosodia> </u>   
+<u valor="E" > Va creciendo. </u> 
+<u valor="I" > Claro. </u>
+<u valor="E" > Eh,  ¿Qué era lo otro que le quería, que te quería preguntar? Era con respecto a  los instrumentos de trabajo  ¿Cuáles son los principales, eh, herramientas de trabajo que tú necesitas para, para el cultivo? </u>      
+<u valor="I" > Este </u> 
+<u valor="E" > Porque sé que está la yunta  ¿No? La yunta de bueyes. </u>  
+<u valor="I" > Claro, pero este, o sea, <b>pa</b> <b>desherbala</b> como una la <b>desherba</b> es <b>garabato</b>. </u> 
+<def typ="3"><u valor="E" > <b>Garabato</b>  ¿El <defdum> <b>garabato</b></defdum>  es? </u> 
+<u valor="I" > Es, o sea, escardilla. </u>
+<u valor="E" >  ¿Escardilla? </u>
+<u valor="I" > Escardilla <defop valor="coma">,</defop> <rdefiniens file="escardilla_emiliomendez"><b>pa</b> uno <b>desherbala</b>. </rdefiniens> Claro, con bueyes se puede desherbar, pero se pisa más y, y uno la, la deshierba es así. Claro, donde son parcelas pequeña. Ahora <b>onde, onde</b> es grande, pues, a veces le meten yuntas, pero la, lo, lo, lo, la mayoría es así, escardilla.  </u> </def>
+<u valor="E" > Casi nadie usa tractor  ¿Verdad? </u>   
+<u valor="I" > No, <b>pa</b> la papa, no. O sea, <b>pa, pa</b> <b>melgar</b> sí dicen que usan tractor. </u>
+<def typ="4"><u valor="E" > <defdum><b>Amelgar</b>  </defdum>¿Qué es <b>amelgar</b>? </u> 
+<u valor="I" > O sea, las <b>melgas</b> </u> 
+<u valor="E" >  ¡Ah! eh  ¿Arar? </u> 
+<u valor="I" > umjú. </u>
+<u valor="E" >  <ldefiniens file="amelgar.jpg" source="http://comunaadentro.blogspot.com/2014_05_01_archive.html">Eso <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> arar,<b>amelgar</b> </ldefiniens> </u></def>. 
+<u valor="I" > Pero, por aquí, uno como no tiene esa capacidad, pues, usa es yuntas de, de bueyes. No, no, no, este, tractores. </u>     
+<u valor="E" > No tractores. Claro,  ¿Tú tenías yuntas de bueyes?  ¿No? </u>  
+<u valor="I" > Claro. </u>
+<u valor="E" > Pero  ¿Las tienes todavía o? </u> 
+<u valor="I" > No, no. La vendí. No tengo ahorita. </u> 
+<u valor="E" > No tienes ahorita. </u>
+<u valor="I" > O sea, me la alquilan. </u>
+<u valor="E" >  ¡Ah, okey! </u>
+<u valor="I" > O sea,este, yo, el, el que me echa <b>arao</b> yo le pago. Yo no echo <b>arao</b>, sino yo lo busco y, y el me ara y yo le pago. Claro. </u>   
+<u valor="E" > Ah, okey. Te es más conveniente así. </u>  
+<u valor="I" > Claro, sí, porque, pues, a veces no hay donde <b>tenelos</b> y <prosodia valor="interrupt"> ... </prosodia></u>
+<u valor="E" >  ¿Los bueyes requieren mucho cuidado? </u>
+<u valor="I" > Claro. Y a veces como hay mucho trabajo y cuando no hay entonces están <b>descansaos</b> y <b>se ponen groseros</b> y <prosodia valor="interrupt"> ... </prosodia> </u> 
+<def typ="4"> <u valor="E" >  ¿Cómo <defdum><b>se ponen groseros los bueyes</b></defdum>?   ¿Eso es? </u>
+<u valor="I" > <rdefiniens file="toro_enojado.png" source="https://pixabay.com/es/enojado-toro-cuernos-animales-cola-46375/"> Bravos, bravos. Los, los toros, cuando no se les da trabajo, se ponen bravos. Ellos necesitan es de trabajar, de trabajar <overlap valor="E" > para que estén </overlap> para que estén <b>cansaos</b></rdefiniens> </u>  </def>
+<u valor="E" > Para que estén cansados.</u>   
+<u valor="I" > Ahora, cuando están, <b>descansaos</b>, <b>se ponen groseros</b>, bravos. </u>   
+<u valor="E" > Lo otro que te iba a, a preguntar, el, para hacer una yunta  ¿Los bueyes de qué edad deben ser? Es decir,  ¿A qué edad lo castran?  ¿Cómo, como se prepara un buey para? <prosodia valor="interrupt"> ... </prosodia>  </u> 
+<u valor="I" > De año y medio. Año y medio. </u>  
+<u valor="E" > Año y medio  ¿Eso todavía es un maute?  ¿No? </u> 
+<u valor="I" > Ajá. <b>Pa</b> que, o sea, <b>pa ilo</b> empezando a, a enseñar. </u>      
+<u valor="E" > Okey, pero  ¿No es castrado, <b>capao</b>, pues? </u>
+<u valor="I" > No, no, no. Es toro, es toro. </u>  
+<u valor="E" >  ¿Toro? </u>
+<u valor="I" > Toro. Y si él sale manso, toda la vida se le puede dar trabajo así, toro, sin caparlo. </u>
+<u valor="E" > Sin <b>capalo</b>  ¿Cuántos años es la vida del buey para, para arado? </u> 
+<u valor="I" > No, este, cuidándolo y... dura mucho. </u>   
+<u valor="E" >  Como  ¿Quince años?  ¿Veinte años? </u> 
+<u valor="I" > Sí, como quince, veinte años. Lo más, lo más que una yunta puede durar, veinte, pero que, o sea, sin, sin, de golpe que se va y se enrede, o se ahorque, o que el otro toro lo, lo aporree, puede durar a esa, a esa edad. Siempre y cuando, o sea, se cuide  ¿Entiende? O sea, lo cuide uno y se cuide él, en el sentido de va y se enreda, o algo. </u>    
+<u valor="E" >  ¿No hay que cuidarlo también de ciertas enfermedades? </u> 
+<u valor="I" > Claro, o sea, de <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" >  ¿Cuáles enfermedades son las más frecuentes? </u>
+<u valor="I" > Este, cuando le cae la garrapata, cuando, de golpe, un insecticida, de golpe, la coliflor, que no, es dañina <b>pa</b> los animales.</u> 
+<u valor="E" >  ¿La coliflor?  ¿La, la hortaliza? </u>
+<u valor="I" > O sea, mucha,  ¿No? O sea, mucha, de repente, en el sentido que va y lo, lo avienta. </u>  
+<u valor="E" >  ¡Ah! Si come coliflor lo avienta. </u> 
+<u valor="I" > O sea, si come en exageración. Vamos a suponer que llegue con hambre y le caiga a ese corte así, con gusto, requiere de que, va y lo avienta y, y se puede morir. O una,o una peste, o, sí, o sea, hay que <b>estalos</b> inyectando, todo eso. </u>
+<u valor="E" > Y además del, del, de la yunta, y la escardilla, y el <b>garabato</b>  ¿Hay alguna otra cosa?  ¿O eso es principalmente lo que se utiliza? </u>  
+<u valor="I" > <b>Pa</b>, <b>pa</b>, <b>pa</b> eso sí. Está el tractor y las herramientas, o sea, en el sentido de la escardilla, el <b>garabato</b>, la yunta. Después viene los motores de fumigar, todo eso. </u>  
+<u valor="E" > Umjú, este, lo otro que te iba a preguntar,  ¿Tú, como agricultor, has participado en las fiestas de San, de San Isidro? </u>  
+<u valor="I" > Sí.</u> 
+<u valor="E" >  ¿Qué es lo que se hace en esas fiestas exactamente? </u>  
+<u valor="I" > O sea, la fiesta de San Isidro es que uno saca la yunta de bueyes <b>pa</b> que la, la, la bendigan, en la iglesia, le echen agua bendita, <comentario valor="voces de fondo">[Niños que juegan y dan gritos]</comentario> y esa es la tradición de todos los años de la gente, del agricultor, del que es agricultor y es, este, o sea, no es,  ¿cómo digo yo? No es,  ¿Evangélico es que dicen? <comentario valor="comentario">[Quiere decir que es una tradición católica, por lo que los agricultores de credo protestante no participan]</comentario> </u>   
+<u valor="E" > Evangélico, ajá. </u> 
+<u valor="I" > Tiene que ser, o sea, la tradición de, de, de San Isidro, de que Usted sí cree en él. Todo eso. </u>    
+<u valor="E" > Entonces,  ¿Las yuntas las bendice el padre? </u>       
+<u valor="I" > Ajá </u>
+<u valor="E" > Eeeh,  ¿Qué, qué fecha es la, que día? </u>  
+<u valor="I" > Mayo. </u> 
+<u valor="E" >  ¿En mayo?</u> 
+<u valor="I" > En mayo. </u>
+<u valor="E" >  ¿Más o menos qué día?  ¿No, no recuerda? </u> 
+<u valor="I" > No, pues, como el once, diez, por ahí, es la fecha. </u> 
+<u valor="E" > En La Venta  ¿No? </u> 
+<u valor="I" > En La Venta. </u>
+<u valor="E" > Porque en otro, en Chachopo y en Timotes debe ser otro día. </u>  
+<u valor="I" > En otros <b>laos</b>, claro, dedican todos esos días. Todo ese mes va pasando un domingo en cada pueblo, así. </u> 
+<u valor="E" > Ah, okey. </u>   
+<u valor="I" > Empieza en La Venta, después en Chachopo, <b>Mutujote</b> <comentario valor="comentario">[caserío de Mucutujote] </comentario>, El Rincón, Cruz Chiquita, Timotes, Mucuchíes, Apartaderos, Pueblo Llano. Pero, el mismo tiempo que se puede hacer en <b>Mutujote</b> lo pueden estar haciendo en Mucuchíes. No es precisamente el día planeado <b>pa</b> cada, <b>pa</b> cada municipio. </u>  
+<u valor="E" >  Okey, entonces, el día también puede variar un poco  ¿No?</u>  
+<u valor="I" > Claro. </u>      
+<u valor="E" > Es decir, de lugar en lugar. </u> 
+<u valor="I" > Claro. </u>
+<u valor="E" > Se saca a pasear las yuntas, y  ¿Salen todos? </u> 
+<u valor="I" > O sea, la mayoría. </u>
+<u valor="E" >  ¿Como cúantas yuntas son?  ¿Como ochenta? </u>
+<u valor="I" > Como cien, cien, ochenta, siempre. Y cuando hay muchas, pues, pasan de cien. </u>  
+<u valor="E" > Y, pasan de cien. Y  ¿Por dónde las pasan?  ¿Por la iglesia? </u>  
+<u valor="I" > Sí, o sea, eeh, la gente la saca a la iglesia, de, de los páramos, de <b>Mutujote</b>, de toda esta zona la sacan a <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" >  ¿Eso es para agradecer por la cosecha o para pedir por cosecha? </u>
+<u valor="I" > Por, <b>pa</b> pedir por cosecha y por agradecer por las cosechas, todo eso. La, la tradición de uno ir a ese día a, que es la fiesta de San Isidro. </u> 
+<u valor="E" >  ¿La yunta se adorna?  </u>  
+<u valor="I" > Sí </u>
+<u valor="E" >  ¿Qué se le hace a la yunta?</u> 
+<u valor="I" > Se le ponen, este, hortalizas, hortalizas, se le pone la foto de San Isidro, este, la gente sale con <aproximd> fondero </aproximd> dice un poema, sale con botas de caucho, eh, sale de trabajar, porque, este, así era San Isidro y así sale el que, el que es devoto a él. </u>   
+<u valor="E" >  U   ¿Y la de San Benito? </u> 
+<u valor="I" > La de San Benito, pues, sale es de la gente de <b>negro</b>, de, de, <b>giro</b>. </u> 
+<u valor="E" > El <b>giro</b>, el <b>giro</b>  ¿Qué es exactamente? </u>
+<u valor="I" > O sea, <def typ="2"> el <defdum><b>giro</b></defdum> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens file="giros_sanbenito_chachopo.png" source="http://nux.ula.ve">el que le baila a él.</rdefiniens> </def></u>
+<u valor="E" > Ah, un bailarín. </u>
+<u valor="I" > Un bailarín, pero con cintas, o sea, con cintas que se ponen, un traje blanco. Y <def typ="2"> el <defdum><b>negro</b></defdum>, <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens file="negros_sanbenito.png" source="http://nux.ula.ve"> todo de negro: un traje negro, y se pinta la cara de negro, y usa sombrero. </rdefiniens> </def> </u>     
+<u valor="E" >  ¿Cuál es la diferencia entre el <b>giro</b> y el <b>negro</b>?  ¿Cumplen funciones diferentes en la fiesta?</u>  
+<u valor="I" > Claro, bailan diferente porque el <b>negro</b> baila con cabuya, ahora el <b>giro</b> baila sólo con una maraca. Y este <prosodia valor="interrupt"> ... </prosodia></u>  
+<u valor="E" > Ajá. Y el <b>giro</b> baila con una maraca. </u>
+<u valor="I" > Un maraca y le bailan a un palo. Ahora, el negro, pues, baila es con cabuya. </u> 
+<u valor="E" >  ¿Cómo con cabuya?  ¿Hace algo con la cabuya? </u>
+<u valor="I" > O sea , con cabuya. Claro, con cabuya. Hacen, hacen figuras:  <examkr mkr="que si">  que si un, que si una <b>araña</b> </examkr> , que si, cosas así.  </u>
+<u valor="E" > Con las cabuyas. </u>  
+<u valor="I" > Umjú.  </u>
+<u valor="E" > Entonces los dos, los dos bailarines de la fiesta de San Benito son el <b>giro</b> <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="I" > Y el <b>negro</b>. </u>
+<u valor="E" > El <b>giro</b> tiene una maraca y, eh, el </u> 
+<u valor="I" > Ajá. Y el <b>negro</b> también. </u> 
+<u valor="E" > El <b>negro</b> también. </u>
+<u valor="I" > Pero, es diferente el, el traje. </u> 
+<u valor="E" > El traje to, es de, todo negro. Y se pinta la cara. </u> 
+<u valor="I" > Claro, el <b>negro</b> es todo negro y se pinta la cara de negro. Y el <b>giro</b>, es blanco y usa sombrero. </u>
+<u valor="E" > <paraverb valor="sonidos de relleno"> Ah, eh, di </paraverb> Es decir,  ¿Unos representan los diablos y otros los ángeles, o algo así, o no? </u>  
+<u valor="I" > No, sino que, o sea, el <b>negro</b>, pues, presenta, este, a San Benito, que es negro. </u>    
+<u valor="E" > Claro, porque San Benito es negro. </u>
+<u valor="I" > Claro, y el otro, pues, presenta también a él, o sea, le baila. </u>  
+<u valor="E" > Y el que, el que es <b>giro</b>  ¿Qué hace alrededor del palo? </u> 
+<u valor="I" > O sea, bailan con una cinta a <b>dale</b> vueltas, a enrollar el palo y eso, con cintas.</u>     
+<u valor="E" > Y  ¿Qué música se toca mientras, mientras se hace? <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="I" > Tambor. </u>
+<u valor="E" >  ¿Sólo tambor? </u>
+<u valor="I" > Tambor. Y, y maraca </u>
+<u valor="E" >  ¿Qué, qué tipo de tambor?</u>
+<u valor="I" > De esos de palo. </u>
+<u valor="E" > De palo. Eh, ¿Las fiestas de San Benito, aquí en La Venta, son cuándo? </u>    
+<u valor="I" > El dos de enero. </u> 
+<u valor="E" >  ¿Dos de enero? </u>
+<u valor="I" > Umjú </u>
+<u valor="E" > Umm,  ¿Y los <b>giros</b> empiezan a ensayar cuándo? </u> 
+<u valor="I" > O sea, ya están desde el diecinueve de diciembre, el veinte. </u> 
+<u valor="E" > Eh  ¿A qué hora ensayan generalmente? </u> 
+<u valor="I" > Las ocho <b>e</b> la noche.</u> 
+<u valor="E" > Pero  ¿Eso es como un, como una sociedad? </u> 
+<u valor="I" > Sí, esas son comparsas. </u>
+<u valor="E" > Comparsas. </u>
+<u valor="I" > Comparsas, que, que ensayan, practican <b>pa</b> <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" > Y  ¿Qué se requiere para ser un <b>giro</b> en la fiesta de San Benito? </u>
+<u valor="I" > O sea, anotarse. </u>
+<u valor="E" >  ¡Ah! Es, vol, voluntario. </u>
+<u valor="I" > Es voluntad. claro, si Usted le quiere hacer una promesa a él de todos los años salir, Usted se la hace. </u>  
+<u valor="E" > Una promesa  ¿Qué generalmente promete la gen? Eh, es decir,  ¿La gente hace promesas para qué?  ¿Para pedir salud? </u>   
+<u valor="I" > Claro, salud, este, o sea, salud más que todo, salud y trabajo, y prosperidad, todo eso.</u>   
+<u valor="E" > Y  ¿En esos días se come algo especial o se toma algo especial? </u>   
+<u valor="I" > No, o sea, pues, esos días, pues, por lo que es diciembre la gente, como es ya dos de enero, pues, todavía comen hallacas. </u>  
+<u valor="E" > Sí, comida navideña. </u> 
+<u valor="I" > Ajá, pero <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" >  ¿Hay alguna bebida especial que se haga esas fechas?  ¿Chicha o algún licor?  ¿No? </u>  
+<u valor="I" > El vino, el vino, o sea, muchas familias. Pero en el sentido de la gente, pues, cervecería, que es lo que la gente toma eso días. </u>     
+<u valor="E" > Umjú  ¿Tú has participado como <b>giro</b> en, en las fiestas de San Benito, o como <b>negro</b>? </u>
+<u valor="I" > No, no, no he <b>participao</b> </u>
+<u valor="E" > Ah,  ¿Pero en tu familia hay gente que ha participado? </u> 
+<u valor="I" > No, o sea, este, el padrastro mío sí, pero es en la Virgen de Coromoto.</u>  
+<u valor="E" > Ah, okey. </u> 
+<u valor="I" > Que es de la <b>araña</b>. Ahí es la <b>araña</b>, no es <prosodia valor="interrupt"> ... </prosodia> </u>  
+<def typ="3"><u valor="E" >  ¿Qué es la <defdum>araña</defdum>?</u>
+<u valor="I" > <ldefiniens file="arañas_virgen_coromoto.jpeg" source="http://devocionenvenezueladelavirgencoromoto.blogspot.com/2011_09_01_archive.html">Salen con, salen con, con un, salen así, y se pintan. No salen con, o sea, salen con, <kinesic valor="señala con la mano"> no más se tapan aquí </kinesic> y, y de resto se, se pintan y se hacen una araña en la, en la cara y le bailan. </ldefiniens> </u></def>
+<u valor="E" >  ¿Se pintan una araña en la cara? </u> 
+<u valor="I" > Se dibujan. </u>
+<u valor="E" > Se dibujan. </u>
+<u valor="I" > Ajá. Ajá </u> 
+<u valor="E" > <comentario valor="comentario"> Se dirige a los niños que juegan en el campo] </comentario>  ¡Claro! <comentario valor="comentario">[Se dirige de nuevo al informante] </comentario>  Ah, <def typ="1">esa <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> la <defdum>araña</defdum>. <rdefiniens file="arañas_virgen_coromoto.jpeg" source="http://devocionenvenezueladelavirgencoromoto.blogspot.com/2011_09_01_archive.html"> Eso es para septiembre, para el dia de la Virgen de Coromoto. </rdefiniens></def>  </u>
+<u valor="I" > Sí, por ahí. </u>
+<u valor="E" > Eh,  ¿Qué otra cosa?  ¿Hay alguna otra cosa importante de la fiesta de San Benito?  ¿Eso es lo principal, no? </u>  
+<u valor="I" > Sí, lo principal. Y la gente es muy devoto, viene mucha gente de otros <b>laos</b> el dos de enero. </u> 
+<u valor="E" > Y  ¿Qué otra fiesta es importante en La Venta?  ¿Sólo esa, San Isidro y San Benito? </u>   
+<u valor="I" > No, o sea, San Benito, San Isidro, la Virgen del Carmen <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="E" >  ¿El día de la Virgen del Carmen se hace algo especial? </u> 
+<u valor="I" > O sea, se le hace una misa. </u> 
+<u valor="E" > Y, yo he visto que usan como unas escopetas 
+que, que, que sólo se le pone pólvora  ¿Qué, cuándo se usa eso? </u> 
+<u valor="I" > Ah, esa es, pero eso la usan es en Mucuchíes.   </u>
+<u valor="E" >  ¡Ah, en Mucuchíes! </u>
+<u valor="I" > En Mucuchies, o sea, porque es dife, en Mucuchíes le puede, se puede la gente, es otra cosa San Benito. </u>  
+<u valor="E" > Celebran de otra forma. </u> 
+<u valor="I" > Porque creo que es esa. No sé si es esa. O la de San Isidro. </u> 
+<u valor="E" > Generalmente la hacen en enero. Debe ser San Benito. </u>
+<u valor="I" > <inintel> ... </inintel> San Benito creo que es esa que echan la pólvora y <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" >  ¿Aquí no usan pólvora? </u> 
+<u valor="I" > O sea, pólvora pero de la otra,de, de morteros. <overlap valor="E" > Morteros </overlap> No es así de escopeta. </u> 
+<u valor="E" > U . Ah, okey. Este, bueno, muy interesante. Muy interesante. San Benito, San Isidro  ¿Qué otra cosa te iba a comentar? Generalemente, eh, a uno cuando niño le cuentan cuentos de espantos,  ¿Aquí hay algún cuento, en La Venta, conocido de espanto? </u>      
+<u valor="I" > O sea, no, o sea, de <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="E" > He oído hablar de uno que llaman el <b>Arco</b></u>
+<u valor="I" >  ¿El <b>Arco</b>? </u>
+<u valor="E" > Sí, que hace que se pierda gente, principalmente niños. </u>  
+<def typ="1"><u valor="I" >  ¡Ah, claro! Claro, el <defdum><b>Arco</b>, el <b>Arca</b></defdum>. Esos son <b>Arcas</b>, <b>Arcos</b>. </u>
+<u valor="E" >  ¿Qué son exactamente? </u>
+<u valor="I" > <mkr>O sea, dicen, o sea, </mkr> uno no, no sé bien porque dicen que <defcopvb lemma ="ser" pos ="VAIP3P0"> son, son, </defcopvb><rdefiniens file="arco.jpg" source="https://rainbowgram.files.wordpress.com/2015/05/e78cd-11226732_810101952419253_1054094312_n.jpg?w=640">   mujeres de, de, como de oro que se enamoran de, de los catires  ¿No? De, de, de un niño catire que va a al páramo, y eso. Si, si se enamora o le gusta, este, da por, por, <b>hacelo</b> perder en el páramo y ella lo agarra. </rdefiniens>   </u></def>
+<u valor="E" > Pero  ¿Usa algún encantamiento para hacer que se pierda? </u>        
+<u valor="I" > O sea, dicen que, que le puede enseñar al niño muchos juguetes, cosas así, <b>pa</b> <b>llevalo</b> a ella. </u>
+<u valor="E" >  ¿Y ha sucedido que se han perdido niños así aquí? </u> 
+<u valor="I" > Sí, un caso, en Chachopo. </u>  
+<u valor="E" >  ¿Qué fue lo que sucedió?  ¿Sí sabe, más o menos? </u> 
+<u valor="I" > Se perdió un niño que se llama <b>Grabiel</b> </u>
+<u valor="E" > Ajá  ¿Qué, qué, qué año, cuántos años tenía, más o menos? </u> 
+<u valor="I" > Tenía como ocho años.</u> 
+<u valor="E" > Ocho años. Umjú, todavía tenía menos de diez. </u>
+<u valor="I" > Sí, por la edad, por la parte de Miranda, el día de las madres. Miranda, quince días, once días desaparecido.</u>
+<u valor="E" > Once días. </u>  
+<u valor="I" > Y apareció vivo, y está, ya es papá.</u>  
+<u valor="E" > Ya va, pero  ¿Se perdió por dónde?  ¿Por un páramo? </u> 
+<u valor="I" > Por Miranda, claro. El páramo de Miranda. </u>
+<u valor="E" > Páramo de Miranda  ¿Dónde queda ese páramo? </u>
+<u valor="I" > Ese queda de <b>Mutujote</b> <b>pal</b> frente <kinesic valor="señala con la mano"> <b>pa</b> allá </kinesic> </u>
+<u valor="E" > De Mucutujote <b>pal</b> frente  ¿Es muy lejos de aquí?</u>  
+<u valor="I" > O sea, en moto puede ir uno. </u>
+<u valor="E" > Umjú  ¿Como cuánto tiempo tarda en llegar? </u>
+<u valor="I" > O sea, dedica, o sea, dedica medio día <b>pa</b> ir. </u>   
+<u valor="E" >  ¿Sólo para ir hasta Mucutujote? </u>
+<u valor="I" > No, o sea, <b>pa</b> ir a <b>Mutujote</b> en veinte minutos. <b>Pa</b> ir a Miranda, pues, una hora, o sea, por lo que <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="E" >  Es decir, uno puede ir a Mucutujote en veinte minutos, y vuelve en veinte minutos también  ¿No? </u>  
+<u valor="I" > Claro, o sea, eso es cerca. </u> 
+<u valor="E" > Ah, okey. Y, bueno, entonces,  ¿El niño andaba por allí?  ¿Cómo llegó hasta páramo Miranda? </u>  
+<u valor="I" > O sea, no, porque la abuela vive allá y iba con la mamá el día de las madres.</u>  
+<u valor="E" > Ajá. </u> 
+<u valor="I" > Y hubo un descuido en que no lo vieron más y se perdió, y lo buscaron y buscaron, y a los once días fue que lo encontraron. </u>  
+<u valor="E" > Y él  ¿Qué contó cuando lo encontraron? </u> 
+<u valor="I" > O sea, que, que estaba con una muchacha muy bonita y todo eso. </u>   
+<u valor="E" > Y  ¿No, no sabía cuántos días habían pasado, o sí? </u>  
+<u valor="I" > No, nada. </u> 
+<u valor="E" > Es decir, perdió el tiempo. </u>
+<u valor="I" > Claro, perdió, estaba ido. </u> 
+<u valor="E" > Estaba ido. </u>
+<u valor="I" > Ido porque comía era cosas, o sea, cosas así, no comía era comida, comía era cosas del páramo. </u> 
+<u valor="E" > Y, y luego cuando volvió  ¿Hubo algún cambio en él, o siguió normal? </u>    
+<u valor="I" > No, o sea, el médico y no hubo ningún cambio, o sea, no sé la mamá. Pero, después de eso, o sea, él, al médico y eso, pero todo, todo marchó bien. </u> 
+<u valor="E" > <paraverb valor="sonido de relleno"> uuu mm </paraverb>  ¡Que curioso! Se perdió tanto tiempo  ¿Ah? Y volvió. Y no, no murió de frío, ni nada. Nada, el frío no lo <prosodia valor="interrupt"> ... </prosodia> </u>    
+<u valor="I" > Nada. Porque lo cuidaban los, la <b>Arca</b> lo cuidaba, o sea, los <b>Arcos</b> <inintel> ... </inintel> </u> 
+<u valor="E" > Y   ¿Dónde, generalmente, habitan? <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="I" >  ¿Los <b>Arcos</b>? </u>
+<u valor="E" > Ajá. </u>
+<u valor="I" > No, este, <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" >  ¿Hay alguna laguna en páramo Miranda?</u> 
+<u valor="I" > No, no hay pero es que el <b>Arco</b> sale es en el páramo, o sea, no le puedo decir si es de una laguna o de, de, de quebrada si no <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="E" > Y  ¿Sale cuándo?  ¿De noche?  ¿De día?  ¿O cuando hay neblina? </u> 
+<u valor="I" > No, es que él no, no es que salga, o sea, él no sale, uno no lo ve, sino, sino, de repente hay un sol, o cae una brisita y se ven así colores: amarillo, azul, rojo, morado <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="E" >  ¡Ah, se ve como el arco iris! </u> 
+<u valor="I" >  Ajá, y ese, ese dicen que es el arco iris a un <b>Arco</b> pero, pues, sale así, no es <inintel> ... </inintel> </u>  
+<u valor="E" > Y  ¿Sólo son femeninos, mujeres?  ¿O hay masculino también? </u>
+<u valor="I" > Sí, que es que hay masculino y femenino. </u> 
+<u valor="E" > O sea, también se podría llevar a una niña  ¿No? </u>  
+<u valor="I" > Claro, porque dicen que son las catiras, o depende de la sangre. O sea, <prosodia valor="interrupt"> ... </prosodia> </u>  
+<u valor="E" > Pero, generalmente, es como que el, el, el <b>Arco</b> se enamora de un niño. </u> 
+<u valor="I" > La <b>Arca</b> </u>
+<u valor="E" > La <b>Arca</b>. </u>
+<u valor="I" > O sea, sí, o sea, le gusta y se lo, hace por <b>lleváselo</b>, umjú. </u> 
+<u valor="E" > Y  ¿Ese Gabriel ya incluso tiene hijos y todo? </u>
+<u valor="I" >  Tiene un hijo. </u>
+<u valor="E" > Y  ¿Fue hace mucho que se perdió? </u>
+<u valor="I" > Hará  ¿Qué? Como siete años, por <b>ahi</b>.</u>
+<u valor="E" >  ¡Ah! </u>
+<u valor="I" > O cinco años, no le sé decir bien la <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" > Y  ¿Nunca más, no tuvo ni pesadillas ni nada? </u>
+<u valor="I" > No, creo que no. Umjú. </u> 
+<u valor="E" > Y  ¿A ningún agricultor le ha pasado que lo han espantado o algo así?  ¿No? </u>  
+<u valor="I" > Pues, o sea, no, o sea, no, si, no sé si, si a alguien habrán <b>espantao</b> y eso. </u>   
+<u valor="E" > Bueno, probablemente no lo cuente. Le dará pena contarlo <comentario valor="risas">[risas]</comentario> No le gustaría decir que lo espantaron fácilmente.</u>  
+<u valor="I" > Sí. </u>
+<u valor="E" > <paraverb valor="sonido de relleno"> u  </paraverb> Okey  ¿Qué era lo otro que te iba a comentar?  Y  ¿Para allá arriba qué hay? </u> 
+<u valor="I" > Papa. </u>
+<u valor="E" >  ¿Papa también?</u>
+<u valor="I" > O sea, tengo más arriba. Hay papa. Del <b>postal</b> <b>pa</b> arriba todavía hay otro pedazo ahí. </u>
+<u valor="E" > Ah, si quiere  ¿Todavía hay chace de ir para allá o no? </u>  
+<u valor="I" > <inintel> ... </inintel> </u>
+<u valor="E" > Ah, okey. Y  ¿Tú tienes más familiares, Albino?  ¿Más familia? </u> 
+<u valor="I" > Sí, sí tengo, tengo hermanos, sobrinos. </u>
+<u valor="E" > Ajá </u>
+<u valor="I" > Este, mi mamá, mi papá, tíos, tías. </u> 
+<u valor="E" >  ¿Todos son de aquí? </u>   
+<u valor="I" > Sí, o sea, la mayoríaa está aquí, y la mayoría en Timotes.</u>  
+<u valor="E" >  ¿Y la mayoría en Timotes?  ¿Porque, tu familia originalmente es de allá, de Timotes? </u>  
+<u valor="I" > No, de aquí, pero, o sea, <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="E" >  ¿Se fueron <b>pa</b> allá? </u> 
+<u valor="I" > Ajá</u> 
+<u valor="E" > Ah, okey. Y  ¿Cuánto tiempo tienes tú en La Venta?  ¿Desde que naciste? </u>  
+<u valor="I" > No, o sea, yo soy de Chachopo. </u>
+<u valor="E" > Ajá, de Chachopo. </u>
+<u valor="I" > Claro, yo soy de Chachopo, pero como la esposa mía es de, de, de La Venta <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="E" > Entonces tú estás en La Venta con ella. </u>
+<u valor="I" > Claro, desde hace cinco años. </u>
+<u valor="E" >  ¿Desde hace cinco años? </u>
+<u valor="I" > Sí. </u> 
+<u valor="E" > Ah, okey  ¿Esta agua que corre por aquí es de un río, o es de sistema, o es de un, un, algo que ustedes desviaron para cultivar, o? </u>
+<u valor="I" > No, es una, una naciente, una quebrada. </u>  
+<u valor="E" > Una quebrada. </u>
+<u valor="I" > Umjú, que baja por todo esto, por todo este pantano, por debajo. </u>  
+<u valor="E" >  ¿Ajá? </u>
+<u valor="I" > Por la carretera ahí, las sembraduras de Freddy, las tierras de Goreti, de los Uzcátegui. </u>  
+<u valor="E" > Ah, okey. </u> 
+<u valor="I" > Aquí está la otra papa,  ¿Ve? De aquí hasta allá arriba.</u>  
+<u valor="E" >  ¿Esta es otra media hectárea, más o menos? </u>
+<u valor="I" > O sea, todo será.</u> 
+<u valor="E" >  ¿Todo hace media hectárea? </u>
+<u valor="I" > Sí. </u>
+<u valor="E" >  ¿Y esas son las únicas tierras que tú cultivas o hay otras? </u> 
+<u valor="I" > No, este,  más, o sea, cultivo mucho, lo que pasa es que no siembro en un solo <b>lao</b>. </u>    
+<u valor="E" >  ¡Ah, claro! Tienes en distintas partes. </u>  
+<u valor="I" > Claro. </u>
+<u valor="E" >  ¿Eso es más, más difícil para, para trabajar o no es tanto problema, el hecho de que estén en diferentes partes los cultivos? </u>  
+<u valor="I" > O sea, sí es un poquito más difícil, por lo que, por lo que uno no está en, en el mismo <b>lao</b>, porque puedo ir de aquí <b>pa</b> allá, de allá <b>pa</b> acá, entonces, pues, uno, se le hace un poquito más difícil, pero uno hace el sacrificio. </u>     
+<u valor="E" > Okey. Lo otro que te quería comentar  ¿Aquí en La Venta hay rezanderos? </u> 
+<u valor="I" > Sí. </u>
+<u valor="E" >  ¿Quiénes son los principales rezanderos de, de La Venta? </u>
+<u valor="I" > Este, eh, pues, el que sé, que le puedo decir es el señor Gilbertón. </u>   
+<u valor="E" >  ¿Gilbertón le llaman? </u>
+<u valor="I" > Sí, eosea, ese es el, el, sí, creo que ese es el nombre. </u> 
+<u valor="E" >  Y él  ¿Qué hace?  ¿A qué enfermedades le reza?</u> 
+<u valor="I" > No, o sea, él le reza es a, le reza que si un rosario, que si, que si de golpe un muerto. </u>  
+<u valor="E" >   ¡Ah!  ¿Pero no es curandero? </u> 
+<u valor="I" > No, curandero no es. </u> 
+<u valor="E" > Sólo es rezandero de, de difuntos. </u> 
+<u valor="I" > Sí, porque curanderos, creo que, creo que aquí no <b>haigan</b> por estos <b>laos</b>. </u> 
+<u valor="E" > Me dijeron que quizá había en Mucutujote  ¿No?</u>
+<u valor="I" > Sí, en <b>Mutujote</b> creo que sí, o ahí en Mixteque que <prosodia valor="interrupt"> ... </prosodia> </u> 
+<u valor="E" >  ¿Miteque?  ¿Eso es en dónde? </u> 
+<u valor="I" > O sea, yendo <b>pa</b> <b>Mutujote</b>. </u>
+<u valor="E" >  ¿Y es más cerca de <b>Mutujote</b>? </u>
+<u valor="I" >  ¡Claro! Antes Mixteque, allá donde se ven los bombillos aquellos. </u>  
+<u valor="E" > Ah, okey. </u>  
+<u valor="I" > Misteque, después va <b>Mutujote</b>, y después El Hatico. </u> 
+<u valor="E" > El Hatico. </u>
+<u valor="I" > Y detrás del Hatico, Piñango. </u>
+<u valor="E" > Piñango.</u> 
+<u valor="I" > Umjú.</u>
+<u valor="E" >  ¿Piñango está más abajo o más arriba que acá? </u>
+<u valor="I" > Más abajo. No, o sea, Piñango <kinesic valor="señala con la mano"> está es <b>pa</b> allá, <b>pa</b> atrás de <b>toa</b> esas peñas </kinesic> <b>pa</b> allá. </u> 
+<u valor="E" > Ah, okey. </u> 
+<u valor="I" > Claro.</u> 
+<u valor="E" > Entonces, está <b>pal</b> otro <b>lao</b> <b>e</b> la montaña. </u> 
+<u valor="I" > Claro. </u>
+<u valor="E" > Ah, okey. Piñango  ¿Allá también se cultiva, no? </u>
+<u valor="I" > Sí, pero apio. </u> 
+<u valor="E" >  ¿Apio? </u>
+<u valor="I" > Ajá. Creo que, o sea, hortalizas como aquí no, o sea, papa y eso, pero, más que todo el apio. </u>  
+<u valor="E" > Jum, la otra cosa que te iba a preguntar:  ¿Aquí no se cultiva fresa? </u> 
+<u valor="I" > Sí. </u> 
+<u valor="E" > Pero,  ¿Casi nadie lo hace? </u>
+<u valor="I" > Ya casi no lo hacen porque la gente se acostumbró a, a hortalizas, pero ya hoy en día, pues sí, la gente está sembrando fresas.</u> 
+<u valor="E" > Pero  ¿Puede ser igual de rentable? </u>  
+<u valor="I" > Pues, no sé. </u> 
+<u valor="E" >  ¿Tiene mucho trabajo? </u>
+<u valor="I" > Siempre. </u> 
+<u valor="E" >  ¿Más que la papa? </u>
+<u valor="I" > Sí, porque ella lleva su insecticida, y hay que ponerle un plástico, hay que cuidarla, o sea, siempre tiene más trabajo.</u>  
+<u valor="E" >  Y  ¿Cuánto tiempo toma el cultivo de fresas?  ¿Cuánto?  ¿No sabes, más o menos? ¿Más que? <prosodia valor="interrupt"> ... </prosodia></u> 
+<u valor="I" > Creo que cuando empieza a producir son como cuatro o cinco meses. </u> 
+<u valor="E" > A los cuatro o cinco meses. </u>
+<u valor="I" > Ajá. </u>
+<u valor="E" > Y  ¿Ese cultivo queda para toda la vida como la alcachofa o, o? <prosodia valor="interrupt"> ... </prosodia> </u>
+<u valor="I" > Cuidándolo, claro, ella da, pero, pero, pero, este, si se descuida se, se acaba. </u>    
+<u valor="E" > Ah, okey. Casi nadie lo siembra aquí porque es más tradición las hortalizas de las que me hablaste. </u>
+<u valor="I" > Sí, ajá. </u>
+<u valor="E" > Okey, y para el otro lado, que está Piñango, por allá  ¿No? Donde se ven las luces, no perdón, Mixteque es que <b>pa</b>, <b>pa</b> allá <b>pa</b> donde se ven las luces amarillas. Y  ¿en Mixteque se siembra también? </u>    
+<u valor="I" > Claro, igual, lo mismo. </u>
+<u valor="E" >  ¿Igual que aquí? </u>
+<u valor="I" > Sí. Lo que es <b>toa</b> esta zona, es lo mismo: El Hatico, <b>tóo</b> este <b>lao</b>, <b>tóo</b> lo que, lo que es andino es, es casi, o sea, <b>tóo</b> esto pero, <b>pa</b> esta zona se produce, o sea, se produce <b>toa</b> esas matas. Ahora, lo que es Mucuchíes, puro ajo de diente, papa, fresa, bueno, pues, zanahoria. </u>
+<u valor="E" > Bueno, Albino, muchísimas gracias por tu tiempo, y espero, bueno, que tengas una muy buena cosecha. </u>  
+<u valor="I" > De nada, a la orden. </u>
+<u valor="E" > Entonces, muchísimas gracias. </u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LV02040	Guillermo 	2014	Marcado+ Etiquetado	 Completo
+	
+</versiones>
+
+
+
+ </doc>

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13PL02012" MIMETYPE="audio/wav" SIZE="2855826 " CREATED="2014-03-03" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:11:37 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señor Estanislao Paredes Paredes. Persona de 90 años </name>
+</group>
+</cesHeader>
+
+
+<u valor="E" > ¿Sí, de la Trinidad?. Esa Cooperativa, la Cooperativa la Trinidad es vieja ¿verdad?</u>
+
+<u valor="I1" >Tiene pa, pa cincuenta y dos años</u>
+<u valor="E" > Cincuenta y dos años, imagínese</u>
+<u valor="I1" > Eso de vela <b>fundao</b>. Yo soy el número ocho</u>
+<u valor="E" > ¡El número ocho! Imagínese. Y ¿con qué fin nació esa cooperativa? <overlap valor="I1" > ¿Ah? </overlap> ¿Con qué finalidad? ¿Pa qué la fundaron pue? </u>
+
+<u valor="I1" > Eh, eso es pa pa vender <b>curas</b> y eso, pa pa pal monte y pa apa las matas <overlap valor="E" >
+¿ Pa la agricultura pue?</overlap>Pa la agricultura, era destinada pa la agriculura, la llaman la la Cooperativa la Trinidad.</u> 
+
+<u valor="E" > Mire y hablando de su salud, usted que está <b>malito</b> de los pulmones, este, ¿con qué se curaba la gente antes? porque ¿había médicos? O ¿qué usaban pa medicina? ¿Qué usaban? </u>
+<u valor="I1" > ¡Ramitas! <overlap valor="E" > Ramintas. Y ¿qué ramitas? </overlap> Ramitas porque antes no habían doctores, antes no llegaban doctores. Claro, habían en los ciudades, pero aquí no se <b>vía</b> un doctor. Eso hace bastante que, como pa pa pa unos cuarenta años que vino el primer doctor  </u> 
+
+<u valor="E" > Y ¿cómo hacían cuando la gente se enfermaba?</u>
+<u valor="I1" > Pues eso, bueno se se se sacaba pa otra parte,</u><u valor="E" > Y si eran cosas fáciles como gripe o que, ¿qué tomaban?</u>
+<u valor="I1" > Ahí se tomaban por ahí <b>ramitas</b>, se verben, manzanilla, pa pa una fiebre era este como es que le llaman a eso <prosodia valor="pause">...</prosodia> <prosodia valor="up"> Malojillo </prosodia> <overlap valor="E" > ¿Malojillo? Ah</overlap> Malojillo, y ruda, y eso <b>ramitas</b>, con rama se curaba alguno y eso duraba mucho la gente <overlap valor="E" > Sí verdad</overlap> Sí, eso duraba mucho la gente, como le digo, las costumbres eran muy fuertes, eso las comidas</u>
+
+<u valor="E" > Mmm. Y ¿de qué se enfermaba la gente? ¿Cuál era la enfermedad más común? más</u>
+
+<def typ="1"><u valor="I1" > La fiebre, fiebre o <b>viruelas</b> <overlap valor="E" >¿<b>Viruelas</b>? Ajá </overlap> <b>Viruelas</b>. Pero eso se terminó gracias a Dios esa no volvió a dar más</u> 
+<u valor="E" > ¿Cómo era esa?</u>
+<u valor="I1" > Ese <defcopvb lemma ="Ser" pos ="VAII1S0">era</defcopvb> <rdefiniens>un <b>vejiguero</b> que le salía a uno en el cuerpo <overlap valor="E" > ¿<b>vejiguero</b>? </overlap> Unas vejigas verdes</rdefiniens>. Eso no volvió a salir gracias a Dios. Eso no volvió a dar más</u> </def> 
+
+<u valor="E" > <paraverb valor="alarg"> Ah</paraverb></u>
+
+<u valor="I1" > Eso era lo mismo que la Fiebre Amarilla. El que le daba la Fiebre Amarilla si no se curaba con nada<overlap valor="E" > ¿Se moría?</overlap> Se moría sí. </u>
+
+<def typ="1"> <u valor="E" > Imagínese. Y ¿qué otra cosita usaban? La tos ¿con qué la curaban?</u>
+<u valor="I1" > Con <b>verbena, bebediso de verbena</b> </u>
+<u valor="E" > ¿Cómo lo hacían? ¿No se acuerda? <overlap valor="I1" > Cocido, ramas, una rama cocida</overlap> Mmm, la <b>verbena </b>¿Qué <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> qué? un <overlap valor="I1" > <rdefiniens>Una ramita</rdefiniens></overlap> Una ramita. Y qué y si le dolía el oído a los niños ¿qué le echaban </u></def>
+
+<u valor="I1" > Ahí, ahí yo no sé con qué lo curaban, eso sí no sé  </u>
+<u valor="E" > Y a los niños aquí ¿cómo los cuidaban? de, usted sabe que los bebes cuando son <b>chiquiticos</b> pues hay que cudalos mucho</u> 
+
+<u valor="I1" > Sí, eso había mucha atención con un muchacho chiquito</u>
+
+<u valor="E" > Y cómo, cómo  ¿cómo hacái la mujer que paría? ¿Cómo hacái la mujer pa parir? ¿Paría así en su casa? O ¿Cómo? </u>
+
+<u valor="I1" > <def typ="1">Eso la <b>asestía</b> otras según la señora, sí. Antes no se llevaba a ningún hospital porque no había hospital. Habían la, las llamaban <b>parteras </b><defop valor="dos puntos">:</defop> <rdefiniens>eso le <b>asestía</b> a a  la mujer que daba a luz.</rdefiniens>  No es como <b>orita</b> que la mujer que sale embarazada tiene que a <b>llevala</b> a un hospital, eso es. Antes no, antes habían <rdefiniens>unas <b>comadronas </b> que llamaban, eso es, eso es le <b>asestía</b></rdefiniens> </def> </u> 
+
+<u valor="E" > Y ¿qué hacían las <b>comadronas</b></u>
+
+<u valor="I1" > Y las, la mujer que daba a luz, la criatura se estaban era cuarenta días en la cama, no es como ahorita que de una vez ese otro, dan a luz y de una vez ese otro día se van</u>   
+
+<u valor="E" ><comentario valor="risas"> [Risas]</comentario> ¡Cuarenta días! </u>
+
+<u valor="I1" > Cuarenta días metías en una cama y la comida era pura gallina, pura gallina, eso es, sopa  de gallina</u>
+<u valor="E" > Y el niño ¿quién lo asistía? ¿Quién lo ayudaba? </u>
+
+<u valor="I1" > Eh, la misma madre, sí</u> 
+<u valor="E" > Mmm. Y le daba puro pecho. Y si un niño no tomaba pecho ¿qué le daban? </u>
+<u valor="I1" > Le hacía <b>atol</b></u>
+<u valor="E" > ¿De qué? <overlap valor="I1" > De maíz</overlap>¡De maíz! ¿Imagínese! </u>
+<u valor="I1" > <b>Atol de maíz</b></u>
+<u valor="E" > Pero con leche o sin leche</u>
+<u valor="I1" >Con leche ese sí, con leche </u>
+<u valor="E" > Naguará, imagínese. Y ¿no le hacía daño a la barriga del niño? </u>
+<u valor="I1" > No, nada</u>
+<u valor="E" > Leche de ¿vaca? </u>
+<u valor="I1" > De vaca </u>
+<u valor="E" > Y la leche no la usaban como remedio pa alguna cosa </u>
+<u valor="I1" > No, no, no. Así, de alimento </u>
+<u valor="E" > Ya. Y usted nunca estuvo, ¿Cuantos hijos tuvo usted?</u> 
+
+<u valor="I1" > Siete</u>
+
+<u valor="E1" > Y ¿nunca estuvo en el parto de alguno de ellos?</u>
+<u valor="I1" > No, pues no</u>
+<u valor="E" > ¿Ustedes qué hacían cuando? ¿Cómo hacía? ¿A qué ayudaba usted en el parto?</u>
+
+<u valor="I1" > Nada, se, se le buscaba, se le bescaba, se les hacía yo no sé cómo se llama eso, se le buscaban las gallinas pa que comiera aquella mujer que daba a luz</u> 
+
+<u valor="E" > Pero la partera ¿no le decía a usted, mire usted v a agarrar esto  o o nada, <overlap valor="I1" > No, nada</overlap> Nada, todo lo hacía la partera </u>  
+<u valor="I1" > No nada, eso la <b>asestían</b> adentro y uno no <b>vía</b></u>
+<u valor="E" > Ah, ¿usted no veía nada? <overlap valor="I1" > No, no</overlap> ¿Nunca entró a nada? <overlap valor="I1" > No, no, a nada</overlap> Ah. No, ¿no le daba curiosidad? <comentario valor="risas"> [Risas] </comentario> <overlap valor="I1" > No. Ya le digo</overlap> Osea que usted nunca vio a su esposa parir <overlap valor="I1" > No. Me retiraba, la <b>partera</b> me retiraba lejos</overlap>  <paraverb valor="Alarg">Ah</paraverb> Y si la señora no quería salir embarazada ¿Con qué se cuidaba? </u>
+<u valor="I1" > Aquí hubo siete hijos, están vivos todos, y dos se murieron, los primeros se murieron <overlap valor="E" > ¿De los siete? </overlap> Eran varones <overlap valor="E" > Fueran nueve, eran nueve</overlap> Sí. Eran nueve. Y también tengo un hijo natural en Barinitas</u>
+<u valor="" > Ah. Y ¿cómo hacía señor Estanislao cuando la señora no quería salir embarazada? Sabe que ahora las muchachas usan que si pastillas anticonceptivas y esas cosas. ¿Antes qué usaban?</u> 
+
+<u valor="I1" > No, no nada</u>
+
+<u valor="E" > Y ¿la mujer cómo hacía pa no salir embarazada?</u>
+
+<u valor="I1" > Yo no sé. </u>
+
+<u valor="E" > No sabe cómo se cuidaban, qué tomaban </u>
+
+<def typ="4"> <u valor="I1" > Yo no sé, no tomaban nada, cuando ya no, se ponía aquella señora <b>jechona </b> no tenía más familia</u>
+<u valor="E" > ¿<b>Jechona </b>? <comentario valor="risas">[Risas]</comentario> ¿Cómo así? <defop valor="dos puntos">:</defop> </u>
+<u valor="I1" > <rdefiniens>Vieja pue</rdefiniens></u></def>
+<u valor="E" > <comentario valor="risas">[Risas]</comentario> Qué interesante </u>
+<u valor="I1" > Eso es. Ya le digo. Yo yo crié to esa familia y y a le digo, la crié pobre pobre, porque yo crié mi familia pobre. Yo yo nunca compré un par de zapatos a una muchacha pa que fuera pa la escuela porque no había, <overlap valor="E" > Y ¿qué se ponían?</overlap> No, no tenía plata. Porque ganando dos bolívares o un bolívar, si alcanzaba pa una cosa no alcanzaba pa otra, En con el, con con coticitas </u>
+<u valor="E" > Y cómo las, ¿de dónde las sacaba las coticitas?</u>
+<u valor="I1" > Ah bueno se compraba en los negocios que eso sí los traían de Timotes</u> 
+<def typ="1"><u valor="E" > ¿Cómo eran las cotizas?</u>
+<u valor="I1" > <defcopvb lemma ="Ser" pos ="VAII1S0">Eran</defcopvb> <rdefiniens>como zapatos pero de hilo se hacían las cotizas</rdefiniens>, sí ya le digo. Y, y yo crié mi familia con pura comida criolla</u> </def>
+
+<u valor="E" > Mmm. Mire señor Estanislao Y ¿la gente  aquí tejía?<overlap valor="I1" > ¿Ah? </overlap> ¿Tejían? ¿No tejían?</u>
+<u valor="I1" > Hacían <b>sombreros de cogollo</b></u>
+<u valor="E" > De co... ¿Qué es cogollo?</u>
+<u valor="I1" > <def typ="1">De cogollo de. Eso la traían de de de de Barinitas. Esa <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una rama que que que hay por áhi de que llamaban cogollo y traían los rollos de de cogollo y <b>astonce</b> la iban tejiendo y lo iban tejiendo y  y hacían los sombreros</rdefiniens></def>, eso es</u>    
+
+<u valor="E" > Ya. Y ¿qué más tejían?... Ropa y eso ¿no? ¿No hacían tejidos? ¿Nadie sabía tejer aquí? ¿Y las cobijas y nada de eso?</u>
+ 
+<u valor="I1" > Las compraban pa hilo y eso sí salía lo traían de Timotes y el hilo pa coser, había muchas costureras también pa hacer ropa, eso sí</u> 
+<u valor="E" > Mmm. ¿Costureras?<overlap valor="I1" > Sí</overlap> ¿Con máquinas o con puras agujas? <overlap valor="I1" > Con máquinas sí. No con máquina, con máquina  </overlap>  Y ¿pa el frío? porque ¿aquí hacía más frío antes que ahorita? </u>
+<u valor="I1" > <def typ="1">Pal fío se compraban <b>carpetas</b> <defmetalvb lemma ="Llamar" pos ="VMIP3P0">que llaman</defmetalvb> <rdefiniens>cobijas ve que eso sí se había que compralas en Timotes o en Mucuchíes que salían o en Mérida, una <b>carpeta</b> que llamaban marca Mucuchíes que se la ponía uno y le podía caer un palo de agua y no le pasaba nada</rdefiniens></def> Sí, esas salían muy buenas</u>
+<u valor="E" > Qué bien ¿no?. Y usted ¿más nunca tuvo? Usted y ¿eran muy caras?</u>
+<u valor="I1" > No no eran caras. Esas no valían sino unos cuarenta bolívares </u>
+
+<u valor="E" > Pero qué las tejían o cómo las hacían? ¿No sabe?</u>
+<u valor="I1" > No, yo no sé cómo sería, esas las traían de otra parte, esa sí las traían de otra parte. <b>Carpetas</b>, llamaban la <b>carpeta marca Mucuchíes</b> , esa era la que salía mejor. Y cobija de lana de ovejo, Esas las hacían, aquí había una señor que hacía cobijas</u>  
+
+<u valor="E" > Ajá y las tejía?</u>
+
+<u valor="I1" > Sí. Ese tenia un <b>asuntico</b> de, de, de tejer y el mismo hacía esas cobijas </u>
+
+<u valor="E" > Ajá. El mismo. Y ¿no sabe de dónde sacaba la lana? <overlap valor="I1" > De ovejos</overlap> Pero ¿el los criaba o cómo? ¿El mismo tenía ovejos? <overlap valor="" >¡Claro!</overlap> Y ¿les sacaba la lana?</u>
+
+<u valor="I1" > Les sacaba la lana y eso iba girando y hacía las cobijas</u> 
+
+<u valor="E" > Y ¿usted no sabe cómo se llama ese señor, se llamaba?</u>
+<u valor="I1" > Ese se llama Rodolfo Santiago</u>
+
+<u valor="E" > Rodolfo Santiago. Y ¿dónde vivía? </u>
+<u valor="E" > Rodolfo Santiago. Y ¿dónde vivía? </u>
+<def typ="1"><u valor="I1" > En <b>la Culata</b> </u>
+<u valor="E" > Ah, en <b>la Culata</b> vivía mucha gente ¿no? </u>
+<u valor="I1" > Sí, ese <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>un pueblo ahora</rdefiniens>. ¿Usted no ha ido por áhi? </u>
+<u valor="E" > Estos días no. Hace tiempo, hace muchos años que no voy</u>
+<u valor="I1" > Es bonito por áhi. Eso <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens> un cacerío</rdefiniens> </u></def>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13PL02012 - yurmari-	2014-03-03	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+
+</doc>

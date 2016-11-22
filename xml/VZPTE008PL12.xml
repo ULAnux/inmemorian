@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE008PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="480763904" CREATED="2015-08-27" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:09:27 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:09:27 </extNote>
+<extNote id="NumeroInterlocutores"> 10</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="10">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1">  María Cristina Santiago </name>
+<name type="Informante" id="I2"> Enerio Santiago </name>
+<name type="Informante" id="I3"> Cipriano Paredes </name>
+<name type="Informante" id="I4"> Jairo Martín Parra Montilla </name>
+<name type="Informante" id="I5"> Miguel Ángel Montilla Salcedo </name>
+<name type="Informante" id="I6"> Victor Hugo Montilla Salcedo </name>
+<name type="Informante" id="I7"> Olimary Paredes </name>.
+<name type="Informante" id="I8"> Maria Daya Gonzáles </name>
+<name type="Informante" id="I9"> Niuman Monsalve </name>
+<name type="Informante" id="I10"> Luis Alberto Montilla  </name>
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Buenas tardes, mi nombre es María Cristina Santiago, la palabra <def typ = "1"><b>júguela</b> déjame pensarlo<defop valor=  "dos puntos">: </defop> <rdefiniens> bueno que se mueva, que haga las cosas <b>ligero</b> </rdefiniens> </def> </u>  
+<u valor="I2" > Mi nombre es Enerio Santiago y para el programa Déjame Pensarlo  este <b>júrguela </b><def typ = "1">, <b>júrguela</b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una palabra que utilizamos nosotros<b>nojotros</b> los pueblo llaneros para agilizar culquier ación o cualquier trabajo que <b>nojotros </b> vayamos a emprender </rdefiniens></def></u>  
+<u valor="I3" > .Si bueno mi nombre es Cipriano Paredes eh gracias acá a Nestor por esta entrevista acá, bueno eh siempre nos agarra como se dice de sorpresa, no sé cuál es la pregunta de hoy.  Ah <b>júrguela </b>,  bueno <def typ = "1">, <b>júrguela </b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  una de las palabras .si se quiere acá del lenguaje coloquial .acá del municipio Pueblo Llano que mas o menos tiene un significado de apurar a la persona, por decir un ejemplo ¡<b>júrguela </b>! por decir algo es algo así más o menos como avanzar ese es más o menos el entendido de <b>júrguela </b></rdefiniens> </def> </u>  
+<u valor="I4" > Buenas tardes, mi nombre es Jairo Martín Parra Montilla, conocido como "Puchi". </u>  
+<u valor="I5" > Ajá, mi nombre es Miguel Ángel Montilla Salcedo conocido como "Miguel Culebra" </u>  
+<u valor="I6" > Mi nombre es Victor Hugo Montilla Salcedo, el conocido "Chaparro" </u>  
+<u valor="I4" > Bueno, vamos a hablar un poco del significado que tiene la palabra <b>júrguela </b>. Bueno para mi <b>júrguela </b> puede ser de que  ¡vamos <b>júrguela </b> apúrese! algo así me entiende </u>  
+<u valor="I5" > Bueno para mi la palabra <b>júrguela </b>.es es cuando uno va a <b>arriar</b>.un carro y le dice <def typ = "4"><b>júrguela </b><syno> o </syno> <rdefiniens> igual <b>púyela</b></rdefiniens> </def>  </u>  
+<u valor="I6" > Para mi la palabra <b>júrguela </b> es como por decir este e ¡muévala! ¡<b>júrguela </b>! eh cuando uno está arando a los toros ¡eh <b>júrguela </b> <b>púyela</b> eh! </u>  
+<u valor="I7" > Buenas tardes mi nombre es Olimary Paredes. Bueno para mi la palabra <def typ = "1"> <b>júrguela </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  como apurar a otra persona o que esa persona se ponga activa </rdefiniens> </def></u>  
+<u valor="I8" > Buenas tardes mi nombre es María Daya Gonzáles, vivo en La Culata Sector Punta Brava, este para el programa Déjame Pensarlo eh la palabra <b>júrguela </b> es por lo menos ¡apúrese! este ¡muévalo! </u>  
+<u valor="I9" > Eh buenas tardes a todos los oyentes del programa .y de Pueblo Llano TV Canal 3. Bueno aquí hoy estamos con el amigo Nestor me está haciendo una entrevista sobre Se Habla Pueblollanero. La palabra <def typ = "1">, <b>júrguela </b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una palabra muy usual para toda la gente pueblollanera cuando quiere apurar a alguien y es más factible decir <b>júrguela </b> que apúrese </rdefiniens> </def> </u>  
+<u valor="I10" > .Luis Alberto Montilla. <inintel> ... </inintel>.. </u>  
+<u valor="I1" > <def typ = "1"> ¡<b>Ah sabe la flor y la papa morada</b> !.<defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>  que una cosa de sorpresa </rdefiniens> </def> </u>  
+<u valor="I2" ><def typ = "1"> ¡<b>Ah sabe la flor y la papa morada</b> ! <defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb> <rdefiniens>que ¡cuídaito con eso! ¡Ay sabe quién si lo ven! o si lo hace o si lo va a hacer </rdefiniens> </def> o , eso más o menos  </u>  
+<u valor="I3" > Bueno ¡<b>Ah sabe la flor</b>! pues es de igual manera es como una especie de una palabra muy típica de nosotros acá los pueblollaneros específicamente de la parte de La Culata no, que me acuerdo yo anteriormente se decía .al señor el que se le decía popularmente "el flaco" que siempe hacían esa referencia ¡<b>Ah sabe la flor </b> ! decía el flaco. Entonce es parte de nuestro lenguaje, parte de nuestra cultura pueblollanera. Eh ¡<b>Ah sabe la flor </b> ! es como diría yo la garantía de .ser uno pueblollnanero, ¡<b>Ah sabe la flor</b> pue ! algo seguro, más o menos eso es lo que yo entiendo </u>  
+<u valor="I4" > .Bueno como tenemos otra que es<def typ = "1"> ¡<b>Ah sabe la flor y la papa morada</b> ! eso <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como un asombro, como algo impresionante pue.</rdefiniens> </def> </u>  
+<u valor="I5" > Para mí ..¡<b>Ah sabe la flor </b> ! puede ser que signifique: ¡<b>Ah sabe la flor </b> se <b>abajó</b> un barranco por allá arriba!.¡<b>Ah sabe la flor </b> se está acabando el carro de mi papá !... </u>  
+<u valor="I6" > Bueno para mí ¡<b>Ah sabe la flor y la papa morada</b> !.significa por decir que se esté quemando por decir un carro o un choque que uno nunca ha visto y entonces uno dice: ¡<b>Ah sabe la flor y la papa morada</b> !. ... </u>  
+<u valor="I7" > La palabra <def typ = "1">  ¡<b>Ah sabe la flor y la papa morada</b> !.<defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> asombro sobre algo </rdefiniens> </def></u>  
+<u valor="I8" >  ¡<b>Ah sabe la flor y la papa morada</b> ! eh para mí es un refrán no sé, algo así </u>  
+<u valor="I9" > Ajá la otra  es ¡<b>Ah sabe la flor y la papa morada</b> !.es cuando aquí por ejemplo la gente del campo cuando está sembrando siembran papas a granola y hay una papa que es la papa morada y cuando la papa está buena que se ve la papa morada dicen  ¡<b>Ah sabe la flor, ah buena papa morada</b> !.</u>  
+<u valor="I1" > ¡<b>quién por áhi </b>!.Cómo, no, no sé.. </u>  
+<u valor="I2" > ¡<b>quién por áhi </b>!. Bueno  ¡<b>quién por áhi </b>!. es algún pícaro, alguna persona así maliciosa como el camarada allá que está <b>sentao</b>  </u>
+<u valor="I3" > Ajá bueno, <def typ = "1">  ¡<b>quién por áhi </b>!.<defop valor=  "dos puntos">: </defop> <rdefiniens> más o menos de igual manera son palabras del lenguaje coloquial de nosotros acá del lenguaje popular específicamente de Pueblo Llano</rdefiniens> y más o menos es eso refleja el de la persona <rdefiniens> a manera de ejemplo, que hay una persona con la muchacha con la novia y entonce pasaba cualquiera y le decía Jum  ¡<b>quién por áhi </b>!.más o menos como  ¡<b>quién por áhi </b>!. ojalá que fuera uno el que pudiera ser uno la persona que estuviera con esa muchacha.</rdefiniens> </def> más o menos es como la explicación que uno tiene de de  ¡<b>quién por áhi </b>! </u>  
+<u valor="I4" > Bueno  también  ¡<b>quién por áhi </b>!. refranes de aquí del pueblo </u>  
+<u valor="I5" > .Ah la palabra  ¡<b>quién por áhi </b>!, así dice mi abuela  ¡Ay <b> quién ta por áhi </b>!... </u>  
+<u valor="I6" >  Bueno este aquí en nuestro municipio Pueblo Llano este se habla muy diferente a la ciudad así  y <b>antonce</b> o sea uno <b>acostumbrao</b> uno dice ¡Quié viene por áhi! </u>  
+<u valor="I7" > ¡<b>quién por áhi </b>!.  es como refiiéndose a otra persona  ¡<b>quién por áhi </b>!. </u>  
+<u valor="I8" >  ¡<b>quién por áhi </b>!..Me cacharon o algo así, quién como la millonaria, un ejemplo, o sea es algo que ¡quién fuera ella! pue .. </u>  
+<u valor="I9" > La otra palabra que es usual también es <def typ = "1">   ¡<b>quién por áhi </b>!. <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  un dialecto que aquí en Pueblo Llano la mayoría de la gente la utiliza y para decirle a alguien que es más que alguien o menos que alguien  le dicen  ¡<b>quién por áhi </b>!.</rdefiniens> </def></u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE008PL12- yurmari-	2015-08-27	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

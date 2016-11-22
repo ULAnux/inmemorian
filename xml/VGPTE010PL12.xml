@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Gastronomía">
+<file ID="VGPTE010PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="259958784" CREATED="2015-06-28" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:05:00 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:05:00 </extNote>
+<extNote id="NumeroInterlocutores">11</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="06">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1">Desika García </name>
+<name type="Informante" id="I2"> Sarami Vergara </name>
+<name type="Informante" id="I3"> Roger Gonzáles  </name>
+<name type="Informante" id="I4"> Yanmari Santiago </name>
+<name type="Informante" id="I5"> Vladimir Uzcátegui Osato</name>
+<name type="Informante" id="I6"> Maria Francisca Alarcón Paredes  </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Buenas tardes, mi nombre es Desika García y para el programa "Déjame Pensarlo", <def typ = "1"> la palabra <b>maruza </b>. para mí <defmetalvb lemma="significar" pos="VMIP3S0"> <b>segnifica</b> </defmetalvb> <defop valor = "dos puntos">: </defop><rdefiniens> eh una bolsa para guardar algo </rdefiniens> </def> </u>  
+<u valor="I2" > Buenas, mi nombre es Sarami Vergara, yo les voy a hablar para el programa "Déjame Pensarlo" de las palabras criollas de acá de Pueblo Llano. La primera, <def typ = "4"> <b>maruza</b> bueno eso para mí  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> bolso o bolsa  </rdefiniens></def>.. </u>  
+<u valor="I3" > Hola, sí, mi nombre es Roger Gonzáles, para el programa "Déjame Pensarlo", <def typ = "3">la palabra <b>maruza</b> para mí <defmetalvb lemma="significar" pos="VMIP3S0"> <b>significa</b> </defmetalvb> <rdefiniens> una bolsa  donde puedes .poner algunas cosas </rdefiniens> </def> </u>  
+<u valor="I4" > Bueno, buenas tardes mi gente de Pueblo Llano, mi nombre es Yanmari Santiago, y bueno me encuentro acá con el amigo Nestor el cual me está realizando una entrevista. Eh las preguntas a responder es ¿qué es <b>maruza</b>. <def typ = "1"> Para mi <b>maruza</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  como cargar una bolsa en la mano </rdefiniens> </def> </u>  
+<u valor="I5" > Muy bien, este, para el programa "Déjame Pensarlo", mi nombre es Vladimir Uzcátegui Osato y <def typ = "3"> la palabra <b>maruza</b> eh tengo entendido que<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una bolsa un saco donde donde echaban por lo menos la gente mayor antes echaban que si las hortalizas que se daban aquí en la comunidad, los quesos, todo eso</rdefiniens></def>,  <def typ = "4"> <b>maruza</b>para mi <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una bolsa un saco </rdefiniens> </def> . </u>  
+<u valor="I6" > .Me llamo Maria Francisca Alarcón Paredes, este para el programa hoy en la noche "Déjame Pensarlo" para el Canal 3, la palabra <b>maruza</b> <def typ = "1"> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> la que usaba que venía la harina la harina de esa pequeña pequeña de que le decían liencillo y servía para los para los <b>calzoncillos</b> de antes de las personas antiguas </rdefiniens> </def> </u>  
+<u valor="I1" >  <def typ = "1">  La palabra <b>acotejar</b> . no me suena muy claro pero para mí  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como arreglar algo </rdefiniens> </def> ..</u>  
+<u valor="I2" > .Eh  la siguiente palabra es <b>acotejar</b>, <def typ = "1"> para mi  <b>acotejar</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona bien arreglada cuando va ai a vr al novio </rdefiniens> </def> </u>  
+<u valor="I3" > La palabra <b>acotejado</b>.la he escuchado muchas veces pero no tengo idea qué significa. </u>  
+<u valor="I4" > .En cuanto a la palabra .. <def typ = "1"> <b>acotejada</b> el significado especial para mi <defop valor= "dos puntos">: </defop>  <rdefiniens> encontrarme en buena presencia y buen <b>pulida</b> como me encuentro yo  </rdefiniens> </def> </u>  
+<u valor="I5" > <def typ = "1">  La palabra <b>acotejar </b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> ordenar es arreglar eh ordenar las cosas en la casa ordenar que si un ejemplo <b>orita</b>  los <b>cidies</b>, cualquier cosa, eso es </rdefiniens> </def> </u>  
+<u valor="I6" > .<def typ = "1"> .<b>Acotejar </b> .<b>acotejar </b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando una persona se arreglaa</rdefiniens> ajá, y también tiene la palabra <b>acotejar </b>. es <rdefiniens> arreglar, arreglar una cosa que están en en malas posiciones o están <b>regadas pue </b> </rdefiniens> </def> </u>  
+<u valor="I1" > .<def typ = "3">  La palabra <b>pasaje</b>.<defop valor= "dos puntos">: </defop>  <rdefiniens> eh con lo que uno acompaña la arepa  </rdefiniens> </def> </u>  
+<u valor="I2" > <def typ = "1"> .<b>Pasaje </b>.que es la tercera palabra, para mi <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> la comida, en este caso, carne, pollo, queso, huevos, en la mesa </rdefiniens> </def>. </u>  
+<u valor="I3" > <def typ = "3"> .La última palabra, <b>pasaje</b> sí tengo referencia porque mi abuela también es de esta zona y siempre la pronuncia, <b>pasaje </b> .<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo que acompaña principalmente la arepa, algo para comer.</rdefiniens></def> </u>  
+<u valor="I4" > <def typ = "1"> <b>Pasaje</b> bueno, en cuanto al <b>pasaje</b> .la palabra de aquí de Pueblo Llano <mkr> .se refiere </mkr>  <rdefiniens>  <examkr valor= "como"> como </examkr> buscar comida <examkr valor = "por ejemplo">  por ejemplo</examkr>  queso que acompaña a la arepa, como que si un atún que puede ser rellena  para la arepa o también para una <b>perica</b> </rdefiniens> </def> . Bueno muchas gracias y que pasen un lindo día  </u>  
+<u valor="I5" >  <def typ = "1"> La palabra <b>pasaje</b> .pues  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> el <b>pasaje</b> de pagar la buseta, el autobus </rdefiniens> </def> , <def typ = "1"> <b>pasaje </b>   <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  el sustento de la comida en la casa, <b>pasaje</b> <mkr> como <b>dicir</b> </mkr> el queso  eh cualquier cosa que se pueda cenar, almorzar, desayunar </rdefiniens> </def>  </u>  
+<u valor="I6" > <def typ = "1"> <b>Pasaje</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> este la lo que es comida <examkr valor = "como"> como </examkr> queso, si huevo, sardina, atún ¿ve?.</rdefiniens></def>  </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VGPTE010PL12- yurmari-	2015-06-28	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

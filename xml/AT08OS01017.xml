@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<cesHeader type="oral" date="2008">
+<fileDesc>
+<fileGrp ID="Telares y Tejidos">
+<file ID="AT08OS01017" MIMETYPE="audio/wav" SIZE="7.853.184" CREATED="2016-13-16" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:16:11 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> EL Joso-Gavidida  municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="03">
+<name type="entrevistador" id="E1">  Henriette Arreaza </name>
+<name type="entrevistador" id="E2">  María Vicenta Dávila </name>
+<name type="entrevistador" id="I1">  Señora María Julia  </name>
+</group>
+</cesHeader>
+
+<u valor="E1" > <def typ = "2"> Ésta es una <b>chamarreta</b> que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb><rdefiniens> la que usaban las mujeres y ésta  que estamos viendo era la hizo Isael Monsalve</rdefiniens> </def> </u>
+<u valor="E2" >  Sí, de Mocao   </u>
+<u valor="E1" > De del Mocao, ah que era un tejedor de allá del Mocao. Y ¿qué otro tejedor había? Su abuelo Thomas, el señor Isael. ¿Quién más?  </u>
+<u valor="I1" > Mi abuelo Thomas, pero el era de aquí de Gavidia, el ya tenía mucho tiempo de muerto cuando Isael nació <initel>...</initel> y tenía yo... Mi mamá también hacía cobijas   </u>
+<u valor="E2" >  Su mamá, ah bueno, ¿Cómo se llamaba su mamá?  </u>
+<u valor="I1" >Maudalena, Maudalena Torres    </u>
+<u valor="E1" > Maudalena Torres    </u>
+<u valor="I1" > Maudalena Torres  </u>
+<u valor="E2" >Ah, y hacía cobijas    </u>
+<u valor="I1" >  Sí, ella ambién hacía cobijas porque ella le había aprendío al papá </u>
+<u valor="E1" > ¿Y cómo era ese cuento que era que cuando la mujer se casaba le daba la cobija le mandaba a hacer la cobija al esposo?  </u>
+<u valor="I1" > Pues cuando las mujeres se casaban tenían quue hacele las cobijas a los esposos porque en ese tiempo no no había otro abrigo, no habían más abrigos sino eran las cobijas esas de lana, pa eso era lo que uno se arropaba de noche pa acostanos. En aquel tiempo no habían <b>motas</b>, no habían sábanas  no había nada de lo que se usa ahora    </u>
+<def typ = "4"> <u valor="E2" > <b>Motas </b> le dicen a las cobijas  </u>
+<u valor="E2" > <b>Motas </b><defop valor= "coma">, </defop> <rdefiniens> cobijas </rdefiniens> </u>
+<u valor="I1" > Esas las cobijas   </u>
+<u valor="E1" > Ajá, lo que llamamos ahora cobijas  </u></def>
+<u valor="I1" > Las cobijas sí, a esos le llamaban <b>motas</b>  </u>
+<u valor="E2" > ¿Y aquella mujer que no sabía tejer lana, que no sabía tejer y eso  ?  </u>
+<u valor="I1" >   Las mandaban a hacer <b>onde</b> sabían tejer  </u>
+<u valor="E2" > El tejedor. Era como una obligación de la mujer hacerle la cobija al marido   </u>
+<u valor="I1" >  Lo único que hacía uno era hilar la lana; <b>escarmenar y y hilala </b> y mandar a hacer las cobijas onde las sabían hacer    </u>
+<def typ = "2"> <u valor="E2" >  Y el que <b>tusaba</b> era también uno  </u>
+<u valor="I1" > Ah esa la <b>tusaba </b> uno mismo<defop valor= "coma">, </defop> <rdefiniens>  esa se amarraban se <b>maneaban</b> y se acostaban en el suelo y a <b>echále</b> tijera pa cortale la lana a las ovejas</rdefiniens> </u>  </def>
+<u valor="E2" >  <comentario valor="risas" > [risas] </comentario> </u>
+<def typ = "2"> <u valor="I1" >   <b>despuesn </b> <ldefiniens>se ponía a hervir la agua en unas ollas grandes que tenían se ponía a hervir la agua y cuando estab hirviendo se echaba la lana entre el agua hirviendo, se cocinaba la lana. <b>de <b>áhi</b></b> sí se sacaba del agua hirviendo</ldefiniens> y <b>se lavaba la lana</b><defop valor= "coma">, </defop> <rdefiniens>allá en la allá en la la quebrada allá la lana, bien lavada allá, eso sí era eso si lo maltrataba a uno sentao allá <b>escarmenando</b> esa lana en el agua pa lavala, y ahí sí la extendía uno en el  suelo</rdefiniens> pa que  </u>
+<u valor="E1" >  ¿Y dónde la extendían, en el piso o dónde? </u>
+<u valor="I1" > Allá en la sabana, en la sabana </u>
+<u valor="E2" >  ¿Y luego? </u>
+<u valor="I1" >   Y luego, cuando se secaba bien seca mire, <b>a escarmenar a escarmenar </b> eso sí lo sabe <b>busté</b></u>
+<u valor="E2" >  A punta e dedo </u>
+<u valor="I1" >  A punta e dedo hasta que se hacían los copos, así se ponía en lo, <b>el burro </b> sí me lo acabaron </u> </def>
+<def typ = "3"><u valor="E1" > ¿<b>El burro</b> era para qué?  </u>
+<u valor="I1" > <ldefiniens>Pa poner la lana </ldefiniens><defop valor= "coma">, </defop> <rdefiniens>  un palo con cuatro patas o tres  patas, le hacían orejas así, ponía uno el <b>copo de lana</b> ahí y con el <b>huso</b> iba hilando.</rdefiniens>  </u></def>
+<u valor="E2" > Y preparaba usted también la lana, porque hay dos para hacer la cobija y para hacer la trenza    </u>
+<u valor="I1" > Ajá, <def typ = "2"> pa hacer <b>la trenza</b><defop valor= "coma">, </defop> <rdefiniens>  se hilaba la lana bien torcida <b>parejita parejita parejita </b> que quedara la hebra <b>parejita </b> y <b>de ahi</b> la doblaba, doblaaba uno la lana y <b>áhi</b> sí la torcía y hacía <b>las trenzas</b>. Eso, yo sabía hacer esas <b>trenzas</b>. Esas se les hacen cinco gasas</rdefiniens> </def> </u>
+<u valor="E1" > Qué son gasas  </u>
+<u valor="I1" >  Gasas gasas pues </u>
+<u valor="E1" >  Ah de de hilo  </u>
+<u valor="I1" >  De la lana, se meten los dedos y va uno tejendo con los dedos los pasa de una mano a la otra pasar    </u>
+<u valor="E2" > Tienen que trabajar dos personas  </u>
+<u valor="E1" >  Tu lo sabes hacer  </u>
+<u valor="E2" >   Sí, eso es muy bonito verdad señora Julia, porque ella está allá con sus dos dedos, ve con sus dos manos y aqui estoy yo, entoces es como un gasa    </u>
+<u valor="I1" >  Usted la está armando, <b>tramando tramando</b> </u>
+<u valor="E2" > Ajá, y ella está pasando allá con los dedos, y uno está    </u>
+<u valor="I1" >  Pa que quede apretada la la <b>trenza</b>. Yo no sé si  si la cobija tiene <b>trenza</b> </u>
+<u valor="E2" >   Ya se la paso </u>
+<def typ = "2"> <u valor="I1" >  Yo no sé si  si la cobija tiene <b>trenza</b>. No esa no tiene <b>trenza</b> esa no tiene <b>trenza</b> </u> 
+ <u valor="E2" >  Ésta sí tiene <b>trenza</b>, esta sí tiene <b>trenza</b> </u>
+<u valor="I1" > Esa sí tiene <b>trenza</b>, eso <defmetalvb lemma="llamar" pos="VMII3S0"> se llamaban </defmetalvb><b>trenza</b>  </u>
+<u valor="E1" > Ah <rdefiniens>que se ponen en las orillas</rdefiniens>  </u>
+<u valor="I1" >   En las orillas, sí , se le ponía ese orillo pa que no se les acabara las gasas de la lana, porque al no ponele esa <b>trenza, ligerito</b> se rompían po el orillo y se acababa la cobija.  </u></def>
+<u valor="E1" > Ah, claro, se iban deshilachando   </u>
+<u valor="I1" > Se iban deshilachando y se acababan  </u>
+<u valor="E1" > ¿Y hasta cuándo tejó usted? Ah usted no tejía usted hilaba o ¿tejía también? </u>
+<u valor="I1" > Yo lo único que tejía era las <b>trenzas</b>  </u>
+<u valor="E1" > ¿Y hasta cuándo tejió?   </u>
+<u valor="I1" >  Ah hasta que tuve yo como setenta años </u>
+<u valor="E1" > Ya tien cuántos    </u>
+<u valor="I1" > Ochenticinco. Hasta que tenía sesenta años todavía  hice esas cobijas.</u>
+<u valor="I1" > Este, una pregunta señora Julia, ¿Y aún así no hay aquí, por ejemplo un <b>telar</b> de los <b> viejitos viejitos viejitos</b>, no tiene ?   </u>
+<u valor="I1" > Pero de ¿ que tengan <b>telar</b>es?  </u>
+<u valor="E2" > Sí, de los <b>telar</b>es propios de la comunidad, ¿no hay ninguno?  </u>
+<u valor="I1" > No, ninguno porque aquí o había sino era un solo <b>telar</b>, el que tenía el nono mío, mi nono Thomás, pero ese <b>telar</b> se lo vendió la hija de el cuando se murió el , la hi le quedó el <b>telar</b> a la hija que se llamaba, su suegra  Juana,  su suegra no sino su nona, que decían que es que era nona de usted y mentiras, no salió ser nada e nona.  Esa era la mamá del compadre Ramón.  </u>
+<u valor="E2" > ¿Y <b>aonde</b> puso ella <b>telar</b>?  </u>
+<u valor="I1" > Ese lo vendió, lo vendió por <b>áhi</b> a un señor de las Mazorcas  y yo no sé, ese tear lo acabarían. Yo estuve detallando pa, preguntando por ese <b>telar</b> pa compralo, pero nadie me dió razón. Esa tienen que tenela las hijas del <b>dijunto</b> Pedro Alejandro esas esas ¿usted ?  no conoce a esas muchachas? las del <b>finao</b> Pedro Alejadro Pérez, que se llama Matilda que casualmente esa vive <b>áhi</b> en, allá en Muucuchíes <b>arribita </b> de onde la casa e Dorilo, ¿usted no sabe onde es la cas e Dorilo?  </u>
+<u valor="E2" >Ya, ya sé quién es   </u>
+<u valor="I1" >  Esa <b>viejita </b> que vive en la casa e Dorilo es la hija del <b>finao</b> Emilio, que ellas eran las que tenían ese <b>telar</b>  </u>
+<u valor="E2" > Ella teje   </u>
+<u valor="I1" >  El otro día, ah sí ella teje. El otro día fui yo y les pregunté popr el <b>telar</b>, que si ellas tenpian el <b>telar</b> y y me salieron con un atajo de mentiras y no me dijieron nada. Esas mujeres eran las que tenían el <b>telar</b>, quién sabe si lo acabarían, o lo venderían o lo tendrán.  La Matilda debe saber, Matilda, esa la conoce usted.   </u>
+<u valor="E2" > O sea que entonce la única persona que aqupí en Gavidia  en todo lo que es el sector el único que tejía era su su   </u>
+<u valor="I1" >  Era mi nono  </u>
+<u valor="E1" >  Y era el único <b>telar</b> que había el de su nono </u>
+<u valor="E2" >   Y fuen entonce ya en esta en esta época que fue cuando ya vino la nueva generación a a obtener </u>
+<u valor="E1" > Cuándo se ajá ¿Cuándo se volvió  empezar a tejer? Con su nono cuando se murió, ¿se acabó el tejido? </u>
+<u valor="I1" > Se acabó porque el le vendio eh la la hija de el, que se llamaba Juana le vendió el    </u>
+<u valor="E1" >  Vendió el <b>telar</b>  </u>
+<u valor="I1" > Vendió el <b>telar</b> a ese señor Alejandro Pérez  en Las Mazorcas  </u>
+<u valor="E1" > ¿Y ese señor empezó a tejer?  </u>
+<u valor="I1" >   Sí, el sabía tejer, el hacía muchas cobijas</u>
+<u valor="E1" > ¿Y después cuando se murió ese a quién le quedó ese <b>telar</b> ?   </u>
+<u valor="I1" > A las muchachas solas, no supe qué hicieron ese <b>telar</b>,   </u>
+<u valor="E1" >   ¿Ellas no tejieron?</u>
+<u valor="I1" >  No <b>je sabe</b> si tejerían o no  porque nosotros no nos visitábamos, ellos por allá y nosotros por aquí. </u>
+<u valor="E2" > O sea,¿ hace cuánto más o menos que se empezó otra vez el rescate del tejido en <b>telar</b>?  </u>
+<u valor="I1" > Yo no sé cuántos años hará  que se volvió a empezar porque la genete se había olvidao de eso. <b>Antoncesn </b> un día nos pusimos a conversar yo con las hijas mías que por qué uno no no volvió a reformar esa ese tejido de de lana pa hacer cobijas, por qué sería. Entonces las muchahcas se pusieron a pensar y dijeron y dijero que iban a  a buscar la manera de poner un <b>telar</b> pue, de aprender porque esas no sabían ni escarmenar lana, esas no saían nada y que yo tenía que era enseñalas.  Hicieron unas juntas, se recogieron unas pocas mujeres abajo en Gavidia, unas de allá y las hijas mías y <b>jui </b> y me puse a enseñalas a escarmenar. Y ¡ay eso sí les costaba a esas mujeres porque no sabían escarmenar!  Y se pusiero a escarmenar y yo las enseñé a <b>jilar</b> a <b>jilar</b>, este un buen <b>huso</b> que tenía yo aquí que era más <b>grandecito </b> que ese, más <b>grandecito </b> la tablita pero yo no sé si sí lo tendrá Dulce María, lo acabaría también. no ese no lo ha acabao  <inintel >...</inintel> Y y aprendieron a hilar la lana, aprendieron a escarmenar ahí . <b><b>áhi</b> se vían anotao</b> muchas mujeres pero  se salieron</u>
+<u valor="E2" > o sea que usted  fue la maestra  que les enseñó  </u>
+<u valor="I1" > Pa enseñales a ellas cómo era que se preparaba , y aprendieron aprendieron, ahí aprendieron muchas   </u>
+<u valor="E1" > ¿Y propiamente a tejer quién las enseñó, a usar el <b>telar</b>? </u>
+<u valor="I1" >   Pues ellas mismas, esas fueron las, ellas mismas aprendieron. Como yo les <b>jui</b> diciendo cómo era compraron el <b>telar</b>, ese lo tienen ahí onde Alicia, Cantalicia  de bernabé, ahí es onde hacen las cobijas. Yo no sé, esos tienen un, Eusebia Moreno tiene,  la mamá de Mario, la mamá, la mujer de Mario Castillo, esa tiene uno en la casa, <b>áhi</b> en la casa de ella tiene un <b>telar</b>, pero ahhora como se <b>jue</b> pa Mucuchíes no tejió más. Y arpendieron ellas, con dicile yo se pusieron a hacer  pa ver cómo hacían pa aprender a tejer y aprendieron. Y no necesiataron más maestros ni <b>vían visto aonde ></b>  tejían ni nada. Porque <def typ = "2"> esos tienen unos lisos que <defmetalvb lemma="llamar" pos="VMIP3P0"> llaman </defmetalvb> lisos  <rdefiniens>onde meten la hebra de la lana</rdefiniens></def> , bueno lisos y  <def typ = "2"> peine que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>el que va tejiendo, va tramando</rdefiniens></def>, y tiene unos pisones que se teje aquí y  pisan el otro y prende el otro y tejen las cobijas, venden las cobijas.      </u>
+<u valor="E1" > ¿Y esos <b>zapaticos </b>tan bonitos dónde los compró?  </u>
+<u valor="I1" >   Pues esos <b>zapaticos</b> me los me los encontré que día onde Aristides,¡ yo no sé de quié serían ! Fui y me los conseguí <b>poa nuevecitos </b> y me los puse y me los traje</u>
+<u valor="E2" > ¡Y listo ! dijo   </u>
+<u valor="E1" >  Pa qué tanto verdad </u>
+<u valor="I1" > Esos serían de   <ininte>...</ininte> Pero se me safan mucho y tuve que poneme estos cordones, dígame que lo que es feo se ve bonito, en los <b>afotos</b> así se ven .</u>
+<u valor="E1" >  Estamos listos.  </u>
+<u valor="I1" >  Todas esa cosas se ven bonitas, lo que tenía que antes lo que era viejo lo botaban lo acababan y ahora la gente se la pasa por ahí preguntando por  esas cosas viejas y no hay nada todas las hanacabao. Tenían gatas de barro que hacían ellos mismos por <b>áhi</b>, múcuras  </u>
+<def typ = "2"> <u valor="E1" >¿Aquí trabajaban con barro?   </u>
+<u valor="I1" > <b>Por <b>áhi</b> </b> se antojaban las mujeres y hacían  <b>gachas</b> de barro </u>
+<u valor="E1" >  Y dónde conseguían el <ldefiniens> barro  </ldefiniens> </u>
+<u valor="I1" >  Por <b>áhi</b> mismo hay de esa<defop valor= "coma">, </defop>  <b>greda</b> que, la <b>greda</b> , pero ahora no hicieron más eso. Eso yo estuve batallando pa pa aprender a hacer <b>gachas</b> y las hacía pero cuando iba a quemalas se me <b>efarataban</b>  </u>
+<u valor="E1" > ¿Y tenían un horno para quemar o quemaban en la candela directo ?  </u>
+<u valor="I1" > No, en la candela, en el fogón de leña quemaba uno eso    </u></def>
+<u valor="E2" > Bueno, ya   </u>
+<def typ = "2"> <u valor="I1" >  Habían <b>jícaras</b>, así como ese que está allá<defop valor= "coma">, </defop> <rdefiniens> onde tomaban café, de totumo sí.</rdefiniens> </u>
+<u valor="E1" > Y de dónde sacaban el totumo  </u>
+<u valor="I1" > De la tierra caliente, eso lo sacaban de la tiera caliente    </u> </def>  
+
+
+<versiones>
+Nombre Archivo	Usuario	Fecha	Acción	Comentario
+
+AT08OS01017	yurmari	2016-11-13	Marcado +Etiquetado	.
+
+</versiones>
+
+</doc>

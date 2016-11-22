@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Salud">
+<file ID="AS13LP02017" MIMETYPE="audio/wav" SIZE="2323914 " CREATED="2014-05-17" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:04:50 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señor Francisco Eliborio Paredes Osuna. 70 años de edad</name>
+</group>
+</cesHeader>
+
+<u valor="E" > Mire, mire señor Eliborio y ¿cuando la gente se enfermaba? Hablemos de eso de la salud. ¿Se enfermaba mucho la gente? </u>
+
+<u valor="I1" > ¿Aquí? </u>
+
+<u valor="E" > Sí, antes </u>
+
+<u valor="I1" > <prosodia valor="up"> Mucho</prosodia>. </u>
+
+<u valor="E" > ¿De qué se enfermaban? </u>
+
+<u valor="I1" > Ahí se enfermaban mucho y los llevaban pa Mérida. El que se iba enfermando, si no puede más se lo llevaban pa Mérida... Porque habían médicos que no sabían nada. Esos no sabían <b>un carajo</b> esos médicos de aquí de Las Piedras. El sabía algo pero no sabía nada </u>
+
+<u valor="E" > ¿Y cuando le daba tos o gripe a la gente? </u>
+
+<u valor="I1" > No, esa vaina no, le <b>dicían</b> a uno <invcomm>vaya busque limones y haga una limonada pa que beba</invcomm> Y ahora no ahora no porque ahora <b>ora</b> el que se enferma de la tos y esa vaina va a comprar uno aquí la <b>medecina</b> aquí onde las venden y las bebe y se le quita </u>
+
+<u valor="E" > Mmm. Y ¿de qué otra cosa se enfermaba la gente antes? ¿Cuál era la enfermedad más grave así? ¿De qué se moría más la gente antes? </u>
+
+<u valor="I1" > ¡Mucho! mucho. Nojoda, y unos que unos que unos que se morían, que amanecía amanecía mucha gente amanecía muerta estando <b>alentada</b>  </u>
+<u valor="E" > Estando <b>alentada</b> </u>
+<u valor="I1" > Muchos <b>alentaos</b> amanecían muertos  </u>
+<u valor="E" > ¿Cómo es eso de <b>alentao</b>? </u>
+<u valor="I1" > Que amanecían muertos. Yo no sé qué vaina les da </u>
+<u valor="E" > Pero ¿qué es eso de <b>alentao</b>? </u>
+<u valor="I1" > Pues que están <b>alentaos</b> así como estoy conversando con <b>busté</b> y al otro día amanece muerto </u>
+<u valor="E" >Mmm ya, ya. Y ¿qué matas usan aquí pa pa medicina y esas cosas?  </u>
+<u valor="I1" > ¿Ah? </u>
+<u valor="E" > ¿Qué matas usan aquí? </u>
+<u valor="I1" > <def typ="1">Aquí la, aquí hay <b>matas</b> que <defmetalvb lemma ="Llamar" pos ="VMIP3P0">llaman</defmetalvb> <rdefiniens>la verbena y y y llaman la manzanilla también, y y y el el el eucalipto </rdefiniens></def> </u> 
+<def typ="1"> <u valor="E" > ¿Para qué usan el <b>eucalipto</b> y eso? </u>
+<u valor="I1" > <defop valor="guion">-</defop> <rdefiniens>Pa beber, pa beber pa la tos</rdefiniens> </u></def>
+<u valor="E" > Mjum </u>
+<u valor="I1" >Y el hinojo también tiene remedio </u>
+<u valor="E" > ¿El hinojo? </u>
+<u valor="I1" > Sí </u>
+<u valor="E" > ¿Pa qué sirve? </u>
+<u valor="I1" > Tanto de remedio que es el hinojo también </u>
+<u valor="E" >Y ¿qué cura el hinojo?</u>
+<u valor="I1" > Hacen bebedizos con él y beben </u>
+<u valor="E" > Ya, ya. Y en el caso de las mujeres cuando iban a dar a luz, cuando parían, ¿cómo hacían? </u>
+<u valor="I1" > Eso compraban Ginebra y le llevaban. Yo no sé qué. Sí, compraban Ginebra pa dale a las mujeres cuando tenían los <b>muchachitos</b> </u>
+<def typ="4"> <u valor="E" > <b>Ginebra</b>, ¿qué es <b>ginebra</b>? </u>
+<u valor="I1" > <syno>igual</syno> <rdefiniens>al agua ardiente</rdefiniens>, sí </u></def>
+<u valor="E" > Ah.  </u>
+<u valor="I1" > Sí </u>
+<u valor="I1" > Eso le daban </u>
+<u valor="I1" > ¿Le daban? </u>
+<u valor="I1" > Como no, como no.  </u>
+<u valor="E" > Mire, y y cómo es, cuando los niños nacían cómo era, cómo era lo de las mujeres, ¿se salían de una vez pa la calle o...?  </u>
+<u valor="I1" > No, ellas se estaban <b>nojoda</b> como quince días en la cama. <prosodia valor="up"> Ora no, ora tienen ora no porque una mujer tiene un muchachito y se para de una vez pa juera pa la calle, no se están como antes. Ora no</prosodia> Eso era antes que se estaban las mujeres, que tenían un <b>muchachito vía </b> yo que tenían un muchachito y se estaban hasta quince días sin salir a la calle ni <b>mojásen en lágua</b> ni nada. <b>Nojoda</b> eso pasó todo </u>
+
+<u valor="E" > Y los <b>niñitos</b> cuando se enfermaban ¿quién los atendía? </u>
+<u valor="I1" > Los llevaban onde los médicos que sabían algo y les daban les daban les hacían les daban pa la <b>medecina</b>  </u>
+<u valor="E" > Y cuando les daba, ¿qué qué qué qué les daba más a los niños? ¿No les daba <b>mal de ojo</b> ?</u>
+<u valor="I1" > Áhi los curaban. Había una mujer que los que los sobaba y les iba pasando </u>
+<u valor="E" > ¿Cómo será sobar? ¿Cómo será eso de sobar? </u>
+<u valor="I1" > Eso era muy bravo esa vaina pal pal pal <b>mal de ojo</b> de los <b>muchachitos</b> se enfermaban mucho </u>
+<u valor="E" > Y ¿cómo era cuando a un niño le daba <b>mal de ojo</b>? ¿Qué le daba al niño? </u>
+<u valor="I1" > ¿Ah? </u>
+<def typ="1"><u valor="E" > ¿Cómo se le manifestaba eso del <b>mal de ojo</b> </u>
+<u valor="I1" > <defop valor="guion">-</defop> <rdefiniens>No eso se lo llevaban a que lo <b>sobara</b> una mujer que sabía y  y y le daban unos remedios a ver. Muchos se morían, muchos se morían</rdefiniens>  </u></def>
+<u valor="E" > Y no sabe con qué lo sobaba la señora </u>
+<u valor="I1" > No y qué va a saber uno, no, nada </u>
+<u valor="E" > Ya, entiendo </u>
+
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AS13LP02017- yurmari-	2014-05-16	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

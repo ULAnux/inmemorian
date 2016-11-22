@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE020PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="292147200" CREATED="2015-08-29" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:05:46 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:05:46 </extNote>
+<extNote id="NumeroInterlocutores"> 06 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="06">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> David Santiago </name>
+<name type="Informante" id="I2"> Leonardo Paredes.</name>
+<name type="Informante" id="I3"> Jorge Luis Santiago </name>
+<name type="Informante" id="I4"> Carlos Salcedo </name>
+<name type="Informante" id="I5"> Angélica Flores </name>
+<name type="Informante" id="I6"> Jesús Santiago </name>
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Buenas tardes mi nombre es David Santiago y por el Canal 3, Déjame Pensarlo. .Bueno yo entiendo por  <def typ = "1"> <b>ontual</b> <defop valor=  "dos puntos">: </defop> <rdefiniens> que lo haga rápido</rdefiniens>.</def>. </u>  
+<u valor="I2" > ¡Hola! buenas tardes, mi nombre es Leonardo Paredes y la pregunta .<b>ontual</b>, bueno  <def typ = "1"> <b>ontual</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="por lo menos"> por lo menos</examkr> una broma rápido, que sea así ya ya ya</rdefiniens> </def>. Así, una cosa así, tengo entendido yo no sé. </u>  
+<u valor="I3" > ¡Hola! mi nombre es Jorge Luis Santiago eh esto es para el programa Déjame Pensarlo, aquí el pana me está preguntando sobre la palabra  <b>ontual</b>, quedo <b>lelo</b> porque no sé, bueno <def typ = "1"><b>lelo</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> así como que si quedara uno todo extrañado </rdefiniens> </def> una cosa así  una cosa toda rara, pero igual les invito a ver el programa hoy en la noche para que sepan qué es la palabra <b>actual</b>... </u>  
+<u valor="I4" > Bueno muy buenas tardes a todos, yo soy Carlos Salcedo y en Déjame Pensarlo es Se Habla Pueblollanero. La primera palabra es <b>ontual</b>, <def typ = "1"> <b>ontual</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> .que <examkr valor="por ejemplo"> por ejemplo </examkr>en Pueblo Llano aquí el <b>ontual</b> es que rapidito yaya ya</rdefiniens></def> que nos vamos pa Mérida, ¡vamos pa Mérida rapidito! .. </u>  
+<u valor="I5" > .Bueno mi nombre es Angélica Flores y esto es para el programa Déjame Pensarlo.La palabra <b>ontual</b>, realmente no sé qué significa, paso por la pena pero... .. </u>  
+<u valor="I6" > ¡Hola! Eh soy Jesús Santiago, este es el programa Déjame Pensarlo acá me están preguntando que cuál es la palabra  <b>ontual</b>, bueno según lo que yo sé la palabra <def typ = "1"> <b>ontual</b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> .  hacer las cosas de una vez,</rdefiniens> </def> ya, o sea ya, de una vez. Gracias . </u>  
+<u valor="I1" > .<b>Lujo </b>..es por lo menos <def typ = "1"> aquí en Pueblo Llano decimos <b>lujo </b><defop valor=  "coma">, </defop> <rdefiniens>   cuando nos llama la atención algo <examkr valor="por ejemplo"> por ejemplo </examkr> cuando uno ve a una mujer uno dice ¡<b>já, ni <b>lujo </b> aquella mujer</b>! </rdefiniens> </def> </u>  
+<u valor="I2" > .Bueno <def typ = "1"> <b>lujo </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="por lo menos"> por lo menos</examkr> un carro, un carro bonito que uno ¡está bonito aquel carro, está <b>lujo </b>! una vaina así</rdefiniens> , una cosa así o <rdefiniens>una mujer ¡ay esta <b>lujo </b> esa mujer!</rdefiniens> </def>  así </u>  
+<u valor="I3" > Okey, la otra palabra se diría<def typ = "1"> <b>lujo </b><defop valor=  "coma">, </defop> <rdefiniens> una palabra que se define aquí como como algo bonito, algo especial, algo que está bueno, entonce pues ya ya es un palabra que se habla aquí al estilo pueblollanero y se dice .aquí en Pueblo Llano</rdefiniens> </def>.. </u>  
+<u valor="I4" ><def typ = "1"><b>lujo </b><defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> que yo <examkr valor="por ejemplo"> por ejemplo </examkr>  ¡uy ta <b>lujo </b> esta camioneta! </rdefiniens></def>... </u>  
+<u valor="I5" >  La palabra <b>lujo </b>, bueno para mi la palabra <def typ = "1"><b>lujo </b>,  según el contexto de Pueblo Llano, cuando la he escuchado <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> que algo está chévere, llamativo,algo resaltante, algo con bastante fuerza</rdefiniens> </def> vamos a decirlo así   ... </u>  
+<u valor="I6" > .Ahora <b>lujo </b>, <def typ = "1">  <b>lujo </b> en sentido pueblollanero <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como">como </examkr>  cuando uno dice ¡eso sí está <b>lujo </b> chamo! </rdefiniens> </def> </u>  
+<u valor="I1" > Por <def typ = "1"><b>puma</b>.pues eso <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  un animal pero aquí en Pueblo Llano lo usamos como tener varias mujeres.</rdefiniens> </def> </u>  
+<u valor="I2" > ..<def typ = "1"> <b>puma</b>.<defop valor=  "coma">, </defop> <rdefiniens> aquí en Pueblo Llano como se dice todos lo conocen ¡aquel chamo sí es perro, sí es <b>puma</b>!.este tiene mujeres es <b>puma</b>.</rdefiniens> </def> </u>  
+<u valor="I3" > Muchos se habrán preguntado sobre la palabra .<def typ = "1"> <b>puma</b>.<defop valor=  "coma">, </defop> <rdefiniens> nos dicen que son hombres muy mujeriegos </rdefiniens> </def>o quien sabe qué definición tendrán otras personas acerca de eso pero lo más normal que se ecucha es .que un <b>hombre puma</b>. es un <b>hombre</b> perro un hombre mujeriego que que bueno le es infiel a su mujer  ... </u>  
+<u valor="I4" > ¡Ay no <b>puma</b> soy yo! Pues <b>puma</b> es aquí <def typ = "1"> en Pueblo Llano <b>puma</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como">como </examkr> pa decir cónchale una persona que sí es <b>puma</b>, que sí ataca rápido</rdefiniens> </def>,que esto y que lo otro. Bueno, mi gente de Pueblo Llano discúlpeme por el reportaje de Carlos pero  voy a hacerlo después de este jueves que viene, no deje de sintonizar Pueblo llano Tv, Canal 3 </u>  
+<u valor="I5" > .Okey, con respecto a la palabra  <def typ = "1"> <b>puma</b><defop valor=  "coma">, </defop> <rdefiniens> se le puede comparar a decir <b>palo de agua</b>, una persona que ataca mucho a las mujeres</rdefiniens> </def>  </u>  
+<u valor="I6" ><def typ = "1">  ¡Ah tan <b>puma</b>! ..Bueno <b>puma</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como">como </examkr> un tipo así perro, un mujeriego pue, aquí en Pueblo llano le decimos ¡este bicho tan <b>puma</b>! .</rdefiniens> </def> más nada </u>  <versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE020PL12 yurmari-	2015-08-29 	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

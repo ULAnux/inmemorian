@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><doc><cesHeader type="Oral" date="2008">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ08MX01002" MIMETYPE="audio/wav" SIZE="3275850" CREATED="2013-08-21" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:01:14 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque, municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="3">
+<name type="Entrevistador" id="E1"> Entrevistador no identificado</name>
+<name type="Entrevistador" id="E2"> Entrevistadora no identificada</name>
+<name type="Informante" id="I"> Paula Dávila Espinoza</name>
+</group>
+</cesHeader>
+
+<u valor="E1" > Muy buenas tardes, señora Paula. </u>
+<u valor="I" > Buenas tardes. </u>
+<u valor="E1" > Este, vamos a a hacerle esta entrevista <prosodia valor="pause">...</prosodia> <b>pa que usté</b> <prosodia valor="pause">...</prosodia> nos <paraverb valor="alarg">diga</paraverb> la fecha de nacimiento, nombre suyo, y el nombre de los <b>papás</b>. <overlap valor="I" >sí</overlap> Ajá,  ¿<b>Usté</b> nació el <prosodia valor="interrupt">...</prosodia> catorce de agosto <overlap valor="I" > catorce </overlap> </u>
+<u valor="I" > <prosodia valor="slow">de agosto ca, ca </prosodia> <overlap valor="E1" >de mil novecientos veintiséis</overlap> <prosodia valor="slow">de mil novecientos veintiséis</prosodia> <overlap valor="E1 y E2" > veintiséis</overlap> </u> 
+<u valor="E1" > Ajá. Nombre de <paraverb valor="alarg">su</paraverb> papá. </u>
+<u valor="I" >Román Dávila <prosodia valor="pause">...</prosodia> Rangel, también él era <prosodia valor="pause">...</prosodia> completo. <overlap valor="E1" >  ¿Mamá?</overlap> Mi mamá Ana Rosa <paraverb valor="alarg"> era </paraverb>  <prosodia valor="interrupt">...</prosodia></u>
+<u valor="E1" > Espinoza.</u>
+<u valor="I" > Espinoza <prosodia valor="interrupt">...</prosodia></u>
+<u valor="E2" > Arisméndez </u>
+<u valor="I" > <prosodia valor="down"> Arisméndez</prosodia></u>
+<u valor="E1" > Muy bien <prosodia valor="up"> ¿Qué más me falta?</prosodia> <inintel>...</inintel> Ah,  <b>Usté</b> nació aquí en Mixteque, <prosodia valor="up"> ¿verdad?</prosodia></u>
+<u valor="I" > Sí, sí.</u>
+<u valor="E1" > La señora <aproximd> Brígida </aproximd> también nació aquí en Mixteque <overlap valor="I" > También</overlap> </u>
+<u valor="I" > Nosotros nacimos aquí en Mixteque</u>
+<u valor="E1" > <paraverb valor="alarg"> eh</paraverb> Muchas gracias señora Paula <paraverb valor="inhal">  ¿Qué más</paraverb> <inintel>...</inintel> se me quedó?</u>
+<u valor="E2" > Eso.</u>
+<u valor="E1" > Eso, es verdad. </u> 
+<u valor="E2" > El nombre completo de ella <paraverb valor="alarg"> y, e,</paraverb> la fecha de nacimiento <prosodia valor="slow"> y el </prosodia> nombre del papá <comentario valor="ruido de fondo">[ininteligible]</comentario>y de la mamá.</u>
+<u valor="E1" > Ajá. </u>
+<u valor="E2" > Eso era </u>
+<u valor="E1" > <comentario valor="ruido de fondo">[pasa hojas de papel mientras habla]</comentario> Okey. </u>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+	AZ08MX01002	Guillermo 	2013	Marcado	 Completo
+	
+</versiones>
+</doc>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE016PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="165797888" CREATED="2015-08-28" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:06:16 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:06:16 </extNote>
+<extNote id="NumeroInterlocutores"> 06 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="06">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Yoleida Gonzáles </name>
+<name type="Informante" id="I2"> Oswaldo Salcedo .</name>
+<name type="Informante" id="I3"> Francelina Castillo </name>
+<name type="Informante" id="I4"> Douglas Alarcón </name>
+<name type="Informante" id="I5">Alcira Salcedo </name>
+<name type="Informante" id="I6">Norelsy Santiago </name>
+
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" >  Sí buenos días, mi nombre es Yoleida Gonzáles, trabajo en la Unidad Educativa Mutús como Subdirectora de esta institución y en esta mañana me están preguntando qué es la palabra <b>arrejúnchele</b>, de verdad pues desconozco esta palabra, no sé cuál es su significado pero me gustaría saberlo qué significa </u>  
+<u valor="I2" > Muy buenos días para todos los televidentes de Pueblo Llano TV, estamos aquí en la Unidad Educativa Bolivariana Mutús, mi nombre es Oswaldo Salcedo .y pues acerca de la pregunta que me hace el compañero Nestor a través del programa Déjame Pensarlo, la primera sería la palabra Oswaldo Salcedo . <def typ = "1"> <b>arrejúnchele</b>. Según lo que yo puedo entender de esta palabra el vocablo de algunos de los pueblollaneros que lo podemos utilizar <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> este como a continúe o avance o dale pue</rdefiniens> </def>, algo así  </u>  
+<u valor="I3" >Buenos días mi nombre es Francelina Castillo docente de aula integral de la Unidad Educativa Bolivariana Mutús.Esto es para el programa Déjame Pensarlo,  me dice  <b>arrejúnchele</b>, <def typ = "1"> <b>arrejúnchele</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> apúrese, muévalo.</rdefiniens></def>.</u>  
+<u valor="I4" > Buen, buenos días mi nombre es Dougles Alarcón, trabajo en .la Unidad Educativa Bolivariana Mutús, aquí para el programa Déjame Pensarlo con la siguiente pregunta: <b>arrejúnchele</b>, bueno  <def typ = "1"> <b>arrejúnchele</b> <defop valor=  "dos puntos">: </defop> <rdefiniens> para mí sería algo así como ¡dale! como <b>echar pa lante</b></rdefiniens> </def>, ese sería mi concepto  </u>  
+<u valor="I5" >  Buenos días .mi nombre es Alcira Salcedo, soy trabajadora de aquí del comedor de Mutús, este para el Canal me están preguntando la palabra  <b>arrejúnchele</b>,  este la palabra  <def typ = "1"> <b>arrejúnchele</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> , <examkr valor="por ejemplo"> por ejemplo </examkr>, cuando estamos trabajando bien atariadas, ¡<b>arrejúnchele</b>! ¡muévase! ¡muévase pa salir rápido!,</rdefiniens> </def> esa es la palabra que significa. </u>  
+<u valor="I6" > Buenos días mi nombre es Norelsy Santiago, trabajo aquí en la Unidad Educativa Bolivariana Mutús y me están preguntando que qué significa la palabra <def typ = "1"> <b>arrejúnchele</b> es  algo <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>  algo rápido </rdefiniens> </def> </u>  
+<u valor="I1" > .Y otra pregunta en esta mañana ¿qué es la palabra <def typ = "1"> <b>abollao</b> en Pueblo Llano? Pieso que es una palabra muy conocida .dentro de nuestro vocabulario pueblollanero, <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>aquella persona que no para nada </rdefiniens> </def></u> 
+<u valor="I2" > Eh ajá, la otra palabra que hace referencia el amigo Nestor es <b>abollao</b>, bueno <def typ = "1"> <b>abollao</b> <defop valor=  "coma">, </defop> <rdefiniens> según lo que yo entiendo quiere decir una persona que no tinene novio ni novia o que tiene equis cantidad de tiempo sin novia ni novio o esposa o esposo y  aquí de hecho casi todos los años ya practicamente tradición de que se saca una lista en donde sale una cantidad de personas que o salíamos una cantidad de personas que  no tenían novia ni novio </rdefiniens> </def> y es lo que yo puedo decir sobe esta palabra  </u>  
+<u valor="I3" > Otra palabra que me preguntan .<b>abollao</b>, <def typ = "1"> <b>abollao</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>   no tener pareja,que algunos pasan mucho tiempo pues <b>abollao</b> no consigue, nadie le para, no levanta pero ni tierra.</rdefiniens> </def> </u>  
+<u valor="I4" > Ah la siguiente, la palabra <b>abollao</b>, <def typ = "1"> <b>abollao</b><defop valor=  "dos puntos">: </defop> <rdefiniens> la veo yo como la persona que se queda con la carga o se queda .con o no tiene algo que él quiere.</rdefiniens> </def>.</u>  
+<u valor="I7" > .Ajá, <def typ = "1"> <b>abollao</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> por decir algo una la persona que no tiene novio que está <b>abollao</b></rdefiniens> </def>.qué se yo, significa eso para mí no sé. . </u>  
+<u valor="I6" > Ajá, para mi la palabra <b>abollao</b> significa por ejemplo <invcomm> está <b>abollao</b></invcomm>.cuando pasan por ejemplo por la radio <invcomm>mira vamos pa los que andan <b>abollaos</b></invcomm>.eso significa para mí </u>  
+<u valor="I1" > .Bien otra palabra más otra pregunta más a cargo de acá del señor Nestor Bravo es la palabra <b>vascoso</b>, <b>vascoso</b> pienso que es una persona patética, horrible sin escrúpulos,.bueno, antipática pensaría yo </u>  
+<u valor="I2" > Ajá, ahra la palabra <b>vascoso</b> me dice el amigo Nestor, pues según lo que yo entiendo sobre esta palabra es .este es alguien que sea mentiroso sea este que esté inventando cosas que nos son o que se la tire de que tal y no es tal cosa es lo que yo puedo entender según nuestro vocablo algunas veces o algunas personas que utilizamos este tipo de palabra  </u>  
+<u valor="I3" > La otra que me preguntan es  <b>vascoso</b> , <b>vascoso</b> es no <b>no sea puerquito</b> sea un poquito más decentico más ordenadito ... </u>  
+<u valor="I4" >Eh la siguiente palabra sería <b>vascoso</b>, <b>vascoso</b> sería como que habla mucho y hace poco.   ... </u>  
+<u valor="I5" > Este la palabra <b>vascoso</b> sigifica alguien que es muy <b>vascoso</b>, por ejemplo aquí hay gente que es <b>demasiao</b> <b>vascoso</b>, por ejemplo, se besan en las plazas no les imprta nada, eso es ser algo <b>vascoso</b>  ... </u>  
+<u valor="I6" > .<def typ = "1"> <b>vascoso</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> este como decían las viejitas antes .¡esos se besan dscaradamente, sí son <b>vascosos</b>! </rdefiniens> </def> </u>  
+<u valor="I1" > Ajá pues a través de PuebloLlano TV Canal 3 le enviamos un saludo a la gente que nos escucha en la noche de hoy y en la mañana de hoy aquí en la Unidad Educativa Bolivariana Mutús y por supuesto a todo el personal docente, administrativ obrero y a las madres coaboradores del Programa de Alimentación Escolar, así como también para toda la comunidad de Mutús </u> 
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE016PL12 yurmari-	2015-08-28 	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

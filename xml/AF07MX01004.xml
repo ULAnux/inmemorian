@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><doc><cesHeader type="Oral" date="2007">
+<fileDesc>
+<fileGrp ID="Flora y Fauna">
+<file ID="AF07MX01004" MIMETYPE="audio/wma" SIZE="1231012" CREATED="2013-08-22" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duracion"> 00:05:00 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque, municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="3">
+<name type="Entrevistador" id="E"> Henriette Arreaza </name>
+<name type="Informante" id="I1"> Richard Dávila Gil </name>
+<name type="Informante" id="I2"> Informante no identificado </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Entonces Richard, co <paraverb valor="alarg"> eh </paraverb> <prosodia valor="up"> Mmm ¿tu nombre completo? </prosodia> </u>
+<u valor="I1" > Mi nombre completo es Richard Eduardo Dávila Gil </u>
+<u valor="E" > <paraverb valor="alar"> y, y </paraverb> <prosodia valor="up"> Mmm¿Tú te ocupas de qué? </prosodia></u>
+<u valor="I1" > De la agricultura. </u>
+<u valor="E" > <prosodia valor="slow"> Ajá </prosodia> </u>
+<def typ = "1"> <u valor="I1" > Y también soy <paraverb valor="alarg"> eh </paraverb> partenezco al grupo de ecologistas de aquí de Mixteque. </u>
+<u valor="E" > Mmm¡Ah, que bueno! <prosodia valor="up"> Mmm¿Cuáles son las actividades principales de ese grupo?</prosodia></u>
+<u valor="I1" > Ese grupo <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <paraverb valor="alarg"> eh </paraverb> <rdefiniens>resguardar y cuidar las nacientes <prosodia valor="pause">...</prosodia> <paraverb valor="alarg"> eh </paraverb> de las zonas de aquí del páramo <paraverb valor="alarg"> para </paraverb> así tener <paraverb valor="alarg"> mejor </paraverb> condición de agua <paraverb valor="alarg">y </paraverb> el agua más limpia</rdefiniens>.</u>
+<u valor="E" > <prosodia valor="up"> Y Mmm¿Qué actividades hacen? </prosodia> </u>
+<u valor="I1" > <paraverb valor="alarg"> eh, de, de </paraverb> <rdefiniens> limpiar la laguna, <paraverb valor="alarg"> eh </paraverb> reforestar las nacientes,también <paraverb valor="alarg"> se...eh </paraverb> estamos también con lo de la fauna, <paraverb valor="alarg"> reproduciendo </paraverb> los alevines <aproximd valor="I1"> cuando le echa </aproximd> las truchas, la siembra de truchas  <prosodia valor="interrupt">...</prosodia> <overlap valor="E" > Mmm¡Ah, que bueno!</overlap> y cuido y el resguardo de las mismas lagunas.</rdefiniens> </u> </def>
+<u valor="E" > <prosodia valor="up"> y Mmm¿Dónde tienen el, la reproducción de alevines?</prosodia> </u>
+<u valor="I1" > <paraverb valor="alarg"> eh </paraverb> <b>nojotros</b> <paraverb valor="alarg"> la </paraverb> reproducimos, bueno <b>nojotros</b> más que todo <paraverb valor="alarg"> la, las </paraverb> compramos es abajo <paraverb valor="alarg"> en </paraverb> </u>
+<u valor="I2" > La Mucuy. </u>
+<u valor="I1" > En La Mucuy.</u>
+<u valor="E" > Ah,y , ajá, pero <prosodia valor="up"> y Mmm¿Las echan aquí en los ríos o cómo?<prosodia valor="interrup">...</prosodia> </prosodia> </u>
+<u valor="I1" > Bueno, las sembramos en ríos, lagunas, y las cabeceras de las nacientes. </u>
+<u valor="E" > Y ese prog <prosodia valor="interrupt">...</prosodia> <prosodia valor="up"> Mmm¿Desde cuándo están haciendo eso? </prosodia> </u>
+<u valor="I1" > En eso estamos <overlap valor="I2" > <paraverb valor="alarg"> uh </paraverb></overlap> hace más <paraverb valor="alarg"> de </paraverb> trein, treinta años <comentario valor="se dirige a E2"> <prosodia valor="up"> Mmm¿trein? </prosodia> </comentario> treinta años.</u>
+<u valor="I2" > Treinta años, más o menos. </u>
+<u valor="E" > Mmm¡Treinta años! Pero tu no habías nacido <inintel>...</inintel> años.</u>
+<u valor="I1" > No, pero sigo los pasos de mi papá <comentario valor="risas">[risas]</comentario></u>
+<u valor="E" > Mmm¡Ay, que bonito! Mira y <prosodia valor="up">Mmm¿Cómo se llama el grupo ecológico?</prosodia></u>
+<u valor="I1" > El grupo <paraverb valor="alarg"> eh, se llama</paraverb> Grupo Ecologista Ivaquianos de Mixteque <comentario valor="voces de fondo">[ininteligible]</comentario></u> 
+<u valor="E" > Mmm¡Ivaquianos de Mixteque! y <prosodia valor="up"> Mmm¿Cuántos miembros tiene?</prosodia></u>
+<u valor="I1" > Tiene, hasta ahorita tenemos <paraverb valor="alarg"> doce </paraverb> miembros <overlap valor="E" > <paraverb valor="alarg">Mmm¡Ah! </paraverb></overlap> <inintel>...</inintel></u>
+<u valor="E" > <comentario valor="voces de fondo">[ininteligible]</comentario> Mira Richard, pero nos interesa mucho que tu trabajes con nosotros, porque tú podrías proporcionarnos todo lo que es la información sobre el, el grupo, los avances del grupo, lo que han logrado <paraverb valor="alarg"> eh, lo </paraverb> toda esa historia de, de la importancia del, del cuidado de las nacientes y de la ecología.</u>   
+<u valor="I1" > Sí, porque ahorita, hasta ahorita <b>nojotros</b> <paraverb valor="alarg"> lo, el</paraverb> problema que <b>teníanos</b> antes era también que se nos estaba secando mucho las nacientes <paraverb valor="alarg"> <b>entonjes</b> </paraverb> fue donde surgió el grupo <prosodia valor="pause">...</prosodia> que a veces siempre estaba en las cabeceras de los ríos <paraverb valor="alarg"> mucha </paraverb> mucha basura, entonces de ahí fue de donde <paraverb valor="alarg"> surgió </paraverb> la ACAR, que ese es el que nos fundo a <b>nojotros</b> <paraverb valor="alarg"> y </paraverb> </u>
+<u valor="E" > Mmm¡Ah, con ACAR! Con <prosodia valor="interrupt">...</prosodia></u>
+<u valor="I1" > Con ACAR, <paraverb valor="alarg"> el </paraverb> defendió <paraverb valor="alarg">el, los</paraverb> grupos ecologistas <paraverb valor="tos">y </paraverb>ahorita pues estamos, gracias a Dios, resguardando mucho lo <paraverb valor="alarg"> que es la </paraverb> las nacientes, las cabeceras de los ríos, la misma, la fauna <prosodia valor="pause">...</prosodia> estamos protegiendo la fauna <prosodia valor="pause">...</prosodia> <paraverb valor="alarg"> y así, eh, pues,</paraverb> protegiendo lo <paraverb valor="alarg"> que, lo que </paraverb> dijera lo <paraverb valor="alarg"> que, a veces, </paraverb> a veces dañamos, ahorita lo estamos volviendo <paraverb valor="alarg"> a </paraverb> a reconstruir.</u>
+<u valor="E" > y <prosodia valor="up"> Mmm¿Qué fauna están recuperando aparte de las truchas? </prosodia> </u> 
+<u valor="I1" > <paraverb valor="">eh, estamos</paraverb> es atrás es, son <paraverb valor="alarg">de los</paraverb>, las liebres, y de las mismos venados que, que están <prosodia valor="interrupt">...</prosodia></u>
+<u valor="E" > Los venados y <prosodia valor="up"> Mmm¿me dijiste antes? y Mmm¿Qué más? </prosodia></u>
+<u valor="I1" > y las liebres <overlap valor="I2" > liebres</overlap> </u>
+<u valor="E" > Mmm¡Ah, y las liebres! <overlap valor="I1" > ininteligible</overlap> Y <prosodia valor="up"> Mmm¿Cómo hacen <paraverb valor="alarg"> para </paraverb> para recuperarlas?</prosodia></u>
+<u valor="I1" > Estamos <paraverb valor="alarg"> hasta </paraverb> hasta ahorita estamos <prosodia valor="pause">...</prosodia> estamos a la, pues,siguiéndoles los,los, los pasos a las liebres <prosodia valor="up">Mmm¿Verdad?</prosodia>. Porque hay muchas, vamos a suponer,<b> pa arriba </b> <paraverb valor="alarg"> hay muchos, este</paraverb> perros que se crían, vamos a suponer, los crían aquí, perros caseros, entonces como se ve que <paraverb valor="alarg"> son </paraverb> <b>pelaos y feítos</b> entonces llegan y los sueltan <b>pal</b> páramo.</u>
+<u valor="E2" > <inintel>...</inintel></u>
+<u valor="I1" > Entonces <paraverb valor="alarg"> se, es, se </paraverb> de ahí es de donde sale el perro sal<prosodia valor="interrupt">...</prosodia> <paraverb valor="alarg"> eh </paraverb> se pone el perro salvaje, y empiezan <paraverb valor="alarg"> la, eh</paraverb> cacería, y del mismo ganado, a, atacan mucho el ganado también.</u>
+<u valor="E"> Ah, ajá, y <prosodia valor="up"> entonces Mmm¿Qué hacen ustedes para evitar eso?</prosodia>  </u>
+<u valor="I1" > <paraverb valor="alarg"> Estamos, lo que estamos, es, umm </paraverb> lo que no, no <b>queríanos</b> era, como dice el dicho, <b>acabalos</b> <overlap valor="E" > Ajá </overlap> acabalos, pero qué más <comentario valor="ruido de fondo">[golpes]</comentario> se estaba poniendo mucho <paraverb valor="alarg"> la</paraverb> se nos está poniendo muy crítica la vaina porque ya está, el mismo ganado está sufriendo, las mismas reses.</u>  
+<u valor="E" > y <prosodia valor=""> entonces Mmm¿Qué hacen?</prosodia> <comentario valor="voces de fondo">[ininteligible]</comentario></u>
+<u valor="I1" > Tuvimos que matarlos. </u>
+<u valor="E" ><paraverb valor="chasq">y <prosodia valor="up">Mmm¿Son muchos perros?</prosodia></paraverb></u>
+<u valor="I1" > <paraverb valor="alarg"> eh,eh</paraverb> las vez pasada había <paraverb valor="alarg"> no </paraverb> cuatro, y tuvimos <paraverb valor="alarg">que,</paraverb> bueno que <b>nojotros</b> aquí <paraverb valor="alarg">los, eh, los, los</paraverb> ahuyentamos <paraverb valor="alarg"> para <b>pal</b></paraverb> <b>pal</b> páramo adentro <prosodia valor="pause">...</prosodia> y, en el páramo si <paraverb valor="alarg">los </paraverb> mataron otra gente <comentario valor="voces de fondo">[ininteligible]</comentario> <paraverb valor="alarg"> eh </paraverb> <overlap valor="E" > <prosodia valor="up">Mmm¿Cómo los matan?</prosodia></overlap> <paraverb valor="alarg"> eh</paraverb> con escopeta.</u> 
+<u valor="E" > <paraverb valor="inhal">sonidos de inhalación</paraverb> Mmm¡Ay no, pero eso es terrible! <prosodia valor="up"> y Mmm¿Esos perritos no se pueden, como que, más bien, adoptar y, y,y </prosodia> <prosodia valor=   "interrup">...</prosodia></u>
+<u valor="I1" > Ya son salvajes, ya no se, ya no se pueden domesticar <inintel>...</inintel> <overlap valor="E" > Mmm¡Ya son salvajes! <paraverb valor="inhal"> Mmm¡Ah!</paraverb></overlap> ya no se pueden domesticar después que ellos, a veces <overlap valor="I2" > Mmm¡Son peligrosos para uno mismo!</overlap> peligrosos para uno mismo, y atacan a uno <overlap valor="I2" > y también a las personas </overlap>  </u>
+<u valor="E" > <paraverb valor="alarg"> Mmm¡Ah, mire pues!</paraverb> Yo no sabía eso Mmm¡Fíjese que información tan interesante! <overlap valor="I1 e I2" > [ininteligible]</overlap></u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AF07MX01004 	Guillermo 	2013	Marcado+ Etiquetado	 Completo
+	
+</versiones>
+
+
+
+</doc>

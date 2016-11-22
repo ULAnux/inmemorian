@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Costumbres">
+<file ID="AC13LP02032" MIMETYPE="audio/wav" SIZE="1184842 " CREATED="2014-04-14" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:02:28 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora Bárbara Gonzalez Vergara de 84 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Señora Bárbara, cuando usted trabajaba ¿a qué hora se levantaba?</u>
+<u valor="I1" > Había veces que me <b>alevantaba</b> a las tres de la madrugada. Cuando <b>habían</b> muchos obreros me <b>alevantaba</b> a las dos a <b>quebrajar máiz</b> y a pasar <b>máiz</b> en una máquina y después en la piedra</u>  
+<u valor="E" > ¿Qué hacía con el maíz?</u>
+<u valor="I1" > echar arepas <b>grandototas</b> unas <b>arepotas</b> lo que daba el <b>budare</b> más nada, pa obreros</u> 
+<u valor="E" >Mjum, para obreros. Y ¿a qué hora se acostaba?</u>
+<u valor="I1" > Como a las las nueve</u>
+<u valor="E" > Como a las nueve. okey Y, ¿tenía días libres?</u>  
+<u valor="I1" > No </u>
+<u valor="E" > ¿No? ¿Nada? ¿Nada de días libres?</u> 
+<u valor="I1" > Yo lo que me, yo lo que me pagaban era lo que me comida lo que me comía, más nada</u>
+<u valor="E" >¿Le pagaban con comida?</u>
+<u valor="I1" > Lo que me comía, la comida y más nada </u>
+<u valor="E" > Y ¿le trabajaba a personas di <prosodia valor="interrupt">...</prosodia> a familias diferentes? <overlap valor="E" > Mjum</overlap> Ah, <it> okey </it>. Y hoy día ¿acostumbran merendar? ¿¿meriendan acá?</u> 
+<u valor="I1" > No </u>
+<u valor="E" > No. ¿Solamente el desayuno, almuerzo y cena?</u> 
+<u valor="I1" > Mjum </u>
+<u valor="E" > Y ¿a qué hora desayunan? </u>
+<u valor="I1" > <b>Por áhi</b> a las nueve </u>
+<u valor="E" >¿A qué hora meriendan? Perdón, ¿almuerzan? </u>
+<u valor="I1" > Como a las doce </u>
+<u valor="E" > Mjum. ¿Y la hora de la cena?  </u>
+<u valor="I1" > A las séis </u>
+<u valor="E" > Como a las séis. <b>okey</b>. Cuando alguien se muere, ¿qué se acostumbra hacer aquí </u>
+<u valor="I1" > Se reza. Toda la noche rezar</u>  
+<u valor="E" >  ¿con qué propósito se le reza al muerto?</u>
+<u valor="I1" > Bueno, cómo le digo yo,<comentario valor="silencio"> [silencio]</comentario> Yo eso sí no sé</u> 
+<u valor="E" > <paraverb valor="alarg">Y cuando</paraverb> alguien está de cumpleaños ¿cómo se celebra?</u>
+<u valor="I1" > Ah no, eso se celebran con muchas cosas, mucho miche</u>
+<def typ="1"><u valor="E" > Mucho miche, y ¿qué es el miche? señora Bárbara</u>
+<u valor="I1" >  Esa <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una agua muy buena, muy sabrosa <comentario valor="risas"> [risas] </comentario></rdefiniens></u></def>
+<u valor="E" > Mmm, okey. Y ¿cuando nace un bebé?</u>
+<u valor="I1" > La misma cosa, eso es una alegría muy grande</u> 
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AC13LP02032- yurmari-	2014-04-04	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="filme, película " date="2007">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZFIL001GV07" MIMETYPE="video/movie clip (.mpg)" SIZE="438730564" CREATED="2016-01-17" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType> ICAE-ULA </respType>
+<respName> ICAE-ULA </respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:17:13 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:15:53 </extNote>
+<extNote id="NumeroInterlocutores">03</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Gavidia municipio Rangel  </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="03">
+<name type="entrevistador" id="E1"> Lina Sarmiento </name>
+<name type="entrevistador" id="E2"> Julia Smith </name>
+<name type="entrevistador" id="I1"> Señor Bernardino Moreno </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="contenido">[el film muestra imágenes en fotografía correspondientes a una caminata desde la plaza de Gavidia hasta la Plaza de San Rafael de Catalina y tiene como fondo una entrevista realizada al señor Bernardino Moreno. Esta entrevista es la que aquí se transcribe]  </comentario>
+
+<def typ = "4"> <u valor="E" > Señor Bernardino, y cuéntenos ¿cómo se llamaban sus <ldefiniens> papás</ldefiniens>?  </u>  
+<u valor="I1" > ¿Mis <b>papaes</b>? <defmetalvb lemma="llamar" pos="VMII3P0">  se llamaban </defmetalvb> José Los Santos Moreno. </u>  ... </def>
+<u valor="E" > ¿Y él era nacido dónde?... </u>  
+<def typ = "2">  <u valor="I1" >  <b>poá pa onde </b> .<defmetalvb lemma="llamar" pos="VMII3P0">   </defmetalvb> el Pantano. De aquí se ve <rdefiniens>la Loma el Pantano</rdefiniens>, mire  .. </u>  
+<u valor="E" > ¿Pero aquí mismo en Gavidia?... </u>  
+<u valor="I1" >  De  allí abajo se ve bien, de allí  abajo de al pasar el puente pa ah se ve bien esa loma  ... </u>  
+<u valor="E" > Pero, eso eso ¿cómo se llama, el Pantano?... </u>  
+<u valor="I1" > El pantano sí, .¿no han visto esa loma? ¿No se han <b>fijáo</b>?.. </u>  
+<u valor="E" > No </u>  
+<u valor="I1" > Eh de allí del puente <b>pa </b> abajo se distingue esa loma, esa loma es grande. Yo soy <b>vaquiano poá</b> por todo eso. </u> </def>.   
+<u valor="E" > ¿Y su mamá cómo se llamaba?... </u>  
+<u valor="I1" > ¿Ah?... </u>  
+<u valor="E" > Su mamá... </u>  
+<u valor="I1" > Se llamaba Catalina. Ella era Sánchez, y  ella tiene <b>harto de vese muerto</b> . </u>  
+<u valor="E" > ¿Y ella era de Gavidia? </u>  
+<u valor="I1" > ¿De aquí?..Esos eran gente de allá del Pantano. </u>  
+<u valor="E" > Ah ¿ella también era de allá?... </u>  
+<u valor="I1" > Sí esos eran .<b>pantaneros</b>.. </u>  
+<u valor="E" > ¿Los dos?... </u>  
+<u valor="I1" > Todos, eso eran una manada muy grande.de pantaneros y... </u>  
+<u valor="E" > ¿Y cómo llegaron aquí?... </u>  
+<u valor="I1" > Ah porque lo que pasa que esa gente del Pantano .se <b>jueron </b>.cuarenta familias de allá del Pantano tenían un camino por aquí por atrás de aquella loma. </u>  
+<u valor="E" > ¿Por atrás allá? ... </u>  
+<u valor="I1" > Por atrás sí, <b>cogían pa </b> allá .por esta vía que iba pa pa San <b>Rafel</b> de Catalina  y pasaron el Manzinero, el Paramito y el Fraile, y <b>cogían</b> el paramito <b>de abajo de pabajo de pabajo</b> y eso era <b>de abajo de pabajo de pabajo</b> hasta que llegaban hasta donde había plano y ya era la cabecer de Pedraza, eso </u>  
+<u valor="E" > : <def typ = "1"> Y su y se irían <b>mozos</b> para allá sus padres <defop valor = "coma"> ,</defop> <rdefiniens>jovencitos</rdefiniens>..</def>. </u>  
+<u valor="I1" > Sí, taban <b>mozos</b>, se <b>jueron pa </b> allá a vivir y .vivieron cuarenta años allá en ese puente y <b>deáhi</b> se vino mi papá. ¿sabe por qué se, por qué nos, por qué se vino él ? </u>  
+<u valor="E" > ¿Por qué? </u>  
+<u valor="I1" > Porque mi papá manuel, mi  <b>nonito</b>.compró esa finca de allí .. </u>  
+<u valor="E" > ¿Donde está la casita vieja?... </u>  
+<u valor="I1" > Allí <b>onde</b> vive la Francisca, aquí. </u>  
+<u valor="E" > Ah Aquí </u>  
+<u valor="I1" > Aquí, ese es una finca grande. Esa colinda con la <b>finquita </b> mía arriba en <b>onde </b> vive Atiz.  Y compró esa finca y <b>antoncesn</b> mi papá Manuel dijo, comenzó a <b>convidar </b> a mi <b>máma</b>.que se vinieran pa acá, que se vinieran pa acá, que acá era muy bonito,y no había peligros y y que él les daba un puesto, un cuadro. Y y entonces se vinieron, yo mas bien muchachón, la otra manadita todos pequeños así pero ya caminaban. Nos vinimos de allá , y entonce mi papá había un hermano mío que se llama Román, estaba muchacho así <b>pequeñito</b>, era <b>flaquito</b>, entonce papá tenía un <b>mapirote</b> <b>grandote</b>  .. </u>  
+<u valor="E" > ¿Un qué ?... </u>  
+<u valor="I1" > Un mapire, así mapires de ojos. Yo sabía hacer esos mapires, chinchorros y macas también trabajaba yo. Y <b>deáhi</b> ..me dijo que tenía que <b>trer</b>.al muchacho <b>cargao</b>, en um <b>mapirote</b> así de ancho y alto y esos eran los en esos <b>mapirones</b>. Y <b>áhi</b>fue en menos que nada yo me traje el muchacho de allá <b>cargao</b>, desde allá de San <b>Rafel </b> de Catalina por ese camino hasta que llegamos aquí allí arriba me traje el muchacho, pero yo sí venía <b>cansao</b>. <comentario valor="risas" > [risas] </comentario>. ¡Ay yo no, venía, traía un cansancio tan grande con aquel <b>muchachito</b>! y de ñapa le habían una <b>cobijota</b> blanca le habían <b>aforrao</b> así por dentro pa al <b>mapire</b> pa que se sentara el muchacho, ¡más <b>harto</b> peso!  <comentario valor="risas" > [risas] </comentario>   </u>  
+<u valor="E" > Pero, .despu[es su pap[a se volvió a ir.. </u>  
+<u valor="I1" > Ah sí,  .después se volvierona a ir. Ah y <b>deáhi</b> vivimos un <b>tiempal</b> allí arriba. Y <b>antonce</b>hicieron un negocio pa allá pa allá abajo pa allá pa pa Mucurubá pa acá pa esta falda de acá, <b>onde</b> llaman los Monsalves. Allá vivimos tres años, y entonces se casó Francisco, .y quedó arriba en La Vega. Y de allá, de allá se <b>jueron</b> ellos, elllos dos y la manada de de muchachas. Y ma Martín otro hermano mio que en agosto completó un año de muerto allá en Pedraza. Y <b>deáhi </b>.se volvieron a ir pa allá y yo los acompañé dos años allá y y me dieron mis tíos, Mateo y mi tío Gerardo tenían una vega de café y me la dieron a medias,  ¡pero a tronco e vega de cargar café, no no no no no! Y y le saqué una <b>platera </b> a esa vega, y me dieron, mi tío mateo de dió una orilla de caña...</u>  
+<u valor="E" > Y ¿dónde vendía el café?... </u>  
+<u valor="I1" > Aaaá mismo, ... </u>  
+<u valor="E" > ¿Allá?... </u>  
+<u valor="I1" > Aaaá llegaban de Pedraza a comprar café, y vender de arríba pa abajo en arreo de bestias y a llevar café y dulces pa Pedraza, y y fue dos años y a los dos años me <b>golví</b>  pa acá. . </u>  
+<u valor="E" > ¿Por qué se volvió?... </u>  
+<u valor="I1" > .Po porque había dejáo la novia acá y me cansé  me cansé y <b>deáhi</b>  seguí yo viviendo aquí, y Francisco, que Francisco sí lo conocen. </u>  
+<u valor="E" > .Sí.. </u>  
+<def typ = "4"> <u valor="I1" > Sí. Llegamos los dos aquí en este puesto. Y él el el tiene un <b>manarón di hijas</b> ... </u>  
+<u valor="E" > Jum <defop valor = "coma"> , </defop> <redefiniens> Puras muchachas</redefiniens> no... </u>  </def>
+<u valor="I1" > Ah y y y <b>un mero</b> varón tenía, ese se murió, se llamaba...<inintel> ... </inintel> Y <b>deáhi entoncesn</b> esa finca de allá arriba de la Vega, esa es una finca que separa la finca de aquí de la Francisca, eso es de la Francisca,  </u>  
+<u valor="E" > ¿.Francisca qué?.. </u>  
+<u valor="I1" > ..Sulbarán. </u>  
+<u valor="E" > Sulbarán, ahhh... </u>  
+<u valor="I1" > Esa era casada con el <b>dijunto</b>.Julio. Y al  <b>dijunto</b>.Julio..era que le había <b>quedáo</b> esa finca. Y <b>antoncesn</b> salió mi <b>máma</b> de allá y a vender, y vendió la finca que le había <b>dáo tatá</b>, era herencia de él. Y cisco vivía ahí, . en el <b>ranchón</b> de paja  que le dije yo </u>  
+<u valor="E" > Y en qué ¿en qué año compró usted esa finca? </u>  
+<u valor="I1" > Tendrá eh déjeme pensar, esa debe tener como, esa finca tiene como ochenta años de <b>vela comprao </b> yo, esa tiene como ochenta años.   ... </u>  
+<def typ = "2"> <u valor="E" > ..¿Y sembraba mucho?. </u>  
+<u valor="I1" > Sí <defop valor = "coma"> , </defop> <redefiniens> trigo y papa. Y</redefiniens> </u>  
+<u valor="E" >  Avena también sembraban antes </u>  
+<u valor="I1" > ¿Ah?... </u>  
+<u valor="E" > .Avena.. </u>  
+<u valor="I1" >¿Avena? .<rdefiniens> Sí, avena y cebada y . Pero dígame que en ese tiempo sí se daba buena la papa. .O sea y no no había plagas.</rdefiniens>  </u> </def>
+<def typ = "2"> <u valor="E" >¿Cuántas famiias había en Gavidia cuando usted llegó? ... </u>  
+<u valor="I1" > ¿Familias, aquí?.No, esto era <b>elóbrigo</b> No <defmetalvb lemma="haber" pos="VACP1S0"> había </defmetalvb>había sino <rdefiniens>Brígido que vivía pa allá, </rdefiniens>.. </u>  
+<u valor="E" > ¿Brígido qué? ... </u>  
+<u valor="I1" > <rdefiniens>Brígido Pérez, Antonio Torres, que vivía <b>po allí </b>  encima de aquella barranca, y Modesto Castillo que vivía  <b>po allí </b>, José Los Ángeles que vivía <b>pa allí pa </b>  Las Mazorcas. Más nada</rdefiniens> </u>  
+<u valor="E" > Eran cincp familias con usted y su esposa. </u>  
+<u valor="I1" > <rdefiniens> Cinco, cinco casas habían, eso era <b>lóbrigo</b> .este Gavidia</rdefiniens>. .Y  ah  ¡eso sí <b> hace  harto tiempo</b>, dígalo!.Yo me pongo a acordame y eso hace mucho tiempo. </u>  </def>
+<u valor="E" > Taría Gómez todavía... </u>  
+<u valor="I1" > <def typ = "4">  <b>Taba</b> yo jóven <defop valor = "coma"> , </defop> .<rdeniens> <b>taba</b> yo <b>mozo mozo</b>, <b>muchachón</b></rdeniens> </def>  </u>  
+<u valor="E" > ¿Quién era el Presidente? ... </u>  
+<u valor="I1" > <def typ = "2 "> ¿El Presidente? El Presidente que había <defcopvb lemma="ser" pos="VAII3S0"> era </defcopvb> <rdefiniens>Gómez</rdefiniens>.</def>, sí. <def typ = "2">   El que mandaba en Mérida <defcopvb lemma="ser" pos="VAII3S0"> era </defcopvb> <rdefiniens> .Chalbaud Cardona . Ese fue el que hizo un camino por aquella vía. Por aquí pa allá la Arenosa, el Mancinero, el Fraile y el paramito pa allá, , cuando Chalbaud Cardona </rdefiniens> </def>. </u>  
+<u valor="E" > ¿Que era, el Gobernador?... </u>  
+<u valor="I1" > Era el gobernador de Mérida, .y trajeron y hicieron un camino, pero buen camino de trabajar con bestias, y y lo dejaron acabar. Pero el cemento está está bueno por debajo, el piso pero tan hay agachaderso así, boroquera y caña brava. Por áhi viajamos viajó mucha gente por esa vía, un <b>tiempal </b> de años y años la gente <b>maletiando</b>. Y allá y aquí de Gavidia, del mocao de Mucuchíes de San Rafael de Mucuchíes, de todo eso partían eso hacían <b>manaditas</b>,  hacían <b>manaditas </b>  y viajaban <b>pa allá</b>. A Pedraza iban a dar, con las maletas a vendelas allá y de allá traían corotos ya.. </u>  
+<u valor="E" > Qué ¿qué vendían?.¿Qué llavaban de aquí pa allá?.. </u>  
+<u valor="I1" > .Ahhh, cebollín, ajo, miche, espelma, chimó, .jabón y ropa. </u>  
+<u valor="E" > ..¿Papas no?. </u>    
+<u valor="I1" > ¿Papa?, no.  eso se vendía mucho pa allá, la sal, eso se vendía mucho. y allá cambiaban por cacao, arroz, y traían pa acá. Eso eran <b>manadas </b>..de maleteros que habían y se se conquistaban así. </u>  
+<def typ = "2 "> <u valor="E" > ¿Cuanto tiempo se echaba hasta Pedraza?... </u>  
+<u valor="I1" > Salían de aquí, <defmetalvb lemma="echar" pos="VMII3S0"> echaban ... </defmetalvb> <rdefiniens>dos días abajo a Catalina y de Catalina un día a Pedraza. </rdefiniens>  </u> </def>  
+<u valor="E" > .¡Lejos!.. </u>  
+<u valor="I1" > Sí. .Eso es bonito, eso es muy bonito muy tempero bonito pa allá, pero yo no pude hacer de ir pa allá, porque yo me estuve mucho allá y eso puesto allá es muy peligroso. Eso es muy peligroso por la culebra, hay mucha culebra,  culebra brava. Hay cinco clases de mapanares, de las propias bravas. Y esos bichos se enrollana así mire, se enrollan así y no se ve; pues no se ven, es como el color de una hoja en el terreno. Y un día estaba yo sacando café <b>poá</b>, con una <b>escardillita</b> y había un <b>hierbalito </b> así,  yo iba arrancando una hierba que era muy muy fea, .la iba arrancando, pasé la mano .así <b>po encima</b> de un rollo de mapanare, y jal[e la <b>macolla</b> de hierba ¡cuando se desenrolló aquella bicha ! <comentario valor="risas" > [risas] </comentario> Y eso ya le metía la mano. Entonce la maté con la escardilla, como como, cuatro o cinco veces me <b>vide picao</b> de esos bichos <b>po allá y por áhi</b> en los viajes. Muy bonito el puesto y muy bonito el <b>tempero</b>  pero es muy peligroso. Mira, va a tener que ir a hacer un viaje pa allá pa que porque eso aquí se va en el bus a Barinas. Ay y entonces cuando cuando ya hiciero esta carretera por el alto de Santo Domingo no <b>maletié más po aquí</b> y entonce me llevaba la maleta a Mucuchíes en un burro y y me metía en un bus, hasta ir a a barinas. Ahí paran los buses, ahí se está uno tantico y ahí está la <b>manada </b> de carros a Pedraza, y los carritos de Pedraza.  Ah <invcomm> ¿va pa Pedraza? </invcomm>  Sí, <invcomm> Yo lo llevo </invcomm>. Eso era muy barato el pasaje. Ahora sí es caro. </u>
+
+
+<comentario valor="Sonido musical e imágenes"> [Los últimos minutos del film muestran imágenes de la caminata acompañadas del sonido de violines, música característica andina]... </comentario>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+VZFIL001GV07- yurmari-	2016-01-17	Marcado transcripción completa.
+VZFIL001GV07- yurmari-	2016-01-18	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

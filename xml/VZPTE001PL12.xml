@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE001PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="437080064" CREATED="2014-10-12" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duracion"> 00:08:34 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:08:34 </extNote>
+<extNote id="NumeroInterlocutores">11</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="11">
+<name type="entrevistador" id="E"> Nestor Bravo </name>
+<name type="Informante" id="I1"> Yasmili Salcedo </name>
+<name type="Informante" id="I2"> María Yaura Santiago </name>
+<name type="Informante" id="I3"> Isbelia Villamizar </name>
+<name type="Informante" id="I4"> Rosario Vergara </name>
+<name type="Informante" id="I5"> Carmen Quintero </name>
+<name type="Informante" id="I6"> Maribel Gonzáles </name>
+<name type="Informante" id="I7"> No se identifica </name>
+<name type="Informante" id="I8"> No se identifica </name>
+<name type="Informante" id="I9"> Merary Santiago </name>
+<name type="Informante" id="I10"> No se identifica </name>
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+<u valor="I1" > Buenos días, mi nombre es Yasmily Salcedo. Estamos en el Programa Déjame Pensar. Este, bueno para mí la palabra <def typ="1"><b> fachoso </b>  <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>alguien orgulloso, <kinesic valor="sube ojos"> este, mmm </kinesic> que anda todo el tiempo <b> pavito </b></rdefiniens> </def>eh </u>  
+
+<u valor="I2" > Mi nombre es María Yaura Santiago, este estamos acà particpando en un programa que tiene la televisora y este, me preguntan qué es  <def typ="1"><b> fachoso </b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>la persona que es muy orgullosa, pretenciosa, eh que anda siempre toda eh así <b>arregladita</b> y y siempre está presumiendo demás</rdefiniens> </def> </u> 
+
+<u valor="I3" > Eh mi nombre es Isbelia y para mí la palabra <def typ="1"> <b> fachoso </b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una persona que se la da de pretencioso, digo yo no sé <comentario valor="risas"> [risas] </comentario> </rdefiniens></def></u>   
+
+<u valor="I4" > Mi nombre es Rosario Vergara. Para mí <def typ="1">una persona <b> fachosa</b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens> bueno, como la Licenciada Ada que es una persona muy  <b> fachosa</b>  <b> pretenciosa</b>  <comentario valor="risas"> [risas] </comentario></rdefiniens></def> </u>  
+
+<u valor="I5" > Mi nombre es Carmen Quintero. <def typ="1">Una persona <b> fachosa</b>  <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>aquella que se <b> refina </b> mucho, una persona <b>refinada</b></rdefiniens></def>, creo yo no sé </u>  
+
+<u valor="I6" > Buenos días, mi nombre es Maribel Gonzáles. La eh <def typ="1">la persona <b> fachosa</b> <defcopvb lemma ="ser" pos ="VAIP3S0"> es </defcopvb> <rdefiniens>aquella persona que es muy orgullosa</rdefiniens> </def></u>  
+
+<u valor="I7" > Bueno buenos días aquí me están haciendo algunas preguntas de algunas palabras que se usan mucho en el lenguaje coloquial de aquí en Pueblo Llano como es  <b> fachoso</b>. <def typ="1"><b> Fachoso</b> <defop valor="pues">pues</defop> <rdefiniens>se sabe de aquellas personas que muchas veces salen de la casa <b> emperifolladas </b></rdefiniens></def>.  <def typ=""><b> Emperifollada </b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una persona que sale a la calle y que realmente quiere demostrar bueno su ego de cómo su personalidad también puede reflejar en la calle, que si saluda que si no saluda o de que pasa con la frente bien en alto y mirando de medio reojo y también picando el ojo a tal cual muchacha por ahí también</rdefiniens></def>. Eso es una persona <b> fachosa</b> para mí </u>  
+
+<u valor="I8" > Esto es para el programa Déjame Pensarlo. <def typ="1">La palabra <b> fachoso</b> <defop valor="osea">osea</defop> <rdefiniens>alguien para mí alguien que se cree, bueno que está caminando sobre el aire y también alguien que se cree muy creído</rdefiniens></def> </u>  
+
+
+
+
+<u valor="I9" > Mi nombre es Merary Santiago, para el programa de hoy es la palabra <b> fachoso</b>. <def typ="1">¿Qué quiere decir la palabra <b> fachoso</b>?  <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>ser vanidoso, es la palabra creerse mucho más que los demás, creer que tenemos estamos por encima, creemos que todo gira a nuestro alrededor, creemos que eh eh todo el mundo está pendiente de nosotros que somos el centro de atracción y no, no es así</rdefiniens></def>,<mkr> o sea</mkr> ese es el significado de la palabra <b> fachoso</b> </u>  
+
+<u valor="I1" > <b>Habló cabullas</b> ni idea, no sé qué significado pueda tener esa palabra no sé </u>  
+
+<u valor="I2" > Eh <b>Habló cabullas</b> no sé qué signifique, le he oído pero no sé qué signifique  ni idea, no sé qué signifique, no sé qué quiere decir esa palabra </u> 
+
+<u valor="I6" > La palabra <b>Habló cabullas</b> no la sé responder </u>  
+ 
+<u valor="I5" > La palabra <b>Habló cabullas</b> osea yo pienso <b>Habló cabullas</b> sería como alguien que se entremetió en alguna conversación y que alguien que se entrometa, digo yo que debe ser así <b>Habló cabullas</b>  </u>  
+
+<u valor="I4" > Bueno <b>Habló cabullas</b> debe ser como algo que Ay, dijo dijo tal cosa, así </u>  
+
+<u valor="I3" > <b>Habló cabullas</b> es alguien que se entromete en algo, digo yo 
+ </u>
+
+<u valor="I7" > <b>Habló cabullas</b> es bueno de personas que hablan algunas cuestiones que que le salen de su propia mentalidad eh se pone a <def typ="4"> <b>hablar cabullas</b> mentiras <syno>o</syno> <rdefiniens>algo para que llamar la atención a las personas</rdefiniens> </def></u>  
+
+
+<u valor="I8" > <def typ="4"> <b>Habló cabullas</b> <examkr valor="como">es como</examkr> <rdefiniens>alguien metiroso</rdefiniens> </def> </u>
+  
+<u valor="I9" > La palabra <def typ="1"><b>Habló cabullas</b> bueno esa palabra creo que significa <mkr>que dice</mkr> <rdefiniens><invcomm> huy qué mentiroso, ya dijo que tal cosa </invcomm> <invcomm>  Ah ya <b>habló cabullas</b>, jum, como siempre </invcomm></rdefiniens></def>, eso </u>
+<u valor="I1" > <b>Restiao</b> es una persona que no tiene sentido de la vida , que está cansado, obstinado, fastidiado, para el no presenta un buen futuro </u>
+<u valor="I2" > La otra es <b>restiao</b>. <def typ="1"><b>Restiao</b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una persona que está con todo, que va por delante con todo que bueno este no sé cómo decirlo pero que está <b>restiao</b>  es que va con todo, con todas las de la ley y está decidido, es <examkr valor="como">como</examkr> una palabra así como decidido</rdefiniens></def>  </u>
+<u valor="I3" > <def typ="1"><b>Restiao</b><defcopvb lemma ="ser" pos ="VAIP3S0"> es</defcopvb> <rdefiniens>decidido a algo</rdefiniens></def> </u> 
+<u valor="I4" > <b>Restiao</b> es una palabra como atrevida </u> 
+<u valor="I5" > <def typ="1">La palabra <b>restiao</b> para mí <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>aquella persona que está decidida a hacer cualquier cosa</rdefiniens> </def></u> 
+<u valor="I6" > Eh la palabra <def typ="1"><b>restiao</b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb><rdefiniens> aquella persona que se decide a hacer todo lo que le sin importarle nada </rdefiniens></def></u> 
+<u valor="I7" > Y <def typ="">las personas <b>restiadas</b> <defcopvb lemma ="ser" pos ="VAIP3P0">son</defcopvb> <rdefiniens>las personas que salen adelante sin temer a nada y que realmente pues aquí en pueblo llano hay mucha gente <b>restiada</b> </rdefiniens></def>en el momento de reclamar y hacer las cosas justamente y que estamos <b>restiaos</b> para solventar algún problema para que siga fluyendo toda la normalidad </u> 
+<u valor="I8" > <def typ=""><b>Restiado</b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> algo como <rdefiniens>alguien que está decidido a hacer lo que le toque hacer</rdefiniens></def> </u>
+<u valor="I9" > <def typ="1">La palabra <b>restiao</b> <mkr>quiere decir</mkr> <rdefiniens>que está dispuesto a todo que me ma que me mato con quien sea, que tiro puño con quien sea</rdefiniens></def> que <def typ="1"><b>restiao</b> <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>que se me venga el mundo encima que aquí lo combato</rdefiniens></def> </u> 
+
+<u valor="I10" > Buenos días, este le damos las gracias aquí al canal 3 este por <b>estanos</b> aquí participando en las actividades de la semana de la lactancia materna. Como siempre estamos insistiendo todos los días en el hospital, este la importancia sobre la lactancia materna, las ventajas y las desventajas que tiene cuando no se da la lactancia materna. Este hemos venido haciendo varias actividades, las madres han participado, son sesenta y siete niños que se van a graduar, hemos trabajado en equipo, el programa se llama Niño Jesús y la Coordinadora principal es la Dra. Yaura Santiago, Juntamente con la nutricionista, la Licenciada Ana Hernández del equipo de salud. Eh también vamos a hablar aquí de las palabras <b> fachoso</b>, este  <def typ="1"><b> fachoso</b> es una palabra que <mkr>se le dice</mkr> <rdefiniens>a la persona que es muy <b> pretenciosa</b> que es creída porque a lo mejor se cree más bonita o con otras cualidades que otros no la tenemos y bueno es su personalidad y se sienten bien así y no hay nada de malo en eso</rdefiniens></def>. Y la otra es <b> habló cabullas </b> ah la verdad que no no sé decirle, este <b> habló cabullas </b> porque no la he oído. Ah <def typ="1"><b>restiado</b>, la palabra <b>restiado</b> este <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>bueno este uno hay alguna situación buena o mala eh entonces hay que tomar decisiones, entonces uno se decide y dice bueno me voy <b>restiado</b> pa lo que salga</rdefiniens></def> </u> 
+ 
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE001PL12- yurmari-	2014-10-12	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>
+
+
+

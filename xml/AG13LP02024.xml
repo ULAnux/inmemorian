@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Gastronomía">
+<file ID="AG13LP02024" MIMETYPE="audio/wav" SIZE="6477642 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:13:29 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Elda Rosa Bastidas. Señora de 74 años </name>
+</group>
+</cesHeader>
+
+<u valor="I1" > Treinta de diciembre. Se acaba el año ya</u>
+<u valor="E" > Okey. Entonce, hoy es treinta de diciembre de 2013, estoy en la comunidad de Las Piedras, mi nombre es Yurmari Mesa y estoy con la señora Elda Bastidas, ella es de aquí de la comunidad de Las Piedras. señora Elda, ¿qué edad tiene usted? </u>
+<u valor="I1" > Yo tengo setenta y cuatro años ya</u>
+<u valor="E" > Setenta y cuatro. Y ¿tiene toda su vida, ha vivido toda su vida aquí?</u>
+
+<u valor="I1" > Toda la vida sí, toda la vida. Toda la vida, nací aquí y aquí me crié y aquí estoy y aquí moriré, sí porque es el destino de uno, no quiero irme a morir a otro <b>lao</b>, a otro <b>lao</b> </u>
+
+<u valor="E" > Claro. Señora Elda, usted sabe que las cosas <prosodia valor="interrupt">... </prosodia><comentario valor="entra alguien"> [entra la persona que acompaña a la entrevistadora para tomar fotografías] </comentario> El es mi compañero, el que toma la foto, ¿usted me permite sacarle una foto? <overlap valor="I1" > Cómo no </overlap> Entonces el la toma. Eh, el, la vida ha cambiado un poco no, de antes a ahora, de cuando usted era niña, exacto. Pues conversemos por ejemplo de cómo era la comida antes </u>
+
+<u valor="I1" > Ay la comida antes pues era distinto a ahora porque eh no se conocía lo que era la harina pan ve sino que, este molía uno el maíz, molía el maíz y este amasaba la masa y hacía su arepa en budares, en budares de barro,en candela, en fogón de leña</u> 
+
+<def typ="1"><u valor="E" > ¿Cómo es <b>el budare</b>?</u>
+<u valor="I1" > <b>El budare</b> <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una especie de de, una especie de cacerola que pero es era de barro</rdefiniens></u>  
+<u valor="E" > Mmm, ya, ya y ahí cocinaban la arepa</u>
+<u valor="I1" > Sí. Ahí tengo tengo por cierto aquí en la cocina todavía tengo los recuerdos ahí, mjum</u></def> 
+<u valor="E" > Ah, Okey, Okey.</u>  
+<u valor="I1" > Y se cocinaban las arepas y se muy sabrosas se comían con la cuajada</u> 
+<u valor="E" > Y usted dice que molían el maíz <overlap valor="I1" > Se molía el maíz</overlap> ¿Cómo lo molían? </u>
+<u valor="I1" > En la ma, en la, muchas veces en piedra, muchas veces en piedra y después sí vinieron las máquinas, esas máquinas de, todavía existen esas máquinas de moler, yo tengo todavía máquinas de esas</u>  
+
+<u valor="E" > Claro, ya. ¿Y y y las bebidas? </u>
+
+ <u valor="I1" > <def typ="1">Ah las bebidas, las bebidas pues el <b>el café</b> <defop valor="dos puntos">:</defop> <rdefiniens>ese se hervía en el fogón el guarapo, guarapo de panela que yo todavía lo acostumbro el guarapo de panela, entonces se batía, no se casi no se usaba coladora, sino se batía aquello muy sabroso se batía, después se bajaba y se asentaba, ese es el café más bueno, se asentaba, cuando está <b>asentaito</b> se toma el café bien bueno pues</rdefiniens> </def> </u>    
+<def typ="1"> <u valor="E" > Ya. ¿Cómo así, <b>asentar</b>? </u>
+<u valor="I1" > Asentar <defop valor="dos puntos">:</defop><b>pa</b> <rdefiniens> que bajara todo el tuche hacia abajo al fondo de de la olla  y cuando estaba <b>asentaito</b> que uno lo agarraba así que no tenía nada de burbuja de broma de café entonce repartía el café</rdefiniens>  </u></def>
+
+<def typ="1"> <u valor="E" > Y, ¿y el fogón cómo era?</u>
+<u valor="I1" > <defcopvb lemma ="Ser" pos ="VAII3S0">Era</defcopvb> <rdefiniens>de tres, de tres piedras, el fogón era de tres piedras donde se ponía la olla se montaba la olla y el budare también en tres piedras entonce en candela, allá abajo todavía tengo yo el fogón en la casa en la casa de mi mamá en la casa antigua</rdefiniens> </u> </def>    
+<u valor="E" > Osea que no había cocina ni nada de eso</u>
+<u valor="I1" > No eso no se conocía cocina mamita ¿de dónde? y gas mucho menos. Se usaba el <it>kerosén</it> <b>pa</b> la <b>lamparita</b>
+para alumbrarse uno de noche, <overlap valor="E" > Claro </overlap><b>pa</b> la lámpara de noche porque las velas pues si siempre se utilizaban pero más la lámpara de <it>kerosén</it> <overlap valor="E" > Duraba más</overlap> Duraba más sí y esa humadera que se formaba <comentario valor="risas"> [risas] </comentario> </u> 
+
+<u valor="E" > Y ¿cómo hacían para limpiar la pared de ese humo?</u>
+<u valor="I1" > No eso sí se limpiaba, eso sí se limpiaba y la cocina se ponía negrita negrita la pared</u> 
+<u valor="E" > Y el maíz ¿de dónde lo sacaban?</u>
+<u valor="I1" > Ah pues ese lo sembraba mi papá. mi papá ese el cosechaba su maíz todo pa todo el año, antes no se dañaba el maíz como ahora. Ahora mire van y ya en la mata ya esta le sale ya se pica el maíz. En cambio en esa época duraba año a año, si era la arveja lo mismo, la arveja, la caraota, el cosechaba arveja, caraota,y cosechaba el maíz y entonce eso eso tenía sustento todo el año y como se ordeñaban las vacas había la cuajada, el queso la mantequilla y...</u>
+<u valor="E" > ¿En qué se diferencian el queso y la cuajada?</u>
+<u valor="I1" > Ah porque el queso se pone a secar, se pone a secar y se lleva al humo, ese queso que ustedes ven en el páramo ese que es ahumado que lo dejan ahumar, en cambio la cuajada se sacó, se preparó y se llevó a la mesa para comer</u>   
+<u valor="E" > ¿Cómo hacían la cuajada? </u>
+<u valor="I5" > La cuajada se todavía, yo ahorita todavía estoy cuajando porque esto ordeño la vaca y se prepara <b>el cuajo</b> con <b>el cuajo</b> de la misma vaca</u>   
+<def typ=""><u valor="E" > ¿Qué es <b>el cuajo</b>? ¿Cómo es?</u>
+<u valor="I5" > <b>El cuajo</b> <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una especie de de de de una parte del estómago de la vaca, una parte del estómago de la vaca y entonce se le quita el cuajo se seca, la matan la res se compra el cuajo entonce se arregla, se pone a secar al sol y entonce con un <b>pedacito</b> se prepara. es mucho mejor que el que venden orita, el que venden orita para cuajar que se llama, se llama cuajo por cierto lo venden en</rdefiniens> </u></def>
+<u valor="E" > Ya,qué interesante</u>
+<u valor="I1" > Pero antes se cuajaba, se hacía en un <b>cuajero</b>, se llamaba <b>cuajero</b> en una <b>taparita</b> de esas de de de tapara de de esas de que salen <b>taparo</b> entonce se preparaba se hacía, o en una vasija cualquiera pero <b>tapaita</b> bien que no le cayera sucio</u> 
+
+<u valor="E" > La tapara era qué. como un...</u>
+<u valor="I1" > Una tapara de esos taparos que que salen para el llano, usted sabe una mata de taparo</u> 
+<u valor="E" > Ajá, y eso lo traen de allá</u>   
+<u valor="I1" > Sí, yo por ahí tengo la <b>taparita</b></u>
+<u valor="E" > ¿Lo vendían?</u>
+<u valor="I1" > Sí, lo vendían, no se encargaba a los viajeros. Como aquí era era era, viajaban. Por aquí era la vía de ir a Barinas por por en mulas, eso los carros eso no se conocía <b>mamita</b> , yo vine a conocer los carros ya cuando empezaron a pasar por allá por la Mitisús, cuando empezaron, cuando llegó, aquí llegó el primer carro por una cuesta que había, aquí no llegaba carretera, ajá, y entonce eso lo traían de allá de Barinas, lo que uno le encargara. Y si era de Timotes también por la vía de aquí de Pueblo Llano</u>        
+<u valor="E" > Estos sitios por las entrevistas que yo he hecho tenían más contacto con Timotes que con Mérida,¿ por qué?</u>
+
+<u valor="I1" >  Ajá, mas Porque se iba por el páramo, la vía por aquí por el páramo. Por ahí viajaba mi papá con las mulas, el arreo de las mulas,  y viajaba a Timotes de allá traía todas sus cosas pa vender aquí, llevaba de aquí para vender allá y de allá traía pa vender aquí</u>  
+
+<u valor="E" > ¿Y qué comida traían de allá para acá? </u>
+
+<u valor="I1" > No, de allá traían máquinas de moler, traían esteras que para dormir, que eso se llamaban esteras que se ponían en los catres que hacían de cuero de de res</u>  
+
+<def typ="1"><u valor="E" > Ajá, explíqueme eso de la estera, ¿cómo? ¿Con qué material la hacían?</u> 
+<u valor="I1" > <b>La estera</b> <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>de, esa la sacan de la hoja de de cambur. Todavía aquí en Mérida se consiguen las esteras. Yo compré una porque, <b>pa tenela </b> de recuerdo una estera si.</rdefiniens><b> Entonje</b> mi papá traía eso: esteras, traía las máquinas de coser, traía Frescolita de una que vendían en <b>botellitas</b> que traían en costales en sacos porque lo lo eso era, no habían cajas así no, las traían en las mulas ve pa el vender, vendía aquí, entonce de aquí las vendá aquí y de aquí llevaban pa allá llevaban maíz, llevaban lo que cosechaban llevaban pa vender allá. De allá traían panela también.</u> </def>
+
+ <u valor="E" > Ah ya</u>
+
+<u valor="I1" > Panela, de esa panela, en pacas se llamaba en pacas de panelas sí, que <b>toavía</b> por Mérida la venden mucho</u> 
+
+<u valor="E" > Claro. Y la arepa de harina de trigo ¿no era acostumbrada aquí?</u>
+<u valor="I1" > <paraverb valor="alarg"> Sí, cómo no</paraverb> mucho, pero era era harina de trigo de verdad, con con afrecho, harina de afrecho, harina de afrecho. Esa la traían venían las <b>paquitas</b> sabe que valía lo que en esa época valía la <b>paquita</b> de de doce kilos valía ocho bolívares. Yo hacía <b>palidonias</b> para vender, ve de de con eso me entretenía yo haciendo <b>palidonias</b>, las comparba a ocho bolívares la <b>paquita</b> de harina y y había bastante harina había tambié, la traían en mulas de por allá</u> 
+<u valor="E" > Mmm pero ¿no se daba el trigo aquí? </u>
+<u valor="I1" > No, el trigo se daba era en Apartaderos pero y allá había un molino, allá está todavía se ve, ¿verdad?,Pero no, aquí no, trigo no sembraban aquí.  Arveja sí, caraota</u>
+
+<u valor="E" > Ajá, entonces entre las bebidas la popular era el café. ¿De dónde sacaban el café?</u>
+<u valor="I1" > El café, a el café ese lo traían de allá de de abajo del celoso de por ahí</u>
+
+<u valor="E" >Mmm,¿y otras bebidas?</u>
+
+<u valor="I1" > <def typ="1"> El chocolate también,<overlap valor="E" > ¿Y el cacao de dónde lo sacaban?</overlap> El cacao, el último cacao<defop valor="dos puntos">:</defop><rdefiniens> ese se compraba por ahí en Altamira,traían de Altamira el cacao. Eso se preparaba, se tostaba y se aliñaba con clavo y canela y se molía  y se hacían las tortas de cacao bien sabroso</rdefiniens></def>. <def typ="4">Eso lo tomaba uno cuando estaba en dieta <overlap valor="E" > ¿En dieta?</overlap> Cuando estaba criando uno <defmetalvb lemma ="Decir" pos ="VMIP1P0">digamos</defmetalvb> <rdefiniens>paría</rdefiniens></def> ajá, sí si, eso era lo que uno tomaba y bizcocho, bizcocho de puro bizcocho, bizcocho y cacao.</u>   
+<u valor="E" > La mujer recién paría</u>
+
+<u valor="I1" > Y la gallina, la gallina, sí la gallina</u>
+<u valor="E" > ¿Cómo la hacían la gallina?</u>
+<u valor="I1" > Ay la gallina hervida, la gallina la hacían un hervido, todos los día, uno la aburría mas bien. Y ahí sí, eso le tapaban bien <b>quesque pa</b> que no le entrara aire que </u>
+<u valor="E" > ¿Y ese bebé? Ah, eh, ¿pa que no le entrara aire cómo? </u>
+<u valor="I1" > <prosodia valor="up">Que no le entrara aire al niño porque se le <b>torcían</b> los ojitos</prosodia>. Ajá y sí era verdad porque una vez en Las Quintas  yo vi un <b>niñito</b> que se le <b>torcieron</b> los ojos, después le hicieron medicina y se le volvieron a acomodar los <b>ojitos</b>. Cuando los sacan yo no se ahora que esas mujeres recien paráis andan con esas <b>boronitas</b> así, no ¿verdad?</u> 
+<u valor="E" > Claro, y ¿ese bebé qué comía?</u>
+<u valor="I1" > Ay la teta</u>
+<u valor="E" > Y si no le daban teta por alguna razón, o todos todos todos agarraban la teta</u>
+
+<u valor="I1" > No, los míos agarraron todos la teta, todos,</u> 
+<u valor="E" > no supo de casos que no la agarraran</u>
+<u valor="1" > No, ni quiera Dios</u>
+<u valor="E" > Porque hoy en día sí, hay quien </u>
+<u valor="I1" > No eso es que no le quieren dar, es que no le quieren dar es que pa que no se le echen a perder los senos y así, y eso es mentira, eso hay que dale la teta al muchacho pa que se críe fuerte, fuerte y sano, porque esos no se enferman esos no se enferman cundo se les da de mamar no se enferman los niños</u>   
+<u valor="E" > Y en ñas fiestas, ¿hacían fiestas? </u>
+<u valor="I1" > Muchas fiestas</u>
+<u valor="E" > Y qué comían en las fiestas? ¿Cuáles eran las comidas? </u>
+<u valor="I1" > ¿Las comidas? Ay eso habían unos dulces muy buenos, comidas bastante buenas, hacían san como ahora, carne asada, sancochos y y dulces y de todo</u> 
+<u valor="E" > Mmm. ¿Y las bebidas?</u>
+<u valor="I1" > De beber tomaba cerveza, pero cerveza negra </u> 
+<u valor="E" > Y ¿de dónde la sacaban?</u>
+<u valor="I1" > Esa la traían de allá, la traían de Timotes, de allá. Pero eso no era de que de que le daban a usted una cerveza ahora como ahora que usted va a una fiesta y le destapan una cerveza de esas blancas. No eso no se tomaba cerveza blanca, nunca jamás, yo no ví, le daban a uno una <b>cervecita</b> negra una maltica </u>     
+
+<u valor="E" > Mmm, y ¿qué marca era eso? ¿no se acuerda?</u>
+<u valor="I1"> Maltín de esa pero du malta malta de esa maltín</u>  
+<u valor="E" > Ya va, ¿la cerveza negra era la misma malta?</u> 
+<u valor="I1" > Había no, había una botella redonda ¿Usted no la conoce? Era <b>redondita</b>. Aquí teníamos una botella, esa se la llevaron, esas no salieron más nunca, eran así unas <b>botellitas</b> bien buena la cerveza sí, malta era, no no cerveza de esa; y vino, también brindaban mucho vino</u>    
+<u valor="E" > ¿Y todo eso lo traían de allá de Timotes?</u>
+<u valor="I1" > Sí todo eso, claro</u>
+<u valor="E" > Claro, claro. Y ajá, los niños, sabe que a los niños pues les gusta el dulce, ¿con qué los, qué dulces comían los niños?</u> 
+<u valor="I1" > Dulces, no, se les daba, yo les daba era guarapo de panela</u>
+<u valor="E" >Mmm Y ¿no existían las chucherías? </u>
+<u valor="I1" > No, muy poco. Caramelos sí, unos de que llamaban caramelos de <b>barajita</b>, que esos esos <b>dulcitos</b> traían las <b>barajitas</b> de tdas las naciones<overlap valor="E" >Ah qué bien </overlap> y traían barajitas de de de de las cartas de jugar, traían los ases, los todas las cartas de jugar, se llamaban los caramelos de <b>barajitas</b>   y sabe cuánto compraba uno una locha e caramelos, una locha e caramelos, le daban doce caramelos por una locha, doce caramelos por una locha, ahora dígame que un caramelo vale mil, un bolívar ny esa vez le daban doce caramelos por una locha, doce caramelos y eran de esos de <b>barajitas</b>, muy buenos los <b>caramelitos</b> y eso no no venían chocolates así, pero como ahora no no traían tantas chucherías ni, yo no me acuerdo haber visto <b>pepitos</b> no me acuerdo no tris <b>chistrís</b>, nada de eso, nada de eso</u>     
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AG13LP02024- yurmari-	2014-04-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

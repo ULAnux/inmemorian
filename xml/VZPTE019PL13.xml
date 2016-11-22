@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE019PL13" MIMETYPE="video/movie clip (.mpg)" SIZE="166598656" CREATED="2015-08-28" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:06:42 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:06:42 </extNote>
+<extNote id="NumeroInterlocutores"> 05 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="05">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Jesús Milermo Altuve Santiago </name>
+<name type="Informante" id="I2"> Carmen Gonzáles.</name>
+<name type="Informante" id="I3"> Consuelo Uzcátegui </name>
+<name type="Informante" id="I4"> Belkis Santiago </name>
+<name type="Informante" id="I5"> Zorelys Rendón </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Eh buenas tardes, mi nombre es Jesús Milermo Altuve Santiago, trabajo en la Escuela Foción Febres Cordero como docente de Huertos Escolares,bueno las raices pueblollaneras, estamos en el programa Déjame Pensarlo y este la priemra de las tres palabras es <def typ = "1"> <b>cuenta</b>. Bueno, para mi el significado de <b>cuenta</b> era en ese particular me recuerdo que <defcopvb lemma="ser" pos="VAII1S0"> era </defcopvb>  <rdefiniens> como algo de advertencia, era como decir ¡cuidaito con malas palabras!  o ¡cuidaito se va por allá para tal lugar! o ¡cuidaito se cae!</rdefiniens> </def> eso era una de las palabras no, <b>cuenta</b> </u>  
+<u valor="I2" > Bueno mi nombre es Carmen Gozáles, soy trabajadora del Instituto de Educación Especial Emiliano Salcedo criollita de Pueblo Llano. La palabra  <def typ = "1"> <b>cuenta</b> <defop valor=  "coma">, </defop> <rdefiniens>anteriormente se decía como ¡cuidado Carmen te pasa algo!..o ¡cuidado de aquello!. </rdefiniens> </def> </u>  
+<u valor="I3" > Hola, mi nombre es Consuelo Uzcátegui, soy profesora de la Unidad Educativa Bolivariana Adela Bastidas, eh para el programa Déjame Pensarlo me están haciendo una pregunta de las palabras más comunes del municipio Pueblo llano y la primera es <b>cuenta</b>. .Bueno, <def typ = "1"> <b>cuenta</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como">como </examkr> tener cuidado eh como <examkr valor="por ejemplo"> por ejemplo </examkr>  <invcomm><b>cuenta</b> y se cae</invcomm> eh <invcomm><b>cuenta</b> y por allá el carro </invcomm></rdefiniens> </def>, es más o menos eso </u>  
+<u valor="I4" > Eh mi nombre es Belkis Santiago para el programa Déjamo Pensarlo, me están preguntando por la palabra <b>cuenta</b>. para mi la palabra <def typ = "1"> <b>cuenta</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como">como </examkr> un sinónimo de cuidado, por ejemplo, uno le dice a una persona <invcomm><b>cuenta</b> y se cae de ahí </invcomm>.es <invcomm>cuidado se cae de ahí </invcomm> </rdefiniens> </def>.. </u>  
+<u valor="I5" > Muy buenas tardes mi nombre es Zorelys Rendón de la .Unidad Educativa Bolivariana Miyoy, docente con mucho orgullo de esa prestigiosa escuela. Eh, aquí me están preguntando qué significa <b>cuenta</b>, <b>cuenta</b> bueno para el programa Déjame Pensarlo, bueno  lo estoy pensando, <def typ = "1"> <b>cuenta</b> para mí <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> eh cuidado tal cosa, eh <b>cuenta</b> algo también que se la cree de mucho o cuidado esto cuidao se cae o cuidado vale más que los demás</rdefiniens> </def>. Bueno creo que es eso</u>  
+<u valor="I1" > .Eh bueno la segunda  palabra es <b>múcura</b>, bueno <b>múcura</b> en términos o sea más que todo entendido pues es  la <def typ = "1">  <b>múcura</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una vasija de barro okey, eso es en la parte real una vasija de barro,pero acá también lo tienen como decir <b>múcura</b> es  como negar algo o una afirmación pue o algo así como eh se puede o no se puede, <b>múcura</b> eso es otro argot pueblollanero</rdefiniens> </def> </u>  
+<u valor="I2" > La segunda palabra es <b>múcura</b>,<def typ = "1"> <b>múcura</b> puede <defcopvb lemma="ser" pos="VAN0000"> ser </defcopvb> <rdefiniens>un vasijo como una <b>totuma</b> algo donde depositaban la <b>chicha </b> antes .</rdefiniens> </def> </u>  
+<u valor="I3" > Bueno la segunda palabra es eh <b>múcura</b>, <def typ = "1"> <b>múcura</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo así una especie de <b>tapara</b> pero recientemente es utilizada también en algunos casos por eh algunas persona eh como decir mucho o eh <b>múcura</b> mucho quizá</rdefiniens> </def> .</u>  
+<u valor="I4" > Ahora la palabra <b>múcura</b>, bueno para mi la palabra  <def typ = "4"> <b>múcura</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como sinónimo de mucho, qué te digo, ¡mucho que voy a una fiesta! por decir algo</rdefiniens> </def> </u>  
+<u valor="I5" > La palabra que me están preguntando ahora en este programa es <b>múcura</b>, bueno <def typ = "4"> <b>múcura</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> un sinónimo de mucho, cantidad, es una palabra que la usan mucho los habitantes de La Culata, <b>múcura</b> </rdefiniens> </def> </u>  
+<u valor="I1" > .Okey, otra de las palabras es <b>lanzeto</b>, bueno <def typ = "1"> <b>lanzeto</b> eh para muchos <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> la ansiedad de hacer algo, ¡estoy <b>lanzeto</b> por hacer tal cosa!..</rdefiniens> </def> </u>  
+<u valor="I2" >  Y la ultima es <b>lanzeto</b>, esa palabra es <b>lanzeto</b> es para muchos bueno para mi diría yo que <def typ = "1"> <b>lanzeto</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> la persona que está ansiosa de comerse algo rápido que no espera </rdefiniens> </def> </u>  
+<u valor="I3" > Bueno la tercera palabra y la última es <def typ = "1"> <b>lanzeto</b>, bueno <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando una persoan tiene muchas ganas de hacer algo, es como que si desea jugar, eh  tiene muchas ganas de ir a jugar, muchas ganas de ir a bailar</rdefiniens> </def>, más o menos es eso ... </u>  
+<u valor="I4" > Bueno ahora la palabra <b>lanzeto</b>.eh <def typ = "1">  <b>lanzeto</b> para mi <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> sinónimo de ansiedad, por decir, yo tengo muchas ganas de ir a pasear por decir  o tengo muchas ganas de jugar</rdefiniens> </def>,  .. </u>  
+<u valor="I5" > Y la otra palabra <b>lanzeto</b>,<def typ = "1">  <b>lanzeto</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> ansiedad emoción de hacer cualquier cosa, eh de jugar .de bueno como estamos ahorita <b>lanzetos</b> a ganar todo </rdefiniens> </def>.. </u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE019PL13 yurmari-	2015-08-28 	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

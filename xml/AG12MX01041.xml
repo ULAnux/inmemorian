@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc><cesHeader type="oral" date="2012">
+<fileDesc>
+<fileGrp ID="Gastronomía">
+<file ID="AG12MX01041" MIMETYPE="audio/wav" SIZE="11110444" CREATED="2013-09-05" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:05:47 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="03">
+<name type="Entrevistador" id="E1"> entrevistador no identificado</name>
+<name type="Entrevistador" id="E2"> entrevistador no identificado</name>
+<name type="Informante" id="I1"> María Oliva Parra </name>
+</group>
+</cesHeader>
+
+
+<u valor="E1" > por <paraverb valor="alarg"> ejemplo </paraverb>, harina de maíz, ¿no utilizaban?</u>
+
+<u valor="I1" > Sí se utilizaba, y era muy bravo <b>pa</b> trabajar esa arepa. </u>
+
+<u valor="E1" > Ah pero, sembraban el maíz también, o ¿no?</u>
+
+<u valor="I1" > No, lo comprábanos </u>
+ 
+<u valor="E1" >¿Y lo compraban ya la harina o solo el grano?</u>
+
+<u valor="I1" ><paraverb valor="alarg"> No </paraverb>, el grano </u>
+<u valor="E1" > ¿Y de dónde lo traían? </u>
+
+<u valor="I1" > Lo traían de ¡Mérida! Eso había que arreglar <aproximd> legía </aproximd> <paraverb valor="alarg"> del </paraverb> <prosodia valor="up">la ceniza del fogón</prosodia> <overlap valor="E1" >Ajá</overlap> Como antes utilizaba uno era leña, no cocinas ahora, <prosodia valor="pause">...</prosodia> Entonce <paraverb valor="alarg"> uno </paraverb> sacaba las cenizas del fogón y, y ponía a pelar el <b>máiz</b> </u>
+
+<u valor="E1" > Que es como a tostar no, y después que se se <prosodia valor="interrupt">...</prosodia> </u> 
+
+<u valor="I1" > No, se ponía a pelar y <b>despuésn</b> se lavaba, <b>despuésn</b> se lavaba bien <b>lavao</b> se volvía a sancochar y después sí ¡a moler! en una, <prosodia valor="up">¡en una piedra!</prosodia>  <prosodia valor="down">porque no había máquina</prosodia> <overlap valor="E1" > Mjum</overlap> <b>pa</b> hacer la arepa <overlap valor="E1" > Y no había mol, eh, mol </overlap> No había máquina <overlap valor="E1" > Y ¿no había molino de de ese...? </overlap>Después <b>jue quiubieron</b> los molinos esos <overlap valor="E1" > <paraverb valor="alarg"> Ah </paraverb> ok </overlap> porque todo lo <b>másn</b>  <overlap valor="E1" > Era fuerte ¿no? entonces </overlap> Sí <overlap valor="E1" > ¿y <b>pa</b> la sal por ejemplo? </overlap> <comentario valor="ruido">[El ruido del paso de un carro impide que los interlocutores se escuchen entre sí] </comentario>  <prosodia valor="up"> ¿Ah?</prosodia>  <overlap valor="E1" ><prosodia valor="up"> ¿La sal?</prosodia></overlap>  La compraba <overlap valor="E1" >  ¿y esa la traían de Mérida también?</overlap> Sí </u>
+
+<u valor="I1" > Y era bravo porque antes no <b>habían</b> carros <b>pa</b> andar tierra, había que, que en <b>bestias</b> era <b>quiban pa </b> Mérida  <overlap valor="E1" > ¿ Cuánto se tardaban?</overlap> Dígame usted cuánto cree <b>quichaban</b>, Todo un día <b>pa</b> ir a Mérida <prosodia valor="pause">...</prosodia> dos días <prosodia valor="pause">...</prosodia> ¡Era duro! <prosodia valor="pause">...</prosodia> <b>Orita</b> es que estamos viviendo rey y todavía somos inconformistas <comentario valor="risas"> [risas] </comentario> <overlap valor="E1" > Jum, umjum </overlap> ¿Verdad?  <overlap valor="E2" > Sí. Pero bueno hay cosas que se han <b>perdío pue</b>. Aunque bueno, hay cosas que se han ganao y otras que se han perdido </overlap> Bueno, hay cosas que se han, claro, todo lo que, los valores se han <b>perdío</b>, no hemos <b>sabío</b> apreciar las cosas <prosodia valor="pause">...</prosodia> Pero, hay que tener uno, recordar lo <b>diantes</b> <paraverb valor="alarg"> y </paraverb>, y a lo nuevo <b>quiay</b>. <prosodia valor="pause">...</prosodia> Como <b>je</b> trabajaba, <b>je</b> trabajaba con <b>puros gueyes</b>  
+ y <b>orita</b> vienen <b>puros</b> tractores, <b>puras</b> máquinas <b>pa</b>trabajar las tierras y, y <b>toeso</b> y, y antes habían cinco, seis, siete <b>yuntas pa</b> trabajar la tierra, todo un día ahí y dale y dale, ¡pobres hombres! <overlap valor="E1" > Jum </overlap> <prosodia valor="pause">...</prosodia> Y por eso <b>jue</b> que, se dejó de sembrar trigo por lo mismo que no había, ya no hay quién trabaje, Y <b>orita</b> sí <inintel>...</inintel> la harina ¿no? <b>pa</b> poder hacer la arepa <overlap valor="E1"> Sí, y ¡caro!</overlap> Y ¡caro!<overlap valor="E2" > y eso, y esa mano de obra que usted dice que, que se fue acabando <b>pa</b> trabajar el trigo es </overlap> <paraverb valor="alarg"> Bueno porque no</paraverb> ya no, ya no se sembró más trigo, no se sembró más trigo, por lo mismo, porque no hay quien lo trabaje</u> 
+
+<u valor="E2" > Ajá, y pe <prosodia valor="interrupt">...</prosodia> pero ¿esa gente se iba <b>pa</b> dónde? </u>
+
+<u valor="I1" > No, no se iba <b>pa</b> ninguna parte sino que, pues claro como no sembraron ni nada <b>deso</b> más, pues entonce se pusieron a sembrar <paraverb valor="alarg"> papas y zanahorias y <b>toeso</b> </paraverb> <comentario valor="se dirige a un niño"> [La informante le hace una pregunta a un niño que entra]</comentario> ¡Qué dijo? <inintel>...</inintel> <prosodia valor="pause">...</prosodia> Les pareció mejor sembrar las papas y zanahoria y ajo y <overlap valor="E1" > Al menos que la gente se asocie <b>pue</b> </overlap> No <overlap valor="E1" > Mano vuelta sí de que...</overlap> Eso era antes pero <b>orita</b> no. <b>Orita</b> no hay quie, diga voy a <b>ayudale</b> a <b>usté</b>, hoy me ayuda <b>usté</b> a mi y de ahí yo voy  le ayudo a <b>usté</b> <overlap valor="E2" > Y ¿ese son uno de los valores que usted dice que se han perdido? </overlap> Ese, ¡claro! se han <b>acabao</b>, se han <b>acabao</b> <overlap valor="E2" > ¿Qué otros así, así?</overlap> Eso era lo que uno tenía antes, que si pongamos, yo hoy me ayudaba a <b>usté</b>, mañana <b>usté</b> me ayudaba a mi y así por el estilo <b>siba</b> extendiendo pero <b>orita</b> eso se acabó, la gente no cumple como debe cumplir <prosodia valor="pause">...</prosodia> <inintel>...</inintel> trabajar uno solo <b>pa</b> poder tener las cosas  <prosodia valor="pause">...</prosodia> Y a los obreros hay que <b>pagáles</b> el sueldo completo <overlap valor="E2" > ¿Sueldo completo? </overlap> Ajá, ya no quieren trabajar como dice, así, duro <comentario valor="dos personas entran">[Dos muchachas entran e interrumpen la conversación] </comentario> </u>
+
+<versiones>
+Nombre Archivo	Usuario	Fecha	Acción	Comentario
+
+AG12MX01041	yurmari	2013-09-05	Marcado	finalizado. Falta revisión con editor XML.
+
+</versiones>
+
+</doc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

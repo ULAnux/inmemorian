@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Magia y Religión">
+<file ID="AM13LP02036" MIMETYPE="audio/wav" SIZE="752842 " CREATED="2014-05-17" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:01:34 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora Elda Rosa Santiago. 56 años </name>
+</group>
+</cesHeader>
+
+
+<u valor="E" > ¿A qué religión pertenece usted señora Rosa?</u>
+<u valor="I1" >  Católica </u>
+<u valor="E" > Católica. ¿Y acostumbra ir a la iglesia?</u>
+<u valor="I1" > Si </u>
+<u valor="E" > ¿Sí? Constantemente. ¿Qué actividades realizan en la iglesia?</u>
+<u valor="I1" > La Santa Misa y celebraciones </u>
+<u valor="E" > Celebraciones de qué tipo?</u>
+<u valor="I1" > De honor a a a eh a santos </u>
+<u valor="E" > En honor a santos. Y ¿qué hacen cuando hacen esas celebraciones? ¿Qué actividades realizan?</u>
+<u valor="I1" > Danzas, danzas y la Santa Misa y compartir </u>
+<u valor="E" > Mjum, comparten. Este eh, ¿ha escuchado alguna vez alguna historia sobre alguna aparición, algún espanto?</u> 
+<u valor="I1" >  No </u>
+<u valor="E" > No, ninguna. Acá en el cementerio, ¿nada, nada?</u>
+<u valor="I1" >  No </u>
+<def typ="1"><u valor="E" > ¿Aquí qué hacen cuando se muere alguien?</u>
+<u valor="I1" > El lo que llaman <defdum><b>velatorio</b> </defdum>></u>
+<u valor="E" > <b>velatorio</b> </u>
+<u valor="I1" > <defop valor="guion">-</defop> <rdefiniens file="velatorio.jpg" source="https://commons.wikimedia.org/wiki/File:Velorio_de_Sergio_Livingstone_%281%29.JPG">Se reúnen en la noche los vecinos y los familiares y a rezar, a <b>rezale</b> al <b>finao</b> </rdefiniens></u> </def>
+<u valor="E" > Okey. Y cuando es el aniversario ¿qué se realiza?</u>
+<u valor="I1" > Lo mismo, la Santa Misa y a en veces se reúnen a a los rezos </u>
+<def typ="4"><u valor="E" > Mjum. Ajá okey, ¿cómo <defmetalvb lemma ="Llamar" pos ="VMIP3S0">se le llama</defmetalvb> a eso de <ldefiniens file="moconoque.jpg" source="http://nux.ula.ve">    <b>los rezos</b></ldefiniens>? </u>
+<u valor="I1" > <defdum><b>Velatorio</b> </defdum></u> </def> 
+<u valor="E" > Ajá, <b>velorio</b>, okey. Y cuando nace un bebé ¿lo bautizan?</u>
+<u valor="I1" > pasan unos dias y le ponen <b>lágua</b> que llaman <b>lágua</b>. De eso ya se está terminando la costumbre. <b>Por áhi</b> a los cinco o al año, el bautizo </u>
+<u valor="E" > El bautizo. Y ¿qué hacen en el bautizo?</u>
+<u valor="I1" > Una reunión familiar </u>
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AM13LP02036- yurmari-	2014-05-17	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE018PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="180699136" CREATED="2015-08-28" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:07:18 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:07:18 </extNote>
+<extNote id="NumeroInterlocutores"> 08 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="08">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Aurelio Santiago Maldonado </name>
+<name type="Informante" id="I2"> Erwin David Zerpa Santiago.</name>
+<name type="Informante" id="I3"> Luis Rodolfo Salcedo Gonzales </name>
+<name type="Informante" id="I4"> Arturo Moreno Rivas </name>
+<name type="Informante" id="I5"> Nelson Santiago </name>
+<name type="Informante" id="I6"> Jesús Osantos </name>
+<name type="Informante" id="I7"> Sotero Antonio Paredes </name>
+<name type="Informante" id="I8"> No se identifica </name>
+
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Bueno mi nombre es Aurelio Santiago Maldonado para el programa Déjame Pensarlo la palabra <b>atísele</b>. Bueno se llamaría una palabra <b>atísele</b> es como cuando uno está haciendo un sancocho y uno por favor <b>atísele</b> <b>atísele</b> rápido  pa que esté rápido el sancocho </u>  
+<u valor="I2" > Bueno.buenas tardes mi gente de Pueblo Llano mi nombre es Erwin David Zerpa Santiago popular "crika" .aquí para el programa Déjame  Pensarlo, me están preguntando la palabra <b>atísele</b>. Para mi la palabra <b>atísele</b> es como mover algo, sacudir algo, algo así . </u>  
+<u valor="I3" > Mi gente de Pueblo Llano, yo me llamo Luis Rodolfo Salcedo Gonzáles y estoy en el programa Déjame Pensarlo. Ajá, la otra pregunta es <b>atísele</b>, tampoco la he escuchado </u>  
+<u valor="I4" > Buenas tardes, mi nombre es Arturo Moreno Rivas, eh estamos grabando aquí en el programa Déjame Pensarlo y me están haciendo la pregunta cuál es la palabra  <b>atísele</b>, <b>atísele</b> es la palabra criollamente cuando se prendía el fuego la candela en las casas.a uno cuando estaba muchacho le decía la mamá  <invcomm><b>atísele</b> al fogón </invcomm>, era <b>echale</b> leña al fogón y soplar el fogón, y  ahorita actualmente uno le dice a otro<def typ = "1">  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  ¡<b>atísele</b>! .que se ponga órbita, que ande rápido, que haga la cosa rápida </rdefiniens> </def>ve.. </u>  
+<u valor="I5" > Ajá, bueno yo me llamo Nelson Santiago para el programa Déjame Pensarlo me están preguntando .la palabra <b>atísele</b>; <b>atísele</b> significa <b>atisar</b>un fogón, ajá .<b>atisar</b>un fogón pero ahorita como no hay fogón aquí  <def typ = "1"> <b>atísele</b><defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> muévala o <b>ponte pilas</b></rdefiniens> </def>. </u>  
+<u valor="I6" > Mi nombre es Jesús Osantos el popular "chuyita"... </u>  
+<u valor="I7" > Sotero Antonio Paredes... </u>  
+<u valor="I6" > La palabra <b>atísele</b> sotero ¿qué es ?... </u>  
+<u valor="I7" > .La palabra <b>atísele</b> es empuje pa allá la .los tizones al fogón, algo así. </u>  
+<u valor="I6" > Bueno <b>atísele</b> es como cuando uno está asando carne o .un sancocho, <b>atísele</b> la leña pa que agarre fuego  </u>  
+<u valor="I8" > ..Bueno me están preguntando aquí qué es la palabra <b>atísele</b> , bueno pues <def typ = "1"> <b>atísele</b><mkr>  quiere decir</mkr> <examkr valor="como">como </examkr> <rdefiniens> cuando uno ta lento ahí que va caminando o va en un carro o en una moto o en un caballo que sea o cualquiera cosa es <b>apurale, apurale </b> o <b>atísele</b> , o sea de paso también o apártese tiene que decir <b>atísele</b> </rdefiniens> </def>. </u>  
+<u valor="I1" > Bueno, <def typ = "1"> <b>especial pa la pasta</b>..<defop valor=  "coma">, </defop> <rdefiniens> le diría yo <examkr valor="como">como </examkr>algo especial pa decir aquello que queda bien </rdefiniens> </def> . </u>  
+<u valor="I2" > .La otra es <b>especial pa la pasta</b>. Bueno para mi <def typ = "1"> <b>especial pa la pasta</b>.<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como">como </examkr> algo rico, algo delicioso algo como cuando una chica está muy buena o algo así uno la utiliza</rdefiniens> </def> </u>  
+<u valor="I3" > Me están preguntando qué es <b>especial pa la pasta</b>. .No, esa pregunta no la había <b>escuchao</b>.. </u>  
+<u valor="I4" >Ah este <def typ = "1"> <b>especial pa la pasta</b>. <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo que está muy bueno, que uno lo ve sabroso, que uno lo ve y ¡ay si uno pudiera <b>sabrosear</b>.aquello, <b>comeme</b> aquello!</rdefiniens> </def>, eso es <b>especial pa la pasta</b>.. </u>  
+<u valor="I5" > .Bueno, esta es otra palabra <def typ = "1"> <b>especial pa la pasta</b><defop valor=  "dos puntos">: </defop> <rdefiniens>, se dice ..cuando algo está muy bueno, un ejemplo, cuando una mujer está muy buena está <b>especial pa la pasta</b></rdefiniens> </def> </u>  
+<u valor="I7" > No, <b>especial pa la pasta</b>... pa la pasta si no lo sé yo </u>  
+<u valor="I6" > .<def typ = "1"><b>especial pa la pasta</b>..<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo bueno</rdefiniens> </def>.. </u>  
+<u valor="I8" >Bueno  me preguntan aquí que qué es  .<def typ = "1"> <b>especial pa la pasta</b>, bueno pues esa palabra como que la usan mucho allá en Mutús <defop valor=  "coma">, </defop> <rdefiniens> pues puede ser una cosa <b>guena </b> una cosa que esté <b>guena</b> pa comer o pa <b>sacale </b> provecho a cualquier cosa, quiere decir <b>especial pa la pasta</b> </rdefiniens> </def>...  </u>  
+<u valor="I1" > .Bueno la palabra <b>alporcar</b> no se me llega a mi mente pero .se sería otra oportunidad sería especial pa especificala. </u>  
+<u valor="I2" >Eh  <b>alporcar</b>, pues no sé </u>  
+<u valor="I3" > .La otra pregunta es <b>alporcar</b>, no la he escuchado nunca en mi vida .y no sé qué es. </u>  
+<u valor="I4" > La otra es <b>alporcar</b>, <def typ = "1"> <b>alporcar</b> es una palabra muy criolla y muy conocida acá en Pueblo Llano por la gente ya de la tercera edad .que <b>alporcar</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  cuando le decía a uno <invcomm>ayúdeme a <b>alporcar</b> </invcomm>.era ahorita se dice <b>desherbar papa</b> o <b>palear papa</b>, también el maiz, eso es la palabra  <b>alporcar</b>, anteriormente, antigua </rdefiniens> </def> </u>  
+<u valor="I5" > . <b>alporcar</b> , <def typ = "1">  <b>alporcar</b>  <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>  <b>desherbar</b>, <b>desherbar maíz, desherbar papa </b>, esa palabra la tenían antes los viejitos de antes que era  <b>alporcar</b>, significa <b>desherbar papa </b> una tradición <b>desherbar maíz </b></rdefiniens> </def> </u>  
+<u valor="I7" >  <b>alporcar</b>   <def typ = "1"> <b>alporcar</b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  hacer una cuenta de por decir  <b>alporcar maiz</b>, .antes se hacía el montón primero se  <b>alporcaba</b> y después se <b>malojaba</b> se regaba la tierra y quedaba el maiz  <b>alporcao</b> </rdefiniens> </def>  </u>  
+<u valor="I8" > . <def typ = "1"> <b>alporcar</b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens><examkr valor="por lo menos"> por lo menos</examkr> en un <b>deshierbo</b> de maiz, .tiene que  <b>alporcala</b> es  <b>desherbala, echale </b> tierra eh si está muy enmontada </rdefiniens> </def>pues ahorita eso  <b>alporcar</b>, eso es lo que yo entiendo por  <b>alporcar</b>   . </u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE018PL12 yurmari-	2015-08-28 	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

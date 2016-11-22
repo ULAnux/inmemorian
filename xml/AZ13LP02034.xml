@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LP02034" MIMETYPE="audio/wav" SIZE="379082 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:00:47 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Elda Rosa Santiago. Señora de 56 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" > ¿A qué se dedica usted señora Rosa?</u>
+<u valor="I1" > A los oficios del hogar  </u>
+<u valor="E" > A los oficios de la casa. Y ¿antes qué hacía, igual? </u>
+<u valor="I1" > Igual </u>
+<u valor="E" > Y ¿qué actividades realiza en la casa,¿cuáles son sus obligaciones?</u>
+<u valor="I1" > <b>Pos</b> oficios domésticos, la comida y lavar y barrer, limpiar </u>
+<def typ = "4"> <u valor="E" > Okey. Y ¿cuál es el trabajo que más realiza la gente aquí en las piedras? </u>
+<u valor="I1" > , Agricultura <defop valor = "dos puntos"> : </defop>; <rdefiniens> sembrar en los campos </rdefiniens> </u>
+<u valor="E" > Mjum. Y ¿Qué herramientas utilizan para este trabajo? </u>
+<u valor="I1" > La escardilla, el garabato,el pico, y otros </u> </def>
+<u valor="E" > Okey. Y ¿utilizan lo mismo que utilizaban antes o hay alguna diferencia?  </u>
+<u valor="I1" > No, lo mismo, creo que lo mismo </u>
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LP02034 - yurmari-	2014-04-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

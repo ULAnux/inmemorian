@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE013PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="293343232" CREATED="2015-08-27" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:05:35 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:05:35 </extNote>
+<extNote id="NumeroInterlocutores"> 05 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="05">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Amilcar Santiago </name>
+<name type="Informante" id="I2"> Maikol Salcedo</name>
+<name type="Informante" id="I3"> Nelson Gonzáles  </name>
+<name type="Informante" id="I4"> Deibi </name>
+<name type="Informante" id="I5">Aries Gonzáles</name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Okey, la palabra <b>suche</b> déjame pensarlo, cuando mi época de <b>carajito </b>.la palabra  <b>suche</b> bueno lo decían así <invcomm>se <b>ensuchó</b> el cuento</invcomm>. Por lo menos que alguien vaya o por ejemplo, que alguien eche un cuento y no tenga, que no cause risa , ah se le <b>ensuchó</b>, em qué te digo yo, la palabra  <b>suche</b> eh puede ser también que yo tenga que hacer algo, por lo menos un acto de gimnasia y me caiga, no salga bien, <b>se ensuchó</b> </u>  
+<u valor="I2" > Hola, un saludo para el programa Déjame Pensarlo, mi nombre es Maikol Salcedo y mi compañero es Nelson Gonzáles. Este, vamos con la palabra .<b>suche</b>. Eh en realidad no sé bien qué es la paabra <b>suche</b>, me suena como al suchi japonés que es una comida muy popular de allá vamos a decirlo a ver si mi compañero tiene entendimiento de esa palabra  </u>  
+<u valor="I3" > Pues la verdad eh, no tengo ni idea de lo que es <b>suche</b> pero no me suena mucho a lo que es suchi pero ni idea.  </u>  
+<u valor="I4" > Bueno sí el pequeño espacio hablando coloquialmente pueblollanero, .el <b>suche</b>, palabra desconocida totalmente pero que bueno más adelante estaremos buscndo su significado el cual es bien interesante porque hemos cambiado mucho nuestra cultura y debemos mantenerla, bueno aquí gracias a Dios con mi familia compartiendo en este pequeño momento y en este pequeño espacio. Agradecerles a ustedes también que sigan trabajando y más que todo motivarlos a ustedes para  que sigan adelante, muchas gracias. </u>  
+<u valor="I5" > Mi nombre es Aries Gonzáles en el programa Déjame Pensarlo, la palabra  <def typ = "1"> <b>suche</b><defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>  algo feo, <examkr valor="por ejemplo"> por ejemplo </examkr>, esa fiesta sí estuvo fea </rdefiniens> </def> </u>  
+<u valor="I1" > <b>Zambumbia</b>, dejame pensarlo, mira .no me suena, yo creo que eso no es del argot popular de acá de Pueblo Llano, <b>zambumbia</b> suena como sí a asfricano.  </u>  
+<u valor="I2" > . Ahora vamos con la palabra <b>zambumbia</b>. Este bueno la palabra <b>zambumbia</b> no sé me suena a samba, a sabor a baile, <b>zambumbia</b>, vamos a ver qué dice mi compañero aquí presente </u>  
+<u valor="I3" > Pues <b>zambumbia</b>, <b>zambumbia</b> me sonaría como fiesta, rumba, pachanga, no sé eh gozadera, algo así.  </u>  
+<u valor="I4" > Otra palabra coloquial, <b>zambumbia</b>,  bueno coloquialmente conocido como que cuando te dan una plaiza, ¡qué zambumbia! dice uno o ¡qué zamba no! pero igualmente seguimos investigand todo este tipo de palabras de aquellas personas que anteriormente, nuestros antepasados pues también tenían sus palabras coloquiales.  </u>  
+<u valor="I5" > .Y la palabra <b>zambumbia</b> realmente no sé pero creo que es como una comida así cuando uno se reune en grupo .y y comparte con sus amigos  </u>  
+<u valor="I1" > Buen ni ni déjame pensarlo, <def typ = "1"> <b>sí manda atol</b> <defop valor=  "dos puntos">: </defop> <rdefiniens>eh<examkr valor="por lo menos"> por lo menos</examkr> el programa Déjame Pensarlo, <b>sí manda atol</b> de verdad porque es en vivo</rdefiniens> </def>.y son nuestras escencias de acá de Pueblo Llano, nuestro acontecer. Déjame pensarlo <b>sí manda atol</b> cuando .usted tiene una novia y usted le dice le pregunta a su amigo ¿cómo está su novia? <b>ta fina</b>, .bueno sí, y ¿calidad todo?, bueno <b>manda mucho atol</b>  o <b>sí manda atol</b>, ese es más o menos el atol no </u>  
+<u valor="I2" > Vamos con la  palabra, <b>sí manda atol</b>, bueno esta palabra, atol , buen atol es un muy buen desayuno ..y eh pero la palabra completa <b>sí manda atol</b> suena como sí es buen el atol, no sé qué dice mi comañero </u>  
+<u valor="I3" > Pues por cultura ¡<b> sí manda</b>! sería como <b> naguará, calidad, qué fino</b> y atol pues el atol, yo pienso lo mismo en realidad. <b>Sí manda atol</b>  de verdad no le encuentro otro sentido pero posiblemente sea ese</u>  
+<u valor="I4" > .Bueno otra palabra nueva allí este <def typ = "1"> <b>sí manda atol</b> <defop valor=  "coma">, </defop> <rdefiniens> bueno como quien dice <b>esto sí manda guarapo</b> .algo parecido ah, como cuando se ve una buena exhibición de cualquier evento pues bueno <b>sí manda atol</b> digámoslo así de esta manera en este tremendo estadal que estamos organizando dentro del municipio y bueno , <b>sí manda el atol</b>  .aquí en Pueblo Llano </rdefiniens> </def> </u>  
+<u valor="I5" > Y la próxima palabra es <b>sí manda atol</b>, <def typ = "1"> <b>sí manda atol</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando algo está muy bueno </rdefiniens> </def> </u>  
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE013PL12yurmari-	2015-08-27	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

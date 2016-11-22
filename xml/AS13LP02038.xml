@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Salud">
+<file ID="AS13LP02038" MIMETYPE="audio/wav" SIZE="732362 " CREATED="2014-05-17" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:01:31 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora Elda Rosa Santiago. 56 años </name>
+</group>
+</cesHeader>
+
+
+
+<u valor="E" > ¿Aquí acostumbran hacer tejidos? </u>
+<u valor="I1" > No </u>
+<u valor="E" > ¿No? ¿No se teje aquí en las piedras?  </u>
+<u valor="I1" > Yo no he visto que tejan </u>
+<u valor="E" > Eh, cuando las mujeres van a dar a luz</u>
+<u valor="I1" > Al hospital, a la maternidad </u>
+<u valor="E" > Al hospital, a la maternidad. ¿Y antes? </u>
+<def typ="1"><u valor="I1" > Asistía <defmetalvb lemma ="Llamar" pos ="VMII3P0">lo que llamaban</defmetalvb> la <defdum><b>comadrona</b> </defdum>,<rdefiniens file="comadrona.jpg" source="http://nux.ula.ve ">una señora que se dedicaba a eso, asistía a las que iban a dar a luz</rdefiniens> </u></def>
+<u valor="E" > asistía a las que, <b>comadrona</b> </u>
+<u valor="I1" > <b>Comadronas</b> sí  </u>
+<def typ="1"> <u valor="E" > Okey. Y ¿cómo era antes cuando la gente se enfermaba?  </u>
+<u valor="I1" > Pues a fuerza de <defdum><b>bebedizo</b></defdum><defop valor="dos puntos">:</defop> <rdefiniens file="bebedizo.jpg" source="http://nux.ula.ve">Se tomaba por lo menos le daba gripe y se tomaba un <b>bebedizo de verbena</b>, limón y con eso le iba pasando</rdefiniens> </u>
+<u valor="E" > Y ¿quién los curaba con eso? </u>
+<u valor="I1" > Uno mismo, o los de la casa</u></def>
+<u valor="E" > Y antes ¿cuáles eran las enfermedades que atacaban más a la gente? </u>
+<u valor="I1" > La gripe </u>
+<u valor="E" > La gripe. Y ¿usted cree que eso se debe a qué aquí? </u>
+<u valor="I1" > A la contaminación del aire del ambiente </u>
+<u valor="E" > Ajá. Y ahora, igual, ¿atacan las mismas enfermedades? O ¿hay otras? </u>
+<u valor="I1" > Hay otras peores </u>
+<u valor="E" > Peores, como cuáles  </u>
+<u valor="I1" > <examkr valor="como">Como</examkr> la gripe, diarreas, <b>tosferina</b> </u>
+<def typ="1"><u valor="E" > Qué es la <defdum><b>tosferina</b></defdum> </u>
+<u valor="I1" > <defcopvb lemma ="Ser" pos ="VAIP3S0">Es</defcopvb>  <rdefiniens file="tosferina.jpg" source="https://upload.wikimedia.org/wikipedia/commons/9/90/ETIQUETA_TOS_FERINA.jpg">un algo que da mucha tos que da en el pecho, daña el organismo, los pulmones</rdefiniens> </u></def>
+<u valor="E" > Pulmones. Bueno, señora Rosa, muchas gracias </u>
+<u valor="I1" > ¿Ya se va? </u>
+<u valor="E" > Sí, eso era todo. Muchas gracias </u>
+
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AS13LP02038- yurmari-	2014-05-17	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

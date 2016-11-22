@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Gastronomía">
+<file ID="AG13LP02014" MIMETYPE="audio/wav" SIZE="5510218 " CREATED="2014-05-16" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:11:28 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señor Francisco Eliborio Paredes Osuna. 70 años de edad</name>
+</group>
+</cesHeader>
+
+
+<u valor="E" > Bien, hoy es 29 de diciembre del año 2013 y estamos en Las Piedras, municipio Cardenal Quintero, mi nombre es Yurmari Mesa y yo voy a entrevistar al Señor Francisco Eliborio Paredes Osuna. Señor Francisco Eliborio, eh, ¿qué edad me dijo que tenía?</u>  
+
+<u valor="I1" > Yo tengo setenta años ya </u>
+
+<u valor="E" > Setenta años. Setenta años y ¿ha vivido toda su vida aquí en Las Piedras?</u>
+
+<u valor="I1" > Sí, aquí nací aquí en esta casa, sí</u> 
+
+<u valor="E" > Señor Eliborio yo quiero conversar con usted respecto a varias cosas de cómo eran las cosas antes y ahora. <overlap valor="I1" > Sí, sí, sí ,sí</overlap> Lo primero por ejemplo que le quiero preguntar es de la comida. Cómo era la comida antes?</u>
+
+<u valor="I1" > Ah eso era muy barata, antes no no no eso ni se <b>consiguía poaquí</b> casi</u>
+
+<u valor="E" > Y ¿qué comían?</u>
+
+<u valor="I1" > Se comía, se se comía una <b>comidita</b> como sopa sopa de arroz</u> 
+
+<u valor="E" > ¿Sopa de arroz y qué más?</u>
+
+<u valor="I1" > Hacía, cómo se llama, sopa sopa de berros, de hortaliza, como no</u> 
+
+<u valor="E" > ¿Y qué, y de tomar? ¿Qué, qué bebían?</u>
+
+<u valor="I1" > Agua, <overlap valor="E" > ¿Solo agua?</overlap> agua no más </u>
+
+<u valor="E" > ¿Y ahora?</u>
+<u valor="I1" > Ahora <b>qué carajo ora ora ora ora </b> bebemos hasta <b>miche</b> nosotros</u>
+
+<def typ="4"> <u valor="E" > ¿Qué es el <b>miche</b>?</u> 
+<u valor="I1" > <defop valor="guion">-</defop> <rdefiniens>¡Pues el agua ardiente!</rdefiniens> </u></def>
+<u valor="E" > Ah. Y, en el caso de los niños, ¿qué le daban a los niños?</u> 
+
+<u valor="I1" > Ah pues le daban, eh, la cosa, compraban la leche pa los <b>muchachitos</b> que le daban aquí </u>
+<u valor="E" > ¿La compraban la leche?</u>
+<u valor="I1" > Sí se compraban cuando no <b>habían</b> vacas que compraba mi papá, que compró mi papá las vacas no compró más, se compraba <b>pa crialos</b> así </u>
+<u valor="E" > ¿Dónde compraban esa leche? </u>
+<u valor="I1" > Ahí en el campo </u>
+<u valor="E" > ¿Pero leche de vaca o cómo? </u>
+<u valor="I1" > Leche de vaca porque no se <b>consiguía</b> más </u>
+<u valor="E" > Mmm. Y de qué otros, ¿qué otras cosas le daban a los niños ¿Sólo leche?</u>
+<u valor="I1" > No, <b>atol</b>, le hacían <b>atol</b>, <b>atol</b> de maíz</u>   
+<u valor="E" > <b>Atol</b> de maíz y ¿de dónde sacaban el maíz?</u>
+<u valor="I1" > El que <b>sembrábanos</b>. Sembraba mi papá y to la gente</u> 
+<u valor="E" > Sembraban maíz. Mmm y ¿qué otra cosa sembraban? </u>
+<u valor="I1" > Este sembraban de todo. Se sembraba, sembraba apios y se sembraba maíz y se sembraba apios y se sembraba papas también pa comer</u> 
+
+<u valor="E" > ¿Y le gustaban las papas? </u>
+<u valor="I1" > <prosodia valor="up">Mucho</prosodia> </u>
+<u valor="E" > Y ¿con qué se las comían?</u>
+<u valor="I1" > <b>Cocías</b> </u> 
+<u valor="E" > Cocidas. ¿Con qué? </u>
+<u valor="I1" > Pues con <b>ají</b>, con lo que sea, con queso </u>
+<u valor="E" > Y ¿qué es <b>ají</b>? </u>
+<u valor="I1" > Se hacía <b>ají</b>, queso</u>
+<def typ="1"><u valor="E" > Pero ¿cómo era el <b>ají</b>? </u>
+<u valor="I1" > Eso se hace, se <defmetalvb lemma ="machucar" pos ="VMII3S0">machucaba</defmetalvb> <rdefiniens>el <b>mongo</b> y se hacía el <b>ají</b> con <b>zapallo</b> </rdefiniens></u></def>
+<u valor="E" > ¿<b>Mongo</b>? <overlap valor="I1" > Sí con <b>zapallo</b></overlap> Y <b>zapallo</b>  ¿qué es eso de <b>zapallo</b>? </u>
+<u valor="I1" > Eso eso, orita no se consiguen casi, <b>a la juerza</b> se consigue <b>por áhi</b></u> 
+<def typ="4"><u valor="E" > Pero ¿cómo es el <b>zapallo</b>?</u>
+<u valor="I1" > Eso <defcopvb lemma ="Ser" pos ="VAIP3P0">son</defcopvb> <rdefiniens>como las, como las  patillas que vende aquí que <b>trayen</b> a vender</rdefiniens></u></def>  
+<u valor="E" > Ah ya, ya ya ya. Y hoy en día, usted ¿con qué se alimenta?, ¿Con qué come?</u> 
+
+<u valor="I1" > Hay que comprar de todo pa comer</u> 
+<u valor="E" > ¿Ya no siembran nada?</u>
+<u valor="I1" > Orita no, casi no se siembra nada porque eso sembramos a veces </u> 
+<u valor="E" > Mjum. Y ¿qué siembran? </u>
+<u valor="I1" > Sembramos papas y <b>máiz</b> y caraotas y arvejas y...</u>
+<def typ="1"> <u valor="E" > ¿Y trigo? </u>
+<u valor="I1" > <defop valor="guion">- </defop> <rdefiniens>Eso lo siembran en la en el campo, en los páramos. 
+<b>poaquí</b> no se cría no ve que es caliente, <b>onde</b> es caliente no se cría </rdefiniens></u> </def>  
+<u valor="E" > Ah, y por aquí no había ni molinos ni nada deso entonces</u>
+
+<u valor="I1" > Nada, nada, <b>poaquí</b> no. En Pueblo Llano era <b>onde íbanos</b> a comprar la harina</u>
+<u valor="E" > Harina de trigo</u>
+<u valor="I1" > Sí, allá onde había el molino</u>
+<u valor="E" > Ya, ya. Señor, eh, y de la, eso que usted dice, <b>el miche</b>, que es el agua ardiente </u>
+<u valor="I1" > Eso lo venden en los botiquines</u>
+<u valor="E" > Pero antes, ¿de dónde lo sacaban?</u>
+<u valor="I1" > Antes lo sacaban, la la la gente lo en en en los alambiques que hacían ello mismos</u>  
+<def typ="1"><u valor="E" > Alambique ¿qué es eso?</u>
+<u valor="I1" > Alambiques <defop valor="dos puntos">:</defop> <rdefiniens>como unas ollas</rdefiniens>,sí. Eso lo traían y lo vendían aquí en Las Piedras </u></def> 
+<u valor="E" > Ya. El alambique. Y ¿para qué sirve el alambique?</u>
+<u valor="I1" > <def typ="1">Pa hacer el <b>agua ardiente</b>. <defmetalvb lemma ="hacer" pos ="VMII3P0">Hacían</defmetalvb> <rdefiniens>la panela, el guarapo en unas ollas y lo ponían a <b>enfuertar</b> y lo ponían a cocinar bien cocío y lo ponían en la vaina y sacaban el <b>agua ardiente</b> yo me fijaba cómo era la vaina, yo me yo me yo me fijaba cómo lo sacaban, le metían candela, bastante y eso <b>jerbía</b> mucho y por un <b>tubito pacá</b> por un <b>tubito</b> así iba saliendo la gotica hacía <examkr valor="como">como</examkr> agua y <b>de áhi</b> lo aliñaban con unas vainas que compraban en Mérida. Anís, con unos aníces, quedaba muy <b>gueno</b></rdefiniens></def> </u>    
+
+<u valor="E" > Ah, le gustaba a usted. Pero no era tan fuerte como es ahora verdad el <b>agua ardiente</b> </u>
+<u valor="I1" > No, ahora ahora ese <b>miche</b> que venden es muy bravo. Sí</u>
+<u valor="E" > Osea que si lo hacían con panela era porque aquí había caña</u> 
+<u valor="I1" > Sí</u>
+<u valor="E" > Cultivaban caña</u>
+<u valor="I1" > Sí</u>
+<u valor="E" > Eso sí se da aquí, la caña de azúcar</u>
+<u valor="I1" > La la la ca... La cocinaban también, la molían en un trapiche </u>
+<def typ=""><u valor="E" > ¿Qué es un trapiche?</u>
+<u valor="I1" > Así, en un trapiche <defop valor="dos puntos">:</defop> <rdefiniens>que daba vuelta, iban metiendo iba saliendo el <b>guarapo</b> por una parte</rdefiniens> y sacaban panela también, sacaban la panela también de de de de la caña sacan la panela</u> </def> 
+<u valor="E" > Mmm ya ya , está bien. Y, y en las fiestas ¿qué comían? ¿Qué comían en las fiestas? ¿Hacían fiestas?</u> 
+<u valor="I1" > <prosodia valor="up">Cómo no</prosodia> hacían fiestas aquí de todo,vendían de todo, comida de <b>toa</b> clase que hacía la gente</u>  
+<u valor="E" > Y cuál era la que a usted más le gustaba?</u>
+<u valor="I1" > Yo comía de la que <b>juera</b> y lo compraba pa comer</u> 
+
+<u valor="E" > ¿Y los dulces?</u>
+<u valor="I1" > El el dulce no, no hacían sino <b>conservas</b></u> 
+<u valor="E" > ¿Qué es eso de <b>conserva</b>?</u>
+<u valor="I1" > <b>Conservas</b> de <b>toa</b> clase </u>
+<u valor="E" > De qué era la que hacían </u>
+<u valor="I1" > De de <b>toa</b> clase de lo que fuera. Atol, atoles así de y lo ponían a cuajar</u>
+<u valor="E" > Cómo así de atol, ¿qué es un <b>atol</b>?</u>
+<u valor="I1" > Yo no me acuerdo cómo era que lo hacían. la la la molían bien molida y la cocinaban y <b>de áhi</b> la hacían</u>   
+<u valor="E" > Mmm. De cualquier cosa</u> 
+<u valor="I1" > Sí, como hacían la <b>chicha</b> <b>pa beber</b></u>
+<def typ="4"><u valor="E" > La <b>chicha</b>, ¿cómo así?, ¿qué es <b>chicha</b>? </u>
+<u valor="I1" > <syno>como</syno> <rdefiniens>guarapo fuerte</rdefiniens> </u></def>
+<u valor="E" > Guarapo fuerte. Y ¿con qué la hacen? </u>
+<u valor="I1" > Con panela y y y la echaban en unas ollas <b>pa hacela</b>, sí sí, con panela quedaba muy buena</u> 
+<u valor="E" > Ya, ya. Y en diciembre, antes, ¿qué comían? Ahorita que estamos en diciembre por lo menos en diciembre ¿qué comían antes? </u>
+<u valor="I1" > De <b>toa clase e vainas </b> <comentario valor="risas"> [risas]</comentario> </u>
+<u valor="E" > ¿Y hallacas?</u>
+<u valor="I1" > También, muchas, hacían onde quiera aquí en Las Piedras <b>onde quiera</b> hacen </u> 
+<u valor="E" > Mmm. Y ¿cómo las hacían? porque antes no había <prosodia valor="interrupt">...</prosodia></u>
+<u valor="I1" > No las hacen con carne de res y de marrano y de gallina y</u>  
+<def typ="4"><u valor="E" > ¿Qué es <b>marrano</b>?</u>
+<u valor="I1" > <b>Los marranos</b>, <syno>de</syno> <rdefiniens>cerdos, cochinos,</rdefiniens> sí</u>.</def> 
+<u valor="E" > Ya, ya. Y la harina, la harina de ante para hacer las hallacas ¿de dónde las sacaban?</u> 
+<u valor="I1" > La compraban, la la la, molían el <b>máiz</b>, lo ponían a cocinar en masa pelada el <b>máiz</b> y de áhi lo molían y con eso hacían las hallacas. <inintel>...</inintel> Salía como la <b>panarina</b>, bien finita salía. La molían en las máquinas.</u>  
+<u valor="E" > Ah ya, había molinitos, ya</u>
+<u valor="I1" > Sí, sí, sí. </u>
+<u valor="E" > Ya. Y eso de, ¿de masa pelada dice usted? ¿qué eso?
+</u>
+<u valor="I1" > Por eso, del maíz que sale,</u> 
+<u valor="E" > Ah, sale del maíz</u>
+<u valor="I1" > Del maíz </u>
+<u valor="E" >Ah, y ¿qué más le echaban a las hallacas?</u>
+<u valor="I1" > Más nada</u>
+<u valor="E" > Pura carne y harina</u>
+<u valor="I1" > Pura carne y eso </u>
+<u valor="E" > ¿Y en qué las envolvían? </u>
+<u valor="I1" > En hojas en hojas de en hojas de cambures</u>
+<u valor="E" > En hojas de cambures. Y ¿los cambures se dan aquí? </u>
+<u valor="I1" > Mucho, aquí se dan </u>
+<u valor="E" > ¿Cómo se llaman aquí cambures? </u>
+<u valor="I1" > Sí, cambures</u>
+<u valor="E" > No tienen otro nombre </u>
+<u valor="I1" > Cambures aquí se dan </u>
+<u valor="E" > ¿Pero qué verde?</u>
+<u valor="I1" > Sí, y se maduran también pa comer </u>
+<u valor="E" > ¿Y con qué se los comen? </u>
+<u valor="I1" > Maduros o se lo echan a la sopa pa comer </u>
+<u valor="E" > Mmm. ¿Comen mucha sopa aquí? </u>
+ <u valor="I1" > Sí, sí, sí, sí. Sí la hacen </u>
+<u valor="E" > ¿Cuál es la sopa que a usted más le gusta? </u>
+<u valor="I1" > La que <b>juera</b> <comentario valor="risas"> [risas] </comentario> la que <b>juera</b> </u>
+
+<u valor="E" > la que fuer ¿verdad? Está bin. Y, en Semana Santa ¿qué comen? porque en Semana Santa no se puede comer carne </u>
+<u valor="I1" > No muchos sí comen. No muchos sí comen. Hay un pueblo que comen pura carne. El que no tiene, el que no compra <b>pescao</b> come carne</u>
+
+<u valor="E" > Ah, ¿y con qué se comen el pescado? por ejemplo</u>
+<u valor="I1" > Con lo que sea, con <b>tungos</b> y arepa, arepa o papas </u>
+<def typ="1"><u valor="E" > ¿Con <b>tungos</b>? ¿Qué son <b>tungos</b>? ¿Cómo son los <b>tungos</b>?</u>
+<u valor="I1" > Esos <defop valor="guion">-</defop> <rdefiniens>los hacen, los envuelven en <b>piñuelas</b> que las traen de las montañas, las vamos a buscar pa hacer los <b>tungos</b></rdefiniens></u></def> 
+<def typ="1"><u valor="E" > ¿Y qué son piñuelas? ¿Qué es eso?</u>
+<u valor="I1" > <syno>como</syno> <rdefiniens>hojas, hojas, hojas</rdefiniens></u>
+<u valor="E" > Ah, y hojas ¿de qué?</u>
+<u valor="I1" > Hojas, hojas</u></def>
+<u valor="E"> Ya, ya </u>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AG13LP02014- yurmari-	2014-05-16	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

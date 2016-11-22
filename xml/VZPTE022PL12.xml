@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE022PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="315971584" CREATED="2015-08-29" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:06:02 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:06:02 </extNote>
+<extNote id="NumeroInterlocutores"> 04 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="04">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Junior Wilches </name>
+<name type="Informante" id="I2"> Yenifer Carolina Vergara Duarte </name>
+<name type="Informante" id="I3"> Ramón Rojas </name>
+<name type="Informante" id="I4"> Alexander José Santiago (niño)</name>
+<name type="Informante" id="I5"> Angel Eduardo Santiago (Moreno) </name>
+<name type="Informante" id="I6"> Jorge Paredes </name>
+
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Bueno yo me llamo Junior Wilches y este es el programa Déjame Pensarlo. Eh la primera palabra <b>legalmente</b>,  <b>legalmente</b> es cuando una persona asegura que en realidad no sabe qué es lo que está diciendo... </u>  
+<u valor="I2" > .Bueno mi nombre es Yenifer Carolina Vergara Duarte, estamos haciendo el programa Déjame Pensarlo, la palabra <def typ = "4"> <b>legalmente</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  realmente </rdefiniens> </def>es bueno comprar cualquier cosa.. </u>  
+<u valor="I3" > .Buenas tardes mi nombre es Ramón Rojas para el programa Déjame Pensarlo, me están haciendo eh varias preguntas sobre palabras pueblollaneras, la palabra <b>legalmente</b>, la palabra <def typ = "1"> <b>legalmente</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb> <rdefiniens> que es cierto que es cierta una cosa <examkr valor="como"> como </examkr> <b>legalmente</b> yo soy de Pueblo Llano </rdefiniens> </def> </u>  
+<u valor="I4" > .Bueno mi nombre es Alexander José Santiago y les vengo a presentar el Canal 3, les vengo a hablar de mi amigo, el dice que habla mucho, que arquea mucho y bueno sí arquea, entonce dice que es muy arquero y  muy este y dice que ganamos en los penaltys en todo </u>  
+<u valor="I5" > Bueno, mi nombre es Angel Eduardo Santiago Moreno y voy a hablarle un poquito sobre mi amigo Ale, el .dice que juega bastante y bueno sí juega bastante, dice que es el mejor jugador del grado de el y dice que   <b>legalmente</b>  el juega mucho y han ganado campeonatos.. </u>  
+<u valor="I6" > .Bueno buenas nochhes a todos los amigos televidentes de Pueblo Llano Tv y a los seguidores del programa Déjame Pensarlo, aquí, aún cuando formo parte de la familia de Pueblo llano Tv es la primera vez que me dan la oportunidad acá en este programa. En cuannto a Se Habla Pueblollanero, importante segmento que tiene Déjame Pensarlo,  <b>legalmente</b> , <def typ = "1"> <b>legalmente</b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una palabra que usamos para reafirmar que está dentro de las posibilidades reales o algo que es verdaderamente cierto, afirmativo, eh pero que tiene sustento, <mkr>o sea </mkr> que no es una trampa que no es un ardid, es real es verdadero</rdefiniens></def>. <b>legalmente</b>  es dificil responder esta pregunta  </u>  
+<u valor="I1" > <def typ = "1"> ¡<b>ah malaya</b>!.  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> aquello que puede  ser verdad pero a la vez dice algo de que <examkr valor="por ejemplo"> por ejemplo </examkr> un robo o algo así, que  ¡<b>ah malaya</b> que lo robaron!.</rdefiniens></def> </u>  
+<u valor="I2" > Eh la palabra <def typ = "1"> ¡<b>ah malaya</b>!..<defop valor=  "dos puntos">: </defop> <rdefiniens> tiene el significado de que uno quiere ir a un viaje y no puede hacerlo y dice  ¡<b>ah malaya</b> fuera para un viaje!.fuera para Margarita.</rdefiniens></def> </u>  
+<u valor="I3" > La otra Palabra es  . ¡<b>ah malaya</b>!..<def typ = "1"> ¡<b>ah malaya</b>!.. <defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb> <rdefiniens>  si Dios quiere o que algo ojalá ocurra, <examkr valor="por ejemplo"> por ejemplo </examkr>  ¡<b>ah malaya</b> hoy hiciera buen tiempo!.</rdefiniens> </def>. </u>  
+<u valor="I4" > la  ¡<b>ah malaya</b>!.no sé qué significa pero vamos a ver si usted lo sabe </u>  
+<u valor="I5" > no yo tampoco.sé qué significa  ¡<b>ah malaya</b>!  </u>  
+<u valor="I6" > Eh  <def typ = "1"> ¡<b>ah malaya</b>!.<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como la necesidad o el deseo de algo . ¡<b>ah malaya</b>!.. ¡<b>ah malaya</b> quien tuviera!  ¡<b>ah malaya</b> quien fuera!.. ¡<b>ah malaya</b>!.. es como .ansiar algo que pueda estar ocurriendo que pueda querer que pase.  ¡<b>ah malaya</b> quien saliera del <b>abollo</b>! </rdefiniens> </def> </u>  
+<u valor="I1" > <def typ = "1"> <b>lanza</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  <examkr valor="por ejemplo"> por ejemplo </examkr> cuando una persona se toma algo de otra persona y dice ¡na sí es <b>lanza</b> que le quitó eso!.</rdefiniens> </def> </u>  
+<u valor="I2" > <def typ = "1"> <ldefiniens>Lo que yo quiero comprar y otra persona quiere venir de vivo a llevárselo sin poner nada de lo que yo he comprado, para mí esa</ldefiniens>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> la palabra <b>lanza</b> </def>. </u>  
+<u valor="I3" > .La última palabra es es <def typ = "1"> <b>lanza</b> <defop valor=  "dos puntos">: </defop> <rdefiniens> cuando una persona es viva cuando una persona es pícara que uno dice ¡Ay sí es <b>lanza</b> me quiere engañar! </rdefiniens> </def>.. </u>  
+<u valor="I4" > .Vamos en el número tres en <b>lanza</b>, mire yo estuve en la plaza esperándolo a el que le dije que nos fuéramos pa abajo, entoce el dijo ¡sí es <b>lanza</b> no quiso ir conmigo! .. </u>  
+<u valor="I5" > .Bueno <b>lanza</b>, mire ¡Ale sí es <b>lanza</b>, el un día íbamos pa la cancha y yo iba corriendo y cuando yo llegué a la cancha el se devolvió y me dejó solo!.. </u>  
+<u valor="I6" > <b>lanza</b> esa es una palabra eh que puede tener varias connotaciones, eh  <b>lanza</b>  puede entenderse como algo puntiagudo no, sin embargo en el argot pueblollanero  <def typ = "1"> <b>lanza</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb><rdefiniens> para  referirse a alguien que tiene cierta picardía que es vivaz, que tiene que se sabe aprovechar de las oportunidades que tiene para hacer algo o salir adelante en algo, ¡Sí es <b>lanza</b>!  ¡Sí es pícaro! ¡Sí es oportunista! .</rdefiniens>.</def>. </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE022PL12 yurmari-	2015-08-29 	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2010">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE025PL10" MIMETYPE="video/movie clip (.mpg)" SIZE="291168256" CREATED="2016-01-17" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Producción Independiente-Jachoman</respType>
+<respName>Roger Gonzales</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:16:39 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:13:06 </extNote>
+<extNote id="NumeroInterlocutores">02</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> La Mesa Del Fraile municipio Cardenal Quintero </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Roger Gonzáles ( Jachoman) </name>
+<name type="entrevistador" id="I1"> No se identifica (segmento-literario) </name>
+<name type="entrevistador" id="I2"> Señor Angel Custodio Meza Salcedo (pintor) </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro">[intro del documental, imágenes y sonido musical]  </comentario>
+
+<u valor="I1" >  <comentario valor="narración">[narración de un segmento literario]  </comentario>  La vida del hombre en la ciudad es tan aislada que no le permite mirarse hacia adentro. Mientras que el hombre del campo es quizá esa instrospección digamos más profunda porque tienen más tiempo. Medir un trabajo de un hobre que siembra la tiera a un trabajo de un obrero de la ciudad que cumple un turno, y qe después se va a otras labores, entonces el mismo ritmo de vida no es similar. Entonces el tiempo para mirarse a sí mismo es mayor el del campesino, por lo tanto los valores de su cultura también son más sólidos. </u>
+<u valor="E" > Nos encontramos en un lugar llamado La Mesa Del Fraile, municipio Pueblo Llano del estado Mérida. Aquí el amigo se va a presentar . Su nombre compadre. </u>
+<u valor="I2" > Angel Custodio Meza Salcedo.  </u>
+<u valor="E" > El amigo es pintor, nos va a comentar cuáles han sido su experiencia desde su comienzo. ¿Cómo comenzó usted a pintar?</u>
+<u valor="I2" > Sí, ajá. A pintar de, cuando estaba en la escuela, de <b>poráhi desnde </b> el grado primero. Usaba creyones, este temperas, hojas de dibujo </u>
+<u valor="E" > Ya. Y ¿qué lo inspiró a pintar? </u>
+<u valor="I2" > ¿Ah? </u>
+<u valor="I1" >  ¿Qué lo inspiró a hacer los trabajos? </u>
+<u valor="I2" > No, ese es mental mío, a mí nadie  enseñó. </u>
+<u valor="E" > Ajá. Ok, fue algo así, espontáneo.  </u>
+<u valor="I2" > Sí </u>
+<def typ = "2"> <u valor="E" > ¿Y cuáles son normalmente las obras que usted hace, en qué se inspira para pintar? </u>
+<u valor="I2" > Bueno <defop valor = "coma">,</defop> <rdefiniens> pongamos, usted está viendo to estas pinturas ahí, yo no aspiro sino pintar la la las o sea los paisajes que a mi me nacen en la mente </rdefiniens> </u> </def>
+<u valor="E" > Y son paisajes  más que todo de acá mismo ¿no?</u>
+<u valor="I2" > Sí. bueno estos son puros paisajes mentales,  </u>
+<u valor="E" > Pero, reflejado en el lugar ¿verdad?  </u>
+<u valor="I2" > Sí.  </u>
+<u valor="E" > En la zona, por ejemplo, por acá vemos a unos señores que está haciendo las faenas diarias, arando. Se ve mucho que usted representa la parte científica con el campo no, y las tradiciones, por acá se ve que hay una paradura, qué se yo. Ajá, y las actividades agrícolas por ejemplo, en este caso.</u>
+<u valor="I2" > Sí, la agricultura,  </u>
+<u valor="E" > Ajá, pero díganos un poco más, que... </u>
+<u valor="I2" > Bueno yo en la pintura me refiero to lo más de la agricultura, del campo, detallar bien el paisaje.  </u>
+<u valor="E" > Claro. ¿Y ustedes no tienen ningun apoyo verdad?   </u>
+<u valor="I2" >  Bueno yo no tengo ninguna, de primera porque he tenido alfgo de ayda, ya de último no no uno no encuentra mucho las cosas. porque  yo soy tallista también </u>
+<u valor="E" > Ah también hace tallas de madera </u>
+<u valor="I2" > No yo la la la el asunto de la la del pesebre que había hecho yo, un nacimiento en la plaza, ¿no lo vió usted? </u>
+<u valor="E" > Sí, sí, muy bonito, es natural. Ajá, y son obras muy lindas oyó <b>compa</b>, yo lo felicito. ajá, qué otra cosa nos dice, ¿qué le gustaría hacer? </u>
+<u valor="I2" > Pues yo lamentablemente, yo como, y una vez tuve yo algo de estudio, yo no aficioné a eso porque como yo <b>juí</b> mental, yo no le puse atención al asunto del esudio, sino como era mental yo mismo me daba estudio. La pintura le va dando estudio a uno, por que entre más, uno entre más va haciendo un trabajo pues la misma pintura le va a dar clase a uno; esto va sí, esto va exigiendo más la lo que es la pintura. Bueno eso sería todo porque ya... Yo les agradezco que hayan venido a a, yo como to esos cuadros que ve usted ahí, <b>poráhi</b> los tenía <b>arrumaos</b> en esa caja,  y voy a pintar eso como por echar bromas ahí por desaburrime, y los va uno guardando ahí por si un día una exposicón <b>guena</b>.  Por eso era que yo los tenía <b>áhi guardaos</b>  pa una exposición pa diciembre, septiembre pa Semana Santa.  </u>
+<u valor="E" > ¿Y dónde ha expuesto usted así?  </u>
+<u valor="I2" > Ahí en el Ateneo en Pueblo Llano, ahí hay cuadros en Pueblo Llano también, hay varios, tan en Pueblo Llano también pero ese esas pinturas se están borrando mucho.</u>
+<u valor="E" >Ajá, y esto qué más o menos qué usted dice para las autoridades tal vez, ¿qué le gustaría que se organizara? </u>
+<u valor="I2" > Cómo, qué le dijera yo, organizar cómo la....  </u>
+<u valor="E" > Para usted poder vender sus cosas porque segú se ve...  </u>
+<u valor="I2" > No porque pongamos yo pongamos, yo no aspiro un Ateneo pa exponer unas pinturas, <b>por áhi </b> a orilla de carretera, ambientes claros. Pongamos en la Mitisús, ahí on llaman La Sucia, <b>áhi onde</b> hubo la tragedia. Y en muchas partes <b>por [ahi</b> lo que pasa es que c[omo le digo yo, yo estao por exponer siquiera unos doscientos trescientas obras.  </u>
+<u valor="E" > Qu[e bueno, me alegro que ustedsea aspirante así de esa manera. Se ve que está bien impulsado ahí emocionado con lo que hace. </u>
+<u valor="I2" > Claro. Y yo pongamos pues, yo de la edad de la que empecé a pimtar fue como como de once años. Cuando me encargaron el trabajo del nacimiento del niño Dios, que yo lo hice de de madera, hice como veinte trabajos de esos de madera, este y de <b>áhi</b> me exigieron más. Y yo no terminé de hacer eso  porque era <b>demasíao demasíao </b> trabajo y  apenas me dieron un millón,  entonces yo paré el trabajo porque era mucho trabajo. Pa mí era bastante trabajo y era muy poco las ganancias... Y también pienso mire pintar  este paisaje de aquí, éste, lo pienso pintar. pienso pintar desde La Mesa Del Fraile hasta acá arriba, como era El Fraile anteriormente y ahora nuevo. Pienso pintar desde la cabaña de Emilio hasta abajo hasta la curva de Don Manuelito, to eso tengo ganas de pintalo. Pintar terminar el Pueblo que está allá Pueblo Llano, el de la noche. Y varios paisajes, yo tengo  una mente clara pa eso, lo que pienso lo hago.  Le dibujé la tragedia cuano hubo recién la tragedia aquí que subían unas máquinas aquí, ese cuadro está allá arriba onde Ricardo, <b>ah malaya</b> ustedes <b>jueran pa </b> que lo vieran. <b>tan to sa carramenta</b>, máquinas, ta onde están haciendo el puente e guerra, </u>
+<u valor="E" >Ah sí, cuando hubo el problema del deslave  </u>
+<u valor="I2" > Ajá, y ese cuadro está allá <b>onde onde </b> Ricardo. </u>
+<u valor="E" > Y usted ha vendido no solamente acá ¿verdad? A personas de otro lugar también.  </u>
+<u valor="I2" > Yo le ehe <b>vendío</b> cuadros al señor López Gómez, al doctor, han llevao cuadros pa Acarigua, varios pueblos de la noche se los han llevao pa Acarigua. Pa Caracas han llevao cuadros. Mire, cómo será de tantos cuadros que yo ha hecho que ya  yo ni me acuerdo, porque yo he hecho una cantidad de cuadros, y sin embargo no me acuerdo, no me acuerdo cuánto he hecho</u>
+<u valor="E" > Y dónde ha ido usted a exponer, o sea, a parte de acá </u>
+<u valor="I2" >  No, o sea que no he hecho exposición fuera de aquí no, sino  aquí en Pueblo llano y, es como le he estao diciendo no hace nada que les dije que pienso exponer por áhi a orilla e carretera en tiempo e fiestas: tiempos de Semana Santa, los primeros de enero, así. Una exosición de unos unos cien cuadros, hayy que hay que ver a ver.   </u>
+<u valor="E" > Y algún otro pintor que usted conozaca por acá en la zona   </u>
+<u valor="I2" > Pues por aquí hay un pintor también que se llama Diomo, es el hijo de un señor Rondón. ¡Ese sí le mete a la pintura también mano! Usted desea conocerlo, ¿usted carga carro? </u>
+<u valor="E" >No pero podemos llegar, tranquilo  </u>
+<u valor="I2" > ¿Tiene carro? </u>
+<u valor="E" > Eso no es impedimento, no tenemos carro pero sí podemso llegar </u>
+<u valor="I2" >  Ah no, pues yo los llevara allá onde, ese es pintor también. Isaías, Isaías el de Genovebo también, usted lo conoce que es largón igual a usted. Si, le mete a la pintura, creo que pintaron por ahí en la calle, pinta cosas de comer, frutas, hace si onde hay restaurantes, inclusive aquí mismo aquí mismo en esta casa hay unos trabajitos míos, ahí estan unos hechos po mí lienzos, jgual que aquí, por ahí tengo una cantidad de cuadros hechos por mí.  .  ,  </u>
+<u valor="E" > Bueno mire amigo, entonce estamos muy agradecidos con usted por habernos informado acerca de, sí. Igual si usted quiere podemos mirar un rato más los cuadros que usted dice   </u>
+<u valor="I2" > No pues sí </u>
+<u valor="E" > Tal vez, algunas otras obras que tenga por ahí cerca.  </u>
+<u valor="I2" > Otra, otros cuadro tengo por ahí en la entradita ahí arriba, ahí a orilla e carretera, ahí hay unos paisajes hechos, están los del hospitlal de mérida, del Policlínico, ese está ahí onde,</u>
+<u valor="E" > Que bueno el amigo. Y ¿usted qué edad tiiene señor?  </u>
+<u valor="I2" > Tengo sesenticinco años, muy viejo ya  <comentario valor="risas" > [risas] </comentario></u>
+<u valor="E" >No, no,  me refiero así para tener una idea de del tiempo que ha estado usted pintando, si dice que a partir de los once años </u>
+<u valor="I2" > De once años desde los once  años, y <b>orita juera</b>  multimillonario yo más bien, pero no  uno no o sea que uno no es <b>avariento</b> a a  la plata uno hace las cosas como por no dejar, por ponele amor y más nada, nada, sino por pasar el tiempo. y si quieren ir pal Ateneo pues allá están los paisajes hechos míos, </u>
+<u valor="E" > Bueno, agradecido oyó,  muy bien </u>
+<comentario valor="fondo musical e imágenes " > [se perciben en los últimos minutos de la grabación un fond musical que acompaña las imágenes de las obras del pintor entrevistado] </comentario>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE025PL10- yurmari-	2016-01-17	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

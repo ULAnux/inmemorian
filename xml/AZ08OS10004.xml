@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<cesHeader type="oral" date="2008">
+<fileDesc>
+<fileGrp ID="Misceláneo">
+<file ID="AZ08OS10004" MIMETYPE="audio/wav" SIZE="4.013.692" CREATED="2016-13-16" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:08:15 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> EL Joso-Gavidida  municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="04">
+<name type="entrevistador" id="E1">  Henriette Arreaza </name>
+<name type="entrevistador" id="E2">  María Vicenta Dávila </name>
+<name type="entrevistador" id="I1">  Gregorio  Torres</name>
+<name type="entrevistador" id="I2">  Señora María Julia Torres</name>
+
+</group>
+</cesHeader>
+
+
+<u valor="E1" > Ahora Gregorio Torres nos va a dar sus datos biográficos ...</u>
+<u valor="I1" >.¿Usted nació ?..</u>
+<u valor="I1" >.Aquí en El Oso..</u>
+<u valor="E1" > Y su papá y su mamá son ...</u>
+<u valor="I1" >.Nativos de aquí de Gavidia pue ..</u>
+<u valor="E1" >.¿Cómo se llaman?..</u>
+<u valor="I1" > Ella es Noviciano Torres y Ana Julia Moreno Torres también .</u>
+<u valor="E1" >.¿En qué año nació usted?..</u>
+<u valor="I1" >.Yo nací en el 61..</u>
+<u valor="E1" >.Ah está jovencito..</u>
+<u valor="E2" >.¿Es el <b>tuñeco</b>?..</u>
+<u valor="I1" > No, la .<b>tuñeca</b> es Alicia </u>
+<u valor="E1" >¿Y qué ha hecho desde el 61 hasta nuestros días ?.¿A qué se ha dedicado?..</u>
+<u valor="I1" >Yo pues, toda la vida mía ha.sio dedicao a la agricultura. Y me gusta también la artesanía, tallar madera, también trabajo albañilería, este me gusta la música..</u>
+<u valor="E1" >.¡Ah sí!..¿Qué instrumento toca?</u>
+<u valor="I1" >.Yo toco cuatro y guitarra ..</u>
+<u valor="E1" >¿Y compone?...</u>
+<u valor="I1" >.En veces compongo..Pero ahora hace tiempos que no, cuando estaba más joven sí me gustaba componer</u>
+<u valor="E1" >.¿Y ahora por qué no?..</u>
+<u valor="I1" >.No, ahora no tengo sentido pa eso.<comentario valor="risas" > [risas] </comentario>.La hermana mía sí, ella sí compone</u>
+<u valor="E1" >..La señora suya. .</u>
+<u valor="I1" >.La hermana. No, yo no tengo esposa</u>
+<u valor="E1" > Ah la hermana, ah usted es soltero. .Ah mire es soltero ¡atención!..</u>
+<u valor="I1" >.<comentario valor="risas" > [risas] </comentario> ..</u>
+<u valor="E1" >.Algo más quiere añadir. ..</u>
+<u valor="E2" >Pa que quede en su autobiografía Gregorio.¿Qué le gustaría?..</u>
+<u valor="E1" >.¿Qué le gusta a usted de Gavidia? ¿A usted le gusta vivir aquí en Gavidia? ..</u>
+<u valor="I1" >.Sí, todo el tiempo, yo he salío de aquí y no, no me <b>amaño</b> en otra parte..</u>
+<u valor="E1" >¿A dónde ha ido usted?...</u>
+<u valor="I1" > He ido a Caracas, Barinas, por ha hecho excursiones por el Páramo, por El Carrizal, por aquí pal Páramo El Mazinero pa salir a Barinas ..</u>
+<u valor="E1" >.¿Y qué es lo que más le gusta de Gavidia?..</u>
+<u valor="I1" >..Na, de Gavidia todo, todo lo que se hace aquí , la agricultura, el trabajo que se hace, por lo menos la, <def typ = "2"> tenemos <ldefiniens>un conjunto aguinaldero</ldefiniens>  que <defmetalvb lemma="llamar" pos="VMIP3S0"> se llama </defmetalvb> Parranda Navideña de Gavidia. <rdefiniens> hicimos nosotros desde muchachos <b>chiquitos</b>, desde muchachos. Empezamos aquí, nosotros somos los fundadores. Cuando nosotros fundamos ese conjunto lo fundamos con yo y la hermana mía, y ahí se agregaron unos muchachos que se que son primos mío y todos una sola familia, entonces le habíamos puesto el Conjunto Hermanos Torres, ya después cuando ya la gente vió y la brooma, ya la gente se agregó, entonces ya se le cambió el nombre a Parranda Navideña. Hemos ganao varios festivales </rdefiniens></def></u>
+<u valor="I2" > Lo que pasó <b>jue</b> que .éstos no guardaron los <b>enstrumentos</b> que hicieron, los primeros <b>enstrumentos</b>..los acabaron </u>
+<u valor="I1" >.Nosotros los habíamos hecho..</u>
+<def typ = "2"> <u valor="E1" >..¿Los habían hecho ustedes mismos los instrumentos?.¿Y qué instrumentos eran?</u>
+<u valor="I1" >.Hicimos<defop valor = "coma">,</defop> <rdefiniens>  una <b>charrasca </b> de cacho, que por ahí estaba una pero esa se perdió. Un tambor de pote, de una olla vieja y maracas sí las <b>víamos comprao</b>, eso era lo que teníamos cuando cuando fundamos el conjunto </rdefiniens>..</u> </def>
+<u valor="E1" >.¿Y cuatro ?..</u>
+<u valor="I1" > Cuatro y maracas y tambor ...</u>
+<u valor="E1" >.¿Y José Idulfo no les hizo cuatro ?..</u>
+<u valor="I1" >.No, en ese tiempo cuando nosotros estábamos no ..</u>
+<u valor="E2" >.No concíamos a Idulfo..</u>
+<u valor="I1" >..No conocíamos a Idulfo. Idulfo lo conocimos después, después que ya crecimos que ya se casó la herman mía con el fue que ya  </u>
+<u valor="E1" >.¿Y usted eh, cuántos hermanos son ustedes ?..</u>
+<u valor="I1" > Este son séis hermanas y este yo solo este ...</u>
+<u valor="E1" > Ah usted es el único varón, con razón  ...</u>
+<u valor="I2" >.Yo tuve otro pero el otro <b>je murió</b>..</u>
+<u valor="I1" >.El otro se murió</u>
+<u valor="E1" > Ah... ¿Y qué recuerdo tiene de la infancia?.Écheme un cuentico de su infancia..</u>
+<u valor="I1" >.De mi infancia ¿Cómo así?..</u>
+<u valor="E1" >.Algo que se acuerde bonito de la infancia, de los tiempos de antes</u>
+<u valor="I1" >.No, son muchos cuentos pero, de tantos se me confunden ..</u>
+<u valor="E2" >.Jum, uno en especial..</u>
+<u valor="I1" >.La gente echaba muchos cuentos verdad. <def typ = "2"> Por allá tenemos un páramo que <defmetalvb lemma="llamar" pos="VMIP3S0"> se llama </defmetalvb> <rdefiniens> el Páramo el Fraile</rdefiniens>. Allá en ese páramo me echaron un cuento un tío mío. Que cuando antiguo cuando empezaron a caminar<rdefiniens>   por ese camino que sale .del Mazinero a Barinas</rdefiniens>, un señor de Mucurubá le gustaba mucho caminar de noche, y le decían que no estuviera caminando de noche porque era malo, y a el le gustaba caminar de noche por ese camino salir a Barinas porque el le rendía más la caminata en la noche. Se fue una noche, y bajando<rdefiniens> el camino del Alto e Mucumpú pa abajo</rdefiniens>, uno que  el Alto e Mucumpú, llegó a <rdefiniens>una parte que  llaman  la Cueva e la Sarna</rdefiniens> y cuando el iba allí gritó un señor <rdefiniens><b>onde </b> llaman  el Alto de el Alto e Los Indios</rdefiniens> , le dijo gritó a otro que estaba en la Cueva e la Sarna,  le dijo <invcomm> ahí viene un hombre</invcomm> y el hombre oyó verdad, y el siguió, no le paró, <b>aonde va </b> y le dijo <invcomm>ahí en la Cueva e la Sarna viene</invcomm> y el hombre se <b>je se jue se jue</b> Cuando así hay una bajada que queda en la parte que bajan las dos quebradas y el que estaba en el Alto e Los Indios le preguntó al fin <invcomm>onde viene el hombre que se me perdió</invcomm> y dijo <rdefiniens>en las Dos Quebradas</rdefiniens>  va téngalo cuidao que no no lo dejemos perder, y el hombre siguió y siguió. Al fin le preguntó el que estaba en la Cueva e la Sarna <invcomm>Dónde va el hombre que se me perdió que no lo veo. </invcomm> Dijo <rdefiniens>en la Quebrada e los Indios </rdefiniens> viene. Dijo</def> vamos a ver si de golpe lo rescatamos lo encontramos en el camino. El que estaba en la Cueva e la Sarna se fue atrás de el y el otro se vino, el del Alto e los Indios, entonce llegó el hombre así, lejos del camino hay una cueva   y  fue y se metió en la cueva el hombre, pa escapásele a los hombres a los que lo gritaban porque eso era como media noche y entonces le preguntó el que iba de aquí pa allá <invcomm>¿dónde está el hombre que no se ve en el camino?</invcomm>, entonce le dice el otro, <invcomm>pa la Cueva e Los Indios se metió, vamos a ver </invcomm> y se fueron los hombres y le llegaron allá a la cueva y llegaron y estaba el hombre ahí arriconaito en la cueva. Entonce dice  uno al otro, qué hacemos con este señor, no lo comemos o lo dejamos todavía, entonce el hombre le contestó el otor, no nos lo comamos todavía, pero si este se{or vuelve a pasar otra vez por este camino a esta hora de la noche no lo vamos a perdonar, ahí sí nos lo vamos a comer. Y hasta allí, de ahí pa acá no caminó más nunca el hombre de noche. Lo dejaron quieto y el amaneció ahí, se fueron los hombres y el amaneció ahí y al otro día   siguió el camino. Hasta ahí sé yo el cuento  </u>
+<u valor="E1" > Y más nunca...</u>
+<u valor="I1" >Más nunca volvió a pasar por ese carma...</u>
+<u valor="E2" > Usted ahorita estaba echando el cuento, y aquí estaba recordando el camino, ¡por ahí mismo pasamos nosotros!.<comentario valor="risas" > [risas] </comentario>.</u>
+
+<versiones>
+Nombre Archivo	Usuario	Fecha	Acción	Comentario
+
+AZ08OS10004 	yurmari	2016-11-13	Marcado +Etiquetado	.
+
+</versiones>
+
+</doc>

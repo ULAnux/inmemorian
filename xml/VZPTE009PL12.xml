@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE009PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="443113472" CREATED="2015-08-27" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:08:43 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:08:43 </extNote>
+<extNote id="NumeroInterlocutores"> 10 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="10">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1">  Antonio Gonzáles </name>
+<name type="Informante" id="I2"> César Eduardo Salcedo </name>
+<name type="Informante" id="I3"> Adalexy Santiago  </name>
+<name type="Informante" id="I4"> Edgardo </name>
+<name type="Informante" id="I5"> Nataly Jeréz </name>
+<name type="Informante" id="I6">  Marbelis Paredes </name>
+<name type="Informante" id="I7"> Carlos Santiago </name>.
+<name type="Informante" id="I8">  No se identifica </name>
+<name type="Informante" id="I9"> No se identifica </name>
+<name type="Informante" id="I10"> Josefa Rondón  </name>
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Si buenos días, mi nombre es Antonio Gonzáles eh soy docente de la Foción Febres Cordero, me desempeño en el área de Educación Física, eh estamos aquí en el programa Déjame Pensarlo con la palabra <b>lavativa</b> , . <def typ = "1"> <b>lavativa</b>  <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>  problema eh inconveniente, bueno según la gente de antes no</rdefiniens> </def>  </u>  
+<u valor="I2" > Eh buenos días mi nombre es César Eduardo Salcedo y soy docente en el área de música de la Escuela Básica Bolivariana Foción Febres Cordero, para el programa Déjame Pensarlo, eh <def typ = "1"> <b>lavativa</b> <defop valor=  "dos puntos">: </defop> <rdefiniens>  se refiere a un a algo que es muy repetitivo que molesta mucho</rdefiniens> </def>.  </u>  
+<u valor="I3" > Bueno buenos días mi nombre es Adalexy Santiago trabajo en la .Escuela Bolivariana Foción Febres Cordero como Sub-Diretora de esa institución, este la palabra <def typ = "1"> <b>lavativa</b> <defop valor=  "dos puntos">: </defop> <rdefiniens>   pues  los abuelos nuestros abuelos se referían mas que todo cuando había algún problema, algo pronunciado pues, entnce ellos decía, <invcomm> ¡Ay que <b>lavativa</b> no !</invcomm> </rdefiniens> </def>. </u>  
+<u valor="I4" > .Hola buenos días mi nombre es Edgardo, yo estudio sexto y mi <b>projesora</b> es Josefa Rondón y estudio en la Foción Febres Cordero. La palabra <b>lavativa </b>.déjame pensarlo, no sé qué es la palabra <b>lavativa </b>  </u>  
+<u valor="I5" > Bueno buenos días, buenas noches ya porque estamos en el programa Déjame Pensarlo, soy Nataly Jeréz, docente de la Foción Febres Cordero, doy Primer Grado sección B, y con respecto a la  pregunta de qué quiere decir la palabra  <b>lavativa </b> en Se Habla Pueblollanero eh bueno para mi<def typ = "1">  <b>lavativa </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como una broma como una molestia como una broma, en mi caso cuando se ha dicho eh ¡Ay si echan <b>lavativas </b>! </rdefiniens> </def> algo así como que ¡si echan bromas, sí molestan! </u>  
+<u valor="I6" > Hola buenos días, mi nombre es Marbelis Paredes, soy docente de la Foción Febres Cordero, .para mi la palabra <def typ = "1"> <b>lavativa </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> echar bromas, molestar</rdefiniens> </def>. . </u>  
+<u valor="I7" > Bueno, Carlos Santiago de aquí de la Foción, un saludo cariñoso al programa Déjame Pensarlo, ..y la pregunta es <b>lavativa </b>, bueno <def typ = "1"> <b>lavativa </b> tiene un significado <defop valor=  "pues"> pues </defop> <rdefiniens>de repente que llegue este un señora que llegue y le diga el chisme a la comadre <invcomm> ¡mire comadre se sacaron  tu hija </invcomm> y entonce la señora responde <invcomm> ¡bueno, ah buena <b>lavativa </b>me echó esa muchacha ! </invcomm>.</rdefiniens> </def> Bueno, en fin, un saludo muchachos, Canal 3. </u>  
+<u valor="I8" > Eh buenos días estamos aquí en la Escuela Básica Bolivariana Foción Febres Cordero, estamos en la Biblioteca preparando el vestuario que vamos a utilizar en el encuentro distrital mañana, eh para mi la palabra <b>lavativa </b> es cuando uno está en bromas, que está un poco eh sin plata </u>  
+<u valor="I9" > .Para mi <b>lavativa </b> es como .echar bromas algo así. </u>  
+<u valor="I10" > Hola buenos días, mi nombre es Josefa Rondón, docente de la Foción Febres Cordero, .doys sexto grado sección A y la palabra <b>lavativa </b> . significa algo que ha sucedido como una pérdida o algo así. </u>  
+<u valor="I1" > .Bueno sí, la palabra <b>charro </b>.significa  eh como lerdo, <b>chambon</b> que no tenía puntería, algo así era la palabra para ese tiempo </u>  
+<u valor="I2" > Bueno  <def typ = "1">  <b>charro </b>..<mkr>se refiere</mkr> <rdefiniens>  a una persona de mala puntería</rdefiniens> </def>  </u>  
+<u valor="I3" > Bueno . <def typ = "1">   <b>charro </b> <defop valor=  "dos puntos">: </defop> <rdefiniens>.siempre la asimilo es cuando uno jugaba metra en la plaza y entonce uno no tenía buena puntería y ahí pues uno le decía <invcomm>usted si está  <b>charro </b> </invcomm></rdefiniens> </def>  algo así parecido </u>  
+<u valor="I4" > No. no sé qué es  <b>charro </b>  </u>  
+<u valor="I5" > .Bueno y con respecto a la palabra  <b>charro </b> no la había escuchado en nuestro dialecto pueblollanero, pienso que  <b>charro </b> es como mexicano. </u>  
+<u valor="I6" > Bueno la palabra  <b>charro </b> es como una persona rústica, ordinaria.. </u>  
+<u valor="I7" > Bueno la palabra  <b>charro </b> eh  para mi tiene un significado de repente que alguien esté pintando y riegue la pintura no sepa pintar y uno dice <invcomm>¡nojo, sí es  <b>charro </b> este chamo!</invcomm>. síe es mal pintor, qué se yo.</u>  
+<u valor="I8" > ..La palabra  <b>charro </b> es un término muy mexicano casi aquí pues no la  empleamos </u>  
+<u valor="I9" >  Y la palabra  <def typ = "1"> <b>charro </b> para mi <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  cuando está que no tiene puntería.</rdefiniens></def> . </u>  
+<u valor="I10" > . No, <b>charro </b>. para mí sería como pequeño, ¿no?</u>  
+<u valor="I1" > Sí bueno, la palabra  <b>sarandajo </b> significaba como decile a uno torpe, tontico o algo así, me recuerdo mucho a la abuela que me decía <invcomm> este <b>sarandajo </b> </invcomm> .</u>  
+<u valor="I2" ><b>Sarandajo </b> bueno no ni idea pero me suena así como a una .a un golpe, algo así. </u>  
+<u valor="I3" > La palabra <b>sarandajo </b>.también así la asimilo con la expresión que la decían los abuelos pues cuando de repent lo mandaban a uno a hacer un mandado y la expresión er <invcomm> aquel <b>sarandajo </b> e chino no ha llegado </invcomm>. </u>  
+<u valor="I4" > <b>sarandajo </b> no sé.. </u>  
+<u valor="I5" > <def typ = "1"> <b>Sarandajo </b><defop valor=  "dos puntos">: </defop> <rdefiniens> cuando decimos <b>sarandajo </b> pues nos referimos así como de manera despectiva y generalmente se usa con los niños, cuando los señores mayores le dicen a un niño <invcomm>¡este <b>sarandajo </b>! </invcomm>, </rdefiniens> </def>creo que tiene que ver con eso </u>  
+<u valor="I6" > La palabra <def typ = "1">  <b>sarandajo </b> <mkr>se refiere</mkr> <rdefiniens>  un poco a no moleste, quédese tranquilo</rdefiniens> </def>.. </u>  
+<u valor="I7" > Bueno<def typ = "1"> la palabra <b>sarandajo </b> puede tener un significado   feo<defop valor=  "dos puntos">: </defop> <rdefiniens> de repente un niño que está puro <b>pegostiando</b> de <b>ladilla</b>. ¡este <b>sarandajo </b> vaya pa allá! </rdefiniens> </def>qué se yo. </u>  
+<u valor="I8" > Eh la palabra <def typ = "1"> <b>sarandajo </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>como muchacho muy travieso</rdefiniens> </def>  </u>  
+<u valor="I9" > .<b>Sarandajo </b>, <b>sarandajo </b> si no sé . </u>  
+<u valor="I10" > <b>Sarandajo </b>., no no sé.. </u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE009PL12 yurmari-	2015-08-27	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

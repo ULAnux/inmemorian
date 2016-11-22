@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Costumbres">
+<file ID="AC13LP02037" MIMETYPE="audio/wav" SIZE="584266 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:01:13 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Elda Rosa Santiago. Señora de 56 años </name>
+</group>
+</cesHeader>
+
+
+
+<u valor="E" > ¿A qué hora se levanta usted señora Rosa?</u>
+<u valor="I1" > A las siete </u>
+<u valor="E" > A las siete de la mañana. Y ¿a  qué hora se acuesta? </u>
+<u valor="I1" > A las ocho </u>
+<u valor="E" > Okey. Eh, ¿A qué hora desayunan? ¿A qué hora almuerzan? ¿A qué hora cenan? </u>
+<u valor="I1" > Desayunamos a las ocho, el almuerzo a las doce y la cena a las siete </u>
+<u valor="E" > Okey. Y ¿acostumbran merendar en su casa?  </u>
+<u valor="I1" > No </u>
+<u valor="E" > No. ¿Qué costumbres tienen ustedes en cuanto a vestido, calzado? ¿Qué diferencia observa en cuanto a lo de antes y lo de ahora?</u>
+<u valor="I1" > Pues antes se vestían más moderadamente.  </u>
+<u valor="E" > Mjum. ¿Cómo más moderado? </u>
+<u valor="I1" > Más largos vestidos, con más moderación </u>
+<u valor="E" > ¿Y ahora?  </u>
+<u valor="I1" > Ahora un poco más corto <comentario valor="risas">[risas] </comentario> <overlap valor="E" > Más desnudo</overlap>  Las muchachas </u>
+<u valor="E" > Okey. ¿Usted acostumbra hacer reuniones familiares? </u>
+<u valor="I1" > No </u>
+<u valor="E" > No. Y ¿qué acostumbra hacer la gente aquí cuando se casa? </u>
+<u valor="I1" > Reunión familiar igual <inintel>...</inintel> </u>
+<u valor="E" > Okey. ¿Y en los cumpleaños?  </u>
+<u valor="I1" > Una reunión y partir la torta y... reunión familiar  </u>
+<u valor="E" > Mmm. Okey  </u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AC13LP02037- yurmari-	2014-04-19	Marcado	 transcripción completa.
+
+</versiones>
+</doc>

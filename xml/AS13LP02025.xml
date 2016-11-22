@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Salud">
+<file ID="AS13LP02025" MIMETYPE="audio/wav" SIZE=" 3682890" CREATED="2014-05-20" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:07:40 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Elda Rosa Bastidas. Señora de 74 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Sra Elda y hablando de la salud, verdad, porque antes no había muchos médicos y ustedes pues imagínese. ¿Cómo era cuando la gente se enfermaba? </u>
+<u valor="I1" > Ah cuando la gente se enfermaba pues, este no, aquí había un médico. Teníamos un médico muy bueno, muy buen médico, que el solamente el <b>vía</b> la orina verdad, el sabía en la orina lo que uno tenía. Ajá, y cuando se enfermaba mi mamá o mi papá de una vez me mandaban con la orina y él de una vez iba pal pal tenía <def typ="4"> <defmetalvb lemma ="Llamar" pos ="VMII3S0">se llamaba</defmetalvb><defdum> <b>la botica</b></defdum>, <rdefiniens file="moconoque.jpg" source="http://nux.ula.ve">él tenía una <b>botica</b> que ahora dicen que es farmacia verdad, lo que se llama ahora farmacia, ese era una <b>botica</b> </rdefiniens> y entonce el entraba pa su <b>botica</b> y preparaba su remedio</def>. Si era <examkr valor="por ejemplo">por ejemplo </examkr>la persona tenía fiebre él de una vez en un <b>papelito</b> envolvía no sé qué, un <b>polvito y dicía</b> <invcomm> vaya hágale un <b>guarapo</b> y le da esto </invcomm> y enseguida la gente se mejoraba,y le conocía demasiado el señor. Se llamaba Don Miguel Albarrán, Don Miguel Albarrán. Era muy buen médico, el médico de aquí de Las Piedras, ese fue el médico de aquí  </u>
+<u valor="E" > Mmm. Y cuando, sabe que la gente pues antes, la sabiduría pues de las <b>abuelitas</b> que ellas también sabían de alguna, un remedio casero qué se yo. <examkr valor="por ejemplo">Por ejemplo</examkr>, eh <b>las lombrices</b> o los parásitos </u>
+<u valor="I1" ><def typ="3"> Ah, pa <defdum><b>las lombrices</b></defdum> <defop valor="dos puntos">:</defop> <rdefiniens file="mal_lombrices.jpeg" source="http://nux.ula.ve">eso les daban una soba en el estómago, le daban una soba y se las recogían, le recogía <b>las lombrices</b> y de con le daban una unción con <b>yerba santa</b> y el les recogían <b>las lombrices</b> y ese era to el remedio y después eh a los tres días le daban un purgante y botaban todos <b>los parásitos</b></rdefiniens></def> </u>
+<def typ="1"><u valor="E" > ¿Y de qué era el purgante? </u>
+<u valor="I1" > De <defdum><b>vermífugo rosado</b></defdum> </u>
+<u valor="E" >¿Cómo? </u>
+<u valor="I1" > <b>Vermífugo rosado</b> se llamaba </u>
+<u valor="E" > ¿Eso qué es? </u>
+<u valor="I1" > Pues <defcopvb lemma ="Ser" pos ="VAII1S0">era</defcopvb> <rdefiniens file="moconoque.jpg" source="http://nux.ula.ve">un <b>frasquito</b> <examkr valor="como">como</examkr> ese que dan ahora </rdefiniens> </u>
+<u valor="E" > <rdefiniens>Ah ok, era un medicamento, no era nada natural</rdefiniens> </u>
+<u valor="I1" > <defcopvb lemma ="Ser" pos ="VAII1S0">Era</defcopvb> <rdefiniens file="moconoque.jpg" source="http://nux.ula.ve">un medicamento que se llamaba <b>vermífugo rosado</b> pero era muy peligroso, era muy peligroso porque no se le podía dar sal a los niños, no se le podía dar sal porque si se les daba sal se morían y varias, en Altamira murieron dos niñitos que la mamá les hizo una sopa un caldo y les dió y... Era muy peligroso, eso no había que dale sal durante tres días </rdefiniens>    </u>
+<u valor="E" > ¿Y de dónde traían eso? </u>
+<u valor="I1" > <rdefiniens>No pues eso lo vendían, lo traían y botaban muchos parásitos los niños y quedaban sanos pues</rdefiniens> Pero era con mucho <b>cuidao</b> que había que dales el medicamento  </u></def>
+<def typ="1"><u valor="E" > Mmm, claro. Y la, y cómo se llama, <defdum><b>plantas así que sembraran pa remedio </b></defdum>  </u>
+<u valor="I1" > Sí, mucho<defop valor="dos puntos">:</defop> <rdefiniens file="plantas_remedios.jpg" source="https://s-media-cache-ak0.pinimg.com/736x/78/46/6b/78466b198a8591119845fee4cd534102.jpg">Geranio,romero, ruda, este cómo es, malva, la malva que es muy fresca, eso se le daba <b>guarapito</b> de malva a los niños también</rdefiniens > </u>
+<rdefiniens><u valor="E" > ¿Y pa qué servía? </u>
+<u valor="I1" > Pa ellos cuando tenían mucha calor. Los claveles blancos, claveles blancos mire, eso era era para la fiebre, eso mire se les daba un <b>guarapo</b> de claveles blanco y se les iba la fiebre </u></rdefiniens></def>
+<u valor="" >Jum, qué interesante. Y hoy en día eso lo cultivan esos claveles </u>
+<u valor="" >Sí, sí, sí los cultivan. Aquí una vecina tiene claveles. Pero ya la gente no ya la gente de ahora no, ahora es pura clínica y puras cosas de esas y áhi, yo no le paran </u>
+<u valor="E" >Sí, lamentablemente</u>
+<u valor="I1" > Y <b>el mal de ojo</b> sí existe <b>el mal de ojo</b> </u>
+<u valor="E" > ¿Qué es <b>el mal de ojo</b>? </u>
+<u valor="I1" > <def typ="1"> <defdum><b>El mal de ojo</b> </defdum><defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens file="mal_deojo.jpeg" source="http://nux.ula.ve">un es un les da un vómito y vómito y diarrea y este no le vale el médico porque la hija mía la mayor ella le dio eso y la tuve hospitalizada y eso ya se me moría, entonces un señor que nos llevó en el taxi me dijo <invcomm> llévela a un curandero porque esa niña lo que tiene es <b>mal de ojo</b></invcomm> y entonces sí era mal de ojo. La lleve onde una señora, la sobó y ese otro día amaneció bien</rdefiniens></def>  </u>
+
+<u valor="I1" > Por aquí arriba hay una señora que esa sí es curandera fina. Un nieto mío, ya está hombre, tiene veinte años. Estaba <b>chiquitico</b> lo trajo la hija mía que se estaba muriendo, lo tenía en el hospital en Barinas, y estaba pero como muerto y <b>entonje</b> ella ya llorando ya ya no se le hallaba que. Entonces yo no pues vaya donde esa señora. Ay mire pues después ella <b>lo curó</b> Ella los pone hacia boca abajo, lo soba hacia abajo, después le da una toma y al <b>ratico</b> el <b>muchachito</b> ya pidió agua, ya estaba por tener más de un <b>añito</b>, pero ya se moría. Sí, eso existe el <b>mal de ojo</b> ah y hay médicos que creen y médicos que no creen. En Barinitas sí hay un doctor que cuando le llevan un <b>niñito</b> así dice <invcomm>no llévelo onde una curandera porque ese lo que tiene es <b>mal de ojo</b> </invcomm>, el doctor Rivero  </u>
+ <def typ="1"><u valor="E" >¿Y qué es una <defdum><b>toma</b></defdum>? ¿Qué es eso de toma? </u> <u valor="I1" > Eso <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb>  <rdefiniens file="bebedizo.jpg" source="http://nux.ula.ve"> un <b>bebedizo</b>, le pone claveles blancos, le coloca unas hojas que no sé qué será ella, pero más veo yo los claveles blancos, y le echan un anillo de oro, un anillo de oro y una o una cadena, esa es la toma que le dan a los niños</rdefiniens> </u></def>
+ 
+<u valor="E" > Y la gente antes así mayor, ¿cuál era la enfermedad más fuerte? </u>
+
+<u valor="I1" >No. Les daba gripe pero casi así enfermedades como dan ahorita no. Ay, eso ahora todo gente tan joven muriéndose de cáncer Dios mío, eh antes no. Mi mamá murió de <b>ochenticinco</b> años, mi papá sí tenía setenta y tres y un abuelito que vivía con nosotros murió de ciento cinco años.</u>
+
+<u valor="E" > Y qué cree usted que influía en eso que la gente durara tanto?</u>
+<u valor="I1" > Yo digo que era la alimentación, la buena alimentación, porque es que ahorita usted se come una papa y lo que come es veneno porque esa papa es puro veneno. En cambio en esa época mi papá jamás le echaba, el cultivaba y él jamás usó veneno pa ninguna planta. Él sembraba mire, papa negra y papa blanca y sembraba to esas e maíz, caraota y él jamás usó veneno y eso no se dañaba la la. Y uno se comía esas papas y ay ahora no mire, usted cocine una papa ahorita y la deja pa mañana pa que vea como está hirviendo esa... Hierve aquello.       </u>
+<u valor="E" > Sí, eso influye en la salud ¿verdad? </u>
+<u valor="I1" > ¡Sí, claro! <paraverb valor="tose"> perdón</paraverb> Y yo digo que eso es la alimentación porque esa arepa era muy sana esa arepa de maíz. Dígame esa arepa de maíz cuando estaba fresco, con una sopa de caraota fresca, eso sí era divino, já, eso no había pa qué, claro, antes comía uno aquello, cuajada, huevos, las gallinas, en el patio gallinas, los huevos de ahí mismo, todo. y los cochinos que criaba uno pa comer cochino. </u>
+<u valor="E" > Claro. Y el curandero o la curandera. Ah eso le iba a preguntar ¿Qué animales?</u>
+<u valor="I1" > El cochino sí, el cochino. Y bueno eso era pa vender y comer  </u>
+<u valor="E" > La la digamos que la salud entraba por la boca. </u>
+<u valor="I1" > Por la boca sí señor </u>
+<def typ="1"><u valor="E" > y el curandero o la curandera ¿Qué es eso? </u>
+<u valor="I1" > <defdum><b>La curandera</b></defdum> ese <defcopvb lemma ="Ser" pos ="VAII1S0">era </defcopvb> <rdefiniens file="curandero.jpeg" source="https://en.wikipedia.org/wiki/Curandero#/media/File:Curandera_performing_a_limpieza.jpg">el que curaba las <b>el mal de ojo</b> el que curaba las enfermedades, sí </rdefiniens> </u>
+<rdefiniens><u valor="E" > Y cómo hacía, ¿también veía la orina o no?</u>
+<u valor="I1" > No la de los, el mal de ojo no la del mal de ojo ve el niño, veía el niño. Le el señor Don Miguel sí veía la orina pa seber que tiene si era los riñones si era el hígado si era lo que <b>juera</b> </u></rdefiniens></def>
+
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AS13LP02025- yurmari-	2014-05-20	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

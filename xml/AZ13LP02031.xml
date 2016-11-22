@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LP02031" MIMETYPE="audio/wav" SIZE="2159690 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:04:29 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora Bárbara Gonzalez Vergara de 84 años </name>
+</group>
+</cesHeader>
+
+<u valor="E" > Señora Bárbara, ¿cuál es el trabajo que más realiza la gente aquí? </u>
+
+<u valor="I1" > Qué le digo yo, ah, la agricultura, sembrar papas, sembrar lechuga, sembrar de esta cómo es, zanahoría </u>
+
+<u valor="E" > Mmm, y ¿qué herramientas utilizan para hacer ese trabajo? </u>
+
+<u valor="I1" > La vaina e las semillas, escardillas,garabatos, Mjum </u>
+
+<u valor="E" > ¿Y antes se utilizaban igual esas mismas herramientas? </u>
+
+<u valor="I1" > Sí señora </u>
+
+<u valor="E" > Okey. Usted acostumbra a tejer señora Bárbara? </u>
+
+<u valor="I1" > No, yo no sé de eso. Yo de eso sí no sé </u>
+
+<u valor="E" > Pero, ¿hay personas que acostumbran hacerlo aquí en el pueblo? </u>
+
+<u valor="I1" > Eso sí no sé yo <overlap valor="E" > ¿No sabe nada de tejido?</overlap> No, no </u>
+
+
+<u valor="E" > Y ¿qué diferencia ve usted a los tiempos de antes  a los tiempos de ahora? ¿Cómo era su vida antes? </u>
+
+<u valor="I1" > Ah no eso era algo, era muy serio </u>
+
+<u valor="E" > Serio ¿por qué?</u>
+
+<u valor="I1" > Ay porque tenía que trabajar, <b>deservar máiz</b>, tampar arvejas, agarrar arvejas, agarrar <b>máiz</b>  </u>
+
+<u valor="E" > Y hoy día ¿cómo la ve? </u>
+
+<u valor="I1" > Ahora no, más bien se asolea uno, de ahora no. Antes sí era como se dice, bravo eso, ahora no </u>
+
+<u valor="E" > Okey. Y en cuanto al vestido, al calzado, ¿qué cambios ve usted en lo de antes a ahora? </u>
+
+<u valor="I1" > Bueno pues el calzado pues, el calzado me lo compran mis hijas </u>
+
+<u valor="E" > Mjum. Y antes ¿qué utilizaban? </u>
+
+<u valor="I1" > Cotizas de fique, y ahora y ahora si no son zapatos...</u>
+
+<def typ="1"> <u valor="E" > Cotizas de fique <overlap valor="I1" > De fique </overlap> Ajá y ¿qué es el fique? </u>
+
+<u valor="I1" > Ese <defcopvb lemma ="Ser" pos ="VAIP3S0"> es </defcopvb> <rdefiniens>una una mata que sacan el fique, lo raspan así y sacan el fique</rdefiniens>  </u>
+
+<u valor="E" > Ajá, y la mata era de qué </u>
+<u valor="I1" > De de de cómo es que se llama eso, de fique es, de fique, <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una <b>matota</b> muy <b>grandota</b></rdefiniens>   </u></def>
+
+<u valor="E" >Mjum. Y utilizaba igual <b>vestiditos</b> como los que usa hoy día o ¿con qué se vestía antes? </u>
+
+<u valor="I1" > No, este de antes, ahora es que uno se viste bonito </u>
+
+<u valor="E" > Mmm. por ¿qué utilizaba antes? </u>
+
+<u valor="I1" > Pues trapos viejos así que me regalaban,pa qué voy a negar porque un pobreza muy grande, ahora no </u>
+
+<u valor="E" > Mjum. Y uted ¿se llegó a casar señora Bárbara?   </u>
+
+<u valor="I1" > No, no. Yo viví ajuntada </u>
+<u valor="E" > ¿Ajuntada?  ¿Qué es eso ajuntada? </u>
+<u valor="I1" > Con un señor, con un señor viejo ya, pero eso viví yo a lo rico </u>
+<u valor="E" >  ¿Vivió a lo rico? </u>
+<u valor="I1" > Sí señora  </u>
+<u valor="E" > ¿Por qué?  </u>
+<u valor="I1" > porque el me compraba de todo, de todo por bulto, todo por bulto, sí señora. Ahora ve, mis hijos y mis nietos, </u>
+<u valor="E" > Ah Okey. Aquí cuando nace un bebé ¿qué acostumbran a hacer? señora Bárbara    </u>
+<u valor="I1" >  Eso sí no sé yo </u>
+<u valor="E" > No sabe, ¿no?. ¿Lo bautizan?  </u>
+<u valor="I1" > Ah eso sí. Lo bautizan, le ponen la agua, los óleos </u>
+<u valor="E" > ¿Los qué?  </u>
+<u valor="I1" > Los óleos  </u>
+<u valor="E" > ¿Qué es eso?  </u>
+<u valor="I1" > ¿Ah?, Bautizo </u>
+<def typ="4"> <u valor="E" > ¿Qué son los óleos señora Bárbara?</u>
+<u valor="I1" > <defcopvb lemma ="Ser" pos ="VAIP3P0">son</defcopvb><rdefiniens> el bautizo</rdefiniens>   </u> </def>
+<u valor="E" >Mmm. Y ¿conqué propósito bautizan a los niños, a los bebes?</u>
+<u valor="I1" > Eso los llevan a la iglesia y allá en la iglesia los bautizan </u>
+<u valor="E" > ¿Quién lo bautiza? </u>
+<u valor="I1" > El cura  </u>
+<u valor="E" > ¿Y eso es para qué? ¿Para qué lo hacen? ¿Qué cree usted que eso es para qué? </u>
+<u valor="I1" > Eso es por, tiene que llevar los padrinos y las madrinas </u>
+<u valor="E" > Mjum, los padrinos y las madrinas. Y ¿qué hacen en la iglesia?   </u>
+<u valor="I1" > Le rezan será <comentario valor="risas"> [risas]</comentario> Eso es todo, más nada </u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LP02031 - yurmari-	2014-04-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+
+</doc>

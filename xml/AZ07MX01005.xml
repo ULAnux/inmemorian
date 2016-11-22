@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><doc><cesHeader type="Oral" date="2007">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ07MX01005" MIMETYPE="audio/wma" SIZE="2806136" CREATED="26-08-2013" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duracion"> 00:11:27 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque, municipio Rangel</pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="2">
+<name type="Entrevistador" id="E">Henriette Arreaza</name>
+<name type="Informante" id="I1">Señor Gil</name>
+<name type="Informante" id="I2">Informante no identificado</name>
+
+</group>
+</cesHeader>
+
+<u valor="E" > ¡Ajá! Dígame otra vez entonces, me va a disculpar, pero tenemos que repetir. Su papá y su mamá  ¿Dónde nacieron?</u>
+<u valor="I1" > En el Royal.</u>
+<u valor="E" > Los dos.</u>
+<u valor="I1" > Los dos.</u>
+<u valor="E" > El nombre del papá.</u>
+<u valor="I1" > Daniel Lacruz, el nombre de mi papá.</u>
+<u valor="E" > ¡Ajá!</u>
+<u valor="I1" > Daniel Lacruz.</u>
+<u valor="E" > <prosodia valor="up"> ¿Y el nombre de su mamá?</prosodia></u>
+<u valor="I1" > Felici<prosodia valor="interrupt">...</prosodia> María Feliciana Gil.</u>
+<u valor="E" > <comentario valor="ruido de fondo">[ruido de escoba mientra los participantes conversan]</comentario> María Feliciana Gil. Me decía que el señor Lacruz era depositario de la carretera La Zamoreña.</u>   
+<def typ = "1"><u valor="I1" > <b>La Zamoreña</b>, si señora.</u>
+<u valor="E" > Que <defcopvb lemma="ser" pos="VAII1S0"> era </defcopvb> , que esa carretera iba de dónde a dónde.</u>
+<u valor="I1" > <rdefiniens>Esa carretera iba <paraverb valor="alarg"> de </paraverb> de aquí <paraverb valor="alarg">de la</paraverb> Trasandina a Barinas.</rdefiniens></u> ... </def>
+<u valor="E" > A Barinas <prosodia valor="up"> Y eso ¿Estaba Usted chiquito cuando su papá estaba trabajando en eso?</prosodia></u>
+<u valor="I1" > <paraverb valor="alarg"> Sí</paraverb>, yo estaba pequeñito cuando él <b>pegó a</b> la carretera, cuando él estaba, que yo ya me di cuenta. Y eso ya era <overlap valor="E" > Sí</overlap> <paraverb valor="alarg"> él</paraverb>, era obrero del Ministerio <inintel>...</inintel><overlap valor="E" > <paraverb valor="alarg"> O</paraverb></overlap> de carreteras <comentario valor="voz solapada">[la intervención del entrevistador hace ininteligible un fragmento del enunciado del informante]</comentario></u>
+<u valor="E" >O sea, que eso sería por los años  ¿Qué? Treinta y pico <prosodia valor="up">¿No?</prosodia> <overlap valor="I1" > Sí señor</overlap> Treinta y dos, treinta y tres, treinta y cuatro, treinta y cinco.</u>
+<u valor="I1" > Yo <b>me daría de cuenta</b> más o menos como por <b>ahi</b> <paraverb valor="alarg"> en</paraverb>, en el cincuenta, por <b>ahi</b> <inintel>...</inintel> <overlap valor="E" > <paraverb valor="alarg"> Ajá</paraverb></overlap> más o menos, pues.</u>
+<u valor="E" >Está bien.</u>
+<u valor="I1" > Por <b>ahi</b> de unos diez, de unos diez <b>pa alante</b> <overlap valor="E" > Ajá</overlap> como en los cuarenta <b>ahi</b>, más o menos, por <b>ahi</b> <paraverb valor="alarg">en</paraverb>, en el cuarenta, una cosa así. Quizás fue que yo ya me di cuenta <prosodia valor="interrupt">...</prosodia> es que yo estaba pequeñito.</u> 
+<u valor="E" > Sí, tendría Usted  ¿Qué? Cómo diez años </u>
+<u valor="I1" > Más o menos, si señor <overlap valor="E" >. Ajá</overlap> cuando ya averigüé y mi papá, estaba en carretera. Eso es carretera, eso es trabajo de carretera. <overlap valor="E" >Ajá</overlap> <paraverb valor="alarg">Éste</paraverb>, él estaba <paraverb valor="alarg">de</paraverb> de caporal en la carretera, de caporal. Después, <paraverb valor="alarg"> mmm</paraverb> era el encargado y eso, y ya después brincó a ca<prosodia valor="interrupt">...</prosodia> a depositario. El era caporal primero <overlap valor="E" > <paraverb valor="alarg"> Ah</paraverb>, ajá</overlap> y depués de caporal, ya, después, ya, supe yo que era depositario. Y yo estuve trabajando en esa carretera porque <inintel>...</inintel> <overlap valor="E" > ¡Ah, si, Usted trabajó con él!</overlap> Sí, yo trabajé. Seis meses me estuve con él allá. </u>
+<u valor="E" >  Y <prosodia valor="up">¿Cómo era ese trabajo?</prosodia> </u>
+<u valor="I1" > ¡Ay hija! ¡Pico y pala! Eso era bravo. Eso era mucho.</u>
+<u valor="E" >¡Ustedes estaban abriendo el camino!</u>
+<u valor="I1" >Abriendo el camino, porque no habían <prosodia valor="interrupt">...</prosodia> las máquinas iban atrás más bien, atrás, y nosotros íbamos <b>alante</b> </u>
+<u valor="E" > y <prosodia valor="up">¿Con dinamita? ¿O?</prosodia></u>
+<u valor="I1" > Con dinamita <prosodia valor="interrupt">...</prosodia>  </u>
+<u valor="E" > Porque, eso era pura piedra <prosodia valor="up">o ¿Qué?</prosodia></u>
+<u valor="I1" > Pura roca, pura peña y puros árboles, pura montaña. Yo estuve <paraverb valor="alarg">de</paraverb>, más allá de La Soledad <b>pa abajo</b>, <b>pa donde</b> llaman La Yuca, allá estuve yo.</u>
+<u valor="E" > <paraverb valor="alarg"> Eh, de</paraverb>  Soledad <b>pa allá</b>, hacia, hacia Barinitas.</u>
+<u valor="I1" > Sí, señor. Ya cerca de Barinias</u>
+<u valor="E" > Y esa, en <prosodia valor="up"> ¿En qué año se terminó de <b>hacé</b> esa carretera?</prosodia></u>
+<u valor="I" > Ah, eso si no me acuerdo yo <overlap valor="E" > ¡Ah!</overlap> en qué año fue que se vino a terminar, pues, pero yo me estuve seis meses apenas, trabajando allá. Vivía mi papá en La Popa, Mata de la Soledad, por <b>ahi</b> vivía. <overlap valor="E" >Ajá</overlap> El vivía con una, una señora ahí, se había <b>ajuntao</b>, pero él era <b>casao</b>, él, la esposa de él, <paraverb valor="alarg"> de él</paraverb> la esposa de él se llamaba Flor <overlap valor="E" > Ajá</overlap>. Era <b>casao</b>, la esposa se llamaba Flor. Y la esposa estaba viva. Era maestra de escuela, y todo. Era la mamá de Doña Aura Becerra, que Usted la debe conocer.</u> 
+<u valor="E" > Doña Aura Becerra.</u>
+<u valor="I1" > Doña Aura La cruz Becerra.</u>
+<u valor="E" > ¿Dónde está ella?</u>
+<u valor="I1" > De Mérida </u> 
+<u valor="E" >¡Ah!</u> 
+<u valor="I1" > Y doña Irma, la señora Irma La Cruz <overlap valor="E" > Ajá</overlap> La Cruz Bravo, firma por el,<paraverb valor="alarg">por</paraverb> por el papá de ellas, por el <paraverb valor="alarg">por</paraverb><prosodia valor="interrupt">...</prosodia> Ellos son Bravo <paraverb valor="alarg">por</paraverb> el apellido <paraverb valor="alarg">de</paraverb> del abuelo.</u>
+<u valor="E" >  El papá de su papá <prosodia valor="up">¿Era Bravo?</prosodia></u>   
+<u valor="I1" > Si, si <overlap valor="E" > <prosodia valor="up">¿Y la mamá?</prosodia></overlap> No, no, de mi papá no, <paraverb valor="alarg">de</paraverb> doña Flor.</u>
+<u valor="E" > De la que fue esposa de su papá.</u> 
+<u valor="I1" > <prosodia valor="slow"> Eso</prosodia>, y el la llamaba Flor <overlap valor="E" > Y enton</overlap> Flor Bravo <overlap valor="E" >Ajá</overlap> el apellido de ella era Bravo, es la cosa.</u>
+<u valor="E" > Y el papá de su papá ¿Quién era? ¿Cómo se llamaba?</u>
+<u valor="I1" > Castilio Parra.</u> 
+<u valor="E" > Y ¿Era de dónde?</u>
+<u valor="I1" > De aquí de Mucuchíes.</u> 
+<u valor="E" > De Mucuchíes <prosodia valor="up"> ¿Y la mamá?</prosodia></u>
+<u valor="I1" > <paraverb valor="alarg"> mmm </paraverb> Josefa<prosodia valor="up"> ¿La mamá de mi papá?</prosodia></u>
+<u valor="E" >Ajá.</u>
+<u valor="I1" > <paraverb valor="alarg">Se </paraverb>llamaba Josefa La Cruz.</u> 
+<u valor="E" > La Cruz, y ¿De dónde era ella?</u>
+<u valor="I1" > <prosodia valor="pause">...</prosodia> <prosodia valor="slow"> Pues la verdad es que yo no recapacito</prosodia> de adónde era, si era de aquí de Mucuchíes o era de Mérida, pero ella está <overlap valor="E" > <paraverb valor="alarg"> ¡Ah!</paraverb></overlap> sepultada aquí en Mucuchíes, Josefa <overlap valor="E" > ya</overlap> Josefa, Josefa La Cruz era <overlap valor="E" >Ajá</overlap> la mamá de mi papá.</u>
+<u valor="E" > De su papá, pero entonces,su papá no estuvo casado con su mamá.</u>
+<u valor="I1" > No, no.</u> 
+<u valor="E" > Y ¿Su mamá si se casó? </u>
+<u valor="I1" > <comentario valor="voces de fondo">[ininteligible]</comentario> Y lo mismo que él, él era natural, porque el ape<prosodia valor="interrupt">...</prosodia> el papá firmaba Parra, y él firmaba La Cruz, que era el apellido de la mamá.</u> 
+<u valor="E" > De la mamá. El era natural. Es que en esa época eran muchos lo hijos naturales <prosodia valor="up"> ¿Verdad?</prosodia> <overlap valor="I" > Si</overlap> y las mujeres que  ¿Criaban solas a los hijos? ¿O cómo?</u>
+<u valor="I1" > Las mamás que criaban los hijos, las mamás, las mamás eran las que los criaban.</u>  
+<u valor="E" > <prosodia valor="up">¿Su mamá no se casó nunca?</prosodia></u>
+<u valor="I1" > No. No, ella se casó ya después, ya al cabo de la <b>viejez</b> ya <overlap valor="E" >Ah, ya después de vieja</overlap> ya a los últimos días que iba a vivir <overlap valor="E" > ¡Si!</overlap> <comentario valor="risas">[risas]</comentario> .</u>
+<u valor="E" > Ah, pero que bueno, murió acompañadita. <overlap valor="I1" >si, señor</overlap> Y, y <prosodia valor="up">¿Cuántos hijos tuvo su mamá?</prosodia> </u>
+<u valor="I1" > Ella <paraverb valor="alarg">tuvo</paraverb>. Primero fui yo, después de yo iba Josefa, dos, yo no me acuerdo cuántos habemos, habíamos pues. Y despues de yo iba Josefa, después de Josefa <prosodia valor="pause">...</prosodia> <paraverb valor="alarg">iba </paraverb> Valerio, eran tres. Después de <paraverb valor="alarg">Valerio </paraverb> iba <prosodia valor="slow">Epifanio</prosodia>, cuatro. Depués de Epifanio iba Silvino, eran cinco. Después de Silvino<prosodia valor="interrupt">...</prosodia> <inintel>...</inintel></u>       
+<u valor="E" > La comadre <prosodia valor="interrupt">...</prosodia></u>
+<u valor="I1" > Seis, eran.</u> 
+<u valor="E" >Eran seis.</u> 
+<u valor="I1" > <paraverb valor="alarg">Era</paraverb> Josefa <prosodia valor="interrupt">...</prosodia></u>
+<u valor="E" > Y <prosodia valor="up">¿El de su papá era Usted? ¿O varios de su papá?</prosodia> </u>
+<u valor="I1" > No, yo solo <overlap valor="E" > ¡Ah!</overlap></u> 
+<u valor="E" > Y los otros <prosodia valor="up">¿Eran de quién?</prosodia></u>
+<u valor="I1" > Los otros <paraverb valor="alarg">eran</paraverb> aparte, lo mismo, naturales, así <overlap valor="E" >Si</overlap> tenían el apellido todos de la mamá.</u>  
+<u valor="E" > De su mamá que era La Cruz.</u> 
+<u valor="I1" > Gil</u>
+<u valor="E" > Gil, perdón. De su mamá que era <prosodia valor="interrupt">...</prosodia> <prosodia valor="up">Y ¿Quién par, quién <b>parteó</b> a su mamá cuando nació Usted?¿Usted se acuerda?</prosodia></u> 
+<u valor="I1" > No, yo, eso si no sé yo, pero eso, yo creo que por <b>figuración</b> yo vi que era mi nonita, mi nona, la mamá <paraverb valor="alarg">de</paraverb> mi mamá.</u>  
+<u valor="E" > <prosodia valor="up">¿Cómo es que se llamaba la mamá de su mamá?</prosodia></u>
+<u valor="I1" > <comentario valor="voces de fondo">[ininteligible]</comentario>Teodora.</u>
+<u valor="E" > Teodora La Cruz.</u>
+<u valor="I1" > <paraverb valor="alarg">Teodora</paraverb> Teodora Pérez.</u>
+<u valor="E" > Pérez <prosodia valor="up">¿Y el papá?</prosodia></u>
+<u valor="I1" > <prosodia valor="up">¿De mi nona?</prosodia> </u>
+<u valor="E" > De su mamá</u>
+<u valor="I1" > De mi, el papá de mi mamá era Bralvio, Bralvio Gil.</u>
+<u valor="E" > Bralvio Gil. Y, Y <prosodia valor="up">¿Bralvio y Teodora sí se casaron?</prosodia></u>
+<u valor="I1" > Ellos era casados.</u> 
+<u valor="E" > Ellos sí eran casados.<prosodia valor="up">¿Y los papás de los abuelos?</prosodia> No se acuerda.</u>
+<u valor="I1" > No, eso si no me acuerdo.</u>
+<u valor="E" > De eso ya, ya hasta ahí no llega.</u>
+<u valor="I1" > Hasta ahí llegué, no <comentario valor="risas">[risas]</comentario> <overlap valor="E" >Bueno por ahí, ahí sacamos </overlap> me cansé en la cuesta, ya ahí no puedo subir más <comentario valor="risas">[risas]</comentario></u>
+<u valor="E" > Ah, entonces su nona, la que lo <b>parteó</b> a usted.</u> 
+<u valor="I1" > Si, mi nona creo que fue la que <b>parteó</b><inintel>...</inintel> cuando yo.</u>  
+<u valor="E" > Ajá. En la, o sea que Usted nació en la casa.</u>
+<u valor="I1" > Si, si, creo que nací ahí donde tía Luisa.</u> 
+<u valor="E" > Donde tía Lida <prosodia valor="interrupt">...</prosodia></u>
+<u valor="I1" > Ajá. Tía Luisa pertenece aquí a Mixteque.</u>
+<u valor="E" > y  ¿Cuál sería? <prosodia valor="interrupt">...</prosodia> ¿Usted se acuerda cuál sería la<prosodia valor="interrupt">...</prosodia>? <comentario valor="se dirige a terceros">[le entregan una bebida y el entrevistador agradece]</comentario>¡Ay gracias! Este que tiene menos <comentario valor="se dirige de nuevo a I1">[retoma la pregunta que había dejado en el aire] </comentario> La primera casa del Mixteque</u>
+<u valor="I1" > La primera casa en Mixteque si no, ahí si está difícil <b>pa yo dale </b> razón, <b>pa yo decile</b> <inintel>...</inintel> <comentario valor="risas">[risas]</comentario></u>
+<u valor="E" > Pero cuando <prosodia valor="interrupt">...</prosodia> <comentario valor="Entrevistador se dirige a terceros">[pregunta sobre la bebida que le dieron]</comentario>¡Ay que rico!¿Esto qué es? <comentario valor="voces de fondo">[le responden quienes le entregaron la bebida]</comentario> <u valor="" > Frescolita. Café con leche.</u> <comentario valor="Entrevistador se dirije a terceros">[Pregunta de nuevo por los ingredientes de la bebida]</comentario> Y ¿con qué que está tan sabroso? <comentario valor="voces de fondo">[le indican cuáles son los ingredientes]</comentario> <u valor="" >solo, nada más.</u> <overlap valor="I1" > Sólo que, que en Mixteque lo que <b>habían</b><prosodia valor="interrupt">...</prosodia></overlap><comentario valor="Entrevistador se dirije a terceros">[Vuelve a preguntar por los ingredientes]</comentario>¿leche de vaca será?</u>
+<u valor="I1" > Sea, que, aquí en los campos <comentario valor="voces de fondo">[mientras habla I1, las voces de fondo indican a E cuáles son los ingredientes de la bebida] </comentario><overlap valor="" >leche de coco</overlap> <b>habían</b> eran poquiticas casas, poquitas <inintel>...</inintel> </u>
+<u valor="E" >  ¿Cómo cuántas había aquí? </u>
+<u valor="I1" > Más o menos <b>pa</b> Mixteque <b>habían</b>, si mucho <b>habían</b> eran como unas quince casitas.</u>   
+<u valor="E" > Y ¿Quién hacía esas casas? </u>
+<u valor="I1" > La misma, <paraverb valor="alarg">los</paraverb><prosodia valor="interrupt">...</prosodia> la misma mano de obra, los mismos, los mismos del campo, <overlap valor="E" >Ajá</overlap> pero entonces eran las paredes de tierra, las paredes, de <prosodia valor="interrupt">...</prosodia>  </u>
+<u valor="E" > De tapia</u>
+<u valor="I1" > <def typ="4">De tapia,<aproximd> que <defmetalvb lemma ="entender" pos ="VMIP3S0">entiende</defmetalvb> de</aproximd> <rdefiniens><overlap valor="E" >Ajá</overlap> <syno>tierra</syno></rdefiniens> </def></u> 
+<u valor="E" > <prosodia valor="up">¿Quién hacía los <b>tapiales</b></prosodia></u>
+<u valor="I1" > Los <paraverb valor="alarg"><b>tapiales</b>, <b>pa</b> yo <b>decile</b> eh, eso si</paraverb> eso lo hacían ellos mismos al, a lo <b>bronco</b> pues, a lo <b>bronco</b> <overlap valor="E" > Ajá</overlap> con tal pudieran armar un tapial, ahí la llevaban. </u>
+<u valor="E" > Y El techo ¿De qué lo hacían?</u>
+<u valor="I1" > El techo lo hacían <paraverb valor="alarg">de </paraverb>madera y teja. Y también hacían los <b>ranchitos</b>, los primeros ranchitos, de <b>tamo</b>, <b>umjú</b> </u>
+<u valor="E" > <b>Tamo</b>.</u>
+ <u valor="I1" >  De <b>tamo</b>,  <def typ="4"> <b>tamo</b> de trigo, <b>tamo</b> de trigo <overlap valor="E" ><prosodia valor="up">¿Qué es el tamo?</prosodia> ¡Ah, <b>tamo</b> de trigo!</overlap> Eso. Y <paraverb valor="alarg">de</paraverb> <overlap valor="E" >La espiga</overlap>  <rdefiniens><syno><overlap valor="I2" >el tallo</overlap></syno> </rdefiniens></def> lo mismo que en los páramos,<overlap valor="E" >el tallo</overlap> los mismos que por allá en los páramos, hay, <b>habían</b> muchos ranchitos, muchas casitas, pero eran de paja, porque por allá es <b>pajonales</b> lo que hay, entonces cortaban la paja y hacían <comentario valor="ruido de fondo">[ruido de máquinas]</comentario> los <b>manojitos</b> <prosodia valor="up"> ¿no?</prosodia>, como <b>manojos</b> de trigo, y allí iban haciendo las casas   </u>   
+<u valor="E" > <prosodia valor="up"> Y las paredes ¿De qué las hacían?</prosodia> </u>
+<u valor="I1" > De bahareque, <paraverb valor="alarg"> de</paraverb> <b>estantillos</b></u>
+<u valor="E" > Ah, de piedra no.</u>
+<u valor="I1" > No, tal cual, cimiento de piedra y del resto todo <prosodia valor="interrupt">...</prosodia> </u>
+<u valor="E" > El cimiento, nada más, de piedra <overlap valor="I1" > Ajá</overlap> <paraverb valor="alarg">ajá</paraverb><prosodia valor="pause">...</prosodia> y había gente que <prosodia valor="interrupt">...</prosodia> ¿Quién hacía los muros de piedra y esos <inintel>...</inintel>?</u>
+<u valor="I1" >No,lo menos, la misma gente, la misma comunidad.</u> 
+<u valor="E" > <prosodia valor="up">¿Usted sabía?</prosodia></u>
+<u valor="I1" > No, yo, por <b>ahi</b> me aplico en <def typ="3"><b>tapar un portillo</b> <overlap valor="E" > En tapar un portillo. </overlap>  Eso <defop valor="dos puntos">:</defop> <rdefiniens>lanzar piedras por <b>ahi</b>, <b>tiralas</b> <overlap valor="E" >Ajá</overlap> como caigan</rdefiniens></def> <overlap valor="E" > Ajá</overlap> pero, <b>pa</b> pegar piedras, eso tienen que saber <b>buscale el lao</b> a la piedra <paraverb valor="alarg"> y </paraverb> <b>buscale el lao</b>, la cara de la piedra, y que la piedra quede trabada, que no se vaya de golpe a resbalar y que <prosodia valor="interrupt">...</prosodia> porque al resbalarse una, se van todas las secas al suelo <overlap valor="E" > Se van todas. <prosodia valor="slow">Claro</prosodia></overlap> </u> 
+<u valor="E" > Y, y <prosodia valor="up">¿Quién era maestro en eso aquí? ¿había muchos maestros?</prosodia> </u>
+<u valor="I1" > Era tal cual, casi si, porque mire, <paraverb valor="alarg">eso</paraverb> eso <prosodia valor="interrupt">...</prosodia> Había un viejito que era Salomón, ese <paraverb valor="alarg">era</paraverb> <b>maestro de tapia</b> <prosodia valor="interrupt">...</prosodia> </u>
+<u valor="E" > <comentario valor="se dirije a terceros">[Entrega una taza y agradece por la bebida que le ofrecieron]</comentario> Dios le pague <comentario valor="ruido de fondo">[sonido de vajilla]</comentario></u>
+<u valor="I1" > Y <b>pa picar</b> la piedra, la misma cosa <overlap valor="E" >Salomón, <prosodia valor="up">¿Salomón qué?</prosodia></overlap> Salomón Rangel, se llamaba.</u>
+<u valor="E" > Ese era maestro de tapia.</u>
+<u valor="I1" > Si, maestro de tapia, y de hacer casas. Él era <prosodia valor="interrupt">...</prosodia></u>
+<u valor="E" > y <prosodia valor="up"> ¿Cómo se hacía? </prosodia> ¿La gente le pagaba <b>pa que hacía</b> la casa o cómo?</u>
+<u valor="I1" > ¡Claro! ¡Pero era baratísimo en ese tiempo! Usted sabe ¡Dos bolívares! Se ganaba el, el obrero <overlap valor="E" > <paraverb valor="inhal">¡Ah!</paraverb> </overlap></u>
+<u valor="E" >El, el día.</u>
+<u valor="I1" > El día, dos bolívares, un maestro. Ahora el obrero raso <paraverb valor="alarg">como</paraverb>, <b>zurroneando</b>, echando tierra en el <b>tapial</b>,y eso, era un bolívar, después subió a dos bolívares y <prosodia valor="interrupt">...</prosodia> </u>  
+<u valor="I2" > Eso era mucha plata en aquel tiempo, porque eso estamos hablando de cien años atrás, por lo menos. Cien años atrás. Ciento y <b>piquito</b> de años. En ese tiempo si acaso ganarían sería como una <b>locha</b>, hombre, <inintel>...</inintel> <overlap valor="E" > <paraverb valor="alarg"> mmm</paraverb> </overlap> Una <b>locha</b> o un <b>medio</b>  </u>  
+<u valor="I1" > Yo me empecé a ganar <b>medio</b>, <b>medio</b> <overlap valor="I2" > Eso es nada</overlap>, <b>medio</b> y Usted sabe qué, qué es medio </u>
+<u valor="E" > Y <prosodia valor="up">¿Haciendo qué?</prosodia> <overlap valor="I2" > <inintel>...</inintel> </overlap> </u>
+<u valor="I1" > Trabajando.</u>
+<u valor="E" > Ah, pero, ¿Trabajando en qué? </u>
+<u valor="I1" > Trabajando en trigo, en papa, <paraverb valor="alarg">en</paraverb> cualquier <overlap valor="I2"> en agricultura </overlap> en la agricultura, pues, en la agricultura.</u>  
+<u valor="E" > Usted siempre trabajó en la agriculttura</u>
+<u valor="I1" > Si, yo he sido agricultor desde <paraverb valor="alarg">que</paraverb> me dediqué a eso, que ya me di cuenta, ya <prosodia valor="pause">...</prosodia> me <b>dormí un poquito</b> fue a la pura agricultura.</u>  
+<u valor="E" > ¿Qué sembraba Usted antes? ¿Qué fue lo primero que Usted recuerda que sembró? </u>
+<u valor="I1" > Papas. </u>
+<u valor="E" > ¿Qué tipo de papa? </u>
+<u valor="I1" > Papa negra, que era la que había antes. </u>
+<u valor="E" > Papa negra <comentario valor="voces de fondo">[Se piden disculpas]</comentario> <overlap valor="" > ¡Disculpe!</overlap> </u> <comentario valor="silencio">[silencio]</comentario>
+<u valor="I1" > Papa negra. </u>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ07MX01005	Guillermo 	2013	Marcado+ Etiquetado	 Completo
+	
+</versiones>
+
+
+
+
+</doc>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc><cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Herramientas y Utensilios">
+<file ID="AH13PL02009" MIMETYPE="audio/wav" SIZE="484600" CREATED="2014-03-01" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:01:58 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señor Estanislao Paredes Paredes. Persona de 90 años </name>
+</group>
+</cesHeader>
+
+
+<u valor="I1" > La juventud de <b>orita</b> no se conforman en una <b>casita</b> sino que tiene que ser una casa de dos o tres plantas. Antes no. Yo nací en un <b>rancho e paja</b> </u>
+<u valor="E" >Ajá, ajá, hablemos de la de la construcción, de cómo era, de las herramientas que usaban pa construir,cómo, cómo hacían</u>  
+<u valor="I1" > Antes, antes se se se, había <b>puro rancho e paja</b> y era <b>horcones</b> de, se pone, se clavaban <b>horcones</b> y se amarraba <b>carruso</b> con <b>bejuco e fafá</b> que llamaban pa hacer una <b>casita</b> de de de paja.</u>
+<u valor="E" >¿Qué es un, qué es un, qué es un <b>bejuco</b>? </u> 
+<u valor="I1" > <def typ="4"> <b>Bejuco</b> <defcopvb lemma ="Ser" pos ="VAIP3S0"> es </defcopvb> un un un un <b>bejuco</b> como, se amarraba con <b>bejuco</b> <rdefiniens>como alambre pero ese no era alambre sino que eso nacía <b>poallá</b> en el monte, era muy duro ese <b>bejuco de fafá</b></rdefiniens></def></u> 
+
+<def typ="1"> <u valor="E" > <paraverb valor="alarg"> Ah</paraverb> ¿Fafá? ¿fafá qué era? ¿La mata?</u> 
+<u valor="I1" > <rdefiniens> Fafá<defop valor="dos puntos">:</defop> la mata sí. Ese es un <b>bejuco</b> <kinesic valor="señala con las manos"> como de aquí allá </kinesic></rdefiniens></u></def> 
+
+<u valor="E" > ¿Y qué es un <b>horcón</b>?</u>
+<u valor="I1" ><def typ="1"> Y <b>horcón</b> <defcopvb lemma ="Ser" pos ="VAIP3S0">es</defcopvb> un <b>horcón</b> es <rdefiniens>un <b>horcón</b> de palo. Y ese era pa pa hacer <b>ranchitos</b> de paja.</rdefiniens> </def> <b>Ora</b> pa hacer la pared de una casa e teja, como esta <b>pongámole</b>, esta es de tierra, no es de cemento, no es así de bloque. Esta casa tiene pa setenta y dos año de <b>vela hecho</b> yo </u>
+<u valor="E" > ¿Y es de tierra?</u>
+<u valor="I1" > Es de tierra. Ese se, se pone la <def typ="1"><b>armazón</b> <kinesic valor="mueve manos"> así </kinesic> <defop valor="dos puntos">:</defop> <rdefiniens>una tabla <b>pongámole</b> una tabla <b>poaquí</b> y otra <b>poaquí</b> y aquí una compuerta y aquí ta otra compuerta, pa pa pa pegar la primera armada</rdefiniens> </def>cuando <prosodia valor="interrupt">...</prosodia> <comentario valor="tocan la puerta"> [Tocan la puerta de la casa y los interlocutores se dirigen a abrirla y se interrumpe el audio de la entrevista]</comentario></u> 
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+	
+	AH13PL02009	yurmari	2014-01-03	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+
+</doc>

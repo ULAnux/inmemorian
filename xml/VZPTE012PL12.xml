@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE012PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="211245056" CREATED="2015-07-04" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:04:02 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:04:02 </extNote>
+<extNote id="NumeroInterlocutores">05</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="05">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Luis Sanabria </name>
+<name type="Informante" id="I2"> Maricela Santiago </name>
+<name type="Informante" id="I3"> Brian Bisar  </name>
+<name type="Informante" id="I4"> William Santiago </name>
+<name type="Informante" id="I5"> Dioberti Paredes </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+
+<u valor="I1" > .Mi nombre es Luis Sanabria eh para contribuir con "Déjame Pensarlo". <def typ = "1"> La palabra <b>puntal</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb>  <rdefiniens> eh una merienda a las dos tres de la tarde que siempre se acostumbra es una tradición que se acostumbra casi en todos los países andinos en que se le da al obrero.</rdefiniens> </def> </u>  
+<u valor="I2" > Hola, mi nombre es Maricela Santiago este la palabra es <def typ = "1">  <b>puntal</b> . <b>puntal</b>  bueno este <b>puntal</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  el lo decían antes no el café o café con pan, la comida de  de las cuatro de la tarde </rdefiniens></def>  </u>  
+<u valor="I3" > .Muy buenos días mi nombre es Brian Bisar y .pues aquí me están haciendo unas preguntas eh para el programa "Déjame Pensarlo", me preguntaron qué es <b>puntal </b>, bueno <def typ = "1"> <b>puntal</b>   creo que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando eh los obreros acostumbran comer un como una merienda a las cuatro de la tarde o cuando están ya terminando de trabajar. </rdefiniens> </def> </u>  
+<u valor="I4" > .Mi nombre es William Santiago para el programa "Déjame Pensarlo", la palabra de este momento es <b>puntal</b> <def typ = "1">  <b>puntal</b> <defcopvb lemma="ser" pos="VAII3S0"> era </defcopvb> <rdefiniens> la hora de la comida ¿no?  </rdefiniens></def>. </u>  
+<u valor="I5" > Bueno mi nombre es Dioberti Paredes para el programa "Déjame Pensarlo", la palabra .. <b>puntal</b>, <def typ = "1">   <b>puntal</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> la hora en que le dan la comida a los obreros a las cuatro, un refrigerio pue </rdefiniens> </def> . </u>  
+<u valor="I1" > .Eh bueno en relación con la palabra <b>pichache</b>.<def typ = "1">  La palabra .<b>pichache</b>.<defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb>  <rdefiniens> una persona pichirre, eh que no contribuye nada muy eh que vende cosas muy malas, eso tiene varias interpretaiones </rdefiniens> </def>  </u>  
+<u valor="I2" > ..<def typ = "1"> <b>Pichache</b>.o <b>pichachera</b> <b>pichache</b>. <defop valor= "dos puntos">: </defop><rdefiniens> algo que no que no sirve no sé, algo que no sirve </rdefiniens> </def>  </u>  
+<u valor="I3" > Eh también me dijero qué es <b>pichache</b>, <def typ = "1">  <b>pichace </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cómo le digo una ezpresión que usamos nosotros los pueblollaneros para decir que <invcomm> no eso sí está feo </invcomm> .está como decimos vulgarmente <b>pirata</b> pue .<mkr> o sea </mkr> está feo </rdefiniens> </def>. </u>  
+<u valor="I4" >  La segunda palabra es <b>pichache</b> <def typ = "1"> <b>pichache</b>.<defcopvb lemma="ser" pos="VAII3S0"> era </defcopvb> <rdefiniens> algo así como tipo <b>pirata</b>.aquí en el pueblo </rdefiniens> </def>. </u>  
+<u valor="I5" > Eh la segunda palabra  <b>pichache</b> , . <def typ = "1"> <b>pichache</b>  .<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando es muy poquito, cuando es muy <b>picachero</b> .muy egoista muy  <b>pichache</b> <b>pichache</b> </rdefiniens> </def> </u>  
+<u valor="I1" > .Y la palabra <b>usa</b> no sé en qué sentido porque U.S.A también son siglas de los Estados Unidos de Norteamérica y al mismo tiempo <b>usa</b>, algo que uno utiliza comúnmente por ahí  </u>  
+<u valor="I2" > ...<def typ = "1"> .<b>Usa</b>.ay yo <b>usa</b><defop valor = "coma"> , </defop>   <rdefiniens> no ya me da como pena porque <b>usa</b> le decían <invcomm>  </invcomm>Ay usted ya tiene dieciséis años ya tiene <b>usa</b> pero no no sé me da pena decirlo <comentario valor="risas" > [risas] </comentario> </rdefiniens> </def></u>  
+<u valor="I3" > Ajá y <def typ = "1"> <b>usa</b>  eh creo que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando .una chica se está desarrollando</rdefiniens> </def> y pues eso creo que es eso .. </u>  
+<u valor="I4" > .La tercera palabra es<def typ = "1">  <b>usa </b>. <b>usa </b> <defop valor = "coma"> , </defop>   <rdefiniens>cuando tenía la <b>usa </b> ful <comentario valor="risas" > [risas] </comentario> </rdefiniens>  </def>  </u>  
+<u valor="I5" > Ah este <def typ = "4">  la palabra <b>usa </b> <defop valor = "coma"> , </defop>   <rdefiniens> los vellos púbicos </rdefiniens> </def>. </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE012PL12- yurmari-	2015-07-05	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>
+

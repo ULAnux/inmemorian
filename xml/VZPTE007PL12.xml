@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE007PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="251133952" CREATED="2015-07-07" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:04:49 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:04:49 </extNote>
+<extNote id="NumeroInterlocutores">05</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="05">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Clemente Gómez Rivera  </name>
+<name type="Informante" id="I2"> Benjamin Santiago Valero </name>
+<name type="Informante" id="I3"> Jessika Vera </name>
+<name type="Informante" id="I4">José Andrés Colmenares Méndez </name>
+<name type="Informante" id="I5"> Lenin Bravo </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+
+<u valor="I1" > Bueno, mi nombre es Clemente Gomez Rivera. Aquí me están preguntando a mi qué es la palabra   <b>fruncío</b>  pero me dejan pensarlo,<def typ = "1"> <b>fruncío</b>  puede <defcopvb lemma="ser" pos="VAN0000"> ser</defcopvb> <rdefiniens> una persona que está muy muy como muy flaco</rdefiniens> </def> </u>  
+<u valor="I2" > Mi nombre es Benjamín Santiago Valero para el programa "Déjame Pensar" me están preguntando a mi qué es  <def typ = "1"> <b>fruncío</b> <paraverb valor="carrsp" ><b>fruncío</b> </paraverb> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb>  algo <rdefiniens>una persona flaca flaca flaca</rdefiniens> </def> </u>  
+<u valor="I3" > .Hola mi nombre es Jessika Vera y para el programa déjame pensarlo por el Canal 3 Eh  <def typ = "1"><b>fruncío</b>..bueno yo creo que para mí <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> eh que una persona que es un poquito gorda y está un poquito forzada metiendo la barriga </rdefiniens> </def>, creo que es eso </u>  
+<u valor="I4" > Ah mi nombre es José Andrés Colmenarez Méndez eh tengo que responder sobre la palabra <b>frunjío</b> que es una persona que está apretada.o arrugada, es una persona como que la tengan agarrada  es la palabra <b>frungío</b> </u>  
+<u valor="I5" > .Buenas tardes, mi nombre es Lenin Bravo. Con respecto a la palabra <b>fruncío</b> bueno<def typ = "1">  <b>fruncío</b>.. para mí creo que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que está flaca <b>entecada</b> que no está gordo pue, está muy flaco </rdefiniens></def> </u>  
+<u valor="I1" > Me están preguntando también de la palabra .<b>pegoste</b> bueno para mi concepto pues la palabra <b>pegoste</b>  me parece que es una persona que se queda parao como puro pensando </u>  
+<u valor="I2" > Ahora me están preguntando qué es la palabra <b>pegoste</b> .es una persona que  algunos lo utilizan para decir  esta persona no sirve o esta persona sí se pega y no hay que desprestigiar a las personas. .. </u>  
+<u valor="I3" > <def typ = "1">   <b>Pegoste </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando uno se quiere quitar a una persona de encima que como que estorba un poquito </rdefiniens></def>... </u>  
+<u valor="I4" > <def typ = "1"> La palabra <b> pegoste </b>, <defop valor = "coma">,</defop>.<rdefiniens>  una persona .fastidiosa o tonta, una persona que se lo vive encima de uno, una persona que es pegada hacia uno mejor dicho </rdefiniens></def> </u>  
+<u valor="I5" > Eh <def typ = "1"> la palabra <b>pegoste</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  una persona que es muy <b>ladilla</b> pues que anda atrás de una persona, eso es un pegoste </rdefiniens></def> </u>  
+<u valor="I1" > Ah aquí me están preguntando de la palabra <b>tuyío</b>, la palabra <def typ = "1"> <b>tuyío</b>  déjeme pensarlo, .me parece que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> la palabra la persona cuando tiene mucho frío, está muy contraído </rdefiniens></def>, la palabra <b>tuyío</b>  considero para mi </u>  
+<u valor="I2" > ..Ahora me están preguntando qué es la palabra <b>tuyío</b>,<def typ = "1"> <b>tuyío</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo que no se mueve que está parado allí y digamos que es algo frío frío </rdefiniens></def> . </u>  
+<u valor="I3" > .Em puedo decir que <def typ = "1"> <b>tuyío</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> se dice de una persona que tiene muchísimo frío y se queda así cas inmóvil </rdefiniens></def>, eso para mi es <b>tuyío</b> .. </u>  
+<u valor="I4" > La plabra <def typ = "1"> <b>tuyío</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que tiene frío o está enferma o muerta o sea <b>tuyío</b> quiere decir que ni se mueva prácticamente queda estático en el puesto </rdefiniens> </def>... </u>  
+<u valor="I5" > Y la palabra <def typ = "1"> <b>tuyío</b> .puede <defcopvb lemma="ser" pos="VAN0000"> ser</defcopvb> <rdefiniens>  <b>tuyío</b> de frío o <b>tuyío</b> también cuando una persona está muy enferma le cuesta caminar está <b>tuyío</b> </rdefiniens></def> </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE007PL12- yurmari-	2015-07-07	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>
+

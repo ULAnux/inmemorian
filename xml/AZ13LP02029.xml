@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LP02029" MIMETYPE="audio/wav" SIZE="2333642 " CREATED="2014-04-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:04:51 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Sol Mesa </name>
+<name type="entrevistador" id="I1"> Señora Bárbara Gonzalez Vergara de 84 años </name>
+</group>
+</cesHeader>
+
+
+<u valor="E" > Bien, hoy es treinta de diciembre, nos encontramos en el municipio Cardenal Quintero en la Parroquia Las Piedras con la señora Bárbara González Vergara. ¿Cuántos años tiene usted señora Bárbara?</u> 
+
+<u valor="I1" > Yo dicen los muchachos que tengo este, <b>ochenticuatro</b> </u>
+
+<u valor="E" > Ochenta y cuatro, y ¿ha vivido toda su vida acá en las piedras? </u> 
+
+<u valor="I1" > Sí señora </u> 
+
+<u valor="E" > ¿Sí? Okey. Señora Bárbara, sabe que hay personas que dicen que la gente duraba antes más tiempo de vida y una de esas razones era la alimentación, ¿qué razones me da usted para eso? ¿Qué se comía antes? </u> 
+
+<u valor="I1" > Mire,de antes se comía sopa de arvejas, sopa de caraotas, sopa de picote </u> 
+
+<def typ="1"> <u valor="E" > ¿Picote? ¿Qué es el picote? </u> 
+
+<u valor="I1" > <defcopvb lemma ="Ser" pos ="VAIP3P0">Son</defcopvb> <rdefiniens>unas tipo <b>carotas</b> que las pican</rdefiniens> ¿verdad Elda?</u> </def>
+<u valor="E" > Ajá </u>
+
+<u valor="I1" > Eso. Ah y arepa de <b>máiz</b> cariaco y de <b>máiz</b> pilón y de harina  </u>
+
+<u valor="E" > Mmm. ¿Cuál era el maíz cariaco? ¿Cuál era la diferencia entre el cariaco y el pilón? </u>
+
+<u valor="I1" > Ay el el el pilón era muy sabroso pero el cariaco era más <b>gueno</b>. Y sopa de trigo con arvejas</u>
+
+<u valor="E" > Ah Okey. Y ¿cuál era su comida favorita cuando era pequeña? </u>
+
+<u valor="I1" > Pues sopa, más nada, sopa, pura sopa con arepa </u>
+
+<u valor="E" > Ah Okey. Y de los dulces, antes, ¿como eran los dulces? ¿Igual que ahora?  </u>
+
+<u valor="I1" > No, yo dulce si no, eso sí no </u>
+
+<u valor="I1" > Nada, con, ¿no preparaban dulce de lechoza?, por lo menos en la Semana Santa ¿aquí no acostumbran los siete potajes? </u>
+
+<u valor="I1" > De zapallo, de zapallo, <b>hacíanos</b> dulce de zapallo </u>
+<u valor="E" > Ajá, que es el que uno conoce como Cabello de Ángel </u>
+<u valor="I1" > <paraverb valor="alarg">Ajá</paraverb>, ese, ese </u>
+<u valor="E" > Ajá. Y hoy día, ¿qué diferencia ve usted en cuanto a la alimentación?  </u>
+
+<u valor="I1" > Ah pues ahora hay muchas cosas, ahora sí hay cosas buenas </u>
+
+<u valor="E" > Okey. Y para acompañar las comidas, ¿qué bebidas preparaban? </u>
+
+<u valor="I1" > Café y guarapo, cuando no había café había guarapo  </u>
+
+<u valor="E" > ¿Guarapo de qué? </u>
+<u valor="I1" > De panela </u>
+<u valor="E" > Okey. Y en Semana Santa ¿qué comidas preparan aquí? </u>
+<u valor="I1" > Comíamos tungos, sopa de arvejas y arroz </u>
+<u valor="E" > Okey. ¿Y en diciembre? En esta época qué acostumbran comer? </u>
+
+<u valor="I1" > Puras hallacas </u>
+<def typ = "1"> <u valor="E" > Puras hallacas. ¿Y usted cómo prepara las hallacas señora Bárbara? </u>
+<u valor="I1" > <defop valor = "pues"> pues </defop> esa <rdefiniens>se pica bien la carne bien <b>picaita</b> y se le echan <b>papitas</b> así y cebolllas y más nada y se cocinan </rdefiniens></u>
+<u valor="E" > <rdefiniens>Y ¿en qué las envuelven?</rdefiniens></u>
+<u valor="I1" ><rdefiniens> En hojas de corazón</rdefiniens>  </u> </def>
+<u valor="E" > ¿De corazón de qué? de...</u>
+<u valor="I1" > De una mata que hay aquí </u>
+<u valor="E" > Okey. <def typ = "1">El corazón <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>una mata </rdefiniens> que hay aquí  ... </def></u>
+<u valor="I1" > Aquí no hay pero hay abajo. Se compran las hojas </u>
+
+<u valor="E" > Y cuando usted, usted, ¿a qué se dedicaba antes?¿Trabajaba la agricultura? o ¿a qué se dedicaba antes?</u>
+<u valor="I1" > Yo trabajaba en la cocina, haciendo oficio, moliendo <b>máiz</b> y sopa y toda esa cosa. </u>
+<u valor="E" > Okey. Y en cuanto a la salud señora Bárbara, ¿hoy día se utilizan las mismas medicinas que se utilizaban antes? </u>
+
+
+<u valor="I1" > No. No </u>
+
+<u valor="E" > Antes ¿qué se utilizaba? Por ejemplo, para curar una tos o una gripe </u>
+
+<u valor="I1" > Las ramitas </u>
+
+<u valor="E" > Las ramitas, como de qué </u>
+
+<u valor="I1" > De esta vaina, cómo es que se llama esta vaina. Vira-Vira y Anisillo y Eucalipto </u>
+
+<def typ="1"> <u valor="E" > Ajá. Y cuando las mujeres daban a luz antes,¿Cómo era eso? </u>
+
+<u valor="I1" > Parteras </u>
+<u valor="E" > ¿Y qué <defcopvb lemma ="Ser" pos ="VAIP3P0">son</defcopvb> las Parteras? </u>
+<u valor="I1" > <rdefiniens>Unas señoras que lo ayudaban a uno <overlap valor="E" > ¿A dar a luz? </overlap> Sí señora</rdefiniens> </u></def>
+
+<u valor="E" > Okey. ¿Cuáles son las enfermedades que más ataca la gente aquí en las piedras? </u>
+
+<u valor="I1" > La tos, la gripe </u>
+
+<u valor="E" > Mjum. ¿Y usted cree que eso se deba a qué? </u>
+<u valor="I1" > Yo ya mesestá pasando eso, una tos, eso era una tos muy grande <overlap valor="E" > Okey</overlap> Más nada </u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LP02029 - yurmari-	2014-04-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+
+</doc>

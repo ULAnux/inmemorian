@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ13LP02026" MIMETYPE="audio/wav" SIZE=" 3913930" CREATED="2014-07-05" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:08:09 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señora  Elda Rosa Bastidas. Señora de 74 años </name>
+</group>
+</cesHeader>
+
+
+<u valor="E" > ¿Y las costumbres de antes? Qué acostumbra... Por ejemplo qué, la diferencia de antes ahora en lo que la gente que si pa levantarse, los día de trajo, ¿son iguales? ¿Antes era igual que ahora? </u>
+<u valor="I1" > Igual sí. Madrugar, el que tenía que trabajar tenía que madrugar, hacer el desayuno y pa que fueran a trabajar dales el desayuno a los obreros que fueran  a trabajar. Eso es igual ahorita. El que no tiene pereza se levanta temprano <comentario valor="risas"> [risas] </comentario>  </u>
+<def typ="1"><u valor="E" > ¿Madrugar es a qué hora?</u>
+<u valor="I1" > <defcopvb lemma ="ser" pos ="VAIP3S0">Es</defcopvb> <rdefiniens>a las cuatro e la mañana</rdefiniens> </u></def>
+<u valor="E" > Ya, ya. Y pa las fiestas ¿qué hacían? Por ejemplo, cuando alguien se casaba ¿qué hacían?</u>
+<def typ="1"><u valor="I1" > ¡Ay no eso era muy bonito! eh cuando alguien se casaba pues hacían una fiesta muy bonita, preparaban los novios y las madrinas y los pajes, el acompañamiento </u>
+<u valor="E" > ¿<b>Pajes</b>? ¿Qué eran los <b>Pajes</b>?</u>
+<u valor="I1" > <b>Pajes, Pajes</b> <defcopvb lemma ="ser" pos ="VAII1S0">era</defcopvb> <rdefiniens>el las damas de honor que dicen ahora. Iba un muchacho con otra muchacha y otro muchacho con otra muchacha y los novios adelante con sus respectivos padrinos.</rdefiniens> </u></def>
+<u valor="E" > ¿Y quien tenía que comprar la ropa y esas cosas? </u>
+<u valor="I1" > Ellos mismos, cada quien compraba su. Ahorra no porque ahora le compran a la novia el mismo papá verdad. Antes no, era el novio el que compraba, el era el que le compraba a uno. yo cuando me casé me compró el la ropa </u>
+
+<u valor="E" > ¿Y usted conserva esa ropa?</u>
+<u valor="I1" > Sí, yo la tengo y los zapatos también. Tienen cuarenta y séis años. Duramos cuarenta y cinco años de casaos </u>
+<u valor="E" > Guao, ya, ya </u>
+<u valor="I1" > Sí yo tengo los zapatos y tengo el vestido eso <inintel>...</inintel> era delgadita, yo era delgadita </u>
+<u valor="E" > <comentario valor="risas"> [risas]</comentario> ¿Y acostumbraban, por ejemplo, las mujeres acostumbraban el ornato, que si los zarcillos, la cosa? </u>
+<u valor="E" > Sí, como no. Toda la vida, eso sí, toda la vida. De oro. Mi mamá me puso los zarcillos primeros unos <b>candaos de oro</b>,  </u>
+<u valor="E" > Eso se daba mucho no, los candaditos de oro </u>
+<u valor="I1" > <def typ="1">¡Mucho! <b>candaos de oro</b> Usted sabe lo que <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>que <b>quesque</b> se lo ponían a uno pa que uno no se casara. Eso era un tema. <invcomm>Voy a ponele estos candaos</invcomm>, como yo era hija única, <invcomm>le voy a poner estos candaos pa que no se me case nunca</invcomm>, y sabe que que que despues me ponía de fantasía, Ay se me hacía tanto daño y todavái vieja que estoy y me hace daño la fantasía, me hace daño seme enferma mucho la oreja</rdefiniens></def> </u>
+
+<u valor="E" > Sí, si. ¿Y El hombre se adornaba con algo? </u>
+<u valor="I1" > No el hombre no se ponían esos zarcillos como se ponen ahora que ahora andan de zarcillos como si fueran mujeres. Bueno que eso es una una, eso es desde la antigüedad verdad porque los indios usaban mucho los zarcillos, pero no, yo veo muy feo eso en la juventud, veo feo eso no me gusta. Aquí tengo un nieto que y yo le digo <invcomm>el día que yo lo vea con esos zarcillos yo le voy a romper la oreja, le voy a hacer así mire, le queda la oreja así abierta porque eso no es para los hombres, el hombre que es hombre no se pone eso</invcomm>, porque eso, bueno, yo no sé cómo será eso </u>
+<def typ="1"><u valor="E" > Sí, verdad. ¿Y en las fiestas qué música? </u>
+<u valor="I1" > Ay<defop valor="dos puntos">:</defop> <rdefiniens>puro violín, pura música de antaño, música de violín, música de cuatro y violín, esos eran </rdefiniens></u></def>
+<u valor="E" > ¿Y de dónde sacaban los instrumentos? </u>
+<u valor="I1" > No si aquí han habido músicos toda la vida </u>
+<u valor="E" > ¿Y los hacían ellos mismos? </u>
+<u valor="I1" > No eso los, sí los hacían. El esposo mío hacía instrumentos. El tiene un viaje <b>toavía</b> que dejó  </u>
+<u valor="E" > Ya, imagínese qué bien, qué bonito </u>
+<u valor="I1" > Ajá, los hacía y el hijo también, el hijo hace violines, hace cuatros, todo, todo,una tradición viene desde el abuelo de el que le hizo el primer cuatro pa que empezara a tocar    </u>
+<u valor="E" > Y el nacimiento de un niño ¿cómo se celebraba? </u>
+<u valor="I1" > El nacimiento, ah pues con mucha alegría, mucha alegría porque eso no sabía uno qué iba a tener, eso era lo mejor verdad. Porque ahora ya saben, quesque ya dicen <invcomm> Ay mírele los ojitos como me mira </invcomm> quesque, cuando le hacen ese eco, <invcomm> Ay mírele los ojitos como se le ven, cómo se rie </invcomm> No hombre, eso es mentiras, uo no sé si se enverdad. Pero cuando uno estaba teniendo sus hijos, eso era sorpresa, porque uno no sabía qué iba a tener, venía el venía el <invcomm> Ay que nació varón</invcomm> Ah bueno era varón verdad. Eso era una sola parranda, una <b>bebezón</b> y una <b>zaparapanda</b> que hacía. Y uno no, uno no tomaba pero los que llegaban sí tomaban </u>
+<u valor="E" > ¿Y qué bebían? </u>
+<u valor="I1" ><def typ="1"> <b>Mistela </b> Eso <defcopvb lemma ="ser" pos ="VAIP3S0">es </defcopvb> <rdefiniens>una <b>mistela</b> que se prepara con panela quemada, aguardiente, clavos y eso queda bien divino, una bebida como vino queda, como un vino eso era lo que se acostumbraba y todavía se acostumbra eso. Ahora veo yo que hacen una mistela de frutas, pero no esa era la mejor la que se hacía de puro <b>miche de ese zanjonero</b> que llamaban que ese lo sacaban en alambiques por ahí en los zanjones  </rdefiniens> </def> </u>
+<u valor="E" > ¿Zanjones qué es un sitio? </u>
+<u valor="I1" > Por ahí en los, como te digo, el monte pue </u>
+<def typ=""><u valor="E" > Ajá. Y un alambique ¿qué es eso? </u>
+<u valor="I1" > Eso <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>un alambique, eso donde sacaban el aguardiente</rdefiniens> </u>
+<u valor="E" > ¿Y Cómo es? ¿Usted alguna vez vio uno? </u>
+<u valor="I1" > Yo vi y ayudé a sacar <b>miche</b> también </u>
+<u valor="E" > ¿Y cómo era? </u>
+<u valor="I1" > Eso <defcopvb lemma ="ser" pos ="VAIP3S0">es</defcopvb> <rdefiniens>una, como, usted debe conocer un  tonel verdad. es la mitad de un tonel en la olla, una <b>ollona</b>. Eso    lleva unos aparatos, esos aparatos llevan unas mangueras que llaman una culebra así una cosa, llevan una manguera, esa manguera lleva varias cosas, implementos. Entonces allí, eso sí hay un enorme fogón de leña que, y el <b>guarapo</b> se prepara en toneles. para un tonel le echábamos dos capas de panela. Cuando ya eso se había un termómetro que se medía cuando ya estaba para sacar el aguardiente le poníamos el termómetro al <b>guarapo</b> y el termómetro marcaba. Cuando marcaba así en cero ya estaba listo para para preparar el <b>aguardiente</b>. Entonce empezaba a hervir, echábamos ese <b>guarapo</b> en el <b>ollón</b> y candela y candela. Eso empezábamos como a las séis de la tarde y ya para las dos de la madrugada empezaba a salir el <b>aguardiente</b>, primero sale uno muy bravo y después sí empieza a salir el bueno ¿ve? Eso sacaban en <b>garrafones</b>, en garrafas grandes</rdefiniens> </u></def>
+<u valor="E" > Mmm. ¿Y lo vendían? </u>
+<u valor="I1" > Sí, claro. Eso se vendía mucho no ve que a la gente le gustaba mucho  </u>
+<u valor="E" > Y ¿a usted le pagaban por hacer ese trabajo? </u>
+<u valor="I1" > No, yo era que le ayudaba a mi papá, lo acompañaba    no ve que mi papá tenía uno. Pero eso era muy <b>delicao</b> porque la guardia perseguía mucho, en cambio ahora no, ahora no persiguen, usted puede vender aguardiente en la calle onde sea y no, nada. Pero en esa época el que el que le agarraban eso se lo llevaban preso pa Mérida preso. Nosotros hacíamos eso era de noche, ya cuando nos empezaron a descubrir lo perdimos, a <b>botálo pal</b> monte pa allá, sí porque eso es un peligro </u>
+<u valor="E" > Claro, claro. ¿Y bailaban? </u>
+<u valor="I1" > Ah sí bailaban, pero a mí casi no me dejaban, tanto que me gustaba a mí bailar pero no, mi mamá no me quería dejar bailar casi, bailaba a escondías yo. Cuando en la mañana hacían aguinaldos, salíamos de los aguinaldos y bailábamos por allá un rato en una casa </u>
+<u valor="E" > Y bailaban esa misma música </u>
+<u valor="I1" > La música. No  y sí habían unos discos. Habían unos que se llamaban Picó que ponían discos así, aquí, allá hay uno, entonces las muchachas lo ponían y que se termina el disco y ponía otro disco, unos discos grandotes así, usted los habrá <b>conocío</b>, bailábamos un rato y después pa la casa a moler pa que no le fueran a echar cuero a uno  <comentario valor="risas">[risas]</comentario> </u>
+<def typ="1"> <u valor="E" > Cómo así que a <b>echar cuero</b> <defop valor="dos puntos">:</defop>  </u>
+<u valor="I1" > <rdefiniens>Con un rejo que le pegaban a uno. Jai mire por eso era que le tenía uno miedo, ahora no, ahora no le pegan a <b>nadien</b> y por eso es que los muchachos no hacen caso porque no les echan cuero, no les dan duro </rdefiniens></u></def>
+<u valor="" ><comentario valor="risas">[risas] </comentario> Claro, claro, tiene razón </u>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AZ13LP02026- yurmari-	2014-07-05	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+</doc>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE006PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="235821056" CREATED="2015-06-29" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:04:31 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:04:31 </extNote>
+<extNote id="NumeroInterlocutores">06</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="06">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1">Juan Carlos Paredes </name>
+<name type="Informante" id="I2"> Leonardo </name>
+<name type="Informante" id="I3"> Pedro  </name>
+<name type="Informante" id="I4"> Rafael Graterol </name>
+<name type="Informante" id="I5"> Darcy Linares</name>
+<name type="Informante" id="I6"> José Justimiano Santiago Rondón  </name>
+
+</group>
+</cesHeader>
+
+
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+
+<u valor="I1" > Eh buenas tardes, mi nombre es Juan Carlos Paredes eh <def typ = "4">  la palabra <b>fino </b> para el programa "Déjame Pensarlo " <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>   este calidad bien o chévere, cuando una persona está alegre o contenta eh por haber hecho algo .</rdefiniens> qué sé yo.. </def>. </u>  
+<u valor="I2" > Hola, mi nombre es Leonardo.<def typ = "1"> La palabra <b>fino</b> para mí <defcopvb lemma="ser" pos="VACP3S0"> sería </defcopvb>  <rdefiniens>   cuando una muchacha está bonita es fina</rdefiniens>, eh no sé <syno> ... </syno>o <b>fino</b> <rdefiniens>calidad</rdefiniens>. La palabra <b>fino </b> pues <b>fino</b> <rdefiniens>bonito hermoso</rdefiniens>  </def> </u>  
+<u valor="I3" > Mi nombre es Pedro. <def typ = "1"> Para mí la palabra <b>fino</b>... <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando se ve una cosa muy bonita, una muchacha <invcomm> esa chama sí está <b>fina</b> se le dice </invcomm> </rdefiniens> </def> </u>  
+<u valor="I4" > .Muy buenos días, mi nombre es Rafael Graterol, .eh  <def typ = "1"> Para mí el significado de la palabra <b>fino</b>.bueno eso. <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb>  <rdefiniens> un decir que tienen muchas personas y eso expresa de que cuando ven algo que de verdad está bien o si se refiere a una persona pues se refiere auna persona que de verdad es atenta, es amable y se lleva bien con todas las demás personas </rdefiniens></def></u>  
+<u valor="I5" > Mi nombre es Darcy Liares.<def typ = "4"> la palabra <b>fino</b>... <defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb> <rdefiniens>  calidad</rdefiniens>.</def>.. </u>  
+ <u valor="I6" > .Mi nombre es José Justimiano Santiago Rondón de Mutus, .eh  <def typ = "1"> la palabra <b>fino</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> estar chévere, es de repente <examkr valor="ejemplo"> ejemplo  .que uno ve a una chica y dice <invcomm> ay ta fina </invcomm> </examkr> </rdefiniens> </def> </u>   
+<u valor="I1" > Eh  <def typ = "1"> la palabra <b>chengo</b> <defop valor= "dos puntos">: </defop><rdefiniens> debe ser cuando alguien está como muy aislado de  las cosas.</rdefiniens> </def>. </u>  
+<u valor="I2" > La palabra <b>chengo</b> <def typ = "1">  <b>chengo</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando alguien porfía algo que el cree que está bien pero las cosas no son así, están mal</rdefiniens> </def>  </u>  
+<u valor="I3" > .<def typ = "1"> <b>Chengo</b>..para mi la palabra <b>chengo</b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando  una persona es media <b>tostada</b> media tonta  </rdefiniens> </def> </u>  
+<u valor="I4" > <def typ = "1"> Bueno la palabra <b>chengo</b> en realidad este esa palabra la vengo a escuchar es acá en Pueblo Llano y por lo que he escuchado <defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb> <rdefiniens> una persona que es muy <b>quedada</b> que o o no retiene las cosas como debe ser y  <mkr> como decir</mkr> un tonto </rdefiniens> </def> </u>  
+<u valor="I5" > .La palabra <b>chengo</b>  de verdad..... </u>  
+<u valor="I6" > .Ajá, .este <def typ = "1">  aquí hay otra palabra que se llama .<b>chengo</b> eh <b>chengo</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona echadora de bromas. Aquí hay una familia, son Santiago, familia de <b>chengo</b> que le echan broma se ríen y le echan broma y todos los chistes son calidad </rdefiniens>   </def>  </u>  
+<u valor="I1" > .Eh la palabra <def typ = "1"> <b>cirolo</b> esto .. <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> alguien cómico eh divertido alegre eso</rdefiniens> </def> </u>  
+<u valor="I2" > <def typ = "1"> <ldefiniens> cuando a alguien le gusta <b>chanceace</b> con la gente hacer reir a los demás y pasala bien </ldefiniens>  eso<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <b>cirolo</b> </def> </u>  
+<u valor="I3" > <def typ = "1">.Para mi la palabra  <b>cirolo</b>..<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que es <b>demasíao</b> graciosa <examkr valor = "como"> como  por ejemplo hace reir a las demás personas, se burla de la gente </examkr> </rdefiniens>  </def> </u>  
+<u valor="I4" > .<def typ = "1"> <b>Cirolo</b>..<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> otro decir y es algo parecido a la misma palabra <b>chengo</b> tienen pienso yo que deben tener el mismo significado </rdefiniens> </def> </u>  
+<u valor="I5" > Ay ..<def typ = "1"> <b>cirolo</b>..<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que es como pasada no sé, abusadora <invcomm>es muy <b>cirolo</b></invcomm> </rdefiniens> </def> </u>  
+<u valor="I6" > Ajá mira la palabra .<def typ = "4"> <b>cirolo</b>..casi <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>.la misma relacionada que la que dije primero verdad la palabra <b>chengo</b> <b>cirolo</b> es echador de bromas también, lo que llaman este mamando gallo y eso entiende, también existe la misma familia que son <b>cirolos</b> echadores de bromas </rdefiniens></def>. </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE006PL12- yurmari-	2015-06-28	Marcado+ Etiquetado	 transcripción completa.
+VZPTE006PL12- yurmari-	2015-07-05	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE023PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="103098368" CREATED="2015-07-04" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:04:06 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:04:06 </extNote>
+<extNote id="NumeroInterlocutores">05</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="05">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Luis Contreras </name>
+<name type="Informante" id="I2"> José Villamizar </name>
+<name type="Informante" id="I3"> Ricardo Santiago Zerpa </name>
+<name type="Informante" id="I4">Claudia </name>
+<name type="Informante" id="I5">Mireya Quintero </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > ..Eh mi nombre es Luis Contreras y para el programa "Déjame Pensarlo" <b>trastumbó</b> significa .eh el nombre de uno eh por decir eh <comentario valor="risas" > [risas] </comentario>  se me olvidó </u>  
+<u valor="I2" > .Eh mi nombre es José Villamizar para el programa "Déjame pensarlo".estoy con mi hijo Erick,  <def typ = "1"> la palabra <b>trastumbó</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor= "como"> como como si tumbuaran algo </examkr> </rdefiniens></def> no sé si estoy de acuerdo con esa palabra. </u>  
+<u valor="I3" > .El nombre mío es Ricardo Santiago Zerpa ..por el programa "Déjame pensarlo".  <def typ = "1"> la palabra <b>trastumbó</b> para mi <defmetalvb lemma="significar" pos="VMIP3S0"> significa </defmetalvb> <rdefiniens> que se fue <b>trastumbó</b> la persona </rdefiniens> </def> dijo papá <invcomm> alguien</invcomm> </u>
+<u valor="I4" > Hola mi nombre es Claudia, soy docente de la Escuela Estadal Bolivariana "La Capellanía" y me preguntan por aquí<def typ = "1"> ¿qué es <b>trastumbó</b> bueno en Pueblo Llano creo que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando se cae algo al piso o en un rincón <b>trastumbó</b> qué sé yo un objeto</rdefiniens> </def> no, .en Mérida también se escucha esa palabra y significa eso no sé aquí.. </u>  
+<u valor="I5" > .Eh buenos días mi nombre es Mireya Quintero trabajo en .la Escuela l Bolivariana "La Capellanía", de acá del  programa "Déjame pensarlo" me están preguntando <b>trastumbó</b>, <def typ = "1"> bueno para nosotros los pueblollaneros creo que <b>trastumbó</b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <b>trastumbó</b>para Santo Domingo <b>trastumbó </b> para Barinas así es siempre es el término que se usa acá </rdefiniens> </def> </u>  
+<u valor="I1" > .<b>me jallé</b>..no tengo ni idea  </u>  
+<u valor="I2" > Eh la otra palabra <def typ = "1"> <b>me jallé</b>.<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo como si encontrara algo en el camino o .me encontraran a mí en el camino.</rdefiniens> </def> </u>  
+<u valor="I3" > Bueno, <def typ = "4"> <b>me jallé</b>.tal cosa <defop valor = "coma"> , </defop>   <rdefiniens> me encontré tal cosa </rdefiniens> </def>... </u>  
+<u valor="I4" > Este la palabar ..<def typ = "1"> <b>me jallé</b> no sé yo la he escuchado aquí algunas personas <defop valor = "coma"> , </defop>   <rdefiniens>: <invcomm> <b>me jallé</b> en tal problema o en tal situación</invcomm> </rdefiniens> </def>  pero de verdad no sé más hasta ahí. </u>  
+<u valor="I5" > .<def typ = "1"> El término <b>me jallé</b> <defop valor = "coma"> , </defop>   <rdefiniens>:  <b>me jallé</b> de repente una moneda, una morocota </rdefiniens></def>, no sé, eso es lo que entiendo .. </u>  
+<u valor="I1" > <def typ = "1"> Eh <b> Sí es perro</b>.<b> sí es perro</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como decir cuando tiene bastantes novias coño que le dicen las mujeres <invcomm>coño este  <b>sí es perro</b></invcomm> o anda con muchas mujeres y  queda mal en veces con las mujeres <invcomm>que este <b>sí es perro </b> y tal </invcomm> </rdefiniens> </def>.. </u>  
+<u valor="I2 " > .<comentario valor="risas" > [risas] </comentario> ..la otra palabra <b> sí es perro</b>.<def typ = "1"> <b> sí es perro</b> bueno <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>   como si tuviera muchas mujeres y tuviera una novia aquí en Pueblo Llano otra en Santo Domingo y otra en otros lugares</rdefiniens> </def> pue eso quiere decir la palabra <b>sí es perro</b> . </u>  
+<u valor="I3" > <def typ = "4">...<b> Sí es perro</b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> ser enamorao </rdefiniens> </def> como por ejemplo Jorge Luis <comentario valor="risas" > [risas] </comentario>  </u>  
+<u valor="I4" > <def typ = "4"> Eh la palabra .<b> sí es perro</b> <invcomm>jum <b> sí es perro</b></invcomm> que <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> mujeriego tiene muchas una aquí una allá </rdefiniens> </def> eso aquí se conoce to creo que todos conocemos ese término  .. </u>  
+<u valor="I5" > <def typ = "1">...<b> Sí es perro</b>  bueno <defcopvb lemma="ser" pos="VAIP3P0"> son </defcopvb> <rdefiniens>.los hombres de aquí de Pueblo Llaono que se la dan que tienen muchas mujeres y a la final quedan solos</rdefiniens> </def> </u>  
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE023PL12- yurmari-	2015-07-04	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>
+

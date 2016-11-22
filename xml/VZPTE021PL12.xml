@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE021PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="134178816" CREATED="2015-08-29" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:05:19 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:05:19 </extNote>
+<extNote id="NumeroInterlocutores"> 04 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="04">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> María Eusebia Rondón Barrios </name>
+<name type="Informante" id="I2"> Janeth Peña</name>
+<name type="Informante" id="I3"> Liliana Palencia </name>
+<name type="Informante" id="I4"> Luis Carlos Zambrano </name>
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > .Mi nombre es María Eusebia Rondón Barrios para el programa Déjame Pensarlo la palabra <b>jilacho</b>, ¡Ay déjeme pensarlo qué será <b>jilacho</b>!.La palabra <def typ = "1"> <b>jilacho</b>.<examkr valor="por ejemplo"> por ejemplo </examkr> cuando digo ¡perro <b>jilacho</b> carajo salga pa afuera ! y sale o cuando me los consigo así que digo ¡estos <b>jilachos</b> de perros pa allá y pa acá ! </def></u>  
+<u valor="I2" > Eh soy Janeth Peña y estoy representando al programa Déjame Pensarlo y me están preguntando la palabra <def typ = "1"> <b>jilacho</b>, <mkr>o sea</mkr> yo la uso como para decir ¡ese <b>jilacho</b>  e chino! o algo así</def> no sé pero de resto no sé qué significa . </u>  
+<u valor="I3" > Ah a ver todos buenas tardes, mi nombre es la profesora Liliana Palencia, estoy aquí con el señor Nestor del programa Déjame Pensarlo que yo creo que lo vamos a pensar una rato porque el les tiene para hoy la palabra <b>jilacho</b>, <b>jilacho</b> que es palabra pueblollanera verdad trata de todas las palabras pueblollaneras, entonces  para mi la palabra  <def typ = "1"> <b>jilacho</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo cuando ya no sirve, la ponemos en práctica bueno yo creo que ya algo eh qué será, el zapato ya no sirve ¡ya ese <b>jilacho</b>! , ah y muchas personas hasta al esposo, ¡ese <b>jilacho</b>!.también tratan al pobre esposo de <b>jilacho</b> </rdefiniens> </def>.qué otro puedo aportar, aunque a mi esposo no lo trato así, no yo lo trato más bonito más lindo. </u>  
+<u valor="I4" > Bien muy buenas tardes, mi nombre es Luis Carlos Zambrano eh la pregunta que me acaban de hacer acerca de qué quiere decir <b>jilacho</b>, <def typ = "1"> <b>jilacho</b><defop valor=  "dos puntos">: </defop> <rdefiniens>  muchas veces se lo decimos a algo que está deteriorado o incluso a un muchacho se lo decimos cuando fastidia mucho, esa es una de las maneras de cómo le decimos a los muchachos o a la persona inclusive pero lo decimos en cierta parte con cariño </rdefiniens></def> no. . </u>  
+<u valor="I1" > <def typ = "1"> .¡<b>Ah valse</b>!.<defop valor=  "dos puntos">: </defop> <rdefiniens> ajá cuando uso tal cual vez la palabra .¡ay <b>ah valse</b> que se me peló el cuchillo se me safó! y perdí la papa </rdefiniens> </def> qué  sé yo, cuando estoy haciendo el almuerzo que es lo que me gusta hacer porque lavar no. </u>  
+<u valor="I2" > La palabra ¡<b>ah valse</b>! pues no, nunca la había escuchado </u>  
+<u valor="I3" > .Ajá viene la otra palabra verdad que también lo voy a pensar, ¡<b>ah valse</b>!..<def typ = "1"> ¡<b>ah valse</b>! también puede <defcopvb lemma="ser" pos="VAN0000"> ser </defcopvb> <rdefiniens><examkr valor="como"> como </examkr> cuando uno va a decir  ¡<b>ah broma</b>! </rdefiniens></def>eh qué otra cosa puedo aportar ahí por ¡<b>ah valse</b>! ¡<b>ah valse</b>! me imagino yo tambié cuando está bueno tiene que estár la persona muy con carácter fuerte para decir otras más fuertes verdad pero no lo vamos a decir  ahorita</u>  
+<u valor="I4" > Bien la otra pregunta que me acaban de hacer es ¡<b>ah valse</b>!,<def typ = "1">  ¡<b>ah valse</b>!..<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando redundamos con algo que de continuo se nos pierde o tenemos que hacerlo entonces se me cae este instrumento que tengo en la mano, ¡<b>ah valse</b>! otra vez, o un muchacho le decimos nuevamente ¡<b>ah valse</b> muchachos, están molestando mucho! </rdefiniens> </def> Esa es una de las palabras que yo creo que esa es la respuesta a la palabra ¡<b>ah valse</b>!  </u>  
+<u valor="I1" > La palabra .<def typ = "1">  <b>diachero</b> <defop valor=  "dos puntos">: </defop> <rdefiniens> que se me salga la palabra de decir que le diga yo a la muchacha .<examkr valor="por ejemplo"> por ejemplo </examkr>a la hija mia ¡ah <b>diachero</b> pero lleve ese perro pa afuera, sáquelo pa afuera a orinar!</rdefiniens> </def> qué sé yo </u>  
+<u valor="I2" > La palabra <b>diachero</b> pues tampoco la había escuchado. </u>  
+<u valor="I3" > Ajá y la última palabra que tenemos para hoy es <b>diachero</b> verdad que todavía aquí lo estoy pensando Nestor porque <b>diachero</b> si me suena un poco que yo no la uso entonce <b>diachero</b> pues esa se la vamos a dejar a cada uno de ustedes que están pensando en casita y después cuando me vean por ahí me facilitan para yo decir también cuando me toque, <b>diachero</b>. Queremos darle un saludo a toda la gente de Canal 3. </u>  
+<u valor="I4" > .Bien, la palabra <b>diachero</b> en sí no la conozco o sea no tengo conocimiento de ella ni sé qué es lo que quiere decir la palabra <b>diachero</b>.. </u>  
+
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE021PL12 yurmari-	2015-08-29 	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

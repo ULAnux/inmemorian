@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><doc><cesHeader type="Oral" date="2008">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ08MX01003" MIMETYPE="audio/wav" SIZE="1815200" CREATED="2013-08-16" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duracion"> 0:41 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque, municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="2">
+<name type="Entrevistador" id="E">Henriette Arreaza</name>
+<name type="Informante" id="I">Ana Elda Gil</name>
+</group>
+</cesHeader>
+<u valor="E" ><prosodia valor="up">Mmm¡Ahora!</prosodia>Aquí yace el archivo cuatro. <prosodia valor="slow">Vamos a grabar a Eldita.</prosodia></u>
+<u valor="I" >Ajá</u>
+<u valor="E" > Eldita <comentario valor="ruido de fondo">[sonido de máquinas]</comentario> cuántanos algo de la <prosodia valor="interrupt">...</prosodia> <comentario valor="se dirije a terceros">[pide que apaguen la máquina que encedieron]</comentario> pa, apaguen ahí <comentario valor="se dirije de nuevo a la Informante">[retoma la pregunta]</comentario> <paraverb valor="alarg">Eh</paraverb>, de la Cañada del Royal, cortico.</u>
+<u valor="I" > Cortico Mmm¡Buenos días! <prosodia valor="interrupt">...</prosodia> <comentario valor="voces de fondo">[ininteligible]</comentario> <prosodia valor="slow">la cañada</prosodia> <prosodia valor="interrupt">...</prosodia> <comentario valor="voces de fondo">[ininteligible]</comentario> <prosodia valor="slow"> está ubicada, </prosodia> <paraverb valor="alarg">este, a </paraverb> <comentario valor="voces de fondo">[initeligible]</comentario> la cabecera del Royal.<prosodia valor="pause">...</prosodia> <comentario valor="ruido de fondo">[portazo]</comentario> <prosodia valor="slow">hay una casa</prosodia> donde nosotros <prosodia valor="pause">...</prosodia> vivíamos <prosodia valor="pause">...</prosodia> sembramos <prosodia valor="pause">...</prosodia> siempre vamos a <paraverb valor="alarg">pasar</paraverb> <prosodia valor="interrupt">...</prosodia> <comentario valor="voces de fondo"> [ininteligilible]</comentario> </u>
+<u valor="E" >Ajá</u>
+<u valor="I" >tiempo allá.</u>
+<u valor="E" >Muchas gracias.</u>
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+	AZ08MX01003	Guillermo 	2013	Marcado+ Etiquetado	 Completo
+	
+</versiones>
+
+</doc>

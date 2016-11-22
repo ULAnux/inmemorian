@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE017PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="146036736" CREATED="2015-08-28" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:05:41 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:05:41 </extNote>
+<extNote id="NumeroInterlocutores"> 04 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="04">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Ingrid Contreras </name>
+<name type="Informante" id="I2"> Rafael Ramón Santiago  .</name>
+<name type="Informante" id="I3"> Liliana </name>
+<name type="Informante" id="I4"> Emilio José Paredes </name>
+
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Este buenos días, soy Ingrid Contreras, para el programa Déjame Pensarlo me están preguntando de la palabra <b>aguaite</b>, <b>aguaite</b> para mí es aguantar, aguantarse, esperar, ... </u>  
+<u valor="I2" > Bueno mi nombre es Rafael Ramón Santiago, soy el cronista del municipio Pueblo Llano .y en esta oportunidad vamos a intentar definir la palabra <b>aguaite</b>, <def typ = "1"> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> mire, observe, es una palabra que podríamos decir que es del castellano viejo no, <b>aguaitar </b>.significa entonces observar,echar una mirada, en líneas generales pues este  enterarse de un acontecimiento en particular</rdefiniens> </def>. </u>  
+<u valor="I3" > Muy buenas noches, mi nombre es Liliana y estoy con mi amiga Alejandra, eh para el programa Déjame Pensarlo, la palabra <def typ = "1"> <b>aguaite</b> .<defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> ponga cuidado a algo que está pasando, observe, eh observe  como viene el Director de Frailejón 99.7 F.M</rdefiniens> </def>.  </u>  
+<u valor="I4" > .Buen buenas tardes para el programa Déjame Pensarlo, yo soy Emilio José Paredes, aquí me están haciendo una pregunta de qué cuál es el significado de la palabra <b>aguaite</b>. Bueno para mi la palabra <def typ = "1"><b>aguaite</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> como fíjese, fíjese en algo, la persona este llaman la atención para que las personas presten atención en algo</rdefiniens> </def>. </u>  
+<u valor="I1" > Ah <b>avispao</b>, <def typ = "1"> <b>avispao</b> para mi <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> alguien que esta chispa, activo, que vive en sí el momento y ya</rdefiniens> </def> . </u>  
+<u valor="I2" > .Buen la palabra  <def typ = "1"> <b>avispao</b> .eh que sería .apocopado de <b>avispao</b><defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> una persona que está muy pendiente de las cosas que es muy desenvuelto, es una persona que es todo lo contrario a una persona quedada, dormida y por lo tanto un <b>avispao</b> es una persona que puede desenvolverse bien an la vida  que puede obtener buenos negocios, está como se dice en otrso términos <b>pilas</b> para poder resolver cualquier obstáculo que se le presente. </rdefiniens> </def> </u>  
+<u valor="I3" > Bueno para mí la palabra   <def typ = "1"> <b>avispao</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens> una persona activa, <b>pilas</b>, inteligente para resolver las cosas.</rdefiniens> </def> </u>  
+<u valor="I4" > Bueno para la otra palabra me están pidiendo el significado de la palabra <b>avispao</b>, bueno <def typ = "1"> <b>avispao</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una persona que es inteligente, que es activa, que es <b>pilas</b>.pues decir otra palabra criolla </rdefiniens> </def> </u>  
+<u valor="I1" > ¡Ah rigor! <def typ = "1"> ¡<b>ah rigor</b>!.<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como una exclamación de algo de pesar, por ejemplo, ¡ay perdió la Vinotinto!.o algo así.</rdefiniens> </def> </u>  
+<u valor="I2" > Eh la palabra, la frase<def typ = "1"> ¡<b>ah rigor</b>!  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una exclamación eh rigor es alg digamos algo que se presenta como algo y ¡<b>ah rigor</b>!. es como decir eh como una expresión que da como sentimiento de lástima, eh por ejemplo cuando la utilizamos en el contexto ¡¡<b>ah rigor</b>! se me perdió la cartera! ¡<b>Ah rigor</b> que no lo traje! ¡¡<b>Ah rigor</b> se me murió un familiar! entonces esa exclamación que representa una expesión digamos trágica  lamentable </rdefiniens> </def> </u>
+<u valor="I3" > Bueno la palabra<def typ = "1">  ¡<b>ah rigor</b>! <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> una expresión  de de lamento, de lástima, ¡<b>ah rigor</b> como se volvió mi amor! </rdefiniens> </def> </u>  
+<u valor="I4" > .En cuanto al significado de la palabra<def typ = "1">  ¡<b>ah rigor</b>! para mi el significado <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo de eh se utiliza en forma nostálgica como de recuerdo o algo, de que alguien con nostalgia recuerde, tiene un pensamiento pue.</rdefiniens> </def> </u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE017PL12 yurmari-	2015-08-28 	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

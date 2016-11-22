@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE024PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="230746112" CREATED="2015-08-29" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:09:13 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:09:13 </extNote>
+<extNote id="NumeroInterlocutores"> 04 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="04">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Samuel Bencomo </name>
+<name type="Informante" id="I2"> Rigoberto Contreras </name>
+<name type="Informante" id="I3"> No se identifica </name>
+<name type="Informante" id="I4"> Ana  López</name>
+<name type="Informante" id="I5"> Dorys Santiago </name>
+<name type="Informante" id="I6">María Honoria Becerra  </name>
+<name type="Informante" id="I7"> Xiomara </name>
+<name type="Informante" id="I8"> Janeth </name>
+<name type="Informante" id="I9"> Diego Rafael Santiago Terán </name>
+
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+
+<u valor="I1" > Bien, mi nombre es Samuel Bencomo docente de la Unidad Educativa Bolivaeriana Adela Bastidas y para el programa Déjame Pensarlo me preguntan por la palabra <b>júrguela</b>. Bueno <def typ = "1">  la palabra <b>júrguela</b><defop valor=  "dos puntos">: </defop> tiene un significado <examkr valor="como"> como </examkr> por ejemplo, <rdefiniens>cuando uno está haciendo una labor y está un poco lento, entonce se requiere de más prisa <b>júrguela</b> <b>júrguela</b>, que se apure un poco, que apure el paso o que tenga un poquito más de prisa</rdefiniens> </def>.</u>  
+<u valor="I2" > Bien, mi nombre es Rigoberto Contreras, trabajo en .la Unidad Educativa Bolivariana Adela Bastidas y este es el programa Déjame Pensarlo.   La palabra <b>júrguela</b>. Un ejemplo de la palabra<def typ = "1">  <b>júrguela</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando alguien <kinesic valor="mueve mano" > le hace así por las costillas </kinesic> que muévalo, <b>júrguela</b></rdefiniens> </def>, así es en la parte adonde yo vivo, no sé </u>  
+<u valor="I3" > Bueno aquí estamos con unos niños de la escuela Adela Bastidas en un programa, nuestro programa se llama Déjame Pensarlo. Eh nos han dicho unas palabras muy jocosas pero que pertenecen al dialecto de Pueblo Llano, muy propio de Pueblo Llano,  ..<b>júrguela</b>, yo no sé si tu sabes qué quiere decir <b>júrguela</b>, no saben, cuando papá dice <b>júrguela</b> ¿qué quiere decir?.El profesor sopló por allá, <def typ = "1"> <ldefiniens>que se apure</ldefiniens>, eso <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> lo que quiere decir <b>júrguela</b></def>, así que cuando ustedes escuchen que dicen por ahí <b>júrguela</b> recuerden que tienen que salir corriendo o apurarse  </u>  
+<u valor="I5" > Eh buenas tardes, la profesora Ana López y la profesora Dorys Santiago de la Unidad Educativa Bolivariana Adela Bastidas para el prograa Déjame Pensarlo, eh la primera palabra es <b>júrguela</b>. Profe Ana ¿qué es para usted la palabra <b>júrguela</b>?</u>  
+<u valor="I4" > ¿<b>júrguela</b>?.Pues realmente no sabría el significado pero vamos a ver </u>  
+<u valor="I5" > .Ah la palabra <def typ = "1"> <b>júrguela</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como"> como que  </examkr> ¡hágalo rápido, vaya!.¡hágalo! </rdefiniens> </def>Yo pienso que es eso. </u>  
+<u valor="I6" > .Buenas tardes, me llamo María Honoria Becerra, soy .estudiante del liceo Adela Bastidas, estoy en el programa Déjame Pensarlo y me están preguntando qué es la palabra .<b>júrguela</b>. No, <b>júrguela</b> no sé, voy a preguntarle a mi compañera </u>  
+<u valor="I7" > .Buenas tardes, estamos aquí en Pueblo Llano Tv Canal 3, mi nombre es Xiomara, estamos aquí ambientando la navidad .en la Unidad Educativa Adela Bastidas con la profesora Janeth de prescolar.   Este, estamos aquí con una pregunta Pueblollanera, digamos este lla palabra <b>júrguela</b>. De verdad pues <def typ = "1"> <b>júrguela</b> para mí que siempre he escuchado por ahí <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como"> como </examkr> <b>apúrele</b> verdad,<b>júrguela</b> </rdefiniens> </def> </u>  
+<u valor="I8" > <b>puyarla</b> apurarla. Yo de verdad tengo voy para diez años más o menos aquí y he escuchado muchas palabras diferentes totalmente a Mérida,entre esas muchos las dicen es <b>legal</b>, .y <b>ta lujo</b> <b>lujoso</b>..¡Cónchale! </u>  
+<u valor="I1" > Muy bien, ahora me preguntan por la palabra .<b>zute</b>, <def typ = "1">  <b>zute</b><defop valor=  "dos puntos">: </defop> <rdefiniens> se refiere a un ser humano que se queda pequeño, diminuto, eh pequeño verdad, entonce le dice por cosa le dicen a uno ¡mire <b>zute</b>! .¡muévala <b>zute</b>! como jocoso así pero divertido </rdefiniens> </def> </u>  
+<u valor="I2" > .Okey, la otra palabra es <b>zute</b>. Comunmente<def typ = "1"> <b>zute</b> .<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando algo no crece no se desarrolla, ¡eso sí está <b>zute</b>!,  un niño o una planta </rdefiniens> </def>. </u>  
+<u valor="I3" > Otra palabra más que tenemos es<def typ = "1"> <b>zute</b>.<defop valor=  "dos puntos">: </defop> <rdefiniens> a los muchachitos se les dice <b>zute</b></rdefiniens> </def>, a los muchachos pequeños se les dice <b>zute</b>, así que no olviden esa palabra. Aquí tambien coloquialmente le decimos a los niños <b>chino</b>  </u>  
+<u valor="I5" > .Ah la palabra <b>zute</b>, profe Ana ¿qué es para usted la palabra <b>zute</b>?.. </u>  
+<u valor="I4" >  Bueno <def typ = "1"> <b>zute</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> un muchacho pequeño <mkr> o sea </mkr> lo que comúnmente le llamamos a ..los muchachos a los chiquitos pues.</rdefiniens> </def> </u>  
+<u valor="I5" > Ah <def typ = "4"> <b>zute</b> <defop valor=  "dos puntos">: </defop> <rdefiniens>  bueno un niño </rdefiniens> </def>... </u>  
+<u valor="I6" > Bueno la palabra <def typ = "1"> <b>zute</b> sí me la sé <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> niño,es  un niño <b>chiquitico</b> </rdefiniens> </def></u>  
+<u valor="I7" > Ajá, ahora vamos con la palabra <b>zute</b>... </u>  
+<u valor="I8" > Me imagino que será niño, bebé, chiquito o algo así. ... </u>  
+<u valor="I7" > Bueno para mí<def typ = "1">  <b>zute</b> sí <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> <examkr valor="como"> como</examkr>  un niño,;<invcomm> el <b>zute</b> aquel</invcomm> que le dicen no coloquialmente aquí en Pueblo Llano </rdefiniens> </def></u>  
+<u valor="I1" > .Y la palabra <def typ = "1">  <b>gorrero</b> <defop valor=  "pues"> pues </defop> <rdefiniens> se usa como aquel aprovechador que vive de los demás, que está esperando una ocasión para consumir de otro sin que ponga nada, <invcomm>¡está <b>gorriando</b>!</invcomm> se le dice </rdefiniens> </def> </u>  
+<u valor="I2" > .Ah, bueno <def typ = "1"> <b>gorrero</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> aquella persona que, por ejemplo, yo lo brindo así en bebidas y eso, y cuando uno le dice al otro: brinde pue, y el otro dice: no tengo, entonce uno le dice <invcomm>¡ay sí es <b>gorrero usté</b>!</invcomm> </rdefiniens> </def>  </u>  
+<u valor="I3" > .La otra palabra es <b>gorrero</b> y realmente yo no sé qué quiere decir <b>gorrero</b> pero en el programa sigan viéndolo que vamos a conocer ..qué quiere decir <b>gorrero</b>. Nos despedimos aquí de la escuela Adela Bastidas, chao chicos </u>  
+<u valor="I4" > Eh, la tercera palabra es <b>gorrero</b>. La profe Ana es una profe de Barinas y vamos a preguntarle qué sabe ella de esa palabra.¿Qué es para usted <b>gorrero</b>? .</u>  
+<u valor="I5" > Bueno para mí <b>gorrero</b>..puede ser una persona que venda gorras, como también puede ser una persona que se aproveche de otro para conseguir algo  . </u>  
+<u valor="I4" > ..Ah pues algo así, algo más de la segunda. <def typ = "1"> <ldefiniens> En Pueblo Llano .se le dice mucho a una persona que todos colaboramos y ese fue el que no hizo nada, el que llegó y se valió de lo que hizo el otro</ldefiniens>, eso es lo que pienso yo que  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <b>gorrero</b> </def> </u>  
+<u valor="I6" > .La palabra <b>gorrero</b> puede ser un señor que vendas gorras.. </u>  
+<u valor="I7" > .Bueno, ahora vamos con la palabra <b>gorrero</b>. La palabra <b>gorrero</b> para la profe es...</u>  
+<u valor="I8" > Qué le digo. Bueno, para mí sería comer de más, pedir de más, que te den de más algo que le gusta mucho y quiere comer demasiado  </u>  
+<u valor="I7" > .Yo he escuchado eso de las fiestas, cuando uno va de <b>gorrero</b> dicen, o sea, que no lo han invitado y llega allí coleao como se dice. Bueno, eso era todo para Pueblo Llano Tv, Canal 3 .. </u>  
+<u valor="I9" > Buenos días, mi nombre es Diego Rafael Santiago Terán y yo les vengo a hablar sobre las manualidad. Hoy les vengo a hablar cómo se hace un árbol de navidad. Los materiales para hacer un árbol de navidad son: una caja de confleis pequeña o grande, una tapa de mantequilla, botones, estrellitas y fieltro color verde. Ajá, mmm ¿cómo se hacen? Para hacer u árbol le cortamos las orejitas a la caja de confleis y la hacemos en un cono y con el .y con la tapa de mantequilla le hacemos un círculo con el cartón que queda. Entonces, después con el fieltro se hacen tiras y se cortan .y y se le pegan los botones ylas estrellitas. Y y este es el resultado que hacemos <b>nojotros</b> mismos con nuestras manos cuando le hacemos caso a las profesoras .</u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE024PL12  yurmari-	2015-08-29 	Marcado+ Etiquetado	 transcripción incompleta.
+VZPTE024PL12  yurmari-	2015-08-30 	Marcado+ Etiquetado	 transcripción completada
+
+</versiones>
+</doc>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="video" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE002PL12" MIMETYPE="video/movie clip (.mpg)" SIZE=" 263669760 " CREATED="2014-10-12" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:05:11 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="08">
+<name type="entrevistador" id="E"> Nestor Bravo </name>
+<name type="Informante" id="I1"> Liliana Paredes </name>
+<name type="Informante" id="I2"> Adán Jerez </name>
+<name type="Informante" id="I3"> Nixa Conteras </name>
+<name type="Informante" id="I4">  Doris Santiago </name>
+<name type="Informante" id="I5">  Luis Miguel Zerpa </name>
+<name type="Informante" id="I6">  Orlando Paredes</name>
+<name type="Informante" id="I7"> Marilin Rondón</name>
+</group>
+</cesHeader>
+
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Mi nombre es Liliana Contreras, estamos aquí </u>  
+<u valor="I2" > Mi nombre es Adán Jeréz </u>  
+<u valor="I3" > Y mi nombre es Nixa Contreras </u>  
+
+<u valor="I1" >  Para el programa Déjame Pensarlo de Canal 3    La palabra  <def typ="1"> <b> cache la parte  </b>  <defmetalvb lemma="significar" pos=" VMIP3S0">  significa </defmetalvb> <rdefiniens> observe lo que está pasando   </rdefiniens> </def> </u> 
+
+<u valor="I2" >  <def typ="1"> La palabra <b> cache la parte  </b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb>  <rdefiniens> averiguar lo que está pasando   </rdefiniens>  </def> </u>
+<u valor="I3" > Sí para nosotros es eso, <def typ="1"> <b> cache la parte  </b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb>  <rdefiniens> ver lo que está pasando </rdefiniens>  </def> </u>  
+<u valor="I4" > Mi nombre es Doris Santiago para el programa Déjame Pensarlo. Eh <b> cacha la parte  </b> <def typ="1"> Eh <b> cacha la parte  </b>  <defcopvb lemma="ser" pos="VAIP3S0">  es </defcopvb>como de que tu veas algo, disimuladamente observa algo sin que se den cuenta </def> </u> 
+
+<u valor="I5" > Bien buenas, para el programa Déjame Pensarlo. Bien, Luis Miguel Zerpa  acá eh con la palabra  <b> cacha la parte  </b>. <def typ="1"> Bueno  <b> cache </b>
+<defcopvb lemma="ser" pos= "VAIP3S0" > es  </defcopvb> <rdefiniens>como eh te caché o nos cacharon, es un verbo de ubicación o de vista de haberlo visto, eso es más o menos la palabra te caché </rdefiniens></def> </u>  
+
+
+<u valor="I6" > Mi nombre es Orlando Paredes  para el programa Déjame Pensarlo <b> cache la parte  </b>.  Para mí <def typ="1">  <b> cache la parte  </b> 
+<defmetalvb lemma="significar" pos=" VMIP3S0">  significa </defmetalvb> <rdefiniens>  <b> pillar </b>  a una persona o ver qué es lo que estaba viendo <invcomm>  mire, esté pendiente allá ve, mire, mire lo que está haciendo </invcomm> o alguna persona que está haciendo algo indebido y anda uno con varias personas entonces, de una vez en tipo secreto, <invcomm> pille pille 
+  <b> cache la parte  </b>  aquel lo que está haciendo o con quien está aquella persona</invcomm> para mí eso es <b> cache la parte  </b>  </rdefiniens>  </def> </u>  
+
+
+<u valor="I7" > Muy buenos días, mi nombre es Marilin Rondón  para el programa Déjame Pensarlo. <def typ="1">   <b> Cache la parte  </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb>  <rdefiniens>  como  cuando estás observando algo <invcomm> mire   <b> cache la parte  </b> mire aquellos</invcomm>   </rdefiniens>  </def> </u>  
+
+<u valor="I1" > La palabra <def typ="1">   <b> medroso </b> para mí <defmetalvb lemma="significar" pos=" VMIP3S0">  significa </defmetalvb>  <rdefiniens> feo, horrible </rdefiniens>  </def> </u>  
+
+<u valor="I2" > La palabra <def typ="1">   <b> medroso </b> para mí <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo espantoso</rdefiniens>  </def> </u>  
+
+<u valor="I3" > Y para mí  <def typ = "2">   <b> medroso </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> algo terrorífico </rdefiniens>  </def> </u>  
+
+<u valor="I4" >  <def typ="1">   <b> Medroso </b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> alguien como que muy feo. Está <b> medroso </b> , muy feo </rdefiniens>  </def> </u>  
+
+
+<u valor="I5" >  Bien la palabra <def typ="1">   <b> Medroso </b>  Bueno a veces uno se para medio <b> Medroso </b> cuando se mira en el espejo, pero a veces por lo menos yo bajo pa la placita y digo ¡ay si están  <b> Medrosos </b>! : eso <defcopvb lemma="ser" pos="VAIP3S0"> es</defcopvb>  <rdefiniens> más o menos referirse uno a la  persona que no está bien arreglada, así que no está bien acondicionada o que de repente bueno no se hace un cariñito allí como tal, entonces esta uno a veces medio <b> medroso </b>,  </rdefiniens>  </def> </u>  
+
+<u valor="I6" >  <def typ= "4">   <b> Medroso </b> Bueno acá en nuestro municipio <b> medroso </b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  algo muy feo   <syno>  o </syno> como cuando uno amanece <mkr>  mejor dicho </mkr> como medio <b> enratao </b> ¡uy esto sí está <b> medroso </b>, está feo </rdefiniens> </def>  para mì es esa palabra  </u>  
+
+<u valor="I7" >  <def typ="1">   <b> Medroso </b>  para mì <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  algo  feo, algo de mal gusto, algo muy poco de lo normal, algo feo feo pue  </rdefiniens> </def>  </u> 
+
+
+<u valor="I1" >  <def typ="1"> La palabra   <b> la moya  </b>  para mì <defmetalvb lemma="significar" pos=" VMIP3S0">  significa </defmetalvb>   <rdefiniens> la cabeza <mkr> algo así como que </mkr> me duele la cabeza </rdefiniens> </def>  </u> 
+<u valor="I2" >  <def typ="1"> La palabra   <b> la moya  </b>  para mì <defmetalvb lemma="significar" pos=" VMIP3S0">  significa </defmetalvb>   <rdefiniens> este cabeza hueca </rdefiniens> </def>  </u> 
+<u valor="I3" >  Bueno para mí, <def typ="1"> mi abuela decía que <b> la moya  </b>  <defcopvb lemma="ser" pos=" VAII1S0"> era </defcopvb>  <rdefiniens> <kinesic valor="señala centro de la cabeza"> esta parte de la cabeza </kinesic> entonces, para mì  <b> la moya  </b>  es la cabeza  </rdefiniens> </def>  </u> 
+
+<u valor="I4" >  <def typ= "2" > <b> La moya  </b>  <defop valor = "pues"> pues </defop> <rdefiniens> la cabeza  </rdefiniens> Me duele <b> la moya  </b>, la cabeza   </def>  </u>
+	
+ <u valor="I6" >  <def typ="1">  <b> La moya  </b>  <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> como decir ¡sí tiene buena molla! Una buena  cabeza como le decíamos a un compañero en las escenas bíblicas <invcomm>  ¡Ah buena molla tiene este como pa cargar el cántaro! </invcomm> </rdefiniens> </def>  </u>
+
+<u valor="I7" >  <def typ= "2" > Y <b> La moya  </b> por lo general antes se le decía  <defcopvb lemma="ser" pos=" VAII1S0"> era </defcopvb>   <rdefiniens> la cabeza </rdefiniens> </def>  </u>
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+VZPTE002PL12- yurmari-	2014-10-12	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

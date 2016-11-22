@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-documental" date="2011">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTD001GR11" MIMETYPE="video/movie clip (.mpg)" SIZE="322316292" CREATED="2016-01-16" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Producción Independiente-Jachoman</respType>
+<respName>Roger Gonzales</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:22:06 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:22:06 </extNote>
+<extNote id="NumeroInterlocutores">04</extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Páramo de Los Granates municipio Cardenal Quintero </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="04">
+<name type="entrevistador" id="E"> Roger Gonzáles ( Jachoman) </name>
+<name type="entrevistador" id="I1"> Señora Felipa Vergara (habitante del lugar) </name>
+<name type="entrevistador" id="I2"> Señor Bonifacio Gil  (habitante del lugar) </name>
+<name type="entrevistador" id="I3"> No se identifica (Es un compañero de viaje del entrevistador) </name>
+
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> intro del documental, imágenes y sonido musical  </comentario>
+
+<u valor="E" > <comentario valor="locación"> [El entrevistador habla desde el vehículo en el que se translada. Se escuchan al fondo sonidos propios del vehículo y el camino que recorre]</comentario> Vamos saliendo de la comunidad del Caney y vamos a caminar por un páramo que de aquí hasta allá son ocho horas, el lugar se llama Los Granates.<comentario valor="sonidos de fondo"> fondo musical, música venezolana, además de los sonidos propios de la naturaleza </comentario> <comentario valor="narración"> El entrevistador narra  </comentario>  Entre neblina, frilejón y frío paramero nos vamos adentrando al corazón de la montaña, cruzando quebradas, lagunas y farallones. Nuestro empeño debe ser permanente, pues allá, justamente en los más alejado de nuestra aldea se ha escuchado desde siempre que existe un lugar muy interesante. Los Granates ha permanecido para la mayoría de los pueblos del Páramo como un lugar ignorado, una incognita; quizás por su lejanía; quizás porque se dice que <def typ = "2"> en Los Granates existe <b>El Salvaje</b><defop valor = "elemento">,  ... </defop> <rdefiniens> un oso feróz que ataca a las vacas y a sus crías</rdefiniens> </def>. Nuestro interés en particular no es precisamente la exitencia del tal Salvaje, sino mas bien de conocer a la única familia que habita allí, ellos son los Gil Vergara. Saludos desde Los Granates. Conozcamos entonces a estos personajes y parte de sus labores diarias. <comentario valor="imágenes"> se observan immágenes de miembros de la familia Gil Vergara y de su hogar y las actividades que realizan en su entorno </comentario>  </u>
+<u valor="I1" > <def typ = "2"> <ldefiniens> Bueno, nosotros nos paramos a las cinco y media de la mañana, .cocinamos el queso anterior, el que hacemos el día antes. Lo cocino, lo pongo a ahumar, a las siete salgo a ordeñar, mi esposo me ayuda, entre los dos ordeñamos, buscamos vacas, y bueno, cuajamos esa leche. Cuando ya recogimos todas las vacas que <b>hamos ordeñao</b> cuajamos esa leche. Bueno, a los diez minutos veinte minutos, ya está la <b>cuajada</b> de proceso de sacar. Ya pues, a medio día a la una de la tarde pues ya está de hacer el queso, se <b>maja</b> la cuajada, y bueno, se haces unos diez quesos le hago, siempre hago. Los prenso con tala y frilejón, les ppongo <b>prensa de piedra</b> y bueno, hasta el otro día. Y un vez, ah, sacado ese queso de esa horma, a cocinalo, a ahumalo</ldefiniens>, ese <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> todo <b> el proceso del queso</b>. Bueno,  y los fines de semana se saca  <b>pal pueblo</b>, se saca <b>pal pueblo a vendelo </b> y lo vendemos, en una parte y en otra y a veces lo vendemos en la misma casa, eso es el proceso del queso. </def> Feliz me siento de estar aqui ordeñando, con todos mis animales, con veinte vacas, como veinticico treinta, soy feliz ordeñando esas vacas. </u>
+<u valor="E" > Y aquí la vida es muy diferente, a abajo. ¿Cómo ve la diferencia de aquí a donde estábamos?. </u>
+<u valor="I1" > Es mejor aquí, vivir uno aquí en el páramo. Porque aquí puede uno crair todo tranquila sus vaquitas, sus bestias, lo que uno quiera tener, cochinos y <b>to esa broma. Calidad</b>. Es mejor estar uno acá que estar, porque en la carretera no puede uno criar muchas cosas de a muchos animales, si acaso cría cuatro tres, por eso mejor ta uno acá en el páramo, pa uno tener todo.  </u> 
+<u valor="E" > ¿Cómo se llama usted señor? ... </u>
+<u valor="I2" > .Bonifacio </u>
+<u valor="E" > ¿Tiene muchos años viviendo aquí ?... </u>
+<u valor="I2" >  ¿Ah?... </u>
+<u valor="E" > ..¿Tiene muchos años viviendo acá ?.. </u>
+<u valor="I2" >  ¡Sí, .<b>nojoyer</b> mucho tiempo, sí!.<comentario valor="sonidos"> [El señor bonifacio amuela un cuchillo mientras escupe chimó situado al lado de una quebrada] </comentario>  </u>
+<u valor="E" > ¿Y le gusta mucho estar aquí?  </u>
+<u valor="I2" > Umjum. Se puede decir que .aquí yo soy <b>;nacío y criao  aquí onde estoy</b> yo me estoy unos días aquí y de ahí me voy pal Baho, de ahí vuelvo pa acá.  .. </u>
+<u valor="E" > ¿Mucho trabajo por aquí?... </u>
+<u valor="I2" >  Sí, no puro con las vacas ahí. Bueno ahorita yo y la señora no más somos los que estamos aquí, Y Rafael, el es hijo mío, siempre viene por ahí a ayudanos a veces. Sí yo<b> me amaño </b>mucho sí, no sé. Porque es aqu[i el destino m[io de estar viviendo aquí. </u>
+<u valor="E" > <comentario valor="narración"> [El entrevistador narra ] </comentario> Mientras que para el señor Bonifacio su destino está más que claro, .el nuestro marcha hacia la quebrada más cercana. Estamos muy ansiosos por pescar algunas <b>truchas</b>.Vamos entonces a probar nuestra suerte <comentario valor="imágenes y sonidos"> [Se observan imágenes del páramo los Granates , y se oyen sonidos propios de la naturaleza, además de la música de fondo] </comentario>  Ta de regreso por la tarde, mientras preparamos la cena, muy rica por cierto, <comentario valor="imágenes y sonidos"> [se observa la llama de un fogón y se oye el hervor del aceite en el que se fríe la cena. También se observan imágenes de una cantidad de quesos en el proceso de ahumado]. </comentario> tuvimos ocasión de conversar sobre distintos temas alrededor del fogón.   </u>
+<u valor="I1" >  No, pues yo nací allá en el encierro,  onde vivía papá. De ahí, después de ahí papá hizo una casita pa allá pal filo, allá, nos fuimos pa allá. Despues de eso, .despues de eso bueno  pasaron  años, trabajamos pa allá pa la mata <b>pal lao de</b>  Barinas, por allá nos estabamos con mi papá, sembrando, ordeñando vacas, bueno, con mis hermanitos que estaban de clase pues nos graduamos, nos estuvimos cuatro años y nos volvimos a venir, porque ya no teníanos ganao ya, se nos estaba acabando todo,  nos vinimos y volvimos a formar el <b>ganadal</b>, despues de eso nos volvimos a venir. Despues a los diecinueve a;os pues yo me casé, me vine para acá pa Los Granates, y de aquí me jui a vivir a Barinitas. A viví seis meses, pues ordeñando también, todo el tiempo ordeñando. Salí de Barinitas,  me estuve seis meses ajá, nos fuimos pa Mucuchíes, pa otra finca. Allá nos vinimos no vivimos cuatro años, allá tuve mis tres hijos. Después nos vinimos de allá, lleggamos al Baho, con la platica que trajimos de allá compramos <b>la finquita, la casita</b>. Bueno, ahí vivimos tiempo, hemos vivido to el tiempo ahí, bueno yo he vivido, de puro trabajo de  ganadería. Después nos fuimos pal Baho, abajo, donde Don Hermes, estuvimos un tiempo allá, nos fuimos pal Hato Viejo también nos estuvimos seis meses,  criando ovejas. Después de allá sí fue quue nos vinimos pa acá. nos  estuvimos catorce años aquí, catorce años. Después de los catorce años cuando se enfermó mi mamá <b>me juí</b>, vi de mi mamá toda la enfermedad hasta que ella se murió, y esa fue la causa de yo no venir más pa acá. Después bueno, bastante, después de como doce años, tiene de muerta mi mamá, me volví a animar me vine pa acá otra vez. </u>
+<u valor="E" > ¿Cuánto tiempo lleva aquí?... </u>
+<u valor="I1" > Tengo tres meses de estar acá, ¿vé? Todo el tiempo ordeñando vacas, donde quiera que he ido, es haciendo queso, ordeñando vacas, todo el tiempo <comentario valor="sonrisas"> [la señora Felipa sonríe] </comentario>... </u>
+<u valor="I2" > <def typ = "2"> Aquí <defmetalvb lemma="llamar" pos="VMIP3S0"> se llama </defmetalvb> <rdefiniens>Los Granates porque dicen que por aquí se conseguían se consigue granates, así lo lo lo toda .la gente lo lo lo lo exterminaba, así por aquí vino mucha gente..a preguntar por eso, <b>a onde</b>  quedaban los granates, que <b>a onde</b> era que se conseguían los granates, sí todo eso, y antes era lo que salía.</rdefiniens> </def>  Yo, yo nací onde se llama la majada, en el Baho, allá, sí, pero puedo decir, ajá de allá siendo niño me <b>trajieron</b> para acá, y aquí me crié. Aquí tabajaba papá,  trabajaba por allá onde llaman la Loma e Paja.  Y por allá nos estuvimos unos tiempos, y <b>antonce</b> y despu[es de eso llegamos y y y papá hizo negocio aquí en Los Granates, hizo negocio y nos estuvimos viviendo y papá se estuvo aquí .cuarenta años, y de ahí seguí yo  que yo me cuando me casé me vine pa acá. Y mi papá se fue pa allá para el Baho. Si, y nnosotroos pasamos bien todo, aquí trabajando, y ordeñando vacas, sembrando papas, todo eso era lo que <b>nojotros trabajabanos </b> aquí. Y nos quedaba también el tiempo de como los domingos sañir a pasear, salíamos bueno no era ciudad, pero <b>íbanos pa allá pal caserío,</b> que antes vivía mucha gentet aquí, todos ellos los domingos  íbamos por allá a pasear, a dar una vuelta, eso todo eso lo hacíamos.</u>
+<u valor="E" > ¿Cada cuánto va pal Baho? </u>
+<u valor="I2" > Ah que mire, yo voy cada quince días, salgo pa allá, voy y vamos a vender los <b>quesitos</b>, los vendemos, hacemos <b>mercaito</b>, nos volvemos a venir, nos estamos otros quince días y ahí así seguimos. Y ahí después volvemos otra vez pa allá. Sí <comentario valor="sonrisas"> [El señor Bonifacio sonríe] </comentario>... </u>
+<u valor="E" > <comentario valor="sonidos"> [se perciben sonidos de quebradas y otros sonidos de la naturaleza] </comentario>.<comentario valor="narración"> [El entrevistador narra ] </comentario> La verdad teníamos muchas más ganas de quedarnos con esta hermosa familia que de emprender nuestro regreso a casa, pero siempre hay otros deberes que cumplir, así quue no hay más alternnativa. Ya vamos bajando de la ruta de Los Granates hasta El Baho y llevamos cinco días. salimos el lunes, ahora vamos de regreso, ya son cinco días con hoy, hoy es viernes, vamos muy lentamente porque tengo un problemita ahí en la rodilla, eh un dolor un calabre, algo así, creo que son los tendones. No sé porque a medida que vamos caminando pues ya se me va pasando. Entonces bueno, la pasamos muy bien y conocimos unos señores muy amigables allá que nos trataron muy bien, nos hospedaron ahí en su casa y bueno, muy alegre de haber estado por aquí, en verdad. Y recomiendo que venga la gente a conocer, es un lugar muy lindo. Bueno, quedan invitados. ¡Chao!   .     ... </u>
+<u valor="I3" > No el viaje fue espectacular. Yo tenía como seis años y pensaba en no subir porque porque pensaba que no tenía condiciones para caminar poruqe le trayecto es largo y siempre es fuerte. pero sí, uno estando bien  todo lo supera y todo es bonito. Por eso hoy día uno no tiene que perder la cultura de de venir aquí a este sitio, un sitio muy agradable para uno pasar unos tres o cuatro días bien donde se puede pescar una trucha, donde por lo menos en el caso de comida no se sufre porque ahí está el queso, la cuajada, la leche, y la truchita, qué é yo. Solamente traer las arepas, y toodo bien.</u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTD001GR11- yurmari-	2016-01-16	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

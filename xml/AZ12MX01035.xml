@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<cesHeader type="oral" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ12MX01035" MIMETYPE="audio/wav" SIZE="15672364" CREATED="2013-09-16"  GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:08:09 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="05">
+<name type="entrevistador" id="E1"> entrevistador no identificado</name>
+<name type="entrevistador" id="E2"> entrevistador no identificado</name>
+<name type="informante" id="I1"> informante no identificado </name>
+<name type="informante" id="I2"> Carlos Dávila </name>
+<name type="informante" id="I3"> Teófilo Rangel </name>
+</group>
+</cesHeader>
+
+<u valor="E1" > Entonce <paraverb valor="alarg"> quería</paraverb> saber más o menos qué están haciendo aquí, en esta construcción,si son cimientos, algún muro, para qué y cómo se construye pues. Yo sé por ejemplo que estas son las madrinas ¿no?  <overlap valor="I1" > Mjum</overlap> al menos lo de la base <overlap valor="I1" > Mjum</overlap> Pero entonces ¿como para qué están haciendo esto en este momento así?</u>
+
+<u valor="I1" > osea, esto es <paraverb valor="alarg"> para </paraverb> una fundación <b>pa</b> una casa <b>pue</b> </u>
+<u valor="E1" > ¿Esos son los cimientos de la casa?</u>
+<u valor="I1" > Claro</u>
+<u valor="E1" > ¿Y más o menos qué piedras eligen, qué tipo de piedra?</u>
+<u valor="I1" > No pues que tenga cara y que, osea, y ve <b>pue</b>, que quede seguro, eso es lo que...</u>
+<u valor="E1" > Ok. ¿Y tienen alguna así forma, plana o redonda?</u>  
+<u valor="I1" > No bueno, que se plana <b>pa</b> que <b>endispués</b> no, no falsean ¿ve? </u>
+<u valor="E1" > Y de los tipos de piedra así, que yo sé, yo me acuerdo que el señor Teófilo dijo de <b>piedra blanca, piedra azul, la piedra que tiene el polvito rojo</b>, ¿Cómo sería todo eso? </u> 
+<u valor="I1" > Pues no sé, de eso si no tengo idea yo </u>
+<u valor="E1" > ¿Y usted señor Carlos?</u>
+<u valor="I2" > Bueno, esta es la, esto es lo que se entiende como es que, <def typ="1"> la <b>piedra azul</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>la que es piedra muy dura </rdefiniens> </def> verdad,<overlap valor="E1" > ¿Como esta? </overlap> La que está ahí­ verdad <comentario valor="señala"> [El informante señala las piedras]</comentario> y <def typ="1"> la <b>piedra blanca</b>  <defcopvb lemma="ser" pos="VAIP3S0"> Es </defcopvb> <rdefiniens>esta que está aquí que da un mazo ve <b>pa, pa</b> quebrar verdad, era un, como dice que se puede <b>mandarriar</b> que era una, una, se puede hacer cara</rdefiniens> </def>, ahora esta azul es muy difícil <b>pa hacele</b> cara aquí ve, por lo dura, y la <b>piedra rojiza</b> que es como, no aquí no la hay, es como el color este casi así ¿ve? Es una piedra que es también como bastante fuerte ve, pero. Y la piedra, lo que estuvimos conversando de la piedra va <b>trabada</b> verdad, una <b>pa</b> que agarre la <b>traba</b>, en las esquinas, sobre todo en las esquinas <b>pa</b> que va una aquí y la otra allá­   
+<comentario valor="señala"> [El informante señala las piedras]</comentario> <b>pa</b> que trabe y quede seguro, firme.<overlap valor="E1" > Ah ok</overlap> Esto es lo que se llama, como dice, plan <b>pa</b> una vivienda, ¿verdad? Lo que se está construyendo <b>orita</b> aquí. <overlap valor="E1" > Que va a ser las bases pues, donde va a construir</overlap> Las bases sí.</u>                                                                                      
+<u valor="E1"> Y para las esquinas, para lo que sería el cuadrado ¿cómo sería ahí­ la posición de las piedras? </u>
+
+<u valor="I2" > Ahí es <b>onde</b> tiene como dice que <b>onde</b> va la, la, la piedra que, se buscan piedras tipo de esta <b>pancha</b> que es una que va hacia allí y la otra hacia acá <b>pa</b> que, pero que vayan <b>parejitas</b> ¿verdad? <overlap valor="E1" > <b> piedra pancha</b> se llama </overlap> Sí porque no quede, <b> piedra pancha </b> sí <b> pa </b> que no quede una sobre <b>lotra</b> porque si no <inintel>...</inintel> tiene que ir esta por lo menos aquí<comentario valor="señala"> [El informante señala el muro para explicar al entrevistador el proceso de construcción] </comentario> y las que van de aquí tienen que ser larga <b>pa</b> que <b>trabe</b> de aquí a aquí <b>pa</b> que el muro quede y no se, no se <overlap valor="I3" > sea, como está quedando aquí mire,tiene la piedra aquella montada, esta sobre estas dos,</overlap> Umjum, la <b>traba</b> desde aquí como tipo bloque, <b>te ve</b> que los bloques <b>je</b> pone no <b>je</b> pone uno encima de otro sino que lleva un cuadre verdad, la mitad y la mitad y <b>antonce</b> en lo que termina pues da el cuadre verdad, ¿ve? <overlap valor="E1" >  <inintel>...</inintel>  </overlap></u>                                                             
+
+<u valor="E1" > Y aparte de los cimientos, una piedra ¿para qué otra cuestión se con, se utilizarían las piedras en construcción pues? ¿Así para marcar caminos, para construir terrazas? </u>
+
+<u valor="I2" > Eso para <b>hacele</b>, cómo es que es, para hacer separaciones de, de terreno. Por lo menos se pone una cerca <b>pa</b> que divida, de aquí <b>pallá</b> es lo mío y de aquí <b>pacá</b> lo, lo suyo ¿verdad?, son cercas de piedra que van <overlap valor="E1" > Y más o menos ¿de cuánto es el ancho y el</overlap> Eh, dependiendo de la piedra, si hay bastante piedra se puede hacer de dos metros o metro y medio. Lo normal es de un metro <inintel>...</inintel>    </u>  
+
+<u valor="I3" > El señor Florentino hacía unos muros que tenían, a pues el que medimos allá arriba <overlap valor="E2" > Ah sí, sí, ya me acuerdo</overlap> hay otros 
+<paraverb valor= "alarg">  más grandes</paraverb> <b>pura</b> piedra de esa eso miden <overlap valor="I1" > Sí, dependiendo de la cantidad de piedra </overlap> una inmensidad de ancho y alto 
+ <overlap valor="E2" > ¿ Y cuál, por qué tendrían que ser tan anchos y altos si es nada más como una división? </overlap>  Depende al tamaño de la piedra  <overlap valor = "I2" >  <b>pa</b> que, porque, por lo menos <b>onde</b> hay mucha piedra, por lo menos una comparación que haya que desocupar, de aquí <b>parriba</b> es <b>pura</b> piedra todo esto, <b>tonce</b> se, se, hay que desocupar todo ese lote, <b>tonce</b>, se hace la cerca de modo que <b>dentre toesa</b> piedra <b>dentre</b> en lo que se va hacer en la... </overlap> <overlap valor="E2" > Es como para despejar el terreno que se va a usar</overlap> <overlap valor="I2" >  Eso, eso,exactamente  </overlap>  </u>
+ 
+ <u valor="E1" >Ok, muy bien, mjum. Qué otra pregunta sería, <paraverb valor="alarg">este</paraverb> Bueno, el señor Teófilo ya me había dicho de la, lo que sería los, la, lo que es para marcar los caminos, ¿no? como para despejar el paso de los carros ¿cierto? ¿cómo <paraverb valor="alarg"> sería</paraverb>, cuándo se construyó, por ejemplo, el muro que está ahí frente a la casa comunal? que me acuerdo que </u> 
+
+<u valor="I3" > Ah, ese se, eso fue en el año 73. Ustedes vieron las fotos que yo tengo ahí, era el camino tenía apenas <paraverb valor="alarg">como</paraverb> cuando máximo un metro y medio de ancho <overlap valor="I2" > metro y medio de ancho más o menos </overlap> <inintel>...</inintel> por <b>lao</b> y <b>lao</b> y claro, <b>je</b> retiró <b>pacá</b> para <b>hacele</b> el paso a los carros. eso tiene alrededor de <b>treinti pico diaños</b>. Y eso se hizo, hay que <b>desadaptalo</b> porque fue un trabajo comunitario que lo hizo la misma comunidad, <overlap valor="I2" > Umjum </overlap> toda este, esta carretera aquí que llega hasta el sitio <b>onde</b> vamos a llegar se hizo puro, <b>callapas</b> que se llama con los muchachos <overlap valor="E1" > ¿Callapas?</overlap> Umjum, en el <paraverb valor="alarg"> año </paraverb><b>setentitrés</b> hasta el año <b>setenticinco</b> me <b>jui</b> yo pal cuartel y iba en la casa de mano <aproximd>Fito</aproximd> ahí iba la carretera, y regresé en el setentiséi y iba de <b>onde</b> está el tanque <b>parriba</b> iba la carretera <overlap valor="I1" > eso se terminó, se terminó como en el ochenta <b>porái je</b> terminó la carretera</overlap> <inintel>...</inintel> </u>
+
+<u valor="E1" > Y todas estas piedras ¿de dónde las traen? <overlap valor="I1" > Están aquí mismo </overlap > Están aquí mismo en todo el terreno? <overlap valor="I3" > Aquí o se ve. Usted se pone a <b>escarbar</b> con una máquina y, eso sale piedra</overlap> Están enterradas ahí en el suelo, las piedras <overlap valor="I3" > Ajá </overlap> Así grandes y todo <overlap valor="I2" > Grandes, de todos tamaños, chiquitas </overlap> ¿Cómo es que se llama el <b>polvito</b> de la piedra roja que usted ma comentó la otra vez? <overlap valor="I3" > Ah, ese es, ese es el alumbre </overlap> ¿Lalumbre? y ¿cuáles son los usos que le dan al alumbre así? <overlap valor="I3" > Se usaba para preparar las purgas de los animales, para purgar las <inintel>...</inintel> inclusive es medicinal para, para problemas de la piel es bueno también. En otros productos sirve pa los problemas de la piel de uno, alergias, ve. Yo me imagino que es piedra es a base de azÃºcar, es muy, muy olorosa. ¿Usted la vio? </overlap> Olorosa. Sí, usted me la mostró, sí. Bien, y más o menos cuánto tarda en que esté, que esté el paso listo. <overlap valor="I3" > Los muchachos tienen qué, dos días ya </overlap> Dos días que han <inintel>...</inintel>, ¿este es el <b>pedacito</b>? Ok, más o menos, ¿tienen que llevarlo a esta altura? <overlap valor="I3" > A la altura onde está el <inintel>...</inintel> </overlap> Ah ok. Más o menos ¿cuánto tiempo se tarda en realizar <overlap valor="I3" > Dos días más, tres días más</overlap> Como cinco días en total <overlap valor="I2" > Una semana póngale. </overlap>  </u> 
+
+<u valor="I3" > Ahí tiene que dejar un espacio por lo menos de un metro como lo que está el palo allá <overlap valor="I1" > Claro, claro. Sí pero hasta ahí ellos llegaron porque está el tubo ahí. </overlap> Ah ok, ajá <overlap valor="I1" >  Claro, como a mi me dijeron arriba que is rompía allá tenía que sacar un permiso </overlap> Mmm, Si no, tiene que ir dejando como siempre el espacio porque eso ya está establecido desde hace mucho tiempo, que uuno tiene que dejar más o menos un metro, metro y medio de, de la carretera <b>pa</b> dentro, eso, por si mañana, <b>pasomañana</b> se ofrece comprar un carro cualquier cosa. Así han paso muchos casos aquí que han comprao y no dejan, y cuando uno sube y baja anda con los carros <b>atravesaos poráhi</b> y <prosodia valor="intrrupt">...</prosodia> bueno, <b>vamonos</b> mis hijos </u>             
+
+
+<versiones>
+
+Nombre Archivo  Usuario  Fecha	          Acción                                  Comentario
+AZ12MX01035      Yurmari  2013-09-16   Marcado+ Etiquetado          Transcripción completa.  
+
+</versiones>
+
+
+ </doc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

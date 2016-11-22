@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> <cesHeader type="audio" date="2013">
+<fileDesc>
+<fileGrp ID="Magia y Religión">
+<file ID="AM13LP02016" MIMETYPE="audio/wav" SIZE="2499146" CREATED="2014-05-19" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:05:12 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Las Piedras Municipio Cardenal Quintero </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="02">
+<name type="entrevistador" id="E"> Yurmari Mesa </name>
+<name type="entrevistador" id="I1"> Señor Francisco Eliborio Paredes Osuna. 70 años de edad</name>
+</group>
+</cesHeader>
+
+<u valor="E" > Y en cuanto a esto de que la gente, cuentos de camino, cosas que la gente cuenta, ¿aquí en Las Piedras hay de esos cuentos de espantos, cosas así?</u>  
+<u valor="I1" > No, los caminos se acabaron <comentario valor="risas"> [risas] </comentario> <b>Desnde</b> que hicieron la carretera <b>poaquí</b> los caminos se acabaron, <b>toditos</b> los caminos se acabaron </u>
+<u valor="E" > ¿Y antes cuando usted era niño le contaban cuentos así de...? </u>
+<u valor="I1" > Nos <b>íbanos</b> por los caminos pa ir pa barinitas, pa Altamira pa pa pa pa bajo y pa caminando ponde quiera, ahí no habían carros ni un coño pa ir pa Pueblo Llano, pa Santo domingo no había carretera </u>
+<u valor="E" > ¿Y solo caminaban? </u>
+<u valor="I1" > Puro caminando la gente cuando cuando hicieron la carretera que entraron los carros se acabaron los caminos </u>
+<u valor="E" > Ajá. Y en y en en esa época, cuando había caminos <overlap valor="I1" > Sí, eso hace bastantes años esa vaina</overlap> ¿Y había espantos y esas cosas? </u>
+<u valor="I1" > Sí, mucho. </u>
+<u valor="E" > ¿Usted no se sabe algún cuento de esos? </u>
+<u valor="I1" > No </u>
+<u valor="E" > ¿De qué le decían que había espantos? </u>
+<u valor="I1"> No, nada, yo no he visto espantos en ninguna parte </u> 
+<u valor="E" > Nunca vio pero ¿tampoco escuchó? </u>
+<u valor="I1" > No, <b>yo no ha visto</b> nada nunca </u>
+<u valor="E" > Y a los niños cuando... Auí qué hace la gente los domingos, ¿va pa la iglesia? </u>
+
+<u valor="I1" > Pues claro, los que van pa la iglesia, van</u>
+<u valor="E" > ¿Usted es católico? </u>
+<u valor="I1" > Los evangélicos si no van, los que se metieron a evangélicos no van a la misa ahora </u>
+<u valor="E" > <comentario valor="risas"> [risas]</comentario> ¿Qué son los evangélicos? </u>
+<u valor="I1" > Pues <b>una banda e carajos áhi</b> que se metieron a evangélicos, bastante gente, no joda, dígame </u>
+<u valor="E" > ¿Y qué hace la gente católica? </u>
+<u valor="I1" >Esos sí van </u>
+<u valor="E" > ¿Pa dónde? </u>
+<u valor="I1" > Esos sí van eh la iglesia se llena allá cuando yo paso pa allá que voy en la mañana, allá hay un <b>gentil</b></u>
+<u valor="E" > ¿Un <b>gentil</b>?</u>
+<u valor="I1" > Ya se acabó la misa hace un <b>ratico</b> </u>
+<def typ="1"><u valor="E" >¿Qué es un <b>gentil</b>? </u>
+<u valor="I1" > <defop valor="guion">-</defop> <rdefiniens>To la gente,del campo y de onde quiera que viene al pueblo, van pa la misa</rdefiniens> </u></def>
+
+<u valor="E" > Ah. Y ¿cómo son las misas? </u>
+<u valor="I1" > Esos son <b>los padres</b> que la dicen allá </u>
+<u valor="E" >  <b>Los padres</b> las dicen </u>
+<u valor="I1" > Sí </u>
+<u valor="E" > ¿Y <b>los padres</b> quiénes son?  </u>
+<u valor="I1" > Yo qué sé cómo es que... Estudian pa eso, pa <b>padres</b>  </u>
+<u valor="E" > Mmm. Y y ¿en esa en esa iglesia tienen santos y esas cosas? </u>
+<u valor="I1" > Pues ahí están los samtos ¡claro! </u>
+<u valor="E" > ¿Aquí en Las Piedras hay santos? sea, patronos y eso </u>
+<u valor="I1" > No, ahí ta la gente allá toda van pa allá, toda la gente va pa allá. La de la, los que están, los que van <b>pa onde el padre</b>   </u>
+<u valor="E" > ¿Y qué fiestas le hacen aquí en Las Piedras a los santos? ¿A qué santos le hacen fiestas? </u>
+<u valor="I1" > ¿Ah? </u>
+<u valor="E" > ¿A qué santos le hacen fiestas aquí en Las Piedras? </u>
+<def typ="1"><u valor="I1" > <ldefiniens>El dos de febrero</ldefiniens> </u>
+<u valor="E" > ¿Qué hacen el 2 de febrero? </u>
+<u valor="I1" > <defop valor="guion">-</defop><b>Santa Rosalía</b> </u></def>
+<u valor="E" > ¿Le hacen fiesta? </u>
+<u valor="I1" > Sí. Ahora pa febrero le hacen la la es la patrona de La Candelaria aquí </u>
+<u valor="E" > ¿Aquí es la patrona la candelaria? </u>
+<u valor="I1" > Aquí es la patrona La Candelaria sí, pal dos de febrero</u>
+<u valor="E" > ¿Y qué le hacen? </u>
+<u valor="I1" > La fiesta,viene fiesta <b>de onde quiera</b>, vienen hasta de Caracas, <b>han venío</b> </u>
+<u valor="E" > ¿Y qué le hace la gente que viene? </u>
+<u valor="I1" > Vienen, vienen pacá pa Las Piedras de todo </u>
+<u valor="E" > Ya, ya. ¿Y a qué otros santos? </u>
+<u valor="I1" > Y a otros santos que dice <b>el padre</b> allá, él le dice allá </u>
+<u valor="E" > ¿Y aquí hay hay hay santos que hacen milagros señor? </u>
+<u valor="I1" > Dicen que la Virgen del Rosario, la Virgen del Rosario es la que le rezan a to el mundo cuando se muere </u>
+<u valor="E" > ¿Y qué le hacen? </u>
+<u valor="I1" > La Virgen del Rosario le rezan a to el que se muere, en la noche el día que se muere uno </u>
+<def typ="1"><u valor="E" > ¿Cómo son <b>los rezos</b>? ¿Qué es un <b>rezo</b>? </u>
+<u valor="I1" > <defop valor="guion">-</defop> <rdefiniens>Pues le rezan El Rosario</rdefiniens> </u></def>
+<u valor="E" > Mmm. ¿Y usted ha ido para esos...? </u>
+<u valor="I1" > ¡Pues claro! </u>
+<u valor="E" > ¿Qué más le hacen a la gente cuando muere? </u>
+<u valor="E" > <b>Llevála pal</b> cementerio a <b>enterrála</b>. </u>
+<def typ="1"> <u valor="E" > <comentario valor="risas">[risas]</comentario> ¿Cuántos días dura <b>el velorio</b> </u>
+<u valor="I1" > <defop valor="guion">-</defop><rdefiniens>Pues una noche no más</rdefiniens> </u>
+<u valor="E" > <rdefiniens>Una noche nada más. ¿Y qué más le hacen además de rezar? ¿Cantan o algo?</rdefiniens> </u>
+<u valor="I1" > <rdefiniens>A unos les cantan y a otros no. Les rezan </rdefiniens></u></def>
+<u valor="E" > Mmm. ¿Y usted sabe rezar El Rosario? </u>
+<u valor="I1" > No, nada </u>
+<u valor="E" > ¿No? </u>
+<u valor="E" > ¿Y cómo hizo vinir usted pa acá? ¿Quién le dijo? </u>
+<u valor="E" > El señor Gallino. </u>
+<u valor="I1" > ¿Cuál gallino? </u>
+<u valor="E" > El que ganó las elecciones ahí en el Concejo Municipal de Santo Domingo. Él me dijo que usted me podía ayudar con la entrevista </u>
+
+
+
+
+
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+AM13LP02016- yurmari-	2014-05-19	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

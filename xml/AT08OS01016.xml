@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc>
+<cesHeader type="oral" date="2008">
+<fileDesc>
+<fileGrp ID="Telares y Tejidos">
+<file ID="AT08OS01016" MIMETYPE="audio/wav" SIZE="3.740.444" CREATED="2016-13-16" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duración"> 00:07:42 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> EL Joso-Gavidida  municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="03">
+<name type="entrevistador" id="E1">  Henriette Arreaza </name>
+<name type="entrevistador" id="E2">  María Vicenta Dávila </name>
+<name type="entrevistador" id="I1">  Señora María Julia  </name>
+</group>
+</cesHeader>
+
+<u valor="E1" > Ahora vamos a hablar con la señora María Julia de el tejido. El tejido en Gavidia. ¿Qué tejedores recuerda usted cuando era niña? </u>
+<u valor="I1" > Aquí  <def typ = "2"> <ldefiniens> el único que sabía hacer cobijas de lana de chivo</ldefiniens> <defcopvb lemma="ser" pos="VAII1S0"> era</defcopvb>  mi nono Thomas Torres</def>.    </u>
+<u valor="E1" > Ah, ¿Y a el quién lo enseñaría?  </u>
+<u valor="I1" >   Eso si no supe yo, porque yo cuando el se murió <b>taba</b> muy pequeña </u>
+<u valor="E1" >  Ah </u>
+<u valor="I1" >No tenía sino ocho años yo cuando el se murió.</u>
+<u valor="E1" > ¿Y cómo eran las las las cobijas que él tejía?  </u>
+<u valor="I1" >   ¿Las Cobijas? ¡Saque una cobija Gregorio de esas que el tejía !</u>
+<def typ = "2"> <u valor="E1" > Y el criaba sus ovejas o sus chivos   </u>
+<u valor="I1" > No, otra gente<defop valor= "coma">, </defop> <rdefiniens>  la otra gente criaba y mandaba a, hilaban la lana las mujeres y mandaban a hacer las cobijas allá <b>onde</b> el   </rdefiniens> </u></def>
+<u valor="E1" > ¿Y dónde estaba?  </u>
+<u valor="I1" >El tenía el Telar allá abajo <b>onde</b> llaman Los Estantillos   </u>
+<u valor="E1" > Ajá  </u>
+<u valor="E2" >  ¿En qué parte quedan Los Estantillos? </u>
+<u valor="I1" >Aquí abajo en el puente pero pa este <b>lao</b> Ahí <b>onde</b> hay una <b>casita </b> de <b>tejalí</b> arrriba en la casa e Maximiliano Pérez, <b>áhi</b>era <b>onde</b> el vivía habían unos ranchitos de paja   </u>
+<u valor="E1" > ¿Y las ovejas dónde estaban?  </u>
+<u valor="I1" > Por <b>áhi</b>  mismo las criaban por <b>áhi</b> la gente </u>
+<u valor="E" > Ah aquí mismo   </u>
+<u valor="I1" >  Aquí mismo sí </u>
+<u valor="E1" >¿Y y qué hilanderas recuerda usted?   </u>
+<u valor="I1" >  Mi mamá y mi tía Juana la hermana de ella y esas son las que yo conocí porque antes no había casi nada e gente aquí en Gavidia  </u>
+<u valor="E1" > Mmm, ¿Y a qué hora hilaban?  </u>
+<u valor="I1" > ¿Ah?  </u>
+<u valor="E1" > ¿A qué hora? ¿En la mañana, en la tarde?  </u>
+<u valor="I1" > Esas hilaban a todas horas hasta hasta de noche hasta media noche se estaban hilando lana    </u>
+<def typ = "2"> <u valor="E1" > ¿Y quién fabricaba los husos pal tejido?  </u>
+<u valor="I1" > Ellos mismos   </u>
+<u valor="E1" > ¿Con qué madera?  </u>
+<u valor="I1" > Con<defop valor= "coma">, </defop> <rdefiniens>con palos <b>manteco</b> que sacaban por <b>áhi </b> los hacían,</rdefiniens> allí esta un un <b>jusito</b> que ,¡<b>abájelo</b> allá, ese! </u></def>
+<u valor="E1" > Mire y ¿ el tipo?   </u>
+<u valor="I1" > Ese otro es del de ese no es ese es de de ese es de piedra de máquina    </u>
+<u valor="E1" > ¡Ah mira!   </u>
+<u valor="I1" >  Este es el de el <b>jusito</b> de yo <b>hilar</b> </u>
+<u valor="E1" > ¿Cuál es el suyo?  </u>
+<u valor="I1" > Este, con este era que yo hilaba  </u>
+<u valor="E1" > Ah  </u>
+<u valor="E2" > ¿Y aquí teñían la lana?  </u>
+<u valor="I1" > Sí porque <b>teníanos</b> ovejas   </u>
+<u valor="E2" > ¿Y teñían, la teñían?  </u>
+<u valor="E1" >   ¿El teñido lo hacían aquí mismo o la lana era del color de?</u>
+<u valor="E2" > No, <def typ = "2"> la lana  <defcopvb lemma="ser" pos="VAII1S0"> era</defcopvb> <rdefiniens> ovejas negras y ovejas blancas</rdefiniens> </def>   </u>
+<u valor="E1" > No habían más colores   </u>
+<u valor="I1" >  No habían más colores  </u>
+<u valor="E1" > ¿Y el telar cómo era ?  </u>
+<u valor="I1" >  Allá <b>onde</b> Alicia tiene uno, la hija mía, allá lo puede conocer usted, lo único que no era igual </u>
+<u valor="E1" > ¿Por qué? ¿Cómo era el de antes?  ¿Y el de antes cómo era?</u>
+<u valor="I1" > Pues así la similitud, la similitud así pero pero no tenía eso que tiene esos telares nuevos </u>
+<u valor="E2" > El tambor  </u>
+<u valor="I1" >  Ese tambor sí, esos no lo tenían. <def typ = "2"> <ldefiniens>Esos enrollaban, iban tejiendo las cobijas y enrollando en</ldefiniens> un en uno que <defmetalvb lemma="llamar" pos="VMII3P0"> llamaban </defmetalvb> julio, julio llamaban<rdefiniens> el palo <b>onde</b> rondeaban la </rdefiniens> lo llamaban el Julio</def>, y <def typ = "2"> los lisos pues <defcopvb lemma="ser" pos="VAIP3P0"> son </defcopvb> <rdefiniens>  las <b>onde</b> metían la lana</rdefiniens></def>  </u>
+<u valor="E2" > Ajá y el peine todavía lo hacían de broquera como  o eran </u>
+<u valor="I1" > No, esos peines de ahora  no son de esos </u>
+<u valor="E2" > ¿Y en esa época?  </u>
+<u valor="I1" > Esos eran de, esos los hacían ellos mismos las <b>tablitas </b> las  <b>tablitas </b> y las les hacían los <b>palitos atravesaos </b> de arriba y abajo y metían las  <b>tablitas </b>  y quedaba así   <b>parejito parejito parejito </b> las  <b>tablitas </b> . Esos las hacían ellos mismos  </u>
+<u valor="E1" >  ¿Y cuánto tiempo tardaban en hacer una cobija? </u>
+<u valor="I1" > Eso si no sé yo cuánto  taradarían, sí pero sí  gastan como dos días o tres días haciendo una cobija </u>
+<u valor="E1" >  ¿Y las vendían , eran para vender? </u>
+<u valor="I1" > Las vendían o para la gente <b>ponese</b> porque <def typ = "2"> antes  no antes,  la gente se abrigaba   <defcopvb lemma="ser" pos="VAII1S0"> era</defcopvb> <rdefiniens> con puras cobijas de lana e chivo</rdefiniens></def> </u>
+<def typ = "2"> <u valor="E1" > ¿yY en cuánto vendían una cobija?  </u>
+<u valor="I1" > ¡Ay eso era muy regalao! <b>antoncesn, antonces no mentaban</b> bolívares, en ese <b>antonces no mentaban</b> bolívares sino pesos<defop valor= "coma">, </defop> <rdefiniens> cuatro pesos tres pesos vendían una cobija. Un peso pues son ocho bolívares de los que habían antes, de la plata de antes, ahora no no se cuenta por peso porque entonce eran pesos, valía cuatro pesos una cobija</rdefiniens>  </u></def>/
+<u valor="E1" > Y aparte de cobijas ¿qué otras cosas tejían, la pura cobija?  </u>
+<u valor="I1" > La pura cobija, cobijas que era lo que necesitaban </u>
+<u valor="E1" > ¿Y había varios tipos de cobija o?  </u>
+<u valor="I1" >  <paraverb valor="alarg" > todo mundo </paraverb> mujeres, hombres y <b>muchachitos chiquitos</b> les hacían <b>cobijitas</b> </u>
+<u valor="E2" > Y, señora Julia ¿no le colocaban? Porque hay una que le dicen <b>la rusia</b>  </u>
+<u valor="I1" >  Esas son estas aquellas </u>
+<u valor="E2" > Ajá, esa que tiene. Y la otra que era pura negra ¿cómo la llamaban?    </u>
+<u valor="I1" >  Negras  </u>
+<u valor="e2" >   <b>Las negras</b></u>
+<u valor="I1" > <def typ = "4">  <b>cobija negra </b> y  <b>cobija colorada</b>,   las que <defcopvb lemma="ser" pos="VAIP3P0"> son </defcopvb> <rdefiniens>  rojas  que le dicen ahora</rdefiniens> </def> </u>
+<u valor="E2" > ¿Y de dónde sacarían pa pintarlas ellas?   </u>
+<u valor="I1" > Eso sacaban una una tal <b>raicita</b> que hay por <b>áhi</b> </u>
+<u valor="E2" >   Aja</u>
+<u valor="I1" >Cogían esa <b>raicita</b> y    </u>
+<u valor="E1" >  ¿Pa las negras? </u>
+<u valor="E2" >   Para las coloradas </u>
+<u valor="E1" >   Ah para las rojas </u>
+<u valor="I1" > La negra es las de las ovejas que son negras. Y y la <b>raicita</b> con la <b>raicita</b> y unas matas, <def typ = "2"><ldefiniens>unos árboles</ldefiniens> que <defmetalvb lemma="llamar" pos="VMIP3P0"> llaman </defmetalvb>  <b>ojito</b> </def>que echan  </u>
+<u valor="E1" > ¿Y con el <b>ojito</b> qué color daba?  </u>
+<u valor="I1" > Pues pues rojo <b>tamién</b>   </u>
+<u valor="E1" > También    </u>
+<u valor="I1" >  También rojo si, porque más no había más,<examkr valor= "por dicir"> <b>por dicir</b> que verde o azul o eso </examkr> no </u>
+<u valor="E2" >  Y a eh señora Julia ¿?y aquí no tenían esta que era como una negra y le hacían como unas <b>listicas</b>  </u>
+<u valor="I1" > <b>Las listas</b> Yo tengo una por ahí, se las voy a mostrar   </u>
+<u valor="E1" > ¡Que bella, no!   </u>
+<u valor="" > <inintel></inintel>   </u>
+<u valor="E1" > ¡Ay chica, vamos a tener que parar aquí. !Paramos y despues seguimos   </u>
+<versiones>
+Nombre Archivo	Usuario	Fecha	Acción	Comentario
+
+AT08OS01016	yurmari	2016-11-13	Marcado +Etiquetado	.
+
+</versiones>
+
+</doc>

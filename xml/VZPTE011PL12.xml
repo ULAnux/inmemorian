@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc> 
+<cesHeader type="programa de televisión-entrevista" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="VZPTE011PL12" MIMETYPE="video/movie clip (.mpg)" SIZE="289040384" CREATED="2015-08-27" GROUPID="">
+<FLocat LOCTYPE=""></FLocat>
+</file>
+</fileGrp>
+<titleStmt><respStmt>
+<respType>Televisora local</respType>
+<respName>Pueblo Llano Tv Canal 3</respName>
+</respStmt></titleStmt>
+<extent>
+<extNote id="Duración"> 00:05:33 </extNote>
+<extNote id="SegmentoRecogido"> desde 00:00:00 hasta 00:05:33 </extNote>
+<extNote id="NumeroInterlocutores"> 07 </extNote>
+</extent>
+<sourceDesc>
+<biblStruct><monogr>
+<pubPlace> Pueblo Llano municipio Pueblo Llano </pubPlace>
+</monogr></biblStruct>
+</sourceDesc></fileDesc>
+<group count="07">
+<name type="entrevistador" id="E"> Nestor Bravo Moderador del Programa "Déjame Pensarlo" </name>
+<name type="Informante" id="I1"> Alberto Pérez </name>
+<name type="Informante" id="I2"> Gladys García  </name>
+<name type="Informante" id="I3"> Victor Leonardo Paredes  </name>
+<name type="Informante" id="I4"> No se identifica </name>
+<name type="Informante" id="I5"> No se identifica  </name>
+<name type="Informante" id="I6">  José Leonel Mora  </name>
+<name type="Informante" id="I7"> Reinaldo García </name>.
+
+</group>
+</cesHeader>
+
+<comentario valor="intro"> [audio e imagen intro del segmento del programa] </comentario>
+
+<u valor="I1" > Ah mi nombre es Alberto Pérez, el popoular "cocó" aquí en Pueblo Llano. Para el programa Déjame Pensarlo, eh la palabra mazorca no, en el lenguaje pueblollanero sinceramente no sé qué significa.... </u>  
+<u valor="I2" > Mi nombre Gladys García .Para el programa Déjame Pensarlo.<b>mazorca</b>., bueno .<b>mazorca</b> es el maíz, el maíz que desgrana, tiene la tusa, y el normalmente, pero en Pueblo Llano ..<def typ = "1"><b>mazorca</b>. <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando algo está bueno, que puede ser posible  </rdefiniens> </def> </u>  
+<u valor="I3" > Para Déjame Pensarlo, mi nombre es Victor Leonardo Paredes y la palabra .<def typ = "1"><b>mazorca</b>. <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>  más, si quiere más o ¿va a comer más? Sí, .<b>mazorca</b>. Y bueno la palabra .<b>mazorca</b>. pues poviene también del maíz</rdefiniens></def>. Y bueno eso es lo que significa, el significado de <b>nojostros</b> es como un refrán de pueblollanero de de de querer más  </u>  
+<u valor="I4" >Buebo, buenos días, esta es una participación para el programa Déjame Pensarlo eh donde me hacen tres preguntas, una eh cuál es el significado de .<def typ = "1"> <b>mazorca</b>.entonce yo <mkr> la relaciono </mkr> <rdefiiens>con el sinónimo de cantidad más, por ejemplo, eh que si me gusta por decir algo la sopa de trigo, .¡<b>mazorca</b>.!, ¡más!, ¡claro que sí! </rdefiiens> </def> </u>  
+<u valor="I5" > Para el programa Déjame Pensarlo, la palabra .<def typ = "1"> <b>mazorca</b> en nuestro pueblo <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  cuando uno acierta algo  como por ejemplo, alguien lleva unas frutas, luego le pregunto ¿le parecieron buenas? y el responde ¡<b>mazorca</b>! </rdefiniens> </def> </u>  
+<u valor="I6" > Mi nombre es José Leonel Mora, llevando lo mejor del Canal 3 amigas y amigos, gracias por esa oportunidad de hablar aquí. Eh me cometaba el amigo Nestor qué es... <b>mazorca</b>, ah <b>mazorca</b> <b>mazorca</b> déjame pensarlo, déjame pensarlo como dice el programa; <b>mazorca</b> es <def typ = "1"> <b>mazorca</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  como cuando a uno lo invitan a una fiesta y uno dice ¡<b>mazorca</b> vamos pa allá! ¡más! </rdefiniens> </def>. </u>  
+<u valor="I7" > Mi nombre es Reinaldo García, eh bueno la palabra <b>mazorca</b> en realidad pues no la había escuchado, pero la asociaría como con algo así por suceder, ¡<b>mazorca</b>! algo así, no sé, no sabría, no sé de verdad.   </u>  
+<u valor="I1" > .Y la palabra .<b>filimisco</b> no, tampoco, ni idea aquí qué significa esa palabra </u>  
+<u valor="I2" > La palabra <def typ = "1">  <b>filimisco</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando comes poco eh no te gusta de a mucho las cosas</rdefiniens> </def> </u>  
+<u valor="I3" > .Ah y .<b>filimisco</b>  pues es una persona que come poco .o de poco apetito para comer  </u>  
+<u valor="I4" > La otra es <def typ = "1"> <b>filimisco</b>  bueno .<b>filimisco</b>  <mkr>lo asocio</mkr> <rdefiniens> con el poco apetito </rdefiniens> </def>.. </u>  
+<u valor="I5" > La palabra <def typ = "1"> <b>filimisco</b><defop valor=  "coma">, </defop> <rdefiniens>cuando cuando un niño un hijo se hace el rogar para comer podríamos llamarlo <b>filimisco</b> </rdefiniens></def>   </u>  
+<u valor="I6" >¿<b>Filimisco</b> ?..Papá no te doy nota, no sé qué es <b>filimisco</b>  habría que buscarlo en el diccionario </u>  
+<u valor="I7" > La palabra <b>filimisco</b> , en realidad déjame pensarlo .porque <b>filimisco</b>  no, no me llega nada .de eso </u>  
+<u valor="II1" > .La palabra <def typ = "1"> <b>cocijo</b>, ah sí tengo una idea, eso <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>como más o menos cuando uno está encompinchao .con otra persona y entonce se la pasa haciendo <b>cocijo</b> con esa persona </rdefiniens> </def> </u>  
+<u valor="I2" > ¿<b>Cocijo</b>?...<def typ = "1"> <b>cocijo</b>.<defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens> cuando hay un grupito de personas y hablan de otras personas, puede citarse muchos sitios donde se da el <b>cocijo</b> aquí en Pueblo Llano </rdefiniens> </def> </u>  
+<u valor="I3" > Y la otra es <b>cocijo</b>, <def typ = "1"><b>cocijo</b>  <mkr> la relaciono</mkr> <rdefiniens> con el juntarse consecutivamente con una misma persona o  gustar estar con varias personas como lo decimos aquí <incomm>sí es juntera </incomm>, nos gustan las <b>juntas</b> </rdefiniens> </def></u>  
+<u valor="I4" > La palabra <def typ = "1"> <b>cocijo</b> <defmetalvb lemma="significar" pos="VMIP3S0"> significa  </defmetalvb> <rdefiniens>  como cuando les decían los padres de uno anteriormente, <invcomm>usted sí es <b>juntero</b>, o sí es <b>cocijero</b> </invcomm> o que se le pasa con un grupo de amigos le decían  <b>cocijero</b>  o <b>juntero</b> </rdefiniens> </def> </u>  
+<u valor="I5" > La palabra  <def typ = "1"> <b>cocijo</b><defop valor=  "coma">, </defop> <rdefiniens> cuando uno todo el tiempo está con la misma persona .o está metido en determinado lugar todo el tiempo </rdefiniens> </def></u>  
+<u valor="I7" > .Bueno la palabra  <def typ = "1"> <b>cocijo</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  <examkr valor="como">como </examkr> cuando uno anda siempre juntándose con alguien, tiene un <b>cocijo</b> dice uno pue, o la novia <invcomm>¡me deja el cocijito que tiene con aquel y tal porque no me gusta!</invcomm>  </rdefiniens> </def></u>  
+<u valor="I6" > La palabra <b>cocijo</b> es bueno la palabra <def typ = "1"> <b>cocijo</b> <defcopvb lemma="ser" pos="VAIP3S0"> es </defcopvb> <rdefiniens>  cuando uno se <b>ajunta </b> con varias personas y bueno y hace una serie de cosas, como dicen aquí en Pueblo Llano <b>cocijeros</b>, <invcomm> son unos <b>cocijeros, muérganos y parranderos </b> </invcomm>como dicen por ahí </rdefiniens> </def> Bueno y amigos y amigas les hago la invitación para el martes de siete a ocho para que esté en el Al Son de Nuestros Campos para todos ustedes en Pueblo Llano TV Canal 3, no se lo pierdan ... </u>  
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	 Comentario
+
+VZPTE011PL12 yurmari-	2015-08-27	Marcado+ Etiquetado	 transcripción completa.
+
+</versiones>
+
+</doc>

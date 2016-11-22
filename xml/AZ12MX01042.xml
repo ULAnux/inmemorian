@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<cesHeader type="oral" date="2012">
+<fileDesc>
+<fileGrp ID="Miscelánea">
+<file ID="AZ12MX01042" MIMETYPE="audio/wav" SIZE="6241324" CREATED="2013-09-05" GROUPID="">
+<FLocat LOCTYPE="URL"></FLocat>
+</file>
+</fileGrp>
+<extent><extNote id="Duracion"> 00:03:15 </extNote></extent> <sourceDesc>
+<monogr>
+<pubPlace> Mixteque municipio Rangel </pubPlace>
+</monogr>
+</sourceDesc></fileDesc>
+<group count="03">
+<name type="Entrevistador" id="E1"> entrevistador no identificado</name>
+<name type="Entrevistador" id="E2"> entrevistador no identificado</name>
+<name type="Informante" id="I1"> María Oliva Parra </name>
+</group>
+</cesHeader>
+
+
+<comentario valor="ruidos de fondo"> [Durante la duraci[on del audio se perciben ruidos de vehículos que pasan]</comentario>
+
+<u valor="E2" > ¿Que se llamaban cómo?</u>
+<u valor="I1" > <b>Cucuruchos</b><overlap valor="E2" > <b>Cucuruchos</b> </overlap> Porque eran de <b>pura</b> paja <overlap valor="E1" > Ajá</overlap><overlap valor="E2" > y piedra, las paredes de piedra y los techos de </overlap> Por ahí había unos cimientos de, si no los han <b>elimináo</b> <overlap valor="E2" > Esa paja <paraverb valor="alarg">era</paraverb></overlap> <b>Rastrojo</b> del trigo <overlap valor="E2" > Ajá, esperaban que se secara y...</overlap>  Sí<overlap valor="E1" > Cuánto tiempo duraban esos techos?  </overlap> Ay no, esos techos eran permanentes.  Después ya, cuando ya vinieron <paraverb valor="alarg">la </paraverb> teja y <b>toeso</b> <b>antonce</b> ya <b>farataban </b> y, y hacían su, casa propia.</u> 
+
+<u valor="E2" > El señor Teófilo me estuvo comentando de que había como un tipo de enredadera, una broma que hacía que el agua se deslizara más rápido y, ¿recuerda qué era eso? ¿qué le ponían? además de la broma del trigo <b>pal</b> techo ¿qué le ponían? <overlap valor="" ><b>Carruso</b> </overlap> <def typ="1"><b>Carruso</b>  Ajá, y eso era ¿cómo? <overlap valor="I1" > Eso <defmetalvb lemma ="ser" pos ="VAII3S0">era </defmetalvb>un <b>Carruso</b> que traían de <b>poallá</b> de los páramos, <rdefiniens>una caña</rdefiniens> </overlap> </def>, y eso lo iban <b>tramando</b> ahí mire, como <b>machimbrao</b> te conoce el <b>machimbrao</b> Mjum, Sí. <overlap valor="I1" > Ah, bueno, lo iban <b>tramando</b> así mire, <b>tramando, tramando, tramando</b>, y eso no dejaba pasar <b>lágua</b> Ese era el primer techo que se hacía <b>pa</b> poner la teja </overlap> Y ¿después se le ponía la teja?<overlap valor="I1" > Después encima le ponían la teja. Le echaban barro y, y eso va, y ponían las tejas</overlap> y las tejas ¿dónde las hacían? aquí <paraverb valor="alarg">había</paraverb> <overlap valor="I1" > Había un tejar aquí y esa la hacían, <b>toeso</b> se acabó,  <b>toeso</b> se acabó. Por lo menos ahorita hay que comprar la teja, </overlap>  Y ¿no sabe por qué se terminó? <overlap valor="I1" >
+Porque ya la gente que hacía eso se <b>jueron </b> acabando. Ya todo va moderno como dice el cuento, todo nuevo, </overlap> Y además los <b>niñitos</b> no van aprendiendo<overlap valor="I1" > No, esos ya no les gusta trabajar con eso, lo que es barro lo que esas cosas </overlap> </u> 
+
+<u valor="E1" > Y entonces eso, eso como eh, lo del <b>modernicismo</b> no es muy bueno verdad<overlap valor="I1" > Pues claro</overlap> Hay unas cosas que no son muy buenas<overlap valor="I1" > Claro, hay cosas que, el trabajo muy fuerte y entonce la gente no<prosodia valor="pause">...</prosodia>  Ya es como, como dice el cuento, mundo ¿no? Ya no era como el que no vivía y eso, <b>orita</b> todo es nuevo, todo moderno,buscando que sean profesionales <b>pa</b> cualquier cosa, sí </overlap> <overlap valor="E2" > Mjum, <b>pa</b> poder trabajar y poder tener cómo vivir </overlap> <overlap valor="I1" > Pues claro, muchas veces hay  muchachos dejan lo, de hacer las cosas <inintel>...</inintel> trabajar y no ganan, <prosodia valor="pause">...</prosodia> se mata la gente trabajando y no, y nada tiene. Hay que ir buscando como ganar la<prosodia valor="interrupt">...</prosodia>, tener siquiera, los cinco bolívares en la mano <prosodia valor="up">¿verdad? </prosodia> </overlap></u>
+
+<versiones>
+
+Nombre Archivo	Usuario	Fecha	Acción	
+Comentario
+
+AZ12MX01042	yurmari	2013-09-05	Marcado+ Etiquetado	
+finalizado. Falta revisión con editor XML.
+
+</versiones>
+
+</doc>
+
+
+
+
+
+
+
+
